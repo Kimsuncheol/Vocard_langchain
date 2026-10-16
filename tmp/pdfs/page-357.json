@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022824587817729447,
+        "width" : 0.13529834964058615,
+        "x" : 0.050955476966137496,
+        "y" : 0.073616775681611957
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "중 하나이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025555878904083729,
+        "width" : 0.80971397053111671,
+        "x" : 0.071899330137784823,
+        "y" : 0.098743253345002002
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "형태가 없는 것(불가산 명사)에서 일부 형태(a piece)를 부여하여 꺼내는 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021926136067618063,
+        "width" : 0.055813951925797883,
+        "x" : 0.051162791478961522,
+        "y" : 0.12936046517074362
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027958222586387249,
+        "width" : 0.81446448239413161,
+        "x" : 0.069515625280861915,
+        "y" : 0.15198194886457406
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "a piece에는 a가 붙어 있다는 점에 주목하자. a는 '형태가 1개 있다'라는 것을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024989956548601144,
+        "width" : 0.83288643576882093,
+        "x" : 0.051010359815881673,
+        "y" : 0.18120970063695563
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "의미한다. 그 밖에 a bag of potatoes(한 봉지의 감자)나, a bottle of tea(한 병"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.24186045473272152,
+        "x" : 0.051162795848653554,
+        "y" : 0.21073646869906515
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "의 차)도 마찬가지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02454997251387081,
+        "width" : 0.81207119334827771,
+        "x" : 0.071871322549023731,
+        "y" : 0.23408811878021585
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "무한하게 많은 감자나 차 전체에서 감자 한 봉지, 차 한 병을 꺼내어 실체화하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020612896916711865,
+        "width" : 0.13266149434176358,
+        "x" : 0.051111113201941082,
+        "y" : 0.26585634178994311
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.18372093547474255,
+        "x" : 0.14186046237890776,
+        "y" : 0.32120674394763427
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.97555012224938875,
+      "text" : "재료 • 요소 • 구성"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941337,
+        "width" : 0.73272332278164953,
+        "x" : 0.069602270634386135,
+        "y" : 0.3544809224251757
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "\"'꺼내어 실체화하는' 느낌은 재료나 구성을 나타내는 표현에도 이어진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021902922094661603,
+        "width" : 0.81162790818647912,
+        "x" : 0.072093022864124792,
+        "y" : 0.38226744208450336
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "This table is made of wood.(이 식탁은 나무로 만들어져 있다.)의 경우, 목재"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020417191438581783,
+        "width" : 0.47441859678788623,
+        "x" : 0.053488375929653061,
+        "y" : 0.41126885518491751
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "에서 식탁 형태를 실체화하여 꺼내는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023633483879949013,
+        "width" : 0.81413485787131568,
+        "x" : 0.069696892448996586,
+        "y" : 0.43609890472697788
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.36641221374045801,
+      "text" : "'A는 B로 구성되어 있다'를 의미하는 A consist of B 또는 A is composed"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026335639242800246,
+        "width" : 0.83775433627041906,
+        "x" : 0.053258416446505391,
+        "y" : 0.46211596683907263
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.1270718232044199,
+      "text" : "of B에 of가 사용되는 이유도 '재료 • 구성원으로부터 합성물이나 조직이 나오다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020454592903631386,
+        "width" : 0.23023256388577545,
+        "x" : 0.053488369136113614,
+        "y" : 0.49418604637859032
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "라는 이미지 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018863890376256021,
+        "width" : 0.56065485694191675,
+        "x" : 0.058059333678634702,
+        "y" : 0.54222018348577283
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.24383561643835616,
+      "text" : "매e The board of directors consists of 6 members."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019086223422899229,
+        "width" : 0.33255813338539814,
+        "x" : 0.10000000297127415,
+        "y" : 0.56831395385427064
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이사회는 6명의 멤버로 구성되어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016761532692964209,
+        "width" : 0.54438365589488635,
+        "x" : 0.10687492729392935,
+        "y" : 0.59007339048241314
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.26782273603082851,
+      "text" : "> con(함께) + sist(서다)= '기둥이 함께 서고, 하나의 건물을 구성하는 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018194833263001198,
+        "width" : 0.52591202475807886,
+        "x" : 0.12543083409378042,
+        "y" : 0.60890422046276449
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.23669724770642203,
+      "text" : "미지'이다. of는 6명의 멤버에서 이사회라는 조직이 나오는 이미지를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.06046511368318036,
+        "x" : 0.12558139651993203,
+        "y" : 0.63220940578316454
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.38461538461538464,
+      "text" : "타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020835514288617185,
+        "width" : 0.73739710721102636,
+        "x" : 0.055701632462225786,
+        "y" : 0.67931360617808034
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.23789249600851517,
+      "text" : "예문 The comparison group was composed of student volunteers."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017738887241908419,
+        "width" : 0.53269711407748144,
+        "x" : 0.10223959404549503,
+        "y" : 0.70470420281879786
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "(실험을 위한) 대조군은 학생 자원봉사자들로 구성되어 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019394899112731845,
+        "width" : 0.78395904194224975,
+        "x" : 0.10453529860716149,
+        "y" : 0.72535567743023244
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.37632978723404253,
+      "text" : "- com(함께) + pose(놓다)= 재료를 함께 놓다 * 조립하다 > 구성하다'이다. consist와 달리 A"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019612836964699509,
+        "width" : 0.76311466910622328,
+        "x" : 0.12541812107910622,
+        "y" : 0.74372727146650419
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.33447880870561281,
+      "text" : "compose B에서는 A가 구성 요소, B가 집합체이다. 수동태로 나타내면, B is composed of A처럼 of"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016382589737926834,
+        "width" : 0.10015984015031296,
+        "x" : 0.12550147515761101,
+        "y" : 0.76579126324961533
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.4946236559139785,
+      "text" : "가 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026329160688615239,
+        "width" : 0.14883720874786377,
+        "x" : 0.048837209145447952,
+        "y" : 0.81233362946922805
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.94680851063829785,
+      "text" : "•원인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024117428323496948,
+        "width" : 0.81187005476518115,
+        "x" : 0.078938268149512644,
+        "y" : 0.84838713715450864
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.13781697905181919,
+      "text" : "죽은 원인을 나타내는 표현에 A die of B(A가 B로 죽다)가 있다. 이 표현 또한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020495862376933127,
+        "width" : 0.55116280642422766,
+        "x" : 0.055813945710553578,
+        "y" : 0.87790697661385242
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "B로부터 A의 죽음이 나온다는 의미로 of가 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016014904709336086,
+        "width" : 0.43743376298384234,
+        "x" : 0.47895705063818977,
+        "y" : 0.92290280794307122
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.84337349397590367,
+      "text" : "11장 전치사:전치사를 파악하면 숙어를 공략할 수 있다 369"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 357,
+  "pdf_page_number" : 358
+}

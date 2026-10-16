@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680818,
+        "width" : 0.4965358003656915,
+        "x" : 0.060046187477381281,
+        "y" : 0.073975044894318609
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.20063694267515925,
+      "text" : "대문 It's time you went to bed. 이제 잘 시간이야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941235,
+        "width" : 0.42494225468195923,
+        "x" : 0.10854503883137966,
+        "y" : 0.1002673792795562
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.57107843137254899,
+      "text" : "* 실제로는 자고 있지 않으므로 이제 자야한다는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020517245545956797,
+        "width" : 0.605080852102726,
+        "x" : 0.060046178922802236,
+        "y" : 0.14081996408809505
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.18048780487804877,
+      "text" : "dE It'S about time | was leaving. 저는 이제가 보겠습니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042780748663166,
+        "width" : 0.77829096368018602,
+        "x" : 0.10854504922581561,
+        "y" : 0.16711229932441252
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.59651669085631354,
+      "text" : ">(실제로 그렇게 되고 있지 않지만) 원래라면, 지금 떠나고 있는 중일 것이다. 그렇기 때문에 이제 정말로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014752518046985963,
+        "width" : 0.20092379522661791,
+        "x" : 0.12933025007437104,
+        "y" : 0.18582887741148058
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.4157303370786517,
+      "text" : "떠나겠다고 말하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020561289659795867,
+        "width" : 0.60969974166112584,
+        "x" : 0.12702079872293973,
+        "y" : 0.23255813987924978
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.98750000000000004,
+      "text" : "- 'had better +동사원형'은 '조언'보다는 '경고'를 나타낸다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025617281595865848,
+        "width" : 0.8085994639295212,
+        "x" : 0.078390820347697621,
+        "y" : 0.26643459542187364
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "'had better +동사원형'은 '~하는 것이 좋다'로 해석되어 '친절한 조언'으로 착각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021999233334247248,
+        "width" : 0.82678984513519516,
+        "x" : 0.060046185858933648,
+        "y" : 0.29796511609798937
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "할 수 있지만, 실제로는 '경고'에 가까운 표현이다. 특히 주어에 you를 써서, 상대방"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025853050796318389,
+        "width" : 0.73711950423869688,
+        "x" : 0.059866785730149086,
+        "y" : 0.32159624804384657
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "에게 이 표현을 사용하면 '~하지 않으면 큰일이 날 것이다'라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018939393939394034,
+        "width" : 0.44572749577515514,
+        "x" : 0.10392609032973843,
+        "y" : 0.37500000035066972
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "You'd better not. 넌 그러지 않는 게 좋겠어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014729200624952088,
+        "width" : 0.31177829174285238,
+        "x" : 0.10392609598192255,
+        "y" : 0.39970930217064271
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.40963855421686746,
+      "text" : "(그렇게 하면 어떻게 되는지 알고 있겠지?)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023359449152003053,
+        "width" : 0.8083141137522164,
+        "x" : 0.080831395660870817,
+        "y" : 0.44767441858142365
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "주어를 you로 한다면, 적어도 I think를 앞에 붙여서 좀 더 부드럽게 표현하도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018916075667382959,
+        "width" : 0.090069282477629103,
+        "x" : 0.057736721224867199,
+        "y" : 0.47529069799974666
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "록 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.47575055927249549,
+        "x" : 0.10161663711317488,
+        "y" : 0.52317290583621245
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "I think you had better avoid meeting him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025735258418608575,
+        "width" : 0.41908430816433956,
+        "x" : 0.10574141343097247,
+        "y" : 0.54403092353618088
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "당신이 그를 만나는 건 피하는 게 좋을 것 같아요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01612309848561011,
+        "width" : 0.48960740109707451,
+        "x" : 0.10392609148435313,
+        "y" : 0.57122093026822995
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.36821705426356588,
+      "text" : "(만나면 큰일이 날 것 같아요.) avoid-ing: ~하는 것을 피하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021887825134603744,
+        "width" : 0.81062358017508862,
+        "x" : 0.078521928001030625,
+        "y" : 0.61764705875995374
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "주어가 I, we와 같은 1인칭이면, '~하지 않으면 큰일이다!라는 느낌의 상황을 표"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022959128633115,
+        "width" : 0.14132121201102615,
+        "x" : 0.059824382321012261,
+        "y" : 0.64331694686435781
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "현할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025245322263176995,
+        "width" : 0.64001192133477391,
+        "x" : 0.059903188938179204,
+        "y" : 0.69139489729343417
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.19461697722567287,
+      "text" : "에E We had better take a taxi. 우리는 택시를 타는 게 좋겠어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133071,
+        "width" : 0.28406467302471189,
+        "x" : 0.1016166241091201,
+        "y" : 0.7194767440608979
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.48341232227488151,
+      "text" : "(그렇지 않으면 지각해서 큰일이에요.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022809212220543884,
+        "width" : 0.80848380014406018,
+        "x" : 0.078443033354848882,
+        "y" : 0.76433544949695431
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이 표현을 가정법으로 소개하는 이유는 여기에서 사용되는 had가 일종의 가정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026292335115864485,
+        "width" : 0.82909931155806726,
+        "x" : 0.057736713216347456,
+        "y" : 0.78921568639252404
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "법 과거로, '이러한 상황을 have하는 것이 belter이지만, 지금 실제로는 이러한 상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026426813394203164,
+        "width" : 0.83178529130651602,
+        "x" : 0.057553527505721527,
+        "y" : 0.81702836173613302
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "황을 have하고 있지 않다'라고 경고하는 느낌을 주는 표현이기 때문이다. 하지만"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021929279368191557,
+        "width" : 0.83371824440381193,
+        "x" : 0.055427251812576461,
+        "y" : 0.8488372091212818
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "had better 뒤에 동사원형이 오는 것으로 보아, 일종의 조동사와 같은 표현으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027196261972029623,
+        "width" : 0.29474976451684398,
+        "x" : 0.057081799353315414,
+        "y" : 0.8713581295017353
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "정착했다는 것을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014731791355180657,
+        "width" : 0.34411086495040999,
+        "x" : 0.56812932491340951,
+        "y" : 0.93003565061858129
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.94146341463414629,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지 않다 211"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    641
+  ],
+  "pdf_page_index" : 203,
+  "pdf_page_number" : 204
+}

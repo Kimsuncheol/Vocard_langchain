@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.50812066260804523,
+        "x" : 0.15313224398600067,
+        "y" : 0.075421472912927445
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.97151702786377714,
+      "text" : "목표 설정에 있어서 무엇에 초점을 두어야 하는가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020413322584123428,
+        "width" : 0.80974476049977828,
+        "x" : 0.083526695272152576,
+        "y" : 0.11046511601564568
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "사실 영어 교육이 한창이었던 90년대 중반에는 영어 원어민 강사가 특별한 목적"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.82830628740026591,
+        "x" : 0.06496518040659563,
+        "y" : 0.13662790699487148
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "없이 학생들과 '일상 회화'만 영어로 하여 학습 효과가 전혀 오르지 않았던 상황이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020728366821343269,
+        "width" : 0.18340168405086435,
+        "x" : 0.062591501241135078,
+        "y" : 0.16550790917469571
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "계속된 적이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.80974476049977839,
+        "x" : 0.083526691560528082,
+        "y" : 0.19331395385953865
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 문제점을 인지한 어느 대학 교수가 대학과 기업을 돌며 현장에서 필요한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020418481056734605,
+        "width" : 0.42459396470523053,
+        "x" : 0.06264501288902681,
+        "y" : 0.22093023243428334
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "영어 아웃풋 능력이 무엇인지를 조사했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02394036984380199,
+        "width" : 0.26989337028341087,
+        "x" : 0.083219223680345109,
+        "y" : 0.24511616613704412
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "조사 결과는 다음과 같다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023596877002462158,
+        "width" : 0.79135577695589543,
+        "x" : 0.081116317103263516,
+        "y" : 0.30073660413976011
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "• 대학원에서 필요로 하는 것은 프레젠테이션 능력과 글쓰기(논문, 리포트)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020546160869716945,
+        "width" : 0.10672854159740693,
+        "x" : 0.085846865964027061,
+        "y" : 0.32994186032026618
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "능력이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020436536557079887,
+        "width" : 0.68213457689217649,
+        "x" : 0.083526678961821255,
+        "y" : 0.35755813941299786
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "•기업에서 필요로 하는 것은 프레젠테이션 능력과 협상 능력이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020539712778952834,
+        "width" : 0.53828306806848403,
+        "x" : 0.083526679287885028,
+        "y" : 0.41259982221765235
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 TOEFL의 영어 Essay Writing이나 IELTS"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052681575121873,
+        "width" : 0.55684455168162683,
+        "x" : 0.062645009426007967,
+        "y" : 0.4387755099439038
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "의 영어 writing처럼 영어 능력 시험의 글쓰기에 대해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.55684455168162672,
+        "x" : 0.062645010276742699,
+        "y" : 0.46362023031038557
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "이야기해 보겠다. 문제의 형식은 '자신의 의견에 대해 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02619245270235715,
+        "width" : 0.29002319768810947,
+        "x" : 0.06264501451634738,
+        "y" : 0.48979591872002093
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "유를 붙여서 논하는'것이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020467489085159385,
+        "width" : 0.53596286638408686,
+        "x" : 0.083526687738931044,
+        "y" : 0.52034883706579094
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "이 모든 것에 공통적으로 존재하는 단 하나의 공통"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.67285381344193251,
+        "x" : 0.062645023093418808,
+        "y" : 0.54505813942736892
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.35844748858447489,
+      "text" : "미션이 있다. 바로 '영어를 사용해서 다른 사람을 설득하는' 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010364004014970618,
+        "width" : 0.039443155383387274,
+        "x" : 0.7215777262691947,
+        "y" : 0.42441860451945068
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "OK"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022681589135048918,
+        "width" : 0.57803764613807618,
+        "x" : 0.062492122414108245,
+        "y" : 0.60176356297603273
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.97345132743362828,
+      "text" : "• 할 일을 한정하다 보면 학습 계획이 명확해진다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020502311313903343,
+        "width" : 0.77726219664228713,
+        "x" : 0.08584685979845133,
+        "y" : 0.64098837197186487
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "한정된 시간 내에 영어를 쓰고 말할 수 있으려면, 해야 할 일을 한정해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.60092808067375891,
+        "x" : 0.083526675730406091,
+        "y" : 0.66548358466251989
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.034416826003824091,
+      "text" : "예를 들어, '기념품 가게에서 쇼핑하기 위해 사용하는 그-"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306034,
+        "width" : 0.55916475336602389,
+        "x" : 0.06264500139123394,
+        "y" : 0.69476486250175473
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "영어'는 천천히 해도 1~2주 안에 마스터할 수 있다. 양"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.559164753366024,
+        "x" : 0.062645001422169819,
+        "y" : 0.7209302327797551
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이 적기 때문만은 아니다. 공부할 내용을 한정하면, 해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026139559741557572,
+        "width" : 0.55728257632424638,
+        "x" : 0.062405509526395751,
+        "y" : 0.74399494911706043
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "야 할 일이 정해지고 명확한 학습 계획을 세울 수 있기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.10208817069412122,
+        "x" : 0.062645009658095344,
+        "y" : 0.77595386006969869
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029308864048549044,
+        "width" : 0.8078971700465426,
+        "x" : 0.083287716448063806,
+        "y" : 0.79840433854773474
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "영어를 쓰고 말하는 것에 있어서, 우리는 '영어를 사용해서 사람을 설득하는 것'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021877128039193394,
+        "width" : 0.82830628740026591,
+        "x" : 0.06264499986984047,
+        "y" : 0.82994186068797271
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "으로 범위를 한정하여 훈련해야 한다. 그리고 그것을 실현하기 위해서는 효율적인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024609962605541602,
+        "width" : 0.82854644558953905,
+        "x" : 0.062521198143979495,
+        "y" : 0.85666633435595474
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "프로그램이 필요하다. 그렇다면 그 프로그램에는 어떤 것이 있는지, 다음 학습에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022103792815051926,
+        "width" : 0.2019390349692487,
+        "x" : 0.062603568241719407,
+        "y" : 0.88502368497402706
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "설명하도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.48955917899490248,
+        "x" : 0.42691414588999671,
+        "y" : 0.92724046131998139
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.94262295081967218,
+      "text" : "13장 설득을 위한 영어: '형식'을 만들어 영어로 사고하는 훈련 405"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 391,
+  "pdf_page_number" : 392
+}

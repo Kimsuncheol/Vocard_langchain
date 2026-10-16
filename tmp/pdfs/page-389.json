@@ -1,0 +1,70 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.094582895806782252,
+        "width" : 0.29693993101728722,
+        "x" : 0.14560955505028594,
+        "y" : 0.39921119644734415
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.36318982952903783,
+      "text" : "제 13장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.13749665817678969,
+        "width" : 0.51157676750886527,
+        "x" : 0.16853773717555617,
+        "y" : 0.41335741090776801
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.020446980504041846,
+      "text" : "설득을 위한 영어:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.14416625328974642,
+        "width" : 0.62054707412178634,
+        "x" : 0.18496708006099483,
+        "y" : 0.44782387281002811
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.2123602892833662,
+      "text" : "'형식'을 만들어 영어로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.11873921496376971,
+        "width" : 0.41459753158244678,
+        "x" : 0.20936789629987523,
+        "y" : 0.52813039277093143
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.64404463675700296,
+      "text" : "사고하는 훈련"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    646
+  ],
+  "pdf_page_index" : 389,
+  "pdf_page_number" : 390
+}

@@ -1,0 +1,70 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.094856885014748094,
+        "width" : 0.28346512165475402,
+        "x" : 0.15144966404329513,
+        "y" : 0.39878130813158852
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.39463746223564955,
+      "text" : "제 11장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.076068570154794179,
+        "width" : 0.2197849354845412,
+        "x" : 0.17717850007759967,
+        "y" : 0.46578989324326581
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "전치사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.17311245800651276,
+        "width" : 0.73127017190270394,
+        "x" : 0.18953997553757845,
+        "y" : 0.42455907000582449
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.47384494909945185,
+      "text" : "전치사를 파악하면 숙어를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.12222873582814586,
+        "width" : 0.43732035751883869,
+        "x" : 0.21122179566420177,
+        "y" : 0.5240242509272004
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.67299015586546351,
+      "text" : "공략할 수 있다"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 327,
+  "pdf_page_number" : 328
+}

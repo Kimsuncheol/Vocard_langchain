@@ -1,0 +1,550 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010360630805806403,
+        "width" : 0.032407406204981171,
+        "x" : 0.071759259734209754,
+        "y" : 0.079941860379405427
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021585611261931148,
+        "width" : 0.37992523409796092,
+        "x" : 0.11557774941991449,
+        "y" : 0.075195867803002248
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.007619047619047619,
+      "text" : "He is becoming popular in Japan."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016138376290263712,
+        "width" : 0.27546295815325794,
+        "x" : 0.11805555786559915,
+        "y" : 0.10174418609720237
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "그는 일본에서 인기를 얻고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016133203201022517,
+        "width" : 0.57407408369348401,
+        "x" : 0.12037036553940693,
+        "y" : 0.12354651167894481
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.4541120381406436,
+      "text" : "- become popular는 '인기를 끌다, '인기 있어지다'라는 뜻이다.(인기가 생기기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014746958674909383,
+        "width" : 0.28009258297318262,
+        "x" : 0.14120370839568952,
+        "y" : 0.14368327405460435
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.50652741514360311,
+      "text" : "여기에서는 '인기를 얻고 있는 중이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012010676156583688,
+        "width" : 0.0763888906925283,
+        "x" : 0.79166666565296417,
+        "y" : 0.13790035606955531
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "인기 상승 끝"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209299365820225,
+        "width" : 0.10648147907662897,
+        "x" : 0.67824074182742622,
+        "y" : 0.18750000013850876
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.9642857142857143,
+      "text" : "인기를 얻고 있는 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088967971530248269,
+        "width" : 0.0509259271283522,
+        "x" : 0.80324074002378676,
+        "y" : 0.18594306057507703
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "인기 있음"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025047984411707969,
+        "width" : 0.81053449481937057,
+        "x" : 0.090087104302751575,
+        "y" : 0.20835301180093047
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "die(죽다)라는 동사는 '살아 있는 상태(alive)에서 죽은 상태(dead)로 변화하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024587507349740578,
+        "width" : 0.72248976687167543,
+        "x" : 0.071639683278354307,
+        "y" : 0.23827607720445809
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "는 것'을 의미한다. 이를 바탕으로 보았을 때, 다음 문장은 무슨 뜻일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02342551289079875,
+        "width" : 0.25091909854970079,
+        "x" : 0.071324701494329124,
+        "y" : 0.28692127836252124
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.25954198473282442,
+      "text" : "에s Oh, no.l'm dying."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025884328787861399,
+        "width" : 0.44277248517841317,
+        "x" : 0.092289873067691874,
+        "y" : 0.33833468891299967
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 총에 맞은 사람이 쓰러지면서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014649347054152217,
+        "width" : 0.072642701061059411,
+        "x" : 0.56423881221905003,
+        "y" : 0.33409653365670944
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "isalive"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011721012855339774,
+        "width" : 0.03472222132040248,
+        "x" : 0.71527777797791603,
+        "y" : 0.3459302326585576
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "1'm"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016014234875444844,
+        "width" : 0.071759255050767412,
+        "x" : 0.70833333598734771,
+        "y" : 0.35898576486550526
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "dying!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469782,
+        "width" : 0.46527779220689269,
+        "x" : 0.067129622264533548,
+        "y" : 0.36610320317433964
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "\"아, 이젠 안 되겠어. 이제 죽겠다.\"라는 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013107258229917429,
+        "width" : 0.064814812409962341,
+        "x" : 0.54629629740125663,
+        "y" : 0.37790697671962725
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.66176470588235292,
+      "text" : "살아 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026210312317274775,
+        "width" : 0.44969157766788564,
+        "x" : 0.071476967663279767,
+        "y" : 0.39389589827386007
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "로 사용하기도 하고, 굉장히 힘들어 하는 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023328229625878327,
+        "width" : 0.45138887445977394,
+        "x" : 0.071759266397278448,
+        "y" : 0.42151162828285682
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "람이 비유적으로 \"아, 죽겠네\"\"라고 말하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209299365820225,
+        "width" : 0.0254629635641761,
+        "x" : 0.62268518491351377,
+        "y" : 0.40116279073665084
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.84999999999999998,
+      "text" : "시작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033720932821362015,
+        "width" : 0.074112782579787262,
+        "x" : 0.56618434951260943,
+        "y" : 0.40726744084840028
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.34222222222222221,
+      "text" : "die(변화)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469782,
+        "width" : 0.44907408369348401,
+        "x" : 0.071759255606961628,
+        "y" : 0.44750889714373077
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "싶을 때에도 사용할 수 있다. '삶에서 죽음으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024040596340898945,
+        "width" : 0.4495351372035683,
+        "x" : 0.071546090069911972,
+        "y" : 0.47538270372214875
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "로 가는 변화의 도중'을 나타내는 것이기 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026278952262579813,
+        "width" : 0.72009814106826242,
+        "x" : 0.071647019285981522,
+        "y" : 0.50179102106679441
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "문에, Im dying,을 직역하면 \"나는 죽고 있는 중이다.\"라고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020457053948127468,
+        "width" : 0.078759446380831655,
+        "x" : 0.78928849734991879,
+        "y" : 0.39437489357351829
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "is dead"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020478151022751634,
+        "width" : 0.8078703318927305,
+        "x" : 0.094907426631759675,
+        "y" : 0.55959302317135728
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "다음에 소개하는 내용도 영어 학습자가 진행형을 사용할 때 자주 실수하게 되는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021288664739751328,
+        "width" : 0.10462460348792109,
+        "x" : 0.071530290726017035,
+        "y" : 0.58819287690605759
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "부분이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.65740737373947244,
+        "x" : 0.074074084519152844,
+        "y" : 0.63656583641115183
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.00096993210475266732,
+      "text" : "X A little child drowned in the river. 어린아이가강에 빠졌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.42361112554022601,
+        "x" : 0.09490740011259173,
+        "y" : 0.68895348804948908
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "위의 문장이 이상한 이유를 알 수 있는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023567103830520852,
+        "width" : 0.81035693013076238,
+        "x" : 0.092511490180277017,
+        "y" : 0.71339295224900967
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "drown을 '물에 빠지다'라는 뜻으로 착각하는 학습자들이 많은데, 사실은 '물에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028933083883808219,
+        "width" : 0.82911723251883862,
+        "x" : 0.073862099142882554,
+        "y" : 0.73889528063751375
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "빠져 죽다' '익사하다'라는 뜻의 동작 동사이다. 즉, '물에 빠지기 시작하다 -• 물에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023686542205539007,
+        "width" : 0.83119216810726948,
+        "x" : 0.073983646729925079,
+        "y" : 0.76870603204214938
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "빠지다(빠져 있다)-' 익사하다'라는 동작의 단계를 가진 동사이기 때문에 '물에 빠"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024346879368575047,
+        "width" : 0.83349089926861708,
+        "x" : 0.071699367928781635,
+        "y" : 0.79400454450914548
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "지다'라고 말하고 싶다면 '물에 빠져 익사하고 있는 도중'을 나타내는 drowning"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02209597804792407,
+        "width" : 0.18758642318400931,
+        "x" : 0.074030862363217417,
+        "y" : 0.82543456867622111
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "을 사용해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020467805692733765,
+        "width" : 0.67592591630651588,
+        "x" : 0.1134259306383142,
+        "y" : 0.8763345199634357
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "A little child was drowning in the river. 어린아이가 강에 빠졌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015905806178299953,
+        "width" : 0.47472642398049653,
+        "x" : 0.45592281350045755,
+        "y" : 0.9286967347875329
+      },
+      "confidence" : 0.5,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0.92783505154639179,
+      "text" : "3장 동사 ③ 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 95"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 91,
+  "pdf_page_number" : 92
+}

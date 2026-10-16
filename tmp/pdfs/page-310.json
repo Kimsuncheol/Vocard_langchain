@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813639178835,
+        "width" : 0.53504674319188472,
+        "x" : 0.044392516193332184,
+        "y" : 0.071220930381802772
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "짐한 한 끼의 식사'처럼 구체적인 형태가 되는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02864339269295102,
+        "width" : 0.81610333478009256,
+        "x" : 0.065062245758355258,
+        "y" : 0.096113284757546769
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 big이라는 형용사에 의해 lunch가 구체적으로 meal처럼 변하여 a"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028528558141473481,
+        "width" : 0.83709447268407222,
+        "x" : 0.041765642912925123,
+        "y" : 0.12405186771920496
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "big lunch라는 가산 명사로 바뀐다. 이러한 것이 한정적 용법의 수식이 가지는 구"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022171571256841993,
+        "width" : 0.15480165400056756,
+        "x" : 0.046430948599098423,
+        "y" : 0.15606537713987312
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "체화의 힘이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027657955700153725,
+        "width" : 0.81592614154870013,
+        "x" : 0.065183655733687312,
+        "y" : 0.20652193409426367
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이 현상은 breakfast, lunch, dinner에 그치지 않고, 좀 더 광범위하고 추상적"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020388746810656277,
+        "width" : 0.35747662840405758,
+        "x" : 0.046728975754580016,
+        "y" : 0.23691860475960347
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "인 의미를 가진 명사에도 일어난다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026761479880347272,
+        "width" : 0.81332780017472406,
+        "x" : 0.067644588009530368,
+        "y" : 0.26143741754690875
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, '효과, 영향'을 뜻하는 intfiuence, effect를 사전에서 찾아보면. 이 명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031736534395716332,
+        "width" : 0.83497719615273325,
+        "x" : 0.046330417121899059,
+        "y" : 0.28478606340453116
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "사들은 원칙적으로 불가산 명사이다. 그러나 사전에는 \"구체적인 예시를 나타낼 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031626372763918331,
+        "width" : 0.83720602269186251,
+        "x" : 0.046358812887703292,
+        "y" : 0.31300963460681186
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "는 an ~(단수), ~s(복수)가 붙고 종종 수식어를 수반한다.\"(위즈덤 영일사전)라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02201289894097247,
+        "width" : 0.10758675469292533,
+        "x" : 0.04901036133923755,
+        "y" : 0.34727843367307998
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "쓰여 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017714791851195844,
+        "width" : 0.65420562657195946,
+        "x" : 0.093457934364500519,
+        "y" : 0.39371124925996959
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "The herbal medicine had a beneficial effect on my health."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016386182462356014,
+        "width" : 0.45794390816973829,
+        "x" : 0.095794401213862526,
+        "y" : 0.41984056715372919
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "한약이 내 건강에 이로운 효과가 있었다.(위즈덤 사전)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019964285716216446,
+        "width" : 0.78307253411013178,
+        "x" : 0.10029635413306608,
+        "y" : 0.43909085625657418
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.38148984198645597,
+      "text" : "- beneficial이라는 형용사가 붙음으로써, '한 번의 구체적인 이로운 효과'가 실제로 몸 안에 발휘되었다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014783717342136793,
+        "width" : 0.13795976557283318,
+        "x" : 0.11672199658643118,
+        "y" : 0.4627842252150467
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.42352941176470588,
+      "text" : "는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0271065756744574,
+        "width" : 0.81135415623330664,
+        "x" : 0.069834218146239996,
+        "y" : 0.50628955466308601
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그 밖에도 expectation, improvement, adjustment 등, 여러 추상 명사에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025853826896187648,
+        "width" : 0.83450882523148151,
+        "x" : 0.048885452383965917,
+        "y" : 0.53218619653547394
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "도 동일한 현상이 발생한다. 그 발생 원리는 모두 같고, 형용사가 한정적 용법으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023240063230583807,
+        "width" : 0.8343758868356036,
+        "x" : 0.051267293807986329,
+        "y" : 0.56001066781275732
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "명사를 수식함으로써, 추상적이고 셀 수 없는 개념의 명사가 한 번•하나의 구체적"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021891156374827414,
+        "width" : 0.45327102356826487,
+        "x" : 0.051401874197176012,
+        "y" : 0.58857395917882538
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이고 셀 수 있는 현상으로 파악되는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023530219274880637,
+        "width" : 0.81341317983774031,
+        "x" : 0.072265082514208115,
+        "y" : 0.64154561425063605
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서는 형용사의 한정적 용법에 대해 이야기해 보았다. 다음 학습에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025821505868403261,
+        "width" : 0.83683294312566781,
+        "x" : 0.05119875236613973,
+        "y" : 0.6670612259810631
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "는 또 하나의 용법인 서술적 용법에 대해 설명할 것이다. 한정적 용법과 서술적 용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026514076996525415,
+        "width" : 0.83463263443732183,
+        "x" : 0.051181796081425014,
+        "y" : 0.69488518044365821
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "법의 차이점을 이해하게 되면, 관계 대명사의 제한적 용법과 계속적 용법의 차이점"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020502038926968447,
+        "width" : 0.32476634924907632,
+        "x" : 0.053738320963468089,
+        "y" : 0.72529069777801436
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "을 직감적으로 알 수 있게 된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016524771022205398,
+        "width" : 0.32056177036035438,
+        "x" : 0.59323672554042306,
+        "y" : 0.92037719829086473
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.92168674698795183,
+      "text" : "10장 형용사와 부사: '수식하다'의 진실 321"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    645
+  ],
+  "pdf_page_index" : 310,
+  "pdf_page_number" : 311
+}

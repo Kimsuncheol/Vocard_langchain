@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021807498354928678,
+        "width" : 0.32558139029391475,
+        "x" : 0.1093023280266391,
+        "y" : 0.081395348984051985
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "구조 제대로 잘 파악할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828188166499451,
+        "width" : 0.59302327300068991,
+        "x" : 0.1302325494328313,
+        "y" : 0.10898576515941905
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "조건을 나타내는 문장을 아래와 같이 썼다고 가정해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.49534885156528224,
+        "x" : 0.1093023149980898,
+        "y" : 0.15836298896144552
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.055851063829787231,
+      "text" : "X Ifit will rain tomorrow,l will not go out."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105572,
+        "width" : 0.018604650796308853,
+        "x" : 0.44186046516662963,
+        "y" : 0.18459302317224124
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.40000000000000002,
+      "text" : "②"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014731441104115173,
+        "width" : 0.52325582911825586,
+        "x" : 0.15813952728861908,
+        "y" : 0.20329181487606862
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.49547920433996384,
+      "text" : "- 말하고 싶은 내용: 만약 내일 비가 오면. 나는 밖에 나가지 않을 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.81162794498976143,
+        "x" : 0.13023253898373904,
+        "y" : 0.24854651201503986
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "먼저 ①의 will에 '의지'의 의미를 넣어 해석해 보자. \"만약 내일 비가 올 생각이라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.83255813468215811,
+        "x" : 0.10930232614729309,
+        "y" : 0.2761627908985107
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "면, 난 밖에 나가지 않을 거야.\"라는 뜻이 된다. 날씨에 의지가 없기 때문에 의미가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021402856209099874,
+        "width" : 0.10516498706958911,
+        "x" : 0.10671983192334157,
+        "y" : 0.30470554861337884
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "어색하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028045939381012297,
+        "width" : 0.8143166218727742,
+        "x" : 0.12772693408496794,
+        "y" : 0.32842175279702934
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 '예상'의 의미를 넣어 해석해 보자. \"만약 내일 비가 올 것이라고 예상되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828188166499563,
+        "width" : 0.83255813468215811,
+        "x" : 0.10930232793269191,
+        "y" : 0.35898576515711922
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "는 상황이 된다면, 난 밖에 나가지 않을 거야.\"라는 뜻이 된다. 실제로 하고 싶은 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301062750155,
+        "width" : 0.83255813468215811,
+        "x" : 0.10930232986822327,
+        "y" : 0.38372093061688073
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "은 '만약 내일 진짜 비가 온다는 상황이 성립된다면'이기 때문에, '비가 올 것이다'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020566085055205297,
+        "width" : 0.53255812598769137,
+        "x" : 0.10930233225039873,
+        "y" : 0.41548042664651585
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "고 예상할 뿐인 will을 사용하면 의미가 어색해진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025975742374026445,
+        "width" : 0.81415994758279919,
+        "x" : 0.12780288496141026,
+        "y" : 0.43990509314177639
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "이처럼 '의지', '예상' 중 어느 쪽 의미를 적용해 봐도, 밑줄 친① will은 의미가 어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021973019392889204,
+        "width" : 0.29069766835269767,
+        "x" : 0.10930232869463681,
+        "y" : 0.46930605019074356
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "색해진다는 것을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018900521709401485,
+        "width" : 0.42093021577579687,
+        "x" : 0.14883721752586127,
+        "y" : 0.521797153017038
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "Ifit rains tomorrow, | will not go out."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021848878826534968,
+        "width" : 0.4325581520710915,
+        "x" : 0.13023255175318102,
+        "y" : 0.57117437682340577
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "한편, ②의 I will not go out.는 어떤가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469782,
+        "width" : 0.81627904995214562,
+        "x" : 0.12558140574703769,
+        "y" : 0.59430604980318735
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "\"의지'의 의미로 생각해 보면 \"난 밖에 나갈 생각이 없어'이고, '예상'의 의미로 생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325265687483,
+        "width" : 0.83488373063568388,
+        "x" : 0.10697673944750477,
+        "y" : 0.62500000014803303
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "각해 보면 \"난 밖에 나가지 않을 거야.\"라고 해석될 수 있다. 이는 if절(조건절)에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031108983470876095,
+        "width" : 0.83552546922297899,
+        "x" : 0.10892996396378822,
+        "y" : 0.64646779789043018
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "언급된 조건 하에, 나는 어떻게 할 것인가를 나타내는 '의지'나 '예상'을 말하는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023655238100642406,
+        "width" : 0.61646420731503737,
+        "x" : 0.10686929767071421,
+        "y" : 0.67852489140446648
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 그렇기 때문에 귀결절에 will을 쓰는 것은 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916121350488593,
+        "width" : 0.46511627805878286,
+        "x" : 0.12790697722168518,
+        "y" : 0.72953736685365678
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 조건이 아닌, 시간으로 생각해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957501822094883,
+        "width" : 0.54418601881065254,
+        "x" : 0.10930233567773016,
+        "y" : 0.7789145908875762
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.004180602006688963,
+      "text" : "X After you will come back, come and see me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.33255813468215811,
+        "x" : 0.15813953720893043,
+        "y" : 0.80516014234284594
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.70833333333333337,
+      "text" : "> 말하고 싶은 내용: 돌아오면, 나를 보러 와."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026870847172584478,
+        "width" : 0.81883774455795932,
+        "x" : 0.12780321638079747,
+        "y" : 0.83862552146426494
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "will을 '의지'의 의미로 생각하면, \"넌 돌아올 생각인데, 그 후에 나를 보러 와 줘.\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.74651160606971145,
+        "x" : 0.10697675501758758,
+        "y" : 0.8691860469015551
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "라는 뜻이 되어, '돌아온다는 상황이 성립된 후에'라는 의미와는 달라진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537296,
+        "width" : 0.039534883961039047,
+        "x" : 0.07906976720552697,
+        "y" : 0.93149466202767506
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.9887640449438202,
+      "text" : "236"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    642
+  ],
+  "pdf_page_index" : 227,
+  "pdf_page_number" : 228
+}

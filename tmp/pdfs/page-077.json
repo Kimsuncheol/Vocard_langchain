@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.22170901467614137,
+        "x" : 0.15704387591828031,
+        "y" : 0.08139534918251623
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.97878359264497883,
+      "text" : "상태동사의 현재완료"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.23556581321337544,
+        "x" : 0.087759818446135243,
+        "y" : 0.11898395714989984
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "상태 동사 live의 경우:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.47575055927249554,
+        "x" : 0.22401848469317295,
+        "y" : 0.15106951880567221
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.82578397212543553,
+      "text" : "I have lived in London for ten Years."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016195643181894259,
+        "width" : 0.29330253871620121,
+        "x" : 0.22632794530314498,
+        "y" : 0.17587209305607188
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "나는 런던에 산지 10년이 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219305,
+        "width" : 0.05542724825811729,
+        "x" : 0.48267898561689981,
+        "y" : 0.20632798561881993
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.97142857142857142,
+      "text" : "London"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017796366822485865,
+        "width" : 0.06073764232878992,
+        "x" : 0.21556144475390848,
+        "y" : 0.23617413547755861
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "10년 전"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333522,
+        "width" : 0.11547344018381539,
+        "x" : 0.31639722898430478,
+        "y" : 0.30959302339043937
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.3125,
+      "text" : "변하지 않는 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.38799074862865696,
+        "x" : 0.14780601120843356,
+        "y" : 0.36764705859747104
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.97090203685741994,
+      "text" : "-'~한 적이 있다'라는 의미의 현재완료"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013264759339113197,
+        "width" : 0.080906325536416801,
+        "x" : 0.21474314196607419,
+        "y" : 0.41705948056077347
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "태어났을 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013794360526317773,
+        "width" : 0.1018437811668883,
+        "x" : 0.36709196611148931,
+        "y" : 0.48801561020523843
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.82352941176470584,
+      "text" : "~한 후의 행위"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.36027712991051636,
+        "x" : 0.2563510424009679,
+        "y" : 0.537790698014735
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.81595092024539873,
+      "text" : "I have seen the movie twice."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01864121601968316,
+        "width" : 0.30752206355967415,
+        "x" : 0.25849500696602246,
+        "y" : 0.5599162735402724
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그 영화를 두 번 본 적이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.26558891999806072,
+        "x" : 0.069284061825450008,
+        "y" : 0.62063953453834908
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.99104963384865741,
+      "text" : "를 진행형 =미완료형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020504291044836975,
+        "width" : 0.81062358017508862,
+        "x" : 0.090069272156443433,
+        "y" : 0.66844919766024724
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 복습한 이유는 현재완료 진행형을 이해하기 위해 진행형이 상태동사와"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021944824599539725,
+        "width" : 0.56581983633920652,
+        "x" : 0.069284080824128166,
+        "y" : 0.69607843123658508
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "같은 기능을 한다는 것에 주목할 필요가 있기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302048844695,
+        "width" : 0.81062358017508862,
+        "x" : 0.090069272116938465,
+        "y" : 0.74854651176030695
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "진행형은 '동작을 하고 있는 중'으로, 다른 말로 하면 '아직 동작이 끝나지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021848961631244501,
+        "width" : 0.36489608439993354,
+        "x" : 0.0692840594046642,
+        "y" : 0.77761627887770801
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "았다'라는 '미완료'의 성격을 가진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.43187065395057622,
+        "x" : 0.069284072460254795,
+        "y" : 0.82843137212804641
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.14021830394626364,
+      "text" : "예문 My dad is reading the newspaper."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017452223840669245,
+        "width" : 0.23556581321337544,
+        "x" : 0.11547344431352846,
+        "y" : 0.85465116297937604
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "아빠는 신분을 읽고 계신다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017485905033594373,
+        "width" : 0.32332564550088655,
+        "x" : 0.11778290462397935,
+        "y" : 0.87645348856294891
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.38461538461538464,
+      "text" : "* 읽고 있는 도중으로 아직 다 읽지 않았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333522,
+        "width" : 0.4757505592724956,
+        "x" : 0.44803696043303626,
+        "y" : 0.93313953502876668
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.87878787878787878,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 81"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    641
+  ],
+  "pdf_page_index" : 77,
+  "pdf_page_number" : 78
+}

@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.80974474820223719,
+        "x" : 0.12761022447486747,
+        "y" : 0.072508897107046888
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "매우 강한 감정을 드러내기 좋아하는 사람이 아닌 이상, 누구라도 자신의 의견"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301062750155,
+        "width" : 0.83294660394841991,
+        "x" : 0.10672855429029121,
+        "y" : 0.097383721314555194
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "을 상대방에게 강요하는 것은 쉽지 않다. \"주변 상황으로 볼 때 어쩔 수 없이 해야"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028219759252147814,
+        "width" : 0.83321528001265088,
+        "x" : 0.10660572931713781,
+        "y" : 0.12401010104869781
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "해\"라고 말하는 것이 편할 것이다. 그렇기 때문에 '~해야 한다'라고 말할 때, 일반"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021967847152112641,
+        "width" : 0.54756381294944068,
+        "x" : 0.10672853439642567,
+        "y" : 0.15552325596056904
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "적으로 must보다 have to를 훨씬 더 많이 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.8097447482022373,
+        "x" : 0.12761022452806284,
+        "y" : 0.18313953479835443
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "주어를 1인칭으로 할 때 must에서 느껴졌던 강한 결의와 의지는 have to에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028212633845644874,
+        "width" : 0.83332712000066578,
+        "x" : 0.10653113376781385,
+        "y" : 0.20552845025563904
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "느끼기 어렵다. 그 대신, have to는 \"~하지 않는다면 달리 방법이 없어....\"와 같이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021859223308088094,
+        "width" : 0.2830626531080766,
+        "x" : 0.10672853412895228,
+        "y" : 0.23837209317052599
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "약간 소극적인 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895347771695548,
+        "width" : 0.28306263143366039,
+        "x" : 0.14849188790265935,
+        "y" : 0.28633720964612897
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "Ihave to finish it by five."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017571174377224219,
+        "width" : 0.33874708955938171,
+        "x" : 0.15313225556914825,
+        "y" : 0.31250000028987746
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "난 그것을 5시까지 끝내지 않으면 안 돼."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020784515503038392,
+        "width" : 0.39945853840221057,
+        "x" : 0.15297196551500233,
+        "y" : 0.33430266843145628
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "We have to abolish the old system."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022307690352307619,
+        "width" : 0.42957145517522632,
+        "x" : 0.15528291538860881,
+        "y" : 0.36013168810250673
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "우리는 그 오래된 시스템을 폐지하지 않으면 안 돼."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020094423531637595,
+        "width" : 0.77981272610751062,
+        "x" : 0.15767180201386799,
+        "y" : 0.38258522137834383
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.23999999999999999,
+      "text" : "* 두 문장 모두 '~하지 않으면 방법이 없다'라는 느낌으로, '하고 싶어서 ~하는 것은 아니다'라는 느낌을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013892463093550633,
+        "width" : 0.076909314502369264,
+        "x" : 0.17848269761430924,
+        "y" : 0.40511772191918949
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "주기 쉽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.090487236326391052,
+        "x" : 0.18329466481467349,
+        "y" : 0.45195729551491381
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "- 부정문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020524704583599007,
+        "width" : 0.81438515403053968,
+        "x" : 0.12761020712786583,
+        "y" : 0.48837209293891704
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.002751031636863824,
+      "text" : "이러한 mUst와 have to의 의미 차이는 부정문으로 확연히 드러난다. must not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025364943670632578,
+        "width" : 0.83084869384765625,
+        "x" : 0.10893591021083368,
+        "y" : 0.51249065141045713
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "은 '절대적으로 not이다'라는 의견이나 결의를 나타내므로, '~해서는 안 된다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023278791285070155,
+        "width" : 0.83314219388094823,
+        "x" : 0.1066337684597642,
+        "y" : 0.5411552331660815
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.0062305295950155761,
+      "text" : "금지의 뜻이 된다. 그러나 not have 10는 '의무를 지지 않다'는 것을 나타내기 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027763453242617531,
+        "width" : 0.59888609972867091,
+        "x" : 0.10888366343763253,
+        "y" : 0.56770519768487504
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "문에 '~하지 않아도 된다;,'~할 필요는 없다'\"라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011684805048742364,
+        "width" : 0.027842226353558625,
+        "x" : 0.11136890992195747,
+        "y" : 0.62354651176062481
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 1,
+      "text" : "매문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018989443354759383,
+        "width" : 0.25803639672019263,
+        "x" : 0.14133302969950456,
+        "y" : 0.61918673283572134
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "You must not be late."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020911995626429203,
+        "width" : 0.17719686031341558,
+        "x" : 0.40809473890369524,
+        "y" : 0.61620858075149743
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "넌 지각하면 안 돼."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018900521709401374,
+        "width" : 0.61020881479436706,
+        "x" : 0.10904872475789119,
+        "y" : 0.64679715302051688
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.083516483516483511,
+      "text" : "Ce You don't have to come early. 넌 빨리 올 필요는 없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020104875768206631,
+        "width" : 0.16507600654255258,
+        "x" : 0.10887730984162189,
+        "y" : 0.69997663144374589
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.99593495934959353,
+      "text" : "•_ 과거형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024428616214901555,
+        "width" : 0.8099865479902788,
+        "x" : 0.12982275665034348,
+        "y" : 0.73531854956951537
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "힘의 용법인 must는 과거형이 없다. 이는 must가 원래 옛날 영어에서 쓰던 동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023317884295860569,
+        "width" : 0.83294660394841957,
+        "x" : 0.10904874549292072,
+        "y" : 0.76156583604593875
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "사 motan(의무)의 과거형 moste에서 온 것이기 때문이라고 할 수 있다. '~해야"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022019572953736577,
+        "width" : 0.73085845600474975,
+        "x" : 0.11136891769845768,
+        "y" : 0.79048042682428499
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "했다'라고 과거를 나타낼 때는 have to의 과거형인 had to를 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101484,
+        "width" : 0.060324826023795394,
+        "x" : 0.10904872368018052,
+        "y" : 0.85174418576510535
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 26,
+      "red_ink_fraction" : 1,
+      "text" : "•®"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020889567310699797,
+        "width" : 0.22563938661055133,
+        "x" : 0.17374076461998611,
+        "y" : 0.84721010894251303
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.96951219512195119,
+      "text" : "- must: 판단의 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027862581918248086,
+        "width" : 0.81252678957852453,
+        "x" : 0.12740244235819953,
+        "y" : 0.88184113384092566
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "must를 판단 용법으로 사용하면, 반드시 ~일 것이다, ~임에 틀림없다'로 단정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537296,
+        "width" : 0.039443154226649887,
+        "x" : 0.078886311410042653,
+        "y" : 0.93016014248948664
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.90909090909090906,
+      "text" : "264"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 255,
+  "pdf_page_number" : 256
+}

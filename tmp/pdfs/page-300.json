@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027653721279568111,
+        "width" : 0.81200145927929124,
+        "x" : 0.1323840165900963,
+        "y" : 0.066357298190769409
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "대화 1은 '현관 앞에 무엇이 있는지 알 수 없는' 상황이다. 그 무엇이 고양이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026215728759765633,
+        "width" : 0.83528411082732368,
+        "x" : 0.10910606577230127,
+        "y" : 0.09636564180424656
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "것은 답변 문장을 통해 처음 밝혀지는 새로운 정보이다. 영어 문장에서는 a cat로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027214574178059836,
+        "width" : 0.83523455236712063,
+        "x" : 0.10911446890028904,
+        "y" : 0.12414827344631862
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "되어 있는데, 이는 '아무것도 없었던 머릿속에, 새롭게 고양이 1마리를 꺼내는' 이미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023857343037923084,
+        "width" : 0.5119548482433004,
+        "x" : 0.10915346596609241,
+        "y" : 0.15206940770227084
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "지이다. a가 있기 때문에 처음 등장한 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.81395345399861996,
+        "x" : 0.13023257233623814,
+        "y" : 0.17866666675683829
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "한편, 대화 2에서는 \"방금 당신이 말한 그 고양이는 현관 앞에 있어\"라는 의미로,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024801318698459252,
+        "width" : 0.83275332545962444,
+        "x" : 0.10921514745875174,
+        "y" : 0.20736621631465812
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "영어 문장에서는 the cat라고 표시되어 있다. 따라서 여기에서 '고양이'는 이미 알려"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021960408528645892,
+        "width" : 0.13262489514473158,
+        "x" : 0.10926894765063248,
+        "y" : 0.23538607478334728
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "진 정보이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023982347276475746,
+        "width" : 0.60964083331942209,
+        "x" : 0.13006609371985273,
+        "y" : 0.2900288552316479
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.27064220183486237,
+      "text" : "대화 1의 영어 문장에서는 there is/are 구문이 사용되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025782189263237831,
+        "width" : 0.81427671427061077,
+        "x" : 0.12775588546184591,
+        "y" : 0.3145903284341125
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이 구문은 '새로운 정보의 사람이나 물건이 존재한다'라는 것을 나타낸다. 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023288113064236171,
+        "width" : 0.51162789282296117,
+        "x" : 0.10697675577456592,
+        "y" : 0.34444444466531277
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "상의 주어인 a cat는 was라는 be동사 뒤에 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.81627904995214562,
+        "x" : 0.12558140514020624,
+        "y" : 0.37200000020920621
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "there is/are 구문에서 이러한 어순이 생겨난 이유는 'a cat가 새로운 정보이므"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02652491929795997,
+        "width" : 0.47969850719484514,
+        "x" : 0.10905236158598815,
+        "y" : 0.39509711552197913
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "로 나중에 이야기하려는' 경향이 있기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020563307868109781,
+        "width" : 0.81395345399861996,
+        "x" : 0.12790699355037288,
+        "y" : 0.42711111110083388
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "문장 첫머리의 there는 '무언가가 어떤 장소에 있다'라는 말을 이제부터 할 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025089844597710464,
+        "width" : 0.83509926646523325,
+        "x" : 0.10686462423736538,
+        "y" : 0.45267609582526602
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이라는 사인 정도의 의미일 뿐이다. 따라서 부사로 '거기에'라는 장소를 뜻하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021886305067274403,
+        "width" : 0.83488373063568377,
+        "x" : 0.1069767391899908,
+        "y" : 0.48255813943252757
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "there와 비교했을 때, 굉장히 가볍고 짧게 발음된다. there에 이어지는 be동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023133825514051631,
+        "width" : 0.83504101353832805,
+        "x" : 0.10689878939974633,
+        "y" : 0.50718624742373708
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "는 '~라는 상태로 존재하다'라는 의미를 바탕에 두고 있기 때문에 여기에서는 '존재"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021885013156466959,
+        "width" : 0.29302326430622327,
+        "x" : 0.10697673982065103,
+        "y" : 0.53633720919443739
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "하다'라는 뜻을 가지고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024345781962076818,
+        "width" : 0.81411447552194616,
+        "x" : 0.12782828764901497,
+        "y" : 0.5615730063924117
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "참고로, 많은 학습자들이 there가 '있다'라는 의미를 나타낸다고 착각하는 경우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021816537645128031,
+        "width" : 0.82325583781272249,
+        "x" : 0.10697673213158979,
+        "y" : 0.59155555547335481
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "가 있는데, 실제로 there에는 그러한 의미가 없고, be동사가 그 의미를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024871368408203032,
+        "width" : 0.81654153590188749,
+        "x" : 0.12778892550847726,
+        "y" : 0.64473028861041293
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "대화 2에서 the cat는 '그 고양이'를 말하며, 이는 이미 알고 있는 정보에 속한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021878552754719949,
+        "width" : 0.83255813468215811,
+        "x" : 0.10697674644006709,
+        "y" : 0.67288888919944945
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그렇기 때문에 정보 처리가 편해서, the cat를 문장 앞쪽에 두고 이야기해도 문제"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022043047587076869,
+        "width" : 0.16331458567214485,
+        "x" : 0.10671480278283602,
+        "y" : 0.69973428971867724
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "가 없는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030361456976996548,
+        "width" : 0.81210240203770478,
+        "x" : 0.12767213018504125,
+        "y" : 0.72116759291484445
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "한국어로 말했을 때에도, 답변으로 \"현관 앞에 그 고양이가 있었어.\"보다는 \"그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021940568712022546,
+        "width" : 0.83488373063568377,
+        "x" : 0.10697673879795266,
+        "y" : 0.75422222206151213
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "고양이는 현관 앞에 있었어.\"가 자연스럽고 편하게 들린다. 그 이유는 앞에서 말한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021903100755479521,
+        "width" : 0.66511626936431634,
+        "x" : 0.10697674893199439,
+        "y" : 0.78343023245532684
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "그 고양이, 즉 이미 알려진 정보의 존재를 먼저 소개하기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020448321024576832,
+        "width" : 0.82093024185919694,
+        "x" : 0.10465115801597002,
+        "y" : 0.83866279031995483
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.97997548017981206,
+      "text" : "• a/some을 붙이지 않는 명사도 there is/are 구문에서 사용할 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.81162794498976143,
+        "x" : 0.12790695762106224,
+        "y" : 0.87644444461893156
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "지금까지의 설명을 통해, there is/are 구문은 새로운 정보의 사물이나 사람의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.039534883961039061,
+        "x" : 0.074418604430333185,
+        "y" : 0.92577777792145788
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 1,
+      "text" : "310"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 300,
+  "pdf_page_number" : 301
+}

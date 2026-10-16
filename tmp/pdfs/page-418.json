@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.036402004665798682,
+        "width" : 0.16363160694744569,
+        "x" : 0.14419162328377064,
+        "y" : 0.088831811647525516
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99962644751587593,
+      "text" : "Must 100"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.034220618353949628,
+        "width" : 0.5781465138103945,
+        "x" : 0.15060914780561246,
+        "y" : 0.12881844062524739
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99881680141983831,
+      "text" : "중학 영어를 제대로 마스터하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017448320176866261,
+        "width" : 0.52668214622118803,
+        "x" : 0.14617168779427839,
+        "y" : 0.21366279061490689
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99862825788751719,
+      "text" : "• 쉽고 다양하게 활용하기 좋은 '가성비 영어'를 사용하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02379907735188791,
+        "width" : 0.70327377860427753,
+        "x" : 0.14141979987627021,
+        "y" : 0.30764861886670314
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "중학 영어를 바탕으로 영어 기초를 학습하는 책들을 종종 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.81206496218417556,
+        "x" : 0.14153132380541747,
+        "y" : 0.33555555580622098
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "중학교에서 배우는 영어는 아주 중요하며, 영문법의 90%가 중학 영어에 포함되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024672556559244718,
+        "width" : 0.089757034626412879,
+        "x" : 0.11885945306810697,
+        "y" : 0.36121761057054491
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020567183600531669,
+        "width" : 0.81206496218417545,
+        "x" : 0.13921113815339989,
+        "y" : 0.39098837171184675
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "고난이도의 영어 문장을 읽는 독해 학습에서는 중학 영어를 넘어 고등학교에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02195994822184244,
+        "width" : 0.83062648908466308,
+        "x" : 0.12064963214997923,
+        "y" : 0.41715116268256425
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "배우는 영어가 필요하지만, 일반적으로 영어를 쓰거나 말하는 것은 중학 영어로 충"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022266299777560783,
+        "width" : 0.20698809251717643,
+        "x" : 0.11815091097235685,
+        "y" : 0.44385208035182444
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "분하다고 생각한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022658940633138003,
+        "width" : 0.48998226950354606,
+        "x" : 0.13902975329469502,
+        "y" : 0.49921930697579187
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서는 좀 더 심도 있는 이야기를 할 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023308707343207447,
+        "width" : 0.81453251399046989,
+        "x" : 0.13682755720801418,
+        "y" : 0.5260788916194854
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "사실, 영어를 쓰거나 말할 때, 입시를 위한 고교 영어가 당신의 '발목을 잡을' 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020470284356011281,
+        "width" : 0.09280742888754985,
+        "x" : 0.11600927846911264,
+        "y" : 0.5551111113365641
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028312301635742165,
+        "width" : 0.81255081934286344,
+        "x" : 0.13897576643424769,
+        "y" : 0.57689079757020756
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 키워드로 제시하고자 하는 것은 '명사 표현'과 '동사 표현'으로, 아래 예"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022244801839192752,
+        "width" : 0.11158760016691599,
+        "x" : 0.11822012090558379,
+        "y" : 0.60879038974963007
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "시를 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023570638020833368,
+        "width" : 0.44815764731549201,
+        "x" : 0.1390293997501042,
+        "y" : 0.66272614461488166
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.043413173652694613,
+      "text" : "명사 표현 : 가장 큰 문제는 일자리 창출이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02263053385416669,
+        "width" : 0.81456844248670213,
+        "x" : 0.13679898926904815,
+        "y" : 0.69004757211950019
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "동사 표현 : 가장 큰 문제는 어떻게 하면 더 많은 일자리를 만들어 낼 수 있는가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021976744757758238,
+        "width" : 0.058004641701989129,
+        "x" : 0.24825986010898224,
+        "y" : 0.71802325557911795
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026653611924913223,
+        "width" : 0.81463017024046991,
+        "x" : 0.13678518117926389,
+        "y" : 0.76780709591550778
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 동사 표현이란 '주어+동사' 혹은 '동사+목적어'의 형태로 의미를 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537357,
+        "width" : 0.83062648908466297,
+        "x" : 0.11832944674815711,
+        "y" : 0.8008720929213714
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "내는 표현이고, 명사 표현이란 그것을 하나의 명사 덩어리 안에 넣어 표현하는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.06032482715363198,
+        "x" : 0.11600928001689374,
+        "y" : 0.82844444415134944
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.81206496218417556,
+        "x" : 0.13689095266135565,
+        "y" : 0.85599999980000374
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "한국어나 영어에서도 어른이 되어 어려운 말을 할 기회가 늘어남에 따라 명사 표"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025821009318033883,
+        "width" : 0.83090941517065597,
+        "x" : 0.11818491302820475,
+        "y" : 0.88140346657211677
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "현을 사용하는 일이 늘어난다. 반면에 캐주얼한 일상 회화를 생각해 보면, 언어를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.039443155383387371,
+        "x" : 0.085846867609930447,
+        "y" : 0.9244186045266134
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 1,
+      "text" : "432"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 418,
+  "pdf_page_number" : 419
+}

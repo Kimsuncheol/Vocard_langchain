@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.83255811171098193,
+        "x" : 0.041860478918697375,
+        "y" : 0.071220930326737597
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "존재한다.\"라는 것을 말하고자 한 문장이기 때문에 some을 사용하는 데 아무런"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024046546712636729,
+        "width" : 0.20720091733065515,
+        "x" : 0.041748380104360813,
+        "y" : 0.099895331068246662
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "문제가 없는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021923556831312419,
+        "width" : 0.41162789951671258,
+        "x" : 0.060465119922323514,
+        "y" : 0.15394853594740732
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.22037914691943128,
+      "text" : "some은 '국자'의 이미지를 가진 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025776751398934428,
+        "width" : 0.50510948354547669,
+        "x" : 0.062572068717092519,
+        "y" : 0.18046900148703382
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "용기 안에 국자를 넣고, 적당한 양이나 개수의 무"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011799724311456261,
+        "width" : 0.094131599773060182,
+        "x" : 0.61804675882719906,
+        "y" : 0.19244325379420246
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "Some water"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010501303922421323,
+        "width" : 0.082130919803272584,
+        "x" : 0.75083669003005182,
+        "y" : 0.19084275552387342
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "some balls"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021842305810449436,
+        "width" : 0.27674419229680841,
+        "x" : 0.041860461944271954,
+        "y" : 0.2093023258012755
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "언가를 꺼내는 이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022202710927643476,
+        "width" : 0.50035108219493518,
+        "x" : 0.064940397596223498,
+        "y" : 0.2352323148543487
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "형태로 인식되는 셀 수 있는 것을 무작위로 1개 꺼"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021918398358701352,
+        "width" : 0.52325582504272461,
+        "x" : 0.044186040886982407,
+        "y" : 0.26441881070106132
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "내는 것이 a의 역할이었다. 한편, 2개 이상의 셀 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021905501330967025,
+        "width" : 0.52093024687333545,
+        "x" : 0.044186039396088332,
+        "y" : 0.29059449842128537
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "있는 것의 적당한 개수를 꺼내거나, 재질로 인식되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020561637133756583,
+        "width" : 0.57906978780573071,
+        "x" : 0.041860454909365519,
+        "y" : 0.31810115367445646
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "는 셀 수 없는 것의 적당한 양을 꺼내는 것이 some이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024317484993583438,
+        "width" : 0.8143536827780985,
+        "x" : 0.06257374145333916,
+        "y" : 0.34330310044950485
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "some은 국자의 이미지이기 때문에 공처럼 셀 수 있는 것뿐만 아니라 물처럼 셀"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025284443053928407,
+        "width" : 0.80722635442560375,
+        "x" : 0.041728002126576881,
+        "y" : 0.37031999971583429
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "수 없는 것도 꺼낼 수 있다. 그러므로 가산, 불가산 명사에 모두 사용할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021887444984415749,
+        "width" : 0.81162790818647912,
+        "x" : 0.065116278563070035,
+        "y" : 0.42724046174724251
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 존재의 명사와 개념의 명사 이야기를 해 보자. 이전 학습에 나온 문장을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022566836813221691,
+        "width" : 0.11200490864840421,
+        "x" : 0.04399754555290239,
+        "y" : 0.45601309319345029
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "다시 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020437827021438926,
+        "width" : 0.34651162407614972,
+        "x" : 0.067441864357273965,
+        "y" : 0.51017441828308752
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "아빠는 고기를 아주 좋아하세요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019097830832480511,
+        "width" : 0.40000000866976654,
+        "x" : 0.06744185603563313,
+        "y" : 0.53904170366932891
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "아빠는 슈퍼에서 고기를 사 오셨어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.039534883065657112,
+        "x" : 0.61162790719640736,
+        "y" : 0.51017441856203805
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "개념"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016190854658991616,
+        "width" : 0.041860463944348392,
+        "x" : 0.61162790745327034,
+        "y" : 0.53904170376806515
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "존재"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.68139535730535328,
+        "x" : 0.060465111926685793,
+        "y" : 0.59139307934055807
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "'존재'를 나타내는 경우, some은 문장 안에서 의무적으로 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021291002512189738,
+        "width" : 0.53979483517733484,
+        "x" : 0.090540646855016824,
+        "y" : 0.64019331531277202
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "My dad bought some meat at the supermarket."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024928311277726323,
+        "width" : 0.81409749117764552,
+        "x" : 0.067358682416855373,
+        "y" : 0.6918034038460612
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "반대로, '개념'을 나타내는 명사에 some을 사용하면, 부자연스러운 느낌이 든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.28837208314375445,
+        "x" : 0.093023260401885466,
+        "y" : 0.72383720965200582
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.001375515818431912,
+      "text" : "My dad loves some meat."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024884701198249592,
+        "width" : 0.81860464269464672,
+        "x" : 0.062790700878590316,
+        "y" : 0.74401064736406863
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "\"아빠는 고기를 아주 좋아하세요.\"라고 말하고 싶다면, My dad loves meat,라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888734602568571,
+        "width" : 0.29069768298755994,
+        "x" : 0.046511623680638596,
+        "y" : 0.77462289304455956
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "고 하는 것이 더 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02666191432787024,
+        "width" : 0.81193559820001782,
+        "x" : 0.067290472142564325,
+        "y" : 0.79874044258180532
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장에서는 '야채, 쌀, 생선이 아니라, 고기를 좋아하다'로 '고기라는 지식'을 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894457,
+        "width" : 0.83255811171098193,
+        "x" : 0.046511639687144862,
+        "y" : 0.82697426817540942
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "끌어 내는 것으로 충분하고, '고기가 얼마만큼의 양이 있다'라는 것을 밝힐 필요가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026539353215810801,
+        "width" : 0.83535142378373572,
+        "x" : 0.046278733037930599,
+        "y" : 0.85379427127672125
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "없기 때문에 some이 필요하지 않다. 그러나 '슈퍼에서 고기를 사 와서 아빠에게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.83488368988037109,
+        "x" : 0.046511642717621822,
+        "y" : 0.88226744178236616
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "고기가 있다'는 것을 말하고 싶다면,'꺼내서 그곳에 있다'라는 느낌을 내는 some"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015793151313896803,
+        "width" : 0.38167138533158729,
+        "x" : 0.52313120741219621,
+        "y" : 0.92285781655687482
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.83478260869565213,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 289"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 279,
+  "pdf_page_number" : 280
+}

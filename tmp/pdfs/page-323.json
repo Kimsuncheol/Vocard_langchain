@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031325168185763919,
+        "width" : 0.12990358742800626,
+        "x" : 0.13797573368067192,
+        "y" : 0.094806807417174399
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99837750135208225,
+      "text" : "Mus 76"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.037499999999999978,
+        "width" : 0.41999998959628015,
+        "x" : 0.1400000048685266,
+        "y" : 0.13333333330259567
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99903253114040391,
+      "text" : "명사 뒤에 오는 수식어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02276279195149733,
+        "width" : 0.55246296795931726,
+        "x" : 0.13908986655355901,
+        "y" : 0.21217141349967017
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99859234234234229,
+      "text" : "• 수식어로도 나오는 '~하는 중(ing)'과 '앞으로 향하다(to)\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843449910481816,
+        "width" : 0.81224268132990052,
+        "x" : 0.13680031345544272,
+        "y" : 0.30925805820925523
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "영어의 어순은 받아들이기 쉬운 정보부터 먼저 제시하기 때문에 '가벼운 정보가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026835773044162292,
+        "width" : 0.35534273494373669,
+        "x" : 0.11578526838741982,
+        "y" : 0.33393118510423025
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "먼저, 무거운 정보는 나중에' 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021841085645887492,
+        "width" : 0.8097447482022373,
+        "x" : 0.13689096692383168,
+        "y" : 0.36482558129161147
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "명사와 그 명사를 설명하는 형용사로 구성된 형태에서, 명사의 설명을 담당하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537357,
+        "width" : 0.83294660394841968,
+        "x" : 0.11600929652876908,
+        "y" : 0.39244186036318074
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "형용사가 길어지는 경우가 종종 있다. 이처럼 정보량이 커진 형용사 덩어리는 명사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023040357801649147,
+        "width" : 0.15819863839582965,
+        "x" : 0.11579627239846763,
+        "y" : 0.41943912339407308
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "뒤로 이동한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316357,
+        "width" : 0.032482596960934737,
+        "x" : 0.11832946705422996,
+        "y" : 0.47238372096609238
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020113898383246509,
+        "width" : 0.1789912202141502,
+        "x" : 0.15517920454651357,
+        "y" : 0.4693549641210939
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "a running man"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0216769248114691,
+        "width" : 0.36944827166470617,
+        "x" : 0.33387531302403484,
+        "y" : 0.46759430058699558
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "' a man running along the river"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017948435465494739,
+        "width" : 0.15095990354364569,
+        "x" : 0.16233907365230121,
+        "y" : 0.49247927049432383
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "달리고 있는 남자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017489663865831173,
+        "width" : 0.2575405944477428,
+        "x" : 0.36194896028326762,
+        "y" : 0.49273255804390703
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "강가를 따라 달리고 있는 남자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016011628044976134,
+        "width" : 0.77958237041126599,
+        "x" : 0.16705336229448067,
+        "y" : 0.51598837173424894
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.38951310861423222,
+      "text" : "- man이라는 명사의 모습을 설명하는 형용사가 running처럼 한 단어일 때는 '가벼운 정보이므로 man"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018562646653917048,
+        "width" : 0.7565579847856001,
+        "x" : 0.18784635763075974,
+        "y" : 0.53433564507335019
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.40316686967113274,
+      "text" : "앞에 오는데, running along the river처럼 두 단어 이상이면 '정보가 무거워지며' man 뒤로 이동된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024541283501519073,
+        "width" : 0.80992585962468933,
+        "x" : 0.13681419569383857,
+        "y" : 0.58118911201983769
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "분사의 형용사적 용법, tO 부정사의 형용사적 용법, 관계 대명사절의 경우는, 보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0271342764960395,
+        "width" : 0.83557857166637073,
+        "x" : 0.11584428171886656,
+        "y" : 0.60634569683092121
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.037227214377406934,
+      "text" : "통 길고 무거운 정보이므로 설명하는 명사 뒤에 온다. 이를 '후치 수식'이라고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020532300313313767,
+        "width" : 0.83294660394841968,
+        "x" : 0.11600929653440159,
+        "y" : 0.63644444424404145
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "영어를 말하거나 쓸 때, '가벼운 정보부터 먼저 제시하는 점'을 의식하는 것이 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.4106728380376643,
+        "x" : 0.11600928854926963,
+        "y" : 0.66424418566440524
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "문장을 직감적으로 만드는 데 필요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02155704159206806,
+        "width" : 0.25109204378995026,
+        "x" : 0.15984576456254818,
+        "y" : 0.71200886869224789
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "a Cat lying on the sofa"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016197675069173245,
+        "width" : 0.40835267847234552,
+        "x" : 0.4292343335094751,
+        "y" : 0.71199999969938266
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.007874015748031496,
+      "text" : "소파에 누워 있는 고양이 분사의 형용사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.58700695904818445,
+        "x" : 0.16241299371830484,
+        "y" : 0.73982558101530893
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.0043365134431916736,
+      "text" : "a room to study 공부하기 위한 방 to 부정사의 형용사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.600928089835427,
+        "x" : 0.16241298543703067,
+        "y" : 0.76744186063739595
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "the man who l thought just an ordinary businessman"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016139533996582078,
+        "width" : 0.52204175428910693,
+        "x" : 0.16241300246101498,
+        "y" : 0.7920000002344002
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "내가 단지 평범한 회사원이라고 생각했던 남자 관계 대명사절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021985788133409345,
+        "width" : 0.81670535694469104,
+        "x" : 0.13921112661902815,
+        "y" : 0.84156976733716526
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "위 예문의 a cat, a room, the man과 같이 가벼운 정보를 일단 먼저 말하고,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021979327731662335,
+        "width" : 0.64037123593417089,
+        "x" : 0.11832946811180084,
+        "y" : 0.86755555590615285
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "그 설명은 나중에 생각한다는 마음으로 문장을 만드는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.041763340884988939,
+        "x" : 0.085846867789008505,
+        "y" : 0.92711111093000853
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 1,
+      "text" : "334"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 323,
+  "pdf_page_number" : 324
+}

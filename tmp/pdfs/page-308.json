@@ -1,0 +1,490 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027090624358237281,
+        "width" : 0.4400758309797807,
+        "x" : 0.071800832212218293,
+        "y" : 0.072476437533649629
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "형용사란, 명사의 모습을 설명하는 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028447764683531274,
+        "width" : 0.5077879645607688,
+        "x" : 0.071606879859397926,
+        "y" : 0.097716725509451541
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 책상은 사물 이름이기 때문에 명사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032130650111607095,
+        "width" : 0.81698010184548109,
+        "x" : 0.067225684667487767,
+        "y" : 0.12199192473730458
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.0058411214953271026,
+      "text" : "'오래된 책상' '큰 책상', 나무로 만든 책상, '아버지가 쓰시던 책상'은 모두 '책상'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032117676079114532,
+        "width" : 0.83116765455766162,
+        "x" : 0.050726686863727159,
+        "y" : 0.14937424098260099
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "의 모습을 설명하고 있다. 이 표현들이 형용사이다. 엄밀히 말해서, 한 단어이면 '형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028359341219451051,
+        "width" : 0.83090851523659437,
+        "x" : 0.053152148046224437,
+        "y" : 0.17849615295210586
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "용사', 여러 개의 단어가 모여서 이루어진 한 덩어리가 명사의 모양을 설명하고 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029487877264420592,
+        "width" : 0.77027000080455432,
+        "x" : 0.053147583272109694,
+        "y" : 0.2042648575872531
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "으면 '형용사구', '주어+동사' 덩어리가 형용사의 역할을 하면 '형용사절'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015298528595106164,
+        "width" : 0.087658930908549926,
+        "x" : 0.72224235225770883,
+        "y" : 0.26577901052583286
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "made of wood"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016692846140823336,
+        "width" : 0.14205982468344946,
+        "x" : 0.074318924842460152,
+        "y" : 0.28017101876494599
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "an old desk"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018187651511516356,
+        "width" : 0.12816256826574152,
+        "x" : 0.26731406461610624,
+        "y" : 0.2772433831027078
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "오래된 책상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0146548255101282,
+        "width" : 0.05116279016841542,
+        "x" : 0.10697674432827699,
+        "y" : 0.30656610452674649
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.39285714285714285,
+      "text" : "형용사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018039740602210697,
+        "width" : 0.25623067942532624,
+        "x" : 0.074184305621267377,
+        "y" : 0.32653660335724854
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "a desk made of wood"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013396495406143183,
+        "width" : 0.069917353716763581,
+        "x" : 0.21387853232339718,
+        "y" : 0.35449361252848344
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.5,
+      "text" : "형용사구"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022633653249799823,
+        "width" : 0.38653963262384589,
+        "x" : 0.076529168646916002,
+        "y" : 0.37282893886445045
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.13017751479289941,
+      "text" : "a cesk that my father used to use"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.069767442616549435,
+        "x" : 0.27906976695184588,
+        "y" : 0.40106477392513606
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.48717948717948717,
+      "text" : "형용사절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020485545431710883,
+        "width" : 0.18837209181352099,
+        "x" : 0.37906976802779868,
+        "y" : 0.32253771047665647
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "나무로 만든 책상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019082354568440874,
+        "width" : 0.23488372022455384,
+        "x" : 0.5069767444378338,
+        "y" : 0.37045252876733703
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "아버지가 쓰시던 책상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030437587951281153,
+        "width" : 0.81231169267134229,
+        "x" : 0.076364861775468154,
+        "y" : 0.4487868376364883
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "영어에는 '가벼운 정보를 먼저, 무거운 정보를 나중에 두는' 어순 규칙이 있기 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027450918622427212,
+        "width" : 0.83305142142555921,
+        "x" : 0.05559165256525174,
+        "y" : 0.47996060775039928
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "문에 긴 덩어리의 두 단어 이상으로 수식하는 경우, 명사 뒤에 형용사 덩어리가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028037557796556145,
+        "width" : 0.83087149533358495,
+        "x" : 0.05551298917953891,
+        "y" : 0.50583220773625059
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "온다. 학교에서 배우는 관계 대명사절은 선행사인 명사의 모습을 설명하는 일종의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.14651163057847455,
+        "x" : 0.058139533425232995,
+        "y" : 0.53904170351939351
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "형용사절이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019099120450633333,
+        "width" : 0.22790698571638626,
+        "x" : 0.14651162330584785,
+        "y" : 0.59447674454979271
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.96159317211948792,
+      "text" : "형용사의 한정적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025757196421314354,
+        "width" : 0.81644803827459167,
+        "x" : 0.07434842303030513,
+        "y" : 0.62637939953311395
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "'수식하다'를 영어로 하면, 'to modify'이다. 이 표현은 '수정하다' '한정하다'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027822923533347477,
+        "width" : 0.83316343480890442,
+        "x" : 0.057820051692232255,
+        "y" : 0.6529706485264547
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "는 의미도 가지고 있는 말로, 어원상으로는 '크기에 맞춰 여분의 부분을 깎고 다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.33255813338539819,
+        "x" : 0.060465119707122046,
+        "y" : 0.68456078095237405
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "듬다'라는 이미지를 가진 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025607687028615711,
+        "width" : 0.80961374803022912,
+        "x" : 0.081225751295016302,
+        "y" : 0.70723949479422266
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.055668016194331982,
+      "text" : "형용사의 수식에는 '한정적 용법'이라는 것이 있다. 이는 명사에 형용사가 직접"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027479318146591436,
+        "width" : 0.83311531760475843,
+        "x" : 0.057850208094708429,
+        "y" : 0.7342322942322359
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "붙는 형태를 취한다. 한정적 용법의 기능은 막연한 정보를 '다듬는' 것으로 명사에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023135648116456187,
+        "width" : 0.54679090326482593,
+        "x" : 0.060289087870256684,
+        "y" : 0.76390976271074751
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "대한 정보를 좀 더 구체적이고 명확하게 나타내 준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022975440985773532,
+        "width" : 0.77242348410866468,
+        "x" : 0.08591020032909448,
+        "y" : 0.81212721650569497
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.058415841584158419,
+      "text" : "• Ineed a red pen, not a black one. 나는 검은색 펜이 아닌, 빨간색 펜이 필요해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013505764312202517,
+        "width" : 0.090852287682619937,
+        "x" : 0.1952715304612308,
+        "y" : 0.84135758273040462
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.39285714285714285,
+      "text" : "형용사 명사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062793,
+        "width" : 0.10000000216744165,
+        "x" : 0.37209302205275407,
+        "y" : 0.84011627920807641
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.33333333333333331,
+      "text" : "형용사 명사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022840756278389218,
+        "width" : 0.65160807696255774,
+        "x" : 0.11137953493038953,
+        "y" : 0.85948453597937402
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.33693972179289028,
+      "text" : "*다른 색이 아닌 '빨강, '검정'과 같이, 형용사가 펜의 종류를 한정적으로 설명하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016143257256197363,
+        "width" : 0.31901617483659228,
+        "x" : 0.59979078283823251,
+        "y" : 0.92270601354945436
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.78247734138972813,
+      "text" : "10장 형용사와 부사: '수식하다'의 진실 319"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 308,
+  "pdf_page_number" : 309
+}

@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.35730858282609423,
+        "x" : 0.16241299386282468,
+        "y" : 0.095930232235731272
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "l Shall l bring you a cup of tea?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011746875331919315,
+        "width" : 0.03016241301189769,
+        "x" : 0.11368909500217179,
+        "y" : 0.12633451976674637
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 1,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.25058005072853784,
+        "x" : 0.16009280514840291,
+        "y" : 0.12354651153919693
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "② Shall l do it for you?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02063790165232593,
+        "width" : 0.23256111145019542,
+        "x" : 0.60525766040842388,
+        "y" : 0.094132048011854152
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "차한잔 가져다드릴까요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020555739725187538,
+        "width" : 0.23201855746182531,
+        "x" : 0.60556844948254429,
+        "y" : 0.1218861206153673
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "제가 그것을 해 드릴까요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025351111999185938,
+        "width" : 0.81224796988747339,
+        "x" : 0.13445302816056151,
+        "y" : 0.17237562871210332
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이 표현들을 직역하면 '제가 ~할 운명이겠죠?' 또는 '제가 반드시 ~하게 되겠죠?'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021409971434026454,
+        "width" : 0.18618633530356665,
+        "x" : 0.11345637292298565,
+        "y" : 0.20208618595686956
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "와 같은 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916121350488704,
+        "width" : 0.81206495111638854,
+        "x" : 0.13225058696514902,
+        "y" : 0.22953736686042692
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이것이 '제가 ~해 드릴까요?라는 의미가 되는 이유는 언어학에서 말하는 '어용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022562827928210405,
+        "width" : 0.83081739599054505,
+        "x" : 0.1135981166914337,
+        "y" : 0.25682989556061742
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "론(맥락과 관련하여 문장의 의미를 체계적으로 분석하려는 의미론의 한 분야)'이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988537812148046,
+        "width" : 0.19953595508228644,
+        "x" : 0.11368909890456734,
+        "y" : 0.28469750852782694
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "작용하기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021983364722906962,
+        "width" : 0.5313225225968794,
+        "x" : 0.12993038591523776,
+        "y" : 0.34011627922268872
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "인간이란, 항상 상대방의 마음을 헤아리는 생물이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02334830175515179,
+        "width" : 0.81000848249955615,
+        "x" : 0.13212402238715562,
+        "y" : 0.36633335001245482
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "그렇기 때문에 상황이나 맥락에 따라 상대방의 말을 그대로 받아들이지 않고, 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02508696966748214,
+        "width" : 0.40905583988536487,
+        "x" : 0.11106042376009703,
+        "y" : 0.39220490341541592
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "속에 숨어 있는 '참뜻'을 찾으려고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469671,
+        "width" : 0.81206495111638854,
+        "x" : 0.12993040133533504,
+        "y" : 0.44750889648744963
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 아이가 엄마에게 \"엄마, 저 배고파요.\"라고 말할 때, 그것을 말 그대로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027374399090152601,
+        "width" : 0.83566856384277344,
+        "x" : 0.10649118841592507,
+        "y" : 0.47521350179653687
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "\"얘가 배가 고프구나.\"라고 해석하고 그걸로 끝이라고 생각하는 엄마는 없을 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021885086208900173,
+        "width" : 0.058004639365456315,
+        "x" : 0.10904872438422576,
+        "y" : 0.50436046511840205
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028751203598076813,
+        "width" : 0.81003709272904811,
+        "x" : 0.12979872708049883,
+        "y" : 0.52667645005351293
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "엄마는 아이가 \"저 배고파요.\"라고 하는 표현을 저는 무언가 먹고 싶어요. 무언"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469671,
+        "width" : 0.59860788692127576,
+        "x" : 0.10904872320602879,
+        "y" : 0.55649466214989551
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "가를 먹게 해 주세요.\"라는 뜻으로 해석하는 것이 보통이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021858088062327141,
+        "width" : 0.814544070850719,
+        "x" : 0.12753724540710093,
+        "y" : 0.58601508654386381
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이처럼 인간은 상황을 포함하여 발화된 말의 참뜻을 해석하는 능력을 가지고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021859223308088094,
+        "width" : 0.058004639365456315,
+        "x" : 0.10904872426545435,
+        "y" : 0.61476868345024005
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.81206495111638866,
+        "x" : 0.12993040134731218,
+        "y" : 0.64234875472170883
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "인간이 어떻게 이런 식으로 말을 해석하는 것에 도달할 수 있는지를 연구하는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021812670595705352,
+        "width" : 0.27610208771445532,
+        "x" : 0.10904872401757598,
+        "y" : 0.66859430597961556
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이 어용론이라는 분야이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027325087170583906,
+        "width" : 0.81006830388849427,
+        "x" : 0.12976897388752182,
+        "y" : 0.71965653898246018
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.054834054834054832,
+      "text" : "다시 Shall 1 ~?표현으로 돌아오면, ①에서는 \"제가 차 한 잔을 당신에게 가져다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.83294660394841979,
+        "x" : 0.10904873981461805,
+        "y" : 0.74854651201373279
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "드리는 것이 필연적으로 일어나는 일인가요?\"라고 에둘러서 말한 표현이 '제가 차"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.83294660394841968,
+        "x" : 0.1067285540582727,
+        "y" : 0.77891459042834776
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "한 잔을 가져다드리는 것이 당연한데(자신을 낮추는 겸손한 태도), 차 한 잔 어떠"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.83526680686257104,
+        "x" : 0.10672854533948489,
+        "y" : 0.80649466211315279
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "세요?라고 해석하게 되면서, 이러한 해석이 사회적으로 고정되게 된 결과, Shall I"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024147042176053235,
+        "width" : 0.61970285935835401,
+        "x" : 0.10664707696158793,
+        "y" : 0.83054384191376107
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "~?는 '상대방을 향한 선의의 제안'이라는 표현으로 정착했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469782,
+        "width" : 0.80974474820223719,
+        "x" : 0.12993041001936589,
+        "y" : 0.88656583647163478
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 ②처럼 \"(괜찮으시면) 제가 해 드리는 것이 당연한데, 어떠세요?\"라고 묻"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537296,
+        "width" : 0.037122970277612855,
+        "x" : 0.07888631056885019,
+        "y" : 0.93016014248948664
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.96296296296296291,
+      "text" : "268"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 259,
+  "pdf_page_number" : 260
+}

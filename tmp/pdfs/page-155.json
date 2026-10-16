@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032000000000000028,
+        "width" : 0.12529002521054963,
+        "x" : 0.13457076469005166,
+        "y" : 0.091555555637134023
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 1,
+      "text" : "Must 35"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035111111111111093,
+        "width" : 0.47795825714760642,
+        "x" : 0.13921112655568826,
+        "y" : 0.12933333312440631
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99832477105204376,
+      "text" : "to 부정사(=to+동사원형)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029069766574435718,
+        "width" : 0.34802785021193483,
+        "x" : 0.14385150405176139,
+        "y" : 0.16569767483860487
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99906296851574217,
+      "text" : "① ~ 쪽으로 이끌다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017448320176866261,
+        "width" : 0.48955917899490242,
+        "x" : 0.13689094402867319,
+        "y" : 0.2136627906146249
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99979482970865818,
+      "text" : "• 용법에 현혹되지 않고, 우선은 단지 '•'로 생각하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020488372802734411,
+        "width" : 0.81206496218417556,
+        "x" : 0.12993039582240162,
+        "y" : 0.3079999996619095
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 동사원형은 시간에서 해방된 동사이고, 동사의 개념(즉, 어떤 동작인지 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.83294660419437061,
+        "x" : 0.1090487395501465,
+        "y" : 0.33555555580875196
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "타내는 것)만을 나타낸다고 설명했다. 그리고 tO 부정사는 명사적 용법을 기원으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022961568196614546,
+        "width" : 0.63828687735483147,
+        "x" : 0.11126822665790666,
+        "y" : 0.36079973612612792
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "로 하여 형용사적 용법, 부사적 용법도 생겨나게 되었다고 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02055038791232644,
+        "width" : 0.81206496218417556,
+        "x" : 0.12993039582206539,
+        "y" : 0.38933333338951825
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "약 30년 이상이 지난 나의 중학교 시절에는 용법을 가르치는 방법에 여러 문제가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02195994822184244,
+        "width" : 0.83294660419437061,
+        "x" : 0.1090487395501465,
+        "y" : 0.41715116268903851
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "있었다. 그 방법들 중 일부를 여전히 사용하여 가르치는 사람들이 있다고 한다. 여"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020565891689724225,
+        "width" : 0.46171693193151597,
+        "x" : 0.10904872649184484,
+        "y" : 0.44476744148065084
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "기에서는 주된 문제점 2가지만을 살펴보겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020564599778917114,
+        "width" : 0.43387472815547423,
+        "x" : 0.13225057084031275,
+        "y" : 0.49854651124681504
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "① 각 용법을 모국어 해석대로 가르치는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.78886311848958335,
+        "x" : 0.15545243126601169,
+        "y" : 0.52311111078659966
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "-'~하는 것' = 명사적 용법, '~한 (명사)'= 형용사적 용법, '~하기 위해서,'~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025896008809407567,
+        "width" : 0.74974140140181733,
+        "x" : 0.19242667161848917,
+        "y" : 0.55062614955029598
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "하고' 등= 부사적 용법: 이와 같이 해석할 수는 있으나, 해석은 맥락에 따라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.24129930861452792,
+        "x" : 0.19257540357895031,
+        "y" : 0.58133333334244908
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "얼마든지 바뀔 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.48491877562610808,
+        "x" : 0.13457077708253759,
+        "y" : 0.63511111100619377
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "② 용법을 모르면 해석할 수 없다고 가르치는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020472868177625947,
+        "width" : 0.78654291680518618,
+        "x" : 0.15545243939863476,
+        "y" : 0.66266666707750499
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "> 영어 원어민 중에 용법을 하나하나 따지는 사람은 없고, 원어민이 아닌 영"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023042107476128448,
+        "width" : 0.67305146345855493,
+        "x" : 0.18785202907009996,
+        "y" : 0.68775536417890948
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "어 학습자도 영어에 익숙해질수록 용법을 일일이 생각하지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.1902552178565492,
+        "x" : 0.19025522159210995,
+        "y" : 0.76888888861910765
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.98662207357859533,
+      "text" : "- 기능을 구별하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02054522026909722,
+        "width" : 0.81206496218417556,
+        "x" : 0.12993039582206539,
+        "y" : 0.80523255776202451
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "①의 문제점부터 설명하자면, 명사, 형용사, 부사 등의 용법을 구별하기 위해서는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020484496222601956,
+        "width" : 0.75870066974179962,
+        "x" : 0.11136892255260647,
+        "y" : 0.83284883683155309
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "단순히 해석을 떠나 적어도 각 품사를 기능에 따라 구별할 수 있어야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.039443155383387357,
+        "x" : 0.078886310823387526,
+        "y" : 0.92577777792145788
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.9882352941176471,
+      "text" : "162"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 155,
+  "pdf_page_number" : 156
+}

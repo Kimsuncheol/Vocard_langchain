@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.038288182459156883,
+        "width" : 0.12551802405181153,
+        "x" : 0.13897527959416997,
+        "y" : 0.092422604426099619
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9991701244813278,
+      "text" : "Must 11"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030703812864044555,
+        "width" : 0.30946881680293548,
+        "x" : 0.14087760072329072,
+        "y" : 0.13354037248222761
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99916352990380597,
+      "text" : "시제를 이해하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017507635182581249,
+        "width" : 0.38337184545519654,
+        "x" : 0.14087758754735921,
+        "y" : 0.21650399269923148
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.9978070175438597,
+      "text" : "• 인류는 '시간'을 '장소'로 이해하고 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.42263277427770185,
+        "x" : 0.13625867048040527,
+        "y" : 0.3123336293337009
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "다음 문장의 밑줄 친 부분에 주목해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022812160434401374,
+        "width" : 0.57075098035029537,
+        "x" : 0.13842540974857401,
+        "y" : 0.37009771195332741
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "너는 지금 뭐하고 있니? - 나는 지금 숙제하는 중이야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452794,
+        "width" : 0.60739028134366191,
+        "x" : 0.13856813865615006,
+        "y" : 0.41860465104070976
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "과거를 돌아보지 마라. - 미래를 향해서 똑바로 나아가라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.8060046197328985,
+        "x" : 0.13625866274709966,
+        "y" : 0.50290697645653715
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "밑줄 친 부분은 시간을 나타내는 표현이지만 모두 '장소'를 나타내는 단어를 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022105191593796425,
+        "width" : 0.13689485019958236,
+        "x" : 0.1128458773235935,
+        "y" : 0.53109856654961352
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "용하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022944909868350405,
+        "width" : 0.39769022824565847,
+        "x" : 0.1313944582336142,
+        "y" : 0.55585394403982546
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "'~하고 있다'의 '있다'는 존재를 나타내"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021932585004588168,
+        "width" : 0.41570438013762784,
+        "x" : 0.11547344493811446,
+        "y" : 0.58562555428687757
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "는 표현으로, 존해하기 위해서는 장소가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024849878969505634,
+        "width" : 0.41339490107656035,
+        "x" : 0.11547344840321334,
+        "y" : 0.61046511617155497
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "필요하다. '~하는 중'은 처음이나 끝이 아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.41570438013762789,
+        "x" : 0.11547344561247941,
+        "y" : 0.63953488343328135
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "닌 시간의 가운데를 나타내는 표현으로,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020515208341637448,
+        "width" : 0.3048498802023647,
+        "x" : 0.11547344318956503,
+        "y" : 0.66715116266179852
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "이는 시간을 공간화한 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.066974596849449508,
+        "x" : 0.70900692779187036,
+        "y" : 0.5594498669586403
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "밥을 먹고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013159018231369113,
+        "width" : 0.050858727631346912,
+        "x" : 0.71821959680775738,
+        "y" : 0.57554258387504442
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "있는 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010174418722726397,
+        "width" : 0.020785218737861877,
+        "x" : 0.42032332585046867,
+        "y" : 0.77470930221001921
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "래"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01380913852058685,
+        "width" : 0.062732142352923348,
+        "x" : 0.57717896335381424,
+        "y" : 0.65951984910895389
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "숙제하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.05080831336706082,
+        "x" : 0.58429561225411386,
+        "y" : 0.67568766639723032
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "있는 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627907232574008,
+        "width" : 0.034642032574867532,
+        "x" : 0.86143187043312064,
+        "y" : 0.65697674401340889
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "자고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016126368674114877,
+        "width" : 0.053117781667346153,
+        "x" : 0.85450346493999896,
+        "y" : 0.66992014232792985
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "있는 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.46651270426547076,
+        "x" : 0.4757505725400899,
+        "y" : 0.70494186051958085
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "'과거를 돌아보다'는 우리가 과거를 '뒤'에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020524236514913086,
+        "width" : 0.47806005652767986,
+        "x" : 0.46651269679273627,
+        "y" : 0.73546511615588173
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "있다고 생각한다는 것을 나타내는 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.47344109840554477,
+        "x" : 0.46882217614364802,
+        "y" : 0.75998225370746286
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "'미래를 향해서 나아가라'는 우리가 미래를 앞"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020427509230010354,
+        "width" : 0.47575057746661231,
+        "x" : 0.46651270193157779,
+        "y" : 0.78924418591772638
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "에 있다고 생각한다는 것을 나타내는 표현이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.47113161934447723,
+        "x" : 0.46651271227775637,
+        "y" : 0.81677018649987765
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "며, 나아가면 도달하는 '장소'로 여기는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011648542392327932,
+        "width" : 0.027713624983815785,
+        "x" : 0.085450346745967409,
+        "y" : 0.93023255795348059
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.94117647058823528,
+      "text" : "60"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    644
+  ],
+  "pdf_page_index" : 56,
+  "pdf_page_number" : 57
+}

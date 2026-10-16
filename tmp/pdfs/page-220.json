@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017458503608060449,
+        "width" : 0.23535366491837934,
+        "x" : 0.064844817253795373,
+        "y" : 0.080244012779496221
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99369747899159666,
+      "text" : "⑦ valuable information"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014652246273822778,
+        "width" : 0.29534883932633837,
+        "x" : 0.32790697576403005,
+        "y" : 0.11180124192503782
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.29563668744434551,
+      "text" : "영어에서 가정법이 쇠퇴하고 있는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022218870926241863,
+        "width" : 0.77018052881414223,
+        "x" : 0.090518948772583888,
+        "y" : 0.12884922045040992
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.46430282702443698,
+      "text" : "다른 유럽의 언어를 공부하는 학습자들은 알고 있을 수 있는데, 유럽의 언어들 중에서도 특히 영어는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372762116398,
+        "width" : 0.21395349502563477,
+        "x" : 0.076744182599452024,
+        "y" : 0.15261627872603212
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.64021164021164023,
+      "text" : "조동사가 매우 발달해 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02248313856421047,
+        "width" : 0.77251902493563562,
+        "x" : 0.090509447503416177,
+        "y" : 0.16624729479944966
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.59227467811158796,
+      "text" : "말하는 사람이 마음속으로 생각하고 있는 것(예: ~하겠지, ~했겠지)을 포르투갈어 등에서 접속법(가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021247743608259873,
+        "width" : 0.78640538995916198,
+        "x" : 0.076578982266789511,
+        "y" : 0.18507787056028469
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.57599999999999996,
+      "text" : "정법의 일종)이라는 동사의 활용으로 나타내는 것이 보통이다. 영어에서는 가정법을 대신해서 조동사를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018424415757620105,
+        "width" : 0.78625973788174708,
+        "x" : 0.076638184163229622,
+        "y" : 0.20453246765385558
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.61222585160989262,
+      "text" : "사용하여 화자의 의견이나 생각을 나타내기 때문에 가정법이 쇠퇴하게 되었다고 생각한다. 그러한 전형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02336511721945278,
+        "width" : 0.7841203862970525,
+        "x" : 0.078863570627202673,
+        "y" : 0.22039315467796916
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.61059190031152644,
+      "text" : "적인 예시는 다음과 같다. suggest나 demand처럼 '~해라, ~하자'라고 제안하거나 요구하는 의미를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.78604654832319776,
+        "x" : 0.07674416773390913,
+        "y" : 0.24267968077787971
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.49242771913721889,
+      "text" : "가진 동사의 that 절이 원래는 가정법 현재(동사원형)를 사용했었는데, 나중에 영국에서 Should를 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017485502661067853,
+        "width" : 0.12604841318997467,
+        "x" : 0.07651067700278448,
+        "y" : 0.26378631841842448
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.2290909090909091,
+      "text" : "하게 된 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021303124415102292,
+        "width" : 0.10511709343303335,
+        "x" : 0.071860057223837537,
+        "y" : 0.31929029810570353
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "*법조동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024263028243842522,
+        "width" : 0.8119236339222301,
+        "x" : 0.076618464717909743,
+        "y" : 0.34586106129885041
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "의문문에서 주어 앞에 오거나 부정문에서 not이 붙는 be동사 및 일반 동사의 do, does, 현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030726164552947521,
+        "width" : 0.83557597073641698,
+        "x" : 0.055445959582739721,
+        "y" : 0.36884769290680919
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "재완료의 have, has 등도 문법상 '조동사'라고 한다. 그러나 법조동사란, 말하는 사람의 생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026326127885820227,
+        "width" : 0.83297764171253563,
+        "x" : 0.055629598997080414,
+        "y" : 0.40014325926472272
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이나 의견을 나타내는 Wi, may, can, must, should 등을 나타낸다. '법(mood)'은 현실 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020556478661145294,
+        "width" : 0.83023253354159254,
+        "x" : 0.058139547279591225,
+        "y" : 0.42857142842559914
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "를 나타내는 직설법이나 비현실 세계를 나타내는 가정법의 '법'이다. 조동사는 '화자의 의견을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028519394340616788,
+        "width" : 0.8330647728659889,
+        "x" : 0.057893375642698655,
+        "y" : 0.45347429875211787
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "말하는 것으로, 현실을 묘사하는 것이 아니라는 것을 나타내므로, 이러한 '법'을 붙여 법조동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020079380871452002,
+        "width" : 0.12148024819113992,
+        "x" : 0.055637401560010714,
+        "y" : 0.48507270185583073
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "사라고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025340766534407533,
+        "width" : 0.2337582761591131,
+        "x" : 0.073740480340983836,
+        "y" : 0.53746570340602429
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "* 힘의 용법, 판단의 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.81162790818647901,
+        "x" : 0.079069766836320846,
+        "y" : 0.5652173912586882
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "정식 명칭은 '의무 양태(deontic modality)와 '인식 양태(epistemic modality)인데, 여기에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019099120450633333,
+        "width" : 0.5860465223138982,
+        "x" : 0.058139529498299106,
+        "y" : 0.59447674455356803
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "서는 이해를 돕기 위해 이러한 용법 이름을 직접 만들어 설명했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017130815358741613,
+        "width" : 0.449073531410911,
+        "x" : 0.4696732662718871,
+        "y" : 0.92571246703466814
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.85559006211180122,
+      "text" : "8장 동사 ⑦ 조동사: 사실을 말하는가, 생각을 말하는가? 229"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 220,
+  "pdf_page_number" : 221
+}

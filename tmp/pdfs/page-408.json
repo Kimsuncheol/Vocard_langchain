@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023573478345769172,
+        "width" : 0.35779478333213116,
+        "x" : 0.14827696418025765,
+        "y" : 0.075343213763020778
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이 번에는 다음의 예시를 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023585165946933273,
+        "width" : 0.7428478761152788,
+        "x" : 0.19237569974465779,
+        "y" : 0.12666536645518733
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "Summer is good for the economy because the temperature is"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.78654289245605458,
+        "x" : 0.14849189416520411,
+        "y" : 0.15552325571748438
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.096251266464032426,
+      "text" : "high. The high temperature makes people want to go swimming"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020557372171259414,
+        "width" : 0.49909747730601917,
+        "x" : 0.14606191899269597,
+        "y" : 0.18297734552505096
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.26315789473684209,
+      "text" : "and encourages them to go to the beach."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025310372118423796,
+        "width" : 0.80781858617609192,
+        "x" : 0.14827948492829315,
+        "y" : 0.23874310362230977
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "직역: 여름은 경제에 좋다. 왜냐하면 기온이 높기 때문이다. 높은 기온은 사람들"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028070588977311517,
+        "width" : 0.59916951439597388,
+        "x" : 0.19927602718581497,
+        "y" : 0.26571077480422023
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이 수영을 하고 싶어지게 하고, 그들을 해변으로 가게 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029472401982100438,
+        "width" : 0.81265562230890453,
+        "x" : 0.14353368306194714,
+        "y" : 0.31724971997526885
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "'높은 기온'이 원인이 되어, 그 결과 '사람들이 수영을 하고 싶어지고', '해변으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023050484708195484,
+        "width" : 0.19060986692255191,
+        "x" : 0.12279251421402745,
+        "y" : 0.34821312972320018
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "가게 되는 것'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023531735579738422,
+        "width" : 0.52470467307350854,
+        "x" : 0.1436725464468446,
+        "y" : 0.37546185379756691
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "원인을 주어로 하는 구문을 사용하면, 필연적으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957501822094772,
+        "width" : 0.28538283434781164,
+        "x" : 0.1252900212212,
+        "y" : 0.40391459103398986
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이 아니라 ②의 패턴이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023690715803370344,
+        "width" : 0.81006613644686609,
+        "x" : 0.14369601742602492,
+        "y" : 0.45781417906269439
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 패턴으로 글쓰기를 할 때, 쓸 수 있는 구문들이 많은데 나는 특히 5가지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025402979494413835,
+        "width" : 0.83102711764248927,
+        "x" : 0.12277477628728346,
+        "y" : 0.48467357683168832
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "구문을 사용하라고 지도한다. 이 구문을 쓰게 되면서, 신기하게도 수강생들이 쓴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023969417789228453,
+        "width" : 0.39033161510120729,
+        "x" : 0.12271353991996235,
+        "y" : 0.512456921766554
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "에세이의 논리적 설득력이 향상되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014731441104115173,
+        "width" : 0.055684452707117249,
+        "x" : 0.27842227454551327,
+        "y" : 0.57829181479658098
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "dllow"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01606596067706878,
+        "width" : 0.20185615799643786,
+        "x" : 0.53596287216049288,
+        "y" : 0.57695729506817262
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.016105417276720352,
+      "text" : "원인 덕분에 A가 ~하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021272657604828438,
+        "width" : 0.67546124891801318,
+        "x" : 0.15761976171083314,
+        "y" : 0.60149308508715127
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.15131264916467779,
+      "text" : "주어(원인) + enable + A+to 동사원형~ 원인 덕분에 A가~할 수 있게 되다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015334602776795436,
+        "width" : 0.10975164716893981,
+        "x" : 0.2780216795567001,
+        "y" : 0.63436753251070344
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.99712643678160917,
+      "text" : "encourage"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01747289586321743,
+        "width" : 0.34570765495300293,
+        "x" : 0.5359628775364379,
+        "y" : 0.63078291777752393
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "원인이 A가~하도록 장려하다(부추기다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012011979398354078,
+        "width" : 0.062824065035039733,
+        "x" : 0.27833274694917992,
+        "y" : 0.66259866144136925
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 1,
+      "text" : "cause"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017509103245582525,
+        "width" : 0.24593966657465149,
+        "x" : 0.53596288121038849,
+        "y" : 0.6583629894730626
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.020408163265306121,
+      "text" : "원인 때문에 A가~하게 되다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0201532331649944,
+        "width" : 0.58254948529330175,
+        "x" : 0.15535712226878953,
+        "y" : 0.71070092765221571
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.12288613303269448,
+      "text" : "주어(원인) + make +A+동사원형~ 원인 때문에 A가~하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023307538965842922,
+        "width" : 0.81438515403053979,
+        "x" : 0.13921113660421966,
+        "y" : 0.75872093039463473
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.067052023121387277,
+      "text" : "allow는 원래 뜻이 '허락하다'로, 그 의미에서 '~해 주다'라고 베푸는 느낌이 생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483324111992829,
+        "width" : 0.058004639365456315,
+        "x" : 0.12064965234538703,
+        "y" : 0.78779069753564213
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "겼다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025247787665642063,
+        "width" : 0.60620377280495386,
+        "x" : 0.11808140101029813,
+        "y" : 0.83250066122857569
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.10080395794681508,
+      "text" : "ae This custom allows people to make friends easily."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017911121938576469,
+        "width" : 0.5083629001270642,
+        "x" : 0.16693122148616463,
+        "y" : 0.86180509396652438
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "직역: 이 관습은 사람들이 쉽게 친구를 사귈 수 있게 해 준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.48723897066983313,
+        "x" : 0.167053368374523,
+        "y" : 0.88517441828428933
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "의역: 이 관습 덕분에 사람들은 쉽게 친구를 사귈 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.044083527543328033,
+        "x" : 0.085846867270486016,
+        "y" : 0.93016014228819255
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.98888888888888893,
+      "text" : "422"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 408,
+  "pdf_page_number" : 409
+}

@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020616863674587704,
+        "width" : 0.80660059489047076,
+        "x" : 0.078273736117644141,
+        "y" : 0.071042215395009989
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 turned보다 이전 시점에서 발생한 entered라는 동작은 과거완료인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.33410138774489817,
+        "x" : 0.057603683966684367,
+        "y" : 0.10174418595763079
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "had entered로 나타내야 할까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021990955776638454,
+        "width" : 0.8041474809095116,
+        "x" : 0.080645153457872723,
+        "y" : 0.12645348826985159
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "물론 그럴 필요는 없다. 해당 예문은 매우 자연스러운 문장이다. 왜 과거완료를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.82718889804081452,
+        "x" : 0.057603707546412933,
+        "y" : 0.15406976763634117
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "사용하지 않아도 되는가? 그 이유는 이 문장이 '과거완료가 나타내는 마음'을 표"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02442314741346574,
+        "width" : 0.82516750663897209,
+        "x" : 0.059765216500705307,
+        "y" : 0.17877925233832148
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "현하려는 것이 아니기 때문이다. 그렇다면 '과거완료가 나타내는 마음'이란 도대체"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020521031697591119,
+        "width" : 0.1106786902767983,
+        "x" : 0.05756388056079053,
+        "y" : 0.20921622831375652
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "무엇일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027705426534016864,
+        "width" : 0.59677421021024324,
+        "x" : 0.046082938771163394,
+        "y" : 0.26162790702824146
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.98290598290598286,
+      "text" : "•과거의 시점에서 이미 그 상태를 hove하고 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021989663865831233,
+        "width" : 0.80875576433577223,
+        "x" : 0.078341017387742476,
+        "y" : 0.29777777793747395
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.050141911069063384,
+      "text" : "과거완료가 나타내려는 마음은 '과거의 시점에서 이미 ~한 상태를 안고 있었다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.059907835192337354,
+        "x" : 0.057603685941375375,
+        "y" : 0.32844444414802454
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029812340630425371,
+        "width" : 0.81161770195147209,
+        "x" : 0.073454824083336701,
+        "y" : 0.34985181319692993
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "\"과거완료가 나타내는 마음'은 '내가 TV를 켰을 때, 그는 이미 내 방에 잠입해 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024210497538248776,
+        "width" : 0.62698303997432558,
+        "x" : 0.059787893560872996,
+        "y" : 0.38065591238041829
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "었다.\"와 같은 문장에서 나타난다. 영어로 바꾸면 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011629199133978863,
+        "width" : 0.02995391759616868,
+        "x" : 0.05990783372495713,
+        "y" : 0.43459302328638838
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.61290324524528383,
+        "x" : 0.094470036283913386,
+        "y" : 0.43155555523518196
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "He had sneaked into my room when | turned on the"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.039170505970254094,
+        "x" : 0.10599078374507823,
+        "y" : 0.45777777798760289
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "T."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021825581868489596,
+        "width" : 0.62903223723719592,
+        "x" : 0.078341024117404123,
+        "y" : 0.51017441850140155
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "과거완료를 사용하기 어려운 경우, 다음과 같이 생각하면 도움"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029959418402777716,
+        "width" : 0.82761416415065248,
+        "x" : 0.057384768866134576,
+        "y" : 0.5334776865739328
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "이 된다. 과거완료는 주로 '~했을 때, 이미 ~한 상태였다'라는 의미의 문장에서 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.82718889804081452,
+        "x" : 0.057603707543416184,
+        "y" : 0.56533333321210755
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "용된다. 문법이라기보다는 일종의 숙어라 생각하면 된다. 그러면 같은 상황에서도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021816537645128031,
+        "width" : 0.69354837737735797,
+        "x" : 0.05760369138330515,
+        "y" : 0.59155555547283323
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "표현하는 방식에 따라 과거형 또는 과거완료 문장을 사용할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021937984890407991,
+        "width" : 0.41705068311166704,
+        "x" : 0.078341017780941907,
+        "y" : 0.64666666636422454
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "막차가 떠난 후에, 그들은 역에 도착했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016127907647026984,
+        "width" : 0.47465439811243831,
+        "x" : 0.059907823873574899,
+        "y" : 0.67587209266432158
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.42222222222222222,
+      "text" : "✓ 과거형 문장으로, '그때는 이미 ~한 상태였다'라는 느낌이 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020558898925781222,
+        "width" : 0.54853973603887518,
+        "x" : 0.057512535761446326,
+        "y" : 0.69616375215129667
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "They arrived at the station after the last train left."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020534884134928433,
+        "width" : 0.4631336465036584,
+        "x" : 0.080645158209106921,
+        "y" : 0.74399999995469035
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "그들이 역에 도착했을 때, 막차는 이미 떠났다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.19585254061205265,
+        "x" : 0.059907831237752451,
+        "y" : 0.77180232565290263
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.36144578313253012,
+      "text" : "✓ 과거완료를 사용한 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.60829491877589481,
+        "x" : 0.05760369254497634,
+        "y" : 0.79505813972765182
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "The last train had lett when they arrived at the station."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01035012944539393,
+        "width" : 0.13824884713284552,
+        "x" : 0.21658986204981412,
+        "y" : 0.81377777770781123
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "the last rrain left"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011683462354871943,
+        "width" : 0.17281105891605697,
+        "x" : 0.51382488519182334,
+        "y" : 0.81244444452277631
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.35323383084577115,
+      "text" : "the last train had left"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.47004607164304907,
+        "x" : 0.43778802397110222,
+        "y" : 0.92577777796185623
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.95510204081632655,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 89"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 85,
+  "pdf_page_number" : 86
+}

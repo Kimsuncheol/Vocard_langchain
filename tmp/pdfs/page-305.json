@@ -1,0 +1,250 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802326131437066,
+        "width" : 0.81351982463489891,
+        "x" : 0.072261066644497732,
+        "y" : 0.077034883441190249
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "아래 두 문장에서 그 차이가 많이 드러나지는 않지만, 그래도 뉘앙스 차이를 확"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020556110317882292,
+        "width" : 0.14219113913449374,
+        "x" : 0.051282052687350373,
+        "y" : 0.10610465128145963
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "인할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860229383988,
+        "width" : 0.69696968252008618,
+        "x" : 0.055944063081969114,
+        "y" : 0.15406976755583335
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.26387176325524042,
+      "text" : "에e There are four windows in this room. *객관적사실로서 창의 존재"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018992558319659403,
+        "width" : 0.37561598691073333,
+        "x" : 0.0534939264854229,
+        "y" : 0.18021127284380889
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.18443002780352177,
+      "text" : "예운 This room has four windows."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014644313639935569,
+        "width" : 0.1678321686657992,
+        "x" : 0.53613053561890001,
+        "y" : 0.18157661648208312
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.68273092369477917,
+      "text" : "* 이 방에게 있는 상황"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019043401240035451,
+        "width" : 0.25874124873768195,
+        "x" : 0.09790210278280996,
+        "y" : 0.20637732501796924
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이 방에는 창문이 4개가 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02741258518161549,
+        "width" : 0.81623528220436792,
+        "x" : 0.07205811326828479,
+        "y" : 0.24201836215507611
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.0020491803278688526,
+      "text" : "예를 들어, \"이 근처에는 곰이 많이 있어.\"라는 문장을 There are a lot of bears"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021483868175739773,
+        "width" : 0.83704098788174708,
+        "x" : 0.048839139054976013,
+        "y" : 0.27407310897045067
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "around here.와 We have a lot of bears around here.로 구문을 다르게 표"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02364192841008661,
+        "width" : 0.29426221414045856,
+        "x" : 0.05334142233993034,
+        "y" : 0.2995807999589174
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "현하면,어떤 차이가 있을까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021839660495862834,
+        "width" : 0.81351982463489869,
+        "x" : 0.072261066629361395,
+        "y" : 0.35606731651903534
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "there are를 사용하면, 단순히 곰이 존재한다는 것을 의미하지만, we have를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021873133704132242,
+        "width" : 0.83682987906716089,
+        "x" : 0.051282030062478418,
+        "y" : 0.38219663400926629
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "사용하면, '이곳은 우리가 살고 있는 지역이고 이 부근에 곰이 많이 있다'라는 것을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02191433091412831,
+        "width" : 0.83449883894486865,
+        "x" : 0.053613051284278186,
+        "y" : 0.40988372065184708
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "나타낸다. 이는 실제로 우리가 곰을 발견하는 일이 있거나 곰과 마주칠 위험에 대"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024223291314313444,
+        "width" : 0.80902758511629969,
+        "x" : 0.051213080043506665,
+        "y" : 0.43365563485140624
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "비해 조심한다는 등 여기에 살고 있는 '우리'와 '곰'의 관계성까지 말하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014931924581738865,
+        "width" : 0.13860526951876553,
+        "x" : 0.19286251883923769,
+        "y" : 0.50012305827900161
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "There are bears."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0089385030119687459,
+        "width" : 0.086247086524963379,
+        "x" : 0.50815850794618622,
+        "y" : 0.57122093027534138
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "Wehave alo"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016069478963306238,
+        "width" : 0.38228438117287378,
+        "x" : 0.52913752957673321,
+        "y" : 0.92869796320653375
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.93740685543964231,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 315"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 305,
+  "pdf_page_number" : 306
+}

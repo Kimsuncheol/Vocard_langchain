@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021869568638105852,
+        "width" : 0.8078703318927305,
+        "x" : 0.13657409178897428,
+        "y" : 0.069767441836632971
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "한편 down의 경우, '숨통을 끊다'라는 의미에서 '종료' '완료'의 느낌이 생긴다. 사람과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895347771695548,
+        "width" : 0.82870366522606376,
+        "x" : 0.11574076474807921,
+        "y" : 0.097383721274035939
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "동물의 숨통을 끊는다는 것은 바닥에 쓰러뜨린다는 것이기 때문에 거기에서 나온 이미지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022124738455667203,
+        "width" : 0.8312094830452128,
+        "x" : 0.11565750719524676,
+        "y" : 0.12352244735087559
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "라고 생각된다. 또한 '가장 아래까지 내려가서 더 이상 떨어지지 않다'라는 의미에서 '완료'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021093941243942038,
+        "width" : 0.17151781447390291,
+        "x" : 0.11562998152935522,
+        "y" : 0.15224372661226548
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "의 느낌도 생긴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020545038039998187,
+        "width" : 0.79408218708444167,
+        "x" : 0.11336454370713049,
+        "y" : 0.20061589966397231
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.13322368421052633,
+      "text" : "예e The police tracked down the terrorist. 경찰은 그 테러리스트를 찾아냈다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01468488839173232,
+        "width" : 0.71759258297318262,
+        "x" : 0.15277778249290863,
+        "y" : 0.22819767423819126
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.42765273311897106,
+      "text" : "- 명사 track은 '흔적'이고, 동사로는 '흔적을 쫓다'라는 뜻이다. 추적해서 숨통을 끊는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164267,
+        "width" : 0.5972222077931072,
+        "x" : 0.11342593303326039,
+        "y" : 0.25000000029220071
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.17954815695600476,
+      "text" : "예문 No one can tie me down. 아무도 나를 속박할 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101484,
+        "width" : 0.77546300144060287,
+        "x" : 0.16666664732314698,
+        "y" : 0.27616279051769821
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.36101083032490977,
+      "text" : "*tie는 '묶다'라는 의미이고. down은 세우지 않는 이미지이다. 즉, '묶고 서지 못하게 하다, 움직일 수 없"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.24537035353640294,
+        "x" : 0.18518519065078012,
+        "y" : 0.29492882552001665
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.31632653061224492,
+      "text" : "게 하다\"= '속박하다'라는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.62268516594636525,
+        "x" : 0.11574075027098314,
+        "y" : 0.31672597889937926
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.15195071868583163,
+      "text" : "WE The panic has settled down. 그 패닉 상황은 진정되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.75694441558621439,
+        "x" : 0.16666668098988277,
+        "y" : 0.34297152983227197
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.33910891089108913,
+      "text" : "> settle의 어원은 seat나 sit과 같다. settle down은 공중에 날아다니던 먼지가 가라앉는 이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011715840190330784,
+        "width" : 0.032407406204981171,
+        "x" : 0.11574074121731001,
+        "y" : 0.36773255829212959
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 11,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016045270017033486,
+        "width" : 0.59259258297318262,
+        "x" : 0.15972222691618648,
+        "y" : 0.36476868340897117
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "down to the last detail 아주 사소한 세부 사항에 이르기까지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016040097776256923,
+        "width" : 0.77777774891954787,
+        "x" : 0.16435186616877637,
+        "y" : 0.39098837214976623
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.23809523809523808,
+      "text" : "*주상적인 것은 Up, 구체적인 것은 down이라는 생각과 관련이 있는 표현이다. 더 이상 아래(구체적인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017793594306049765,
+        "width" : 0.3125,
+        "x" : 0.18287037025372546,
+        "y" : 0.40969750867293486
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.39805825242718446,
+      "text" : "것)는 없다는 뜻으로. '완전함'을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988371974632876,
+        "width" : 0.037037036435823914,
+        "x" : 0.1180555556908182,
+        "y" : 0.45930232552638783
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 1,
+      "text" : "0®"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.32870370851340869,
+        "x" : 0.17824073819603489,
+        "y" : 0.45774021327575243
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.97404371584699456,
+      "text" : "- 파괴를 나타내는 up과 down"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026025644825022454,
+        "width" : 0.81052358640846633,
+        "x" : 0.13407095032129054,
+        "y" : 0.49003102412543953
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "up은 아마도 '산산조각이 나서 위로 흩날리다'라는 느낌에서 파괴의 의미가 생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02791034878360843,
+        "width" : 0.82906727892287235,
+        "x" : 0.11553282471365076,
+        "y" : 0.5165682029329991
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "긴 것으로 보인다. 반면 down은 '망가지면서 무너지다'라는 느낌에서 파괴의 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.11111111471838986,
+        "x" : 0.11342592399807697,
+        "y" : 0.54937722407581391
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "가 생겼다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.73148150072030138,
+        "x" : 0.11574073102695749,
+        "y" : 0.59875444803977151
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.13407344150298889,
+      "text" : "예e Jim and Kate broke up last month. 짐과 케이트는 지난달 헤어졌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021400959042043532,
+        "width" : 0.33370512833832006,
+        "x" : 0.11551697137344413,
+        "y" : 0.62449017323096945
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.17857142857142858,
+      "text" : "예e My car has broken down."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017560829047206461,
+        "width" : 0.20601852092337097,
+        "x" : 0.44444444314035408,
+        "y" : 0.62633451948224173
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "내 차는 고장이 났다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021495791940926656,
+        "width" : 0.74557447501108154,
+        "x" : 0.11330343532209725,
+        "y" : 0.65129913317575927
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.12434782608695652,
+      "text" : "예e She is cutting up some vegetables 그녀는 야채를 썰고 있는 중이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025486866350275861,
+        "width" : 0.67622775896221188,
+        "x" : 0.11559217714846468,
+        "y" : 0.7040785482014934
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.96678200692041527,
+      "text" : "0 긴장 • 노력을 나타내는 up, 이완 • 휴식을 나타내는 down"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024037162604281126,
+        "width" : 0.80811395306959222,
+        "x" : 0.13645664914696606,
+        "y" : 0.74074440406963005
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "몸을 펴고 계속해서 손을 위로 뻗는 것이 힘든 것처럼 up에는 '노력'의 이미지가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021712885208401422,
+        "width" : 0.18786486902980939,
+        "x" : 0.11555830610350418,
+        "y" : 0.76966681319670527
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "나타날 때가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.38657408369348401,
+        "x" : 0.11574073582915131,
+        "y" : 0.81976744153810399
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.30555555555555558,
+      "text" : "예문 Keep it up! 계속 그렇게 열심히 해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.61813436738142724,
+        "x" : 0.11342592100468894,
+        "y" : 0.84738372061023037
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.099553286534779836,
+      "text" : "예e I don't think | can catch up with others in my Class.듏"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016195274332664211,
+        "width" : 0.50462962481992468,
+        "x" : 0.16203703938989003,
+        "y" : 0.87188612095118478
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "난 반에 있는 다른 사람들을 따라잡을 수 있을 것 같지 않아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.037037036435823914,
+        "x" : 0.085648148340730021,
+        "y" : 0.92732558136161014
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 1,
+      "text" : "378"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 366,
+  "pdf_page_number" : 367
+}

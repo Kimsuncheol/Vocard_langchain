@@ -1,0 +1,310 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025648117065429688,
+        "width" : 0.77994653147163118,
+        "x" : 0.078742348889143277,
+        "y" : 0.073782257660578443
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 분명하게 '그는 그러한 사람이다'를 나타내는 것은 tough 구문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.1948955995816711,
+        "x" : 0.12064964794370023,
+        "y" : 0.13372093041187427
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.97577092511013219,
+      "text" : "- to 부정사의 '태'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02688400438096783,
+        "width" : 0.69414144745955231,
+        "x" : 0.078726665111612457,
+        "y" : 0.16503653333562451
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "마지막으로 배운 내용을 응용하여 tO 부정사의 '태'에 대해 알아보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024243430243598096,
+        "width" : 0.69413880693151608,
+        "x" : 0.060118735112712811,
+        "y" : 0.21791995646440276
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.12802419354838709,
+      "text" : "X John is tough to be pleased. 촌은 기쁘게 해 주기 힘든 사람이야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022788282606336807,
+        "width" : 0.42736755803967197,
+        "x" : 0.078665273531535379,
+        "y" : 0.26801569459154595
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "위의 문장이 잘못된 이유를 알 수 있는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020536176045735655,
+        "width" : 0.34802785021193483,
+        "x" : 0.078886306793316888,
+        "y" : 0.29777777781004111
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "부정사 to be pleased 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026664196438259458,
+        "width" : 0.81457026055518611,
+        "x" : 0.078811740339361641,
+        "y" : 0.32264468116126688
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "학습자들 중에는 주어가 John이고, please는 '기뻐하다'가 아니라 '기쁘게 하다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02647706858317056,
+        "width" : 0.83084595592309396,
+        "x" : 0.057883796127247263,
+        "y" : 0.35136796879456456
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "라는 의미의 동사로,John은 기쁨을 느끼는 입장이기 때문에 be pleased처럼 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021972868177625782,
+        "width" : 0.51972158445534133,
+        "x" : 0.05800463688851052,
+        "y" : 0.3793604650126613
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "동태로 써야 한다고 생각하는 사람이 있을 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.80974476049977828,
+        "x" : 0.078886320268285612,
+        "y" : 0.40697674435830633
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 의미를 잘 생각해 보면 'We please John.하는 것이 힘들다'라는 의미가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024867451137966512,
+        "width" : 0.74039687569259749,
+        "x" : 0.057885395008328976,
+        "y" : 0.43302238833838902
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "되어야 한다. 즉, 이 문장을 올바른 tough 구문으로 바꾸면 아래와 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.40835268277648495,
+        "x" : 0.055684447372709174,
+        "y" : 0.48255813972497519
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.16107382550335569,
+      "text" : "에e It is tough for us to please John."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.37122971555019946,
+        "x" : 0.11600927193243477,
+        "y" : 0.51017441878936209
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "+ John is tough (for us) to please."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020479997422960028,
+        "width" : 0.38086928780197249,
+        "x" : 0.10424400941316152,
+        "y" : 0.53335533667373747
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "존은 (우리가) 기쁘게 해 주기 힘든 사람이야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02331782955593531,
+        "width" : 0.81438516386857285,
+        "x" : 0.074245933042189668,
+        "y" : 0.58133333305195123
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "'말하는 사람(we)' 입장에서 존에 대해 '기쁘게 하기 쉬움•어려움'을 평가한 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027929129706488753,
+        "width" : 0.83329281637854613,
+        "x" : 0.055505250787978633,
+        "y" : 0.60731465516881145
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "이다. '말하는 사람=기쁘게 하는 입장'으로, 부정사의 부분은 10 please처럼 능동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020967698838975646,
+        "width" : 0.18578517183344417,
+        "x" : 0.055599293311053351,
+        "y" : 0.63777196452027807
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "태가 되어야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024769692314995706,
+        "width" : 0.46928282392785908,
+        "x" : 0.073978370407336388,
+        "y" : 0.66285253382606379
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 아래와 같이 써야 올바른 문장이 된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019981241861979249,
+        "width" : 0.31603735524711885,
+        "x" : 0.055467396592218637,
+        "y" : 0.71495524010931266
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.12516469038208169,
+      "text" : "• John is tough to please."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.42459396470523064,
+        "x" : 0.48491879479291905,
+        "y" : 0.93155555540410528
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.94339622641509435,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 189"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 182,
+  "pdf_page_number" : 183
+}

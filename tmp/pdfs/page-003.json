@@ -1,0 +1,160 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02460828542497806,
+        "width" : 0.82043414109199198,
+        "x" : 0.10820992948313125,
+        "y" : 0.078318781275798388
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "한 행위'라고 이해될 때, 무엇을 학습해야 하는지 명확해지고, 단기간에 이에 필요"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021866810247764823,
+        "width" : 0.34331796809758486,
+        "x" : 0.1082949354020524,
+        "y" : 0.10901162796144126
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "한 영어를 숙달할 수 있게 됩니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255812772735585,
+        "width" : 0.79723503016218356,
+        "x" : 0.13133639901261027,
+        "y" : 0.13662790737332209
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "만약 이 책을 선택한 '당신'이 대학 입시를 목표로 하는 고등학생인 경우, 글"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021817801373133938,
+        "width" : 0.74193546171765135,
+        "x" : 0.1059907945636013,
+        "y" : 0.16858917512558436
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "쓰기나 말하기 테스트에서 학습 효과가 바로 나타나 놀랄 수도 있습니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023291925465838581,
+        "width" : 0.79953917169369737,
+        "x" : 0.12903225741780969,
+        "y" : 0.22670807478380617
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "목적을 달성하기 위한 말하기 '형식'을 반드시 습득해서, 실전 상황에서 '어떻게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021914529504242886,
+        "width" : 0.8202764454773207,
+        "x" : 0.10829495293612568,
+        "y" : 0.25581395356879177
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "말할지(how)' 그 형식이 자동으로 나올 수 있게 하고, 뇌에 저장된 많은 지식을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024910495253717801,
+        "width" : 0.8225805870088343,
+        "x" : 0.10829495813152751,
+        "y" : 0.28343023240944265
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "활용하여 '무슨 말을 할지(wha)'를 표현해 보세요. 영어뿐만 아니라, 모국어로 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020439115793385643,
+        "width" : 0.61751151856155506,
+        "x" : 0.10829493198928442,
+        "y" : 0.31677018664150003
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "하는 능력 또한 향상되는 것을 느낄 수 있다고 약속드립니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017512793655192316,
+        "width" : 0.30875575928077748,
+        "x" : 0.62211981612170275,
+        "y" : 0.37645348838362191
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "2024년 5월 도키요시 히데야"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906386367792,
+        "width" : 0.01612903230133271,
+        "x" : 0.08064516115348111,
+        "y" : 0.9258720932021649
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.97142857142857142,
+      "text" : "4"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    644
+  ],
+  "pdf_page_index" : 3,
+  "pdf_page_number" : 4
+}

@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023325581020779085,
+        "width" : 0.7395349051538016,
+        "x" : 0.10697673329311583,
+        "y" : 0.072674418771696891
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.11960784313725491,
+      "text" : "에, 원칙적으로는 '그때의 이야기를 하자면'을 나타내는 표현이 필요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.50465114843471781,
+        "x" : 0.13023256522730836,
+        "y" : 0.12933333348561726
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "예문에서는 when I was a kid가 그러한 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02804829406738274,
+        "width" : 0.52857845121639069,
+        "x" : 0.10663122144862491,
+        "y" : 0.15122372267721929
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 물론 문맥상 '그때의 이야기를 하자면'이라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023284237331814173,
+        "width" : 0.52790697755297367,
+        "x" : 0.10697674367600135,
+        "y" : 0.18311111132171576
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "하지 않더라도, 어딘가에 그러한 내용이 명시되어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021891472710503512,
+        "width" : 0.33720930485304262,
+        "x" : 0.10697674287170034,
+        "y" : 0.21066666691012637
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "있다면 일일이 말할 필요는 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012000000000000011,
+        "width" : 0.093023251264523155,
+        "x" : 0.65581395566341938,
+        "y" : 0.13644444427011959
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "WhenZwas"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010064153883192262,
+        "width" : 0.052033791175255417,
+        "x" : 0.68791253496968652,
+        "y" : 0.14442161216838179
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "akrd."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.40697672699931009,
+        "x" : 0.13255815026487983,
+        "y" : 0.25726744189254414
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.22173913043478261,
+      "text" : "② often이 함께 사용되는 경우가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025216657002766985,
+        "width" : 0.81425089170450504,
+        "x" : 0.12776647901335975,
+        "y" : 0.28184562002295022
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "자주(often) 반복해서 행해진 행위이기 때문에, 강렬하게 기억으로 연결되어 '그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023918656243218317,
+        "width" : 0.5490971317997686,
+        "x" : 0.10918967998521305,
+        "y" : 0.30897477677261409
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "때의 이야기를 하자면'으로 마음이 기울어지는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958442001,
+        "width" : 0.37441860101161861,
+        "x" : 0.12790697873432053,
+        "y" : 0.35755813913665246
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.093896713615023469,
+      "text" : "③ 반복된 행위에만 사용할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02488888888888896,
+        "width" : 0.81162785804509441,
+        "x" : 0.13023258514688801,
+        "y" : 0.38222222186829935
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "과거의 '변하지 않는 상태'에는 사용할 수 없다. 예를 들어, \"과거 이곳에는 병원이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023329457600911319,
+        "width" : 0.83720932658920943,
+        "x" : 0.1069767271040664,
+        "y" : 0.41133720931364048
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "있었다.\"라는 문장은 병원이 반복적으로 세워지고 무너지는 것이 아닌, 계속 변함없"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020481912400987401,
+        "width" : 0.64186048371839388,
+        "x" : 0.10697673483330947,
+        "y" : 0.44040697636366632
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이 존재했다는 것을 나타내기 때문에 would는 적합하지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020541343688964875,
+        "width" : 0.81162794498976132,
+        "x" : 0.13023253902847717,
+        "y" : 0.46656976706282827
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "앞서 설명했듯이 '반복해서 행해지다 강렬하게 기억으로 연결되다> 그때를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025082695855034753,
+        "width" : 0.83277732218772249,
+        "x" : 0.10921018360108962,
+        "y" : 0.4938125115962162
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "생각하면 떠오르는 기억'을 나타내는 would이기 때문에, 과거의 변하지 않은 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021826873779296818,
+        "width" : 0.3930232382228232,
+        "x" : 0.10930233457906462,
+        "y" : 0.52177777745610976
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "를 나타내는 경우에는 사용할 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028490461561414993,
+        "width" : 0.81927020733173084,
+        "x" : 0.12993267103503639,
+        "y" : 0.57253883536989558
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "위의 설명에서 알 수 있듯이, 이 would의 용법은 과거의 습관보다 과거의 '회상'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.33720930485304268,
+        "x" : 0.1069767428123958,
+        "y" : 0.60444444423878585
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이라고 말하는 것이 더 적합하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.22093022447026356,
+        "x" : 0.19534884121969831,
+        "y" : 0.65988372110920579
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.97069597069597069,
+      "text" : "used to와의 차이점"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027370425754123295,
+        "width" : 0.81693330857149205,
+        "x" : 0.12996677492652392,
+        "y" : 0.69176248897054349
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 would와 마찬가지로 과거의 습관을 나타내는 'used to+동사원형'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.34186047502392719,
+        "x" : 0.10930232053315671,
+        "y" : 0.72383720891905967
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "은 어떤 점이 다른지 비교해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022848624335395029,
+        "width" : 0.74680956544359867,
+        "x" : 0.10917650543571859,
+        "y" : 0.77044052414249398
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.15784408084696824,
+      "text" : "예문 | used to go fishing in the lake. 예전에는 그 호수에 낚시하러 가곤 했어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.29767441274094103,
+        "x" : 0.13023256107138997,
+        "y" : 0.8255813949573102
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "used to의 특징을 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020537467956542987,
+        "width" : 0.81395345399861996,
+        "x" : 0.13023257529588694,
+        "y" : 0.85155555566872798
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "① when I was a kid처럼 특정한 과거의 시점을 말하는 것은 아니다. 왜냐하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026780117458767405,
+        "width" : 0.83533062622418086,
+        "x" : 0.10906327119455055,
+        "y" : 0.87515914029447428
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.070837166513339461,
+      "text" : "면 used to가 나타내고자 하는 것은 '이것은 과거의 일이며 지금은 아니다'이기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394619411824,
+        "width" : 0.039534883961039047,
+        "x" : 0.079069767525294418,
+        "y" : 0.92877906996863713
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.989247311827957,
+      "text" : "248"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 239,
+  "pdf_page_number" : 240
+}

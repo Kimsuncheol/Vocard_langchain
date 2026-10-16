@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024888888888888849,
+        "width" : 0.81670865145596583,
+        "x" : 0.069602263824219801,
+        "y" : 0.071111111467241139
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "\"'실제로 했든 안 했든, 이러한 능력을 가지고 있다'라는 의미와, '실제로 해 보고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023021762424045189,
+        "width" : 0.83081280101429333,
+        "x" : 0.053280094836541926,
+        "y" : 0.10059934517771607
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "서, ~할 수 있었다/성공했다'라는 의미 사이에는 분명히 차이가 있다. 그러한 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022906622144911015,
+        "width" : 0.83547808907248755,
+        "x" : 0.053244332805357703,
+        "y" : 0.12774004737698919
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "의 구분이 뚜렷한 것은 can의 과거형 could와 be able to의 과거형 was/were"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020222195095486173,
+        "width" : 0.13965661959214642,
+        "x" : 0.050821342297551683,
+        "y" : 0.15922029774435331
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "able to이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122281,
+        "width" : 0.060324826023795408,
+        "x" : 0.66821345693705825,
+        "y" : 0.19331395340306678
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "어렸을 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777892,
+        "width" : 0.52900231968272815,
+        "x" : 0.090487239114022663,
+        "y" : 0.20622222253366718
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "I could swim across the river when | was a kid."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.4037123159928756,
+        "x" : 0.10208815743143175,
+        "y" : 0.23110465135437519
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "어렸을 때, 나는 그 강을 헤엄쳐 건널 수 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016126615736219652,
+        "width" : 0.52900231968272815,
+        "x" : 0.10440835281429571,
+        "y" : 0.25422222182407639
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.4699853587115666,
+      "text" : "* 그 능력을 가지고 있었다는 말로, 실제로 했는지 아닌지는 알 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011656330532497927,
+        "width" : 0.03016241301189769,
+        "x" : 0.055684454630942112,
+        "y" : 0.30523255816364925
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.99378881987577639,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.7238978906111283,
+        "x" : 0.099767991932908279,
+        "y" : 0.3022222219420978
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "On that day, | was able to swim across the river for the frst time."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017485788133409175,
+        "width" : 0.48723897066983313,
+        "x" : 0.10208817117295191,
+        "y" : 0.32844444449884747
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그날, 나는 난생 처음으로 그 강을 헤엄쳐 건널 수 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014723514133029525,
+        "width" : 0.37354989485307177,
+        "x" : 0.10440834717465491,
+        "y" : 0.35155555541070016
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.44869215291750503,
+      "text" : "* 실제로 해 보고 성공하여, 실현되었다는 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.14849188111045142,
+        "x" : 0.13921113598189727,
+        "y" : 0.40533333322495246
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.96470588235294119,
+      "text" : "'부탁'과'허락'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021935401068793325,
+        "width" : 0.81670535694469115,
+        "x" : 0.069605561156424745,
+        "y" : 0.43895348805549883
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.04145077720207254,
+      "text" : "'마음만 먹으면 ~할 수 있다'라는 의미의 '능력'은 '부탁'의 의미로 다르게 사용되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.83294660394841968,
+        "x" : 0.053364284897339201,
+        "y" : 0.4665697670432718
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.030462184873949579,
+      "text" : "어 '~해도 될까요?라는 뜻으로 쓰이고, '허락'의 의미로도 사용되어 ~해도 되다'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.83294660394841979,
+        "x" : 0.053364282039711289,
+        "y" : 0.49273255834586838
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.037037037037037035,
+      "text" : "는 뜻으로 쓰인다. 그리고 \"~해도 된다. 그러니 빨리 하도록 해.\"라는 느낌의 '가벼"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022842493693033927,
+        "width" : 0.23528246446089313,
+        "x" : 0.055279933962175169,
+        "y" : 0.5223851740556279
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.23502304147465439,
+      "text" : "운 명령'으로도 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988371107313326,
+        "width" : 0.399071910164573,
+        "x" : 0.053364277052284297,
+        "y" : 0.57267441889765147
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.28663446054750402,
+      "text" : "예문 A: Can Icome in? 들어가도 될까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020375623914930641,
+        "width" : 0.29747555472634057,
+        "x" : 0.10183447046582796,
+        "y" : 0.60007349952756761
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "B: Sure youcan. 물론이지."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.78190257332541724,
+        "x" : 0.10440834200013573,
+        "y" : 0.62645348858661987
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.38374717832957111,
+      "text" : "* can의 부탁과 허락은 상하 관계가 느껴지지 않는다는 것이 가장 큰 특징이다. may는 상하 관계가 느껴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016003876580132359,
+        "width" : 0.74709978970614332,
+        "x" : 0.12296982649908089,
+        "y" : 0.6453333330696468
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.45171026156941652,
+      "text" : "지고, Wil/Would you ~?는 친한 사이에서 부탁할 때 주로 쓰인다. Can과 could가 가장 중립적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.66821345415982336,
+        "x" : 0.05336427049150793,
+        "y" : 0.69466666707701707
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.16438356164383561,
+      "text" : "예e We're done. You can go now. 끝났어. 넌 이제 돌아가도 좋아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018319940355088993,
+        "width" : 0.77978160164572974,
+        "x" : 0.10432176993330416,
+        "y" : 0.71838087004464168
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.42598509052183176,
+      "text" : "*가벼운 명령을 나타낸다. 명령문이나 You may ~에 비해 거만하거나 위압적인 느낌 없이 소탈한 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.041763340884988953,
+        "x" : 0.12064965193072394,
+        "y" : 0.73982558128948706
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.21428571428571427,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.66125288876620214,
+        "x" : 0.053364274758977454,
+        "y" : 0.78622222180376755
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.97366946778711483,
+      "text" : "• ~일 수 있다라는 판단 용법의 과거형: have +과거분사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021579905192057325,
+        "width" : 0.80760704387318005,
+        "x" : 0.074159529474455907,
+        "y" : 0.82350938271043828
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "can이 판단 용법으로 '~일 수 있다'의 의미로 사용될 때, could는 Can에 비해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0225806232028537,
+        "width" : 0.79834877360950818,
+        "x" : 0.048623335775170744,
+        "y" : 0.84880440302430915
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "'실현될 가능성이 낮다'라는 것을 나타낸다. 시간상 과거를 의미하지는 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.74477958679199219,
+        "x" : 0.074245937345354882,
+        "y" : 0.87936046531041234
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "시간상 과거를 나타낼 때는 can/could 뒤에 'have + 과거분사'를 붙인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.44547562165693805,
+        "x" : 0.46403713105088135,
+        "y" : 0.92877906998051307
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.90398818316100438,
+      "text" : "8장 동사 ② 조동사: 사실을 말하는가, 생각을 말하는가? 255"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 246,
+  "pdf_page_number" : 247
+}

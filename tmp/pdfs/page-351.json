@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024310629804964345,
+        "width" : 0.43628324161876336,
+        "x" : 0.044110252375894075,
+        "y" : 0.076676779120894212
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "때문에'용산행'은 for Yongsan인 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028222260589194192,
+        "width" : 0.81860204176469276,
+        "x" : 0.06039381750270912,
+        "y" : 0.1216425252460227
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.18253968253968253,
+      "text" : "'go to ~(~로 가다)'와 'head for ~(~로 향하다)'는 비슷한 의미로 들릴 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020549673649777001,
+        "width" : 0.058275060220198197,
+        "x" : 0.04428904318765578,
+        "y" : 0.15677590755451187
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024382615744064529,
+        "width" : 0.22740067135203967,
+        "x" : 0.33512622274865578,
+        "y" : 0.18345890393313946
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이미 도착한 상황으로, 용산행'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015292769939736828,
+        "width" : 0.12609352848746558,
+        "x" : 0.33555463423668463,
+        "y" : 0.20310942896835527
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이라 할 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014689372850794857,
+        "width" : 0.034965035590258542,
+        "x" : 0.5967365964073349,
+        "y" : 0.1975199292727442
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "용산"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010225914768458799,
+        "width" : 0.055944058028134513,
+        "x" : 0.50815850696106868,
+        "y" : 0.23250664324579629
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.609375,
+      "text" : "Tongsan"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030887911233150267,
+        "width" : 0.81422909823330969,
+        "x" : 0.067273199485179055,
+        "y" : 0.36286648373224051
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 옥스퍼드 영영사전을 찾아보면, go는 'to move or travel from one"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027464494122352301,
+        "width" : 0.83514898473566224,
+        "x" : 0.046260324551612358,
+        "y" : 0.39216477265816807
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "place to another(어느 한 장소에서 다른 어느 장소로 움직이거나 이동하다)'로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027598205343403515,
+        "width" : 0.8091194846413351,
+        "x" : 0.046458573389305015,
+        "y" : 0.41903773526639509
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "쓰여 있다. 즉, '도착'이라는 의미가 포함되어 있다. 따라서 go 뒤에는 10가 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02486765331879881,
+        "width" : 0.81118878451260645,
+        "x" : 0.069930081908420844,
+        "y" : 0.44767441898807081
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "한편 동사의 head를 찾아보면, 'to move in a particular direction(어느 특"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026488137730884764,
+        "width" : 0.83469468897039245,
+        "x" : 0.048851380712522013,
+        "y" : 0.47321013881992635
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "정 방향으로 움직이다)'으로 쓰여 있다. 방향만 표시되어 있을 뿐, '도착'의 의미는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020405482992437496,
+        "width" : 0.20745921134948733,
+        "x" : 0.04895104690249133,
+        "y" : 0.50575730755339632
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "포함되어 있지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024766024073422543,
+        "width" : 0.8138979998501864,
+        "x" : 0.069727661566050828,
+        "y" : 0.52944362305868564
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 She headed for the door.(그녀는 문으로 향했다.)처럼 head 뒤에는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020646204243094823,
+        "width" : 0.12599692561409692,
+        "x" : 0.046558646684695427,
+        "y" : 0.56089782807906097
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "for가 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029501784048426738,
+        "width" : 0.81647777557373047,
+        "x" : 0.067334428324287585,
+        "y" : 0.60885453033115833
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "head for의 예시에서 알 수 있듯이, 목표는 '방향'이라는 이미지와 밀접하게 결"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027823441423495576,
+        "width" : 0.8325846411965111,
+        "x" : 0.051052527398227229,
+        "y" : 0.63531317431410061
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "합된다. 한국어로 \"저쪽에 목표가 있으니, 그쪽을 향해라.\"라고 말할 때에도, '(목표"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028929150347375976,
+        "width" : 0.8350007317282937,
+        "x" : 0.048705547901642679,
+        "y" : 0.66318196988807121
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "가 있는) 저쪽 방향으로(for)'라고 할 수 있다. 이 의미에서 for는 ~(전)용'이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021017415846629528,
+        "width" : 0.17967902530323376,
+        "x" : 0.051186128345938234,
+        "y" : 0.69588664088629104
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "의미로 확장된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021022732433119695,
+        "width" : 0.78339698097922594,
+        "x" : 0.051176594941991158,
+        "y" : 0.74199108055545282
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.13973799126637554,
+      "text" : "예e This book is for children under 10. 이책은 10세 미만의 어린이용입니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016695686522788744,
+        "width" : 0.47343288768421521,
+        "x" : 0.10011527130975315,
+        "y" : 0.7679515901888172
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.26973684210526316,
+      "text" : "* 책의 내용이 '어느 방향을 향해' 쓰인 것인가를 설명하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021801189155679968,
+        "width" : 0.57841058210893104,
+        "x" : 0.053431056355448495,
+        "y" : 0.78921914481742184
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.21664275466284075,
+      "text" : "예e For your eyes only. (기밀이기 때문에) 당신만 보세요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017416263914826313,
+        "width" : 0.58529923178932886,
+        "x" : 0.10245647092607311,
+        "y" : 0.81482400913999764
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.25825825825825827,
+      "text" : "- 당신의 눈만을 '향한' 것으로, 당신만 읽을 수 있는 편지나 기밀문서를 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014859668336366538,
+        "width" : 0.43611712889237836,
+        "x" : 0.47541486408149519,
+        "y" : 0.92718883754489467
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.9363636363636364,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 363"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 351,
+  "pdf_page_number" : 352
+}

@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022006384955512104,
+        "width" : 0.59425399455618355,
+        "x" : 0.10425682620072495,
+        "y" : 0.074015677459547513
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "My wallet was not to be found. 내지갑을 찾을 수 없었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017878529866536375,
+        "width" : 0.46429019143395389,
+        "x" : 0.10892819098209885,
+        "y" : 0.1013738285678063
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.41176470588235292,
+      "text" : "* \"내 지갑이 발견된다는 상태에 도달하지 못했다.\"가 직역이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.078886310766774714,
+        "x" : 0.14849187939039454,
+        "y" : 0.15688888930298162
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.94618834080717484,
+      "text" : "④ 의도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025977725558810727,
+        "width" : 0.81000742810837778,
+        "x" : 0.078743782159488865,
+        "y" : 0.18816949685049744
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이 표현은 if를 사용해서 'If+S+be동사+1O (do ~)' 형식을 취하는데, 직역하면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021856589423285611,
+        "width" : 0.83758700756316495,
+        "x" : 0.053364268723245824,
+        "y" : 0.21947674408443052
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "'만약 S가 do하는 것을 향하고 있다면'이라고 할 수 있다. 때로는 실제로 원하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537357,
+        "width" : 0.83294660419437061,
+        "x" : 0.058004656127623289,
+        "y" : 0.24709302315138215
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "대로 되지는 않을 것이라고 설교하는 것 같은 느낌도 있다. 익숙한 형태로 해석하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02184496137830938,
+        "width" : 0.83294660419437061,
+        "x" : 0.058004656087294854,
+        "y" : 0.27466666662247796
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "면 '만약 S가 do하려면'이 된다. 그런데 '의도'라는 의미가 be to 부정사 안에 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02557201215955951,
+        "width" : 0.83091478280141851,
+        "x" : 0.057853051617070918,
+        "y" : 0.29882072827267359
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "기보다, 결과적으로 '의도'로 해석이 가능할 뿐이다. 결과를 나타내는 절에는 반드"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023571887546115389,
+        "width" : 0.52462106258311181,
+        "x" : 0.057897348176060306,
+        "y" : 0.32677261097259225
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "시 '조언'하는 말이 오므로 설교하는 듯한 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.63573084621564713,
+        "x" : 0.058004646424750339,
+        "y" : 0.37777777737818607
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.10545454545454545,
+      "text" : "예문 Ifyou are to be successful, you need to work harder."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016058140224880613,
+        "width" : 0.45243621176861704,
+        "x" : 0.10672853019457783,
+        "y" : 0.40399999963907096
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "직역: 만약 네가 성공을 향해 가고 있는 상태라면 ..."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023853897094726517,
+        "width" : 0.43658386663342197,
+        "x" : 0.12978848514164343,
+        "y" : 0.42351365355075687
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "-•만약 네가 성공하려면, 좀 더 열심히 노력해야 해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017478036668565622,
+        "width" : 0.16937355420268174,
+        "x" : 0.11600927849559813,
+        "y" : 0.4767441859523549
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.95478723404255317,
+      "text" : "- ⑤ 의무·명령"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021874677022298172,
+        "width" : 0.81206496218417556,
+        "x" : 0.078886312340575637,
+        "y" : 0.51155555563003441
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "주어는 반드시 you이다. 상대방에게 면전에서 '너는 ~하는 것을 향해 맞춰져 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02247534857855904,
+        "width" : 0.58955900584552312,
+        "x" : 0.060220284433312302,
+        "y" : 0.53716530434100751
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "는 상태이다'라는 뜻이, '~하라'라는 명령을 뜻하게 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.43851508823692376,
+        "x" : 0.058004636737589953,
+        "y" : 0.58844444412296115
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.16014234875444841,
+      "text" : "예문 You are to come to my office later."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.32250580483294544,
+        "x" : 0.1067285359808806,
+        "y" : 0.61466666695591976
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "당신은 나중에 내 사무실로 와야 해요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.49187933739195477,
+        "x" : 0.10904873473789724,
+        "y" : 0.63511111080804872
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.49667405764966743,
+      "text" : "- \"당신은 나중에 내 사무실에 오는 것에 맞춰져 있는 상태이다.\"가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014698966132269953,
+        "width" : 0.071925754411846177,
+        "x" : 0.12993039412735502,
+        "y" : 0.65552325600485462
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.35135135135135137,
+      "text" : "직역이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.008720930311414854,
+        "width" : 0.030162413576815927,
+        "x" : 0.61716937313231901,
+        "y" : 0.60029069759865306
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "아직"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013090439266628673,
+        "width" : 0.078886310766774659,
+        "x" : 0.61484918813666567,
+        "y" : 0.61046511612648868
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "10시인 데..."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.80974476049977828,
+        "x" : 0.07888632033049256,
+        "y" : 0.70203488391534163
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 표현은 회화에 사용되는 말은 아니지만, 경우에 따라서 비즈니스 문서나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020546512179904552,
+        "width" : 0.82830628740026591,
+        "x" : 0.060324814440558136,
+        "y" : 0.72799999981919206
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "영어 자격시험에 사용되기도 한다. 그리고 이 부분을 다룬 이유는 하나의 형태에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.83062648908466308,
+        "x" : 0.060324806385414077,
+        "y" : 0.75581395311092014
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "다양한 의미가 있는 점이 홍미롭기 때문이다. be to 부정사의 근본적인 의미를 파"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020547803243001317,
+        "width" : 0.75406035294769502,
+        "x" : 0.058004630092277659,
+        "y" : 0.78177777747571842
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "악한 후에, 각 용법의 형식을 파악하여 자유자재로 구사할 수 있도록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.42691412310228283,
+        "x" : 0.4872389981240326,
+        "y" : 0.92577777783424853
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.91121495327102808,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 177"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 170,
+  "pdf_page_number" : 171
+}

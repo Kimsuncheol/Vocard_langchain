@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027451524506021396,
+        "width" : 0.82877811945921986,
+        "x" : 0.0531292392687382,
+        "y" : 0.067739911461899283
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "된 의미의 말이라는 것에 주의하도록 한다. '하고 싶은 말부터 먼저 하는' 규칙이 작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025455515471410228,
+        "width" : 0.828683147024601,
+        "x" : 0.053191269032479921,
+        "y" : 0.09696574952866277
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "용하여, how beautiful이라는 덩어리부터 먼저 말하면 다음과 같은 문장이 완성"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020482965349199023,
+        "width" : 0.058004641701989129,
+        "x" : 0.05336426845957884,
+        "y" : 0.12777284857701576
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019079775332135229,
+        "width" : 0.30858468130125222,
+        "x" : 0.099767984128462606,
+        "y" : 0.17568766613432341
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.083333333333333329,
+      "text" : "How beautiful that girl is !"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017503765481916678,
+        "width" : 0.26218097226839543,
+        "x" : 0.42691415412102274,
+        "y" : 0.17435669960668232
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "저 소녀는 얼마나 아름다운가!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021741327185914261,
+        "width" : 0.8099798973570479,
+        "x" : 0.076447173823359971,
+        "y" : 0.22585865402915661
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "실제 대화에서 하고 싶은 말은 How beautiful!만으로 충분하기 때문에 that"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021948061268627916,
+        "width" : 0.32714616491439497,
+        "x" : 0.053364272798022923,
+        "y" : 0.25421472915655874
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "girl is는 생략되는 경우가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024806465209852635,
+        "width" : 0.81003850842198566,
+        "x" : 0.076430127826445052,
+        "y" : 0.30505282793161637
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "다음에 배울 내용은 what의 감탄문이다. 감탄문에 쓰이는 what도 very가 다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452794,
+        "width" : 0.32018562479222074,
+        "x" : 0.053364264089518672,
+        "y" : 0.33430232545293803
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "시 태어난 것이라고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941559,
+        "width" : 0.80742455881538122,
+        "x" : 0.076566142925150626,
+        "y" : 0.36024844711634185
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "그런데 여기에서 조금 독특한 점이 있다. how는 부사로, 감탄문에서 형용사(또"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024450989243406829,
+        "width" : 0.50614823145223853,
+        "x" : 0.055534199842450324,
+        "y" : 0.38780623951513182
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.2119205298013245,
+      "text" : "는 부사)를 강조하는데, 이와 달리 what은 명사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023873685415381374,
+        "width" : 0.45501721970578457,
+        "x" : 0.055526730484601522,
+        "y" : 0.41374663235119225
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "로, 감탄문에서 '(형용사+) 명사'를 강조한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021904211712814314,
+        "width" : 0.48723897731050536,
+        "x" : 0.076566126129485643,
+        "y" : 0.44321206711323224
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "즉, how는 모양을 나타내는 말(형용사, 부사)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027296205908192261,
+        "width" : 0.42511852075022166,
+        "x" : 0.055390777496825395,
+        "y" : 0.46792456343303845
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "과 잘 쓰이고, what은 명사와 잘 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020547450487869767,
+        "width" : 0.69837585882092201,
+        "x" : 0.078886316541823862,
+        "y" : 0.4968944100879491
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그러한 점에서 what을 사용하는 감탄문의 원래 문장은 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010352397028492333,
+        "width" : 0.034802784480101677,
+        "x" : 0.055684454511689303,
+        "y" : 0.55087209292508577
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.96992481203007519,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023370624328992395,
+        "width" : 0.30226674181349733,
+        "x" : 0.099501526276995877,
+        "y" : 0.54491677359645008
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "She is a very beautiful girl!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016043829727511283,
+        "width" : 0.26682135399351731,
+        "x" : 0.4129930351874383,
+        "y" : 0.54651162756502814
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 매우 아름다운 소녀야!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019602940583927198,
+        "width" : 0.77753629210992914,
+        "x" : 0.10661097435877502,
+        "y" : 0.56984300637852714
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.44732824427480916,
+      "text" : "* very 뒤에 beautiful girl과 같이 '형용사 + 명사'가 온다는 것에 주의하자. what은 형용사뿐만이 아니"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014711572093675906,
+        "width" : 0.15081205976770279,
+        "x" : 0.125290027221717,
+        "y" : 0.59139307872999514
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.25362318840579712,
+      "text" : "라 명사도 필요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024124646461845645,
+        "width" : 0.80773146609042545,
+        "x" : 0.078733296218823273,
+        "y" : 0.63624347772532297
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이제 very를 what으로 바꿔서 강조를 나타내도록 한다. 여기에서 강조되는 덩"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020562926751909405,
+        "width" : 0.20649652142896724,
+        "x" : 0.055684453797955176,
+        "y" : 0.66548358497994176
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "어리를 먼저 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.68909513865802297,
+        "x" : 0.055684449164199984,
+        "y" : 0.71206743538989081
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.089482858803021495,
+      "text" : "예e She is a what beautiful girl!'A what beautitul girl she is!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018939467584970449,
+        "width" : 0.78215072307180855,
+        "x" : 0.10428550807056047,
+        "y" : 0.73481693241316226
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.39874411302982732,
+      "text" : "•a what beautiful girl 중에서 가장 하고 싶은 말은 what이다. 따라서 아래 예문처럼 what부터 먼저 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014693516593330624,
+        "width" : 0.04408352628667303,
+        "x" : 0.12761020885624164,
+        "y" : 0.75726744195183104
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.17857142857142858,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353247,
+        "width" : 0.37354987394725181,
+        "x" : 0.05568445968073419,
+        "y" : 0.80656610442087606
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.20626151012891344,
+      "text" : "예문 What a beautiful girl she is!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021850044365572252,
+        "width" : 0.80974476049977839,
+        "x" : 0.078886320374883717,
+        "y" : 0.85314995539389915
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "이 또한 how를 사용한 감탄문처럼, 일반 대화에서는 she is가 생략되어 흔히"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.46403713361591314,
+        "x" : 0.058004635075488226,
+        "y" : 0.88226744222325537
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "What a beautiful girl!이 되는 경우가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.40835268277648495,
+        "x" : 0.50580045679636898,
+        "y" : 0.92280390407296853
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.90374331550802134,
+      "text" : "12장 어순: 어순 자체가 나타내는 '심리'를 이해하라 395"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 382,
+  "pdf_page_number" : 383
+}

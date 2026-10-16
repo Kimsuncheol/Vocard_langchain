@@ -1,0 +1,70 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.077820562110501479,
+        "width" : 0.23404428468528371,
+        "x" : 0.14537831179196137,
+        "y" : 0.41176932074354511
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.1472,
+      "text" : "제 8장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.12828693542209679,
+        "width" : 0.45204342240137413,
+        "x" : 0.16436179558746872,
+        "y" : 0.42422811952471617
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "동사 ⑦ 조동사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.11812586813980008,
+        "width" : 0.48292115123559393,
+        "x" : 0.18979367134215736,
+        "y" : 0.47279411322603671
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.04236300038865138,
+      "text" : "사실을 말하는가,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.1254552385927622,
+        "width" : 0.49243982193317815,
+        "x" : 0.20945771428332624,
+        "y" : 0.51442365157162928
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.63133521996398245,
+      "text" : "생각을 말하는가?"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 216,
+  "pdf_page_number" : 217
+}

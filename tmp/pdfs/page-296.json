@@ -1,0 +1,520 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023404556661313913,
+        "width" : 0.18839218399741431,
+        "x" : 0.11578070604694078,
+        "y" : 0.073326790993543889
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "고 인식해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02390375850039439,
+        "width" : 0.80999010259454907,
+        "x" : 0.13677222830543878,
+        "y" : 0.10012718614529481
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.09927611168562564,
+      "text" : "all이 셋 이상의 여럿 전체를 말하면, both는 둘인 경우로 '둘 다 모두'를 뜻하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023338574955896196,
+        "width" : 0.83062640103426844,
+        "x" : 0.11600930918897555,
+        "y" : 0.12790697694502229
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "말이다. 즉, '(둘뿐인 상황에서) 둘 다 모두'를 뜻한다. not all이 '전부가 ~인 것은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028433911740992079,
+        "width" : 0.83329781618985277,
+        "x" : 0.11581118206895163,
+        "y" : 0.15383493733490894
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.1351063829787234,
+      "text" : "아니다'라는 부분 부정이듯이, not both는 '둘 다 ~인 것은 아니다', 다시 말해 '한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024962435413509843,
+        "width" : 0.28411685336719855,
+        "x" : 0.11552143861380747,
+        "y" : 0.18161091163399279
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "쪽은~이다'라는 뜻이 된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024350534554478109,
+        "width" : 0.81477329947731714,
+        "x" : 0.13203604418936071,
+        "y" : 0.20995158448080109
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.14891518737672585,
+      "text" : "'둘다 ~이 아니다'라고 전체 부정을 나타내고자 할 때는 not either를 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022279284602806704,
+        "width" : 0.5988742654973811,
+        "x" : 0.11586950373452981,
+        "y" : 0.23822535393488764
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.13050570962479607,
+      "text" : "한다. either는 '(둘 중) 어느 하나의'로 해석되는데, 조금 더"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015838012152295078,
+        "width" : 0.088296202096072141,
+        "x" : 0.74588310133949998,
+        "y" : 0.24214113845411156
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "either AorB"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023203179505371985,
+        "width" : 0.60121809352527966,
+        "x" : 0.11355032777451698,
+        "y" : 0.26390845994373635
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "자세히 말하면 '둘 중 어느 한쪽으로 눈을 돌리다'라는 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021905776868935689,
+        "width" : 0.600928089835427,
+        "x" : 0.1136890867338798,
+        "y" : 0.29215116292630428
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "미지가 있다. 아래 3개의 예문은 모두 미묘하게 의미가 달라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.60092804648659448,
+        "x" : 0.11368910615055437,
+        "y" : 0.31976744210975105
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "보이지만, 오른쪽 그림을 참고하면서 읽어 보면, 모두 공통"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.16009280898354272,
+        "x" : 0.75174013831565323,
+        "y" : 0.335755813953592
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "출중에 한족씩 보며, 두 쏙을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011721012855339774,
+        "width" : 0.16473318230022094,
+        "x" : 0.74941995165068509,
+        "y" : 0.3459302327388456
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "한 번에 시야에 담지는 않디"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023743403763957782,
+        "width" : 0.44822020964189008,
+        "x" : 0.11348644156885386,
+        "y" : 0.34699561498661335
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "된 이미지에서 나온 의미인 것을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010174418683578157,
+        "width" : 0.03016241301189769,
+        "x" : 0.11368909500217179,
+        "y" : 0.42732558130963794
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019502064511445094,
+        "width" : 0.18687753243879837,
+        "x" : 0.15717925333614777,
+        "y" : 0.39640486373938577
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.0022883295194508009,
+      "text" : "Take either one."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023159397030216189,
+        "width" : 0.24710607528686529,
+        "x" : 0.35913619390735169,
+        "y" : 0.39421046900639256
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "(둘 중) 어느 하나를 가져라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017483240344770445,
+        "width" : 0.18561484596946021,
+        "x" : 0.16009280891305461,
+        "y" : 0.42437722446358606
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "Either one is OK."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021700719921614375,
+        "width" : 0.23771983926946466,
+        "x" : 0.35225808861132396,
+        "y" : 0.42184175690243775
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "둘 중아무거나 괜찮아요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023725160924565336,
+        "width" : 0.4763894514604049,
+        "x" : 0.15745221517826494,
+        "y" : 0.44915653726304872
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.001557632398753894,
+      "text" : "Either side of the street was full of people."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023164779690236892,
+        "width" : 0.25884784351695667,
+        "x" : 0.15724117188589004,
+        "y" : 0.47413649922566592
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "길 양쪽이 사람들로 가득했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.80974474820223719,
+        "x" : 0.1322505956151537,
+        "y" : 0.52616279108876407
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "한쪽씩 눈을 돌리는 either의 이미지를 알게 되면, 결과적으로 이 표현이 '어느"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026304300993787,
+        "width" : 0.83112898739901464,
+        "x" : 0.11111630309899825,
+        "y" : 0.55161357401856559
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "쪽이든'을 나타내며 both와 같은 '(두 개) 양쪽의'라는 의미도 나타낼 수 있음을 알"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024144188789286147,
+        "width" : 0.83310942216352979,
+        "x" : 0.10897659373897607,
+        "y" : 0.57909444950241473
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.18712029161603888,
+      "text" : "수 있다. 이제, 이 either에 not을 붙이면 '어느 쪽으로 눈을 돌려도 not'이라는 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025460704789891264,
+        "width" : 0.55499926480379969,
+        "x" : 0.10886599021588982,
+        "y" : 0.60545512833008663
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "미가 되고, '둘 다 not'이라는 전체 부정의 의미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012010676156583688,
+        "width" : 0.034802783619273803,
+        "x" : 0.11136890967739116,
+        "y" : 0.65969750895246748
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 25,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02118027846584114,
+        "width" : 0.53390333869240503,
+        "x" : 0.14373561729522988,
+        "y" : 0.65685805335956526
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "I don't like either of them. 난 둘다 좋아하지 않아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025463200973022015,
+        "width" : 0.81490039825439453,
+        "x" : 0.12499793123866217,
+        "y" : 0.69903892399620304
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "'~도 역시 그렇다'라고 말할 때, 긍정문에는 문장 끝에 too를 붙이는데, 부정문의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025598261279991985,
+        "width" : 0.8354751413518734,
+        "x" : 0.10662479806382268,
+        "y" : 0.72562358006195549
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "경우에는 문장 끝에 either를 붙인다. 이 또한 '어느 한쪽을 봐도 not'이라는 not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024438623855970953,
+        "width" : 0.39520224657925695,
+        "x" : 0.10642472235190571,
+        "y" : 0.75335616015152385
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "either의 느낌을 알 수 있는 부분이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.5846867561340332,
+        "x" : 0.14617170298004806,
+        "y" : 0.80516014220535426
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "I don't like broccoli and my brother doesn't, either."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016024580205462602,
+        "width" : 0.40603247555819422,
+        "x" : 0.15545243959704591,
+        "y" : 0.83139534889170197
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "난 브로콜리를 좋아하지 않고 우리 형도 그렇다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01468488839173232,
+        "width" : 0.44315546209161932,
+        "x" : 0.1577726168719556,
+        "y" : 0.85319767423688975
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0.59771986970684043,
+      "text" : "- '내 쪽을 봐도 not like이고, '우리 형' 쪽을 봐도 not이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011700322619536574,
+        "width" : 0.037122970277612868,
+        "x" : 0.076566124954000975,
+        "y" : 0.93016014226308796
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 1,
+      "text" : "306"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 296,
+  "pdf_page_number" : 297
+}

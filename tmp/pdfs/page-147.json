@@ -1,0 +1,520 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024740405612521665,
+        "width" : 0.25322315405446583,
+        "x" : 0.081085301172742527,
+        "y" : 0.066183210166568474
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "자, 그러면 \"흥분하세요.\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.3921113575603945,
+        "x" : 0.081206502077555295,
+        "y" : 0.09733333348476636
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이 말을 듣고 흥분하는 것은 무리이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011642118665907142,
+        "width" : 0.032482599028458847,
+        "x" : 0.77958236623139399,
+        "y" : 0.091555555611129491
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "그래,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888888351,
+        "width" : 0.053364270798703428,
+        "x" : 0.76798143757048576,
+        "y" : 0.10311111124986616
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이제부터"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0119999999999999,
+        "width" : 0.060324827153631966,
+        "x" : 0.76334106659023748,
+        "y" : 0.11466666668283931
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "놀라야지!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02580101352267794,
+        "width" : 0.44810513976617905,
+        "x" : 0.078773443735060678,
+        "y" : 0.12057672510096307
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "\"지루해하세요. / 만족하세요. /실망하세요.\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.027842228125173119,
+        "x" : 0.61716937307327313,
+        "y" : 0.12044444435205581
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "딸꾹"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.027842228125173119,
+        "x" : 0.61716937306038333,
+        "y" : 0.13226744173591554
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "딸꾹"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021698276095920122,
+        "width" : 0.54544902828568254,
+        "x" : 0.08110457541127257,
+        "y" : 0.14987163415411775
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 말을 듣고 감정을 느끼는 것은 모두 어렵다는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888889461,
+        "width" : 0.032482596322999768,
+        "x" : 0.75406032581375138,
+        "y" : 0.16133333338512645
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "무리일"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0089173126220702947,
+        "width" : 0.027842228125173119,
+        "x" : 0.75406032432593906,
+        "y" : 0.17422222226143846
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "텐데"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022643186781141522,
+        "width" : 0.17196076305200023,
+        "x" : 0.062511497719135722,
+        "y" : 0.17835863914723216
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "것을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052196417914498,
+        "width" : 0.80974476049977828,
+        "x" : 0.081206505950279603,
+        "y" : 0.20622222223885323
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "그 이유는 무엇일까? 이는 원인이 없기 때문이다. 놀랄 만한 원인이 없는데 스스"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.83294660419437061,
+        "x" : 0.060324841640071174,
+        "y" : 0.23401162752932381
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "로 놀라는 것은 무리이다. 앞에 제시된 그 외의 감정도 마찬가지이다. 원인이 없으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02197674391004778,
+        "width" : 0.67053365504488038,
+        "x" : 0.062645006292265049,
+        "y" : 0.26000000033697956
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "면 성립할 수 없는 감정으로, 영어의 느낌으로 말하면 아래와 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023275193956163287,
+        "width" : 0.69141529705507532,
+        "x" : 0.085846875697929786,
+        "y" : 0.30666666632297535
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "어떤 원인이 당신을 '놀라게 하다', '홍분시키다', 만족시키다', '실망시키다'로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.2296983651235594,
+        "x" : 0.085846873001676136,
+        "y" : 0.33720930251256453
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "말하는 것이 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020531008402506434,
+        "width" : 0.80742455881538122,
+        "x" : 0.083526699822351502,
+        "y" : 0.39680232518798408
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "반대로 한국어를 공부하는 유럽인과 미국인은 '놀라다'나 '흥분하다'라는 말투를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026619400024413986,
+        "width" : 0.83334554036458341,
+        "x" : 0.060123050525047551,
+        "y" : 0.42111015430312904
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "어색하다고 생각할 수 있다. 이러한 표현을 보고 '이유 없이 혼자 놀라고 흥분할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021837209065755148,
+        "width" : 0.34570764852753766,
+        "x" : 0.060324829910919739,
+        "y" : 0.45200000032741006
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "있는가?'라는 의문을 가질 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.81206496218417568,
+        "x" : 0.08120649791023242,
+        "y" : 0.50711111152236288
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 동사가 가지는 힘의 흐름은 다음과 같다. 모두 '어떤 원인이 사람에게 감"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026452087402343727,
+        "width" : 0.30704456085854381,
+        "x" : 0.060022144642207557,
+        "y" : 0.52890763373802963
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "정을 일으키게 하는' 형태이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017475451999240499,
+        "width" : 0.31786542310782356,
+        "x" : 0.060324828908675243,
+        "y" : 0.58430232549163741
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.33549083063646168,
+      "text" : "예문 The news surprises me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017475451999240499,
+        "width" : 0.24825987038037461,
+        "x" : 0.47099767489913985,
+        "y" : 0.58430232549381755
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "그 소식이 나를 놀라게 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.29002319768810952,
+        "x" : 0.064965199154479861,
+        "y" : 0.64088888896086071
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.22461928934010153,
+      "text" : "예문 Tne report excites Us."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.26450115230912014,
+        "x" : 0.47099768362788491,
+        "y" : 0.63808139553370957
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "그 보고가 우리를 흥분시킨다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026361757066514779,
+        "width" : 0.30858468130125222,
+        "x" : 0.06032482859572065,
+        "y" : 0.69186046498651899
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.26384364820846906,
+      "text" : "mB The results satisty her."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019161857604980459,
+        "width" : 0.26270325572778142,
+        "x" : 0.47076411907052784,
+        "y" : 0.69167728832100051
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "그 결과가 그녀를 만족시킨다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020534883287217864,
+        "width" : 0.38515079579454786,
+        "x" : 0.05800464627325972,
+        "y" : 0.74399999983339138
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.25910245554614736,
+      "text" : "Ce What he did disappoints me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019185535007053001,
+        "width" : 0.28588613956532583,
+        "x" : 0.47078355517840298,
+        "y" : 0.74544113960273128
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "그가 한 행동이 나를 실망시킨다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.52668214622118792,
+        "x" : 0.055684448804340592,
+        "y" : 0.79941860482256566
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.96712689020381326,
+      "text" : "• 현재분사(ing), 과거분사는 형용사로 취급"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.80974476049977839,
+        "x" : 0.078886320505499485,
+        "y" : 0.83555555580351859
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "앞에 언급된 동사들이 'bbe동사 +현재분사(-ing)'나 'be동사+과거분사(-ed)' 형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022852700975206197,
+        "width" : 0.82845441669437059,
+        "x" : 0.060259811747055983,
+        "y" : 0.86321818357740188
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "태로 쓰일 때, 각 분사는 형용사로 취급된다. 앞에서 설명했듯이 형용사는 '변하지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.35962877205923094,
+        "x" : 0.55452436097259938,
+        "y" : 0.92296511621497201
+      },
+      "confidence" : 0.5,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0.82967032967032972,
+      "text" : "5장 동사 ④ 과거분사: 이미지부터 이해하자 153"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 147,
+  "pdf_page_number" : 148
+}

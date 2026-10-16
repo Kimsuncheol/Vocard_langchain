@@ -1,0 +1,235 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.51740139180963696,
+        "x" : 0.15081206499951688,
+        "y" : 0.20774021375452922
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.98230668414154654,
+      "text" : "'무작위, 랜덤'을 의미하는 any는 can과 잘 쓰인다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02460959627959225,
+        "width" : 0.80992386557839136,
+        "x" : 0.081135915598492189,
+        "y" : 0.24517537216095109
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, You can take any bus to get there.(거기에 가려면 아무 버스나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021807498354928789,
+        "width" : 0.43851509961214941,
+        "x" : 0.062645002280180204,
+        "y" : 0.27179715264401838
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "타도 돼요.)는 지극히 자연스러운 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026171504390621547,
+        "width" : 0.81005191802978505,
+        "x" : 0.081063967180464616,
+        "y" : 0.29616504378834629
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "can은 '(마음만 먹으면)~할 수 있다'라는 '가능성'을 나타내는 말이다. '가능성"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024050880581458545,
+        "width" : 0.8354034423828125,
+        "x" : 0.060244596662370628,
+        "y" : 0.32545774868349753
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이란 '아직 정해지지 않은 것'이기 때문에 무작위, 랜덤을 뜻하는 any와 can을 함"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.31090487133372913,
+        "x" : 0.060324826394417788,
+        "y" : 0.35453736661889468
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "께 사용하는 것은 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988537812148157,
+        "width" : 0.81206495111638843,
+        "x" : 0.083526689040288982,
+        "y" : 0.40969750853796782
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "한편, 실제로 행한 구체적인 한 번의 행위를 가리켜, I took any bus to get"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026022917859495065,
+        "width" : 0.83790440992875526,
+        "x" : 0.057851415935477893,
+        "y" : 0.43367434850635056
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "there yesterday morning.(난 어제 아침에 그곳에 가기 위해 아무 버스나 탔어.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02470930275967953,
+        "width" : 0.83294660394841968,
+        "x" : 0.060324842015670767,
+        "y" : 0.46075581372155405
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이라고 말하는 것은 부자연스럽다. 무작위라는 것은 '정해져 있지 않은' 것이다. 구"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025797798116012016,
+        "width" : 0.8308443589643999,
+        "x" : 0.062538684999389069,
+        "y" : 0.4874089051104864
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "체적으로 한 번 실제 실행했다는 것은 '결정했다'라는 것을 의미하기 때문에 any를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020828606819342843,
+        "width" : 0.16720070622184061,
+        "x" : 0.060251154890212426,
+        "y" : 0.51865546401594798
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "사용할 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024036757886621851,
+        "width" : 0.81465998562899511,
+        "x" : 0.081064939612433495,
+        "y" : 0.57273342109104164
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "일단 아무 버스나 오는 버스를 탔다면, I took a bus to get there yesterday"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027756270988980258,
+        "width" : 0.83328307758678088,
+        "x" : 0.057842891427417081,
+        "y" : 0.59721523703178836
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "morning,이라고 말할 수 있다. a가 가진, '아무 것이든 1개를 (실제로) 꺼내는' 느"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022004055382942367,
+        "width" : 0.25058005072853778,
+        "x" : 0.060324823702921797,
+        "y" : 0.62790697689091635
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "낌이 여기에서 나타난다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016852644414664164,
+        "width" : 0.38077519156716089,
+        "x" : 0.53349931996862243,
+        "y" : 0.93012812447522886
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.92045454545454541,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 295"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 285,
+  "pdf_page_number" : 286
+}

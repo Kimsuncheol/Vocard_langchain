@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.036817116245256187,
+        "width" : 0.13254007109513516,
+        "x" : 0.12460630616102024,
+        "y" : 0.09045686072365311
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9982238010657194,
+      "text" : "Must 25"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033538855691821579,
+        "width" : 0.65509258297318262,
+        "x" : 0.1296296343087677,
+        "y" : 0.13372093058082235
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99931594698589143,
+      "text" : "MEGAFEPS -ing 암기하지 마라! ①:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030740503738783453,
+        "width" : 0.18055555194827683,
+        "x" : 0.12962963137791472,
+        "y" : 0.16548042657898765
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99963675989829281,
+      "text" : "to 부정사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020648829029124016,
+        "width" : 0.24361167528950572,
+        "x" : 0.12704105863237258,
+        "y" : 0.21329125947831462
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 1,
+      "text" : "•-'가 만들어 내는 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024250072092348196,
+        "width" : 0.81283357227947695,
+        "x" : 0.12485081069122302,
+        "y" : 0.30808008678129406
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "사람들이 영어를 암기 과목으로 생각하는 이유 중 하나는 이른바 'MEGAFEPS'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022118534481822438,
+        "width" : 0.17139811414353395,
+        "x" : 0.10180094313109757,
+        "y" : 0.33705119780760984
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "라는 것이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023649633142871829,
+        "width" : 0.81040350731382993,
+        "x" : 0.12258549368155082,
+        "y" : 0.36329471915883871
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "MEGAFEPS란 동사 뒤에 오는 목적어가 to 부정사가 되어야 하는지, 동명사가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026290717074031189,
+        "width" : 0.83136921334773939,
+        "x" : 0.10398039356037692,
+        "y" : 0.39120616050390455
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "되어야 하는지를 판단할 때 'mind, enjoy, give up. avoid, finish, eseape, put"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023266158494236633,
+        "width" : 0.83101849927969873,
+        "x" : 0.10185185874308714,
+        "y" : 0.41859430606129466
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "off(postpone), stop'과 같은 동사의 목적어에는 동명사 -ing가 온다는 것을 기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021967847152112641,
+        "width" : 0.54166666666666674,
+        "x" : 0.10416666654990174,
+        "y" : 0.4475088968712565
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "억하기 위해 각 동사의 첫 글자를 따서 배열한 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024057831204234437,
+        "width" : 0.64374619071365236,
+        "x" : 0.12490550393056496,
+        "y" : 0.499230282110665
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "물론 외국어를 공부하기 위해서 '암기'하는 일을 피할 수는 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021838533496517321,
+        "width" : 0.81018516594636525,
+        "x" : 0.12268519576910136,
+        "y" : 0.52758007081510561
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 '무엇이든 통으로 달달 외우는 것'과 '효율적으로 외우는 것'은 분명히"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022294562058092438,
+        "width" : 0.15757923532039564,
+        "x" : 0.1017659377757766,
+        "y" : 0.55643992825410993
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "다른 개념이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.81018516594636525,
+        "x" : 0.12500000950299633,
+        "y" : 0.58575581363503415
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서는 조금 더 직감적으로 이 규칙을 잘 사용할 수 있도록 to 부정사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021978192482130399,
+        "width" : 0.82870366522606387,
+        "x" : 0.10416668578670892,
+        "y" : 0.6119186048058386
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "와 동명사의 이미지를 파악하고 스스로 구분하여 사용할 수 있도록 하자. 그렇게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022696254092179236,
+        "width" : 0.6668548800421098,
+        "x" : 0.10177673398241936,
+        "y" : 0.63722927491829018
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "되면 '규칙을 따르는 것'에서 벗어나 '규칙을 활용'하게 될 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02051435925358136,
+        "width" : 0.400462958153258,
+        "x" : 0.10185185414026636,
+        "y" : 0.69750889663316995
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.98761183757742599,
+      "text" : "• to 부정사 ①: 앞으로 향하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025965695703581093,
+        "width" : 0.81049579593306731,
+        "x" : 0.12020983557339789,
+        "y" : 0.74299784899204413
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "t0의 어원은 방향을 나타내는 '_'이다. 하지만 '-'를 어느 방향에서 보느냐에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.40509258297318268,
+        "x" : 0.10185185654581604,
+        "y" : 0.77470930200434862
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "따라 의미가 크게 2가지로 나뉠 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024420529497900079,
+        "width" : 0.57917679590536342,
+        "x" : 0.12249362619574151,
+        "y" : 0.79832595782207139
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "하나는 '앞으로 향하다'이고, 다른 하나는 '도달하다'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906582109437,
+        "width" : 0.041666666666666657,
+        "x" : 0.069444444328703725,
+        "y" : 0.92877906992842185
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.9850746268656716,
+      "text" : "118"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 113,
+  "pdf_page_number" : 114
+}

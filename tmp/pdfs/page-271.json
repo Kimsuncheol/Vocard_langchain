@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026176689995659808,
+        "width" : 0.81221381100741297,
+        "x" : 0.081125454332425365,
+        "y" : 0.069588788278323932
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 '생선이라는 성질'만을 가진 살점이 된다. 생선살은 아무리 잘라도 생선살"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024126782735188868,
+        "width" : 0.7681290019642224,
+        "x" : 0.060234153765519931,
+        "y" : 0.09878051869999338
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 즉, 생선 토막은 불가산 명사이다. 그러므로 a fish의 2가 빠진 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.81206495111638843,
+        "x" : 0.078886317996408717,
+        "y" : 0.12645348798890088
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "a가 없어졌다는 것은 통째로 된 1개의 형태가 무너져 없어졌다는 의미이기도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025313149346245623,
+        "width" : 0.83081522854891687,
+        "x" : 0.060238940295565868,
+        "y" : 0.15242973407745908
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "하다. '형태가 아닌, 재질로 인식하다'라는 선언이기도 하다. some fish는 '어느 정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027090092129177457,
+        "width" : 0.48301055214621802,
+        "x" : 0.060078372934643264,
+        "y" : 0.17945190521007703
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "도 양(개수가 아님을 주의)의 생선살'을 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049870808919263,
+        "width" : 0.45243618705055921,
+        "x" : 0.064965201057915589,
+        "y" : 0.23822222251066782
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.98335974643423141,
+      "text" : "00 가산 명사 암기 리스트는 필요 없다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.80974474820223707,
+        "x" : 0.081206511919763122,
+        "y" : 0.27180232582891106
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이쯤에서 깨닫기를 바라는 것이 있다. 'A라는 명사는 가산 명사, B라는 명사는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024905685424804647,
+        "width" : 0.83062648773193359,
+        "x" : 0.06264499269559419,
+        "y" : 0.30087209262492109
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "불가산 명사'라는 식으로 '가산 명사의 리스트', '불가산 명사의 리스트'를 모두 암"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022782801310221257,
+        "width" : 0.41103076934814453,
+        "x" : 0.060170859042478236,
+        "y" : 0.32757794172444177
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "기하는 것은 합리적이지 않다는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023111803690592514,
+        "width" : 0.81234689192338427,
+        "x" : 0.081066083156181926,
+        "y" : 0.35478705514179909
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "동일한 사물이라도, 인간이 어떻게 보느냐에 따라서 가산 명사로 볼 수 있고, 불"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021967700534396561,
+        "width" : 0.27378190647472034,
+        "x" : 0.060324824216836159,
+        "y" : 0.38355555534053765
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "가산 명사로도 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.81206495111638866,
+        "x" : 0.081206503444796449,
+        "y" : 0.43895348799458267
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "가산, 불가산은 인간의 인지 능력을 반영한 문법이다. 사물에 가산, 불가산의 속"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029407877604166632,
+        "width" : 0.83343505859375,
+        "x" : 0.060101358549958857,
+        "y" : 0.46043838748888688
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "성이 있는 것이 아니라, 그 '사물'을 인간이 어떻게 인식하는지가 가산, 불가산을 결"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020480620490180068,
+        "width" : 0.081206495111638841,
+        "x" : 0.060324826561681408,
+        "y" : 0.49418604610072103
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "정한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027333376566568979,
+        "width" : 0.81236830624667067,
+        "x" : 0.081065401623565958,
+        "y" : 0.51656167972256162
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "다르게 말하면, '동일한 모양을 가진 부류'인가, 아니면 '동일한 재질을 가진 부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02563914320203986,
+        "width" : 0.83080664548006933,
+        "x" : 0.062552727873689651,
+        "y" : 0.54498707968434168
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "류'인가를 생각하여 사물을 인식하는 것이다. 이는 '형태가 같은 부류' '재질이 같은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026396133422851631,
+        "width" : 0.44388987801291729,
+        "x" : 0.062312891810751433,
+        "y" : 0.57224204445175997
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "부류'중 어느 쪽에 주목하는가를 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02367578803168402,
+        "width" : 0.43657289851795544,
+        "x" : 0.076391909719439197,
+        "y" : 0.6275458123999742
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "'형태'와 '재질'에 대해 좀 더 이야기해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023629801432291764,
+        "width" : 0.26516877521168103,
+        "x" : 0.07624516670134375,
+        "y" : 0.65524999587273958
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "돌'은 영어로 stone이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023284237331814284,
+        "width" : 0.81206495111638843,
+        "x" : 0.081206503316611556,
+        "y" : 0.68311111131835744
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, \"그가 나에게 돌을 던졌다.\"라는 문장의 장면을 떠올릴 때, 하나의 윤"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021891472710503512,
+        "width" : 0.62412990223277698,
+        "x" : 0.060324839119497126,
+        "y" : 0.71066666674126522
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "곽이 드러나는 통째로 된 '돌'이 날아오는 것을 떠올릴 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026695961846245675,
+        "width" : 0.81239119443026464,
+        "x" : 0.081038371389246688,
+        "y" : 0.73493154212236722
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이는 돌을 '형태'로 파악한다는 것을 의미하여, 아래와 같은 문장을 완성할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.060324826023795394,
+        "x" : 0.060324825967220636,
+        "y" : 0.76577777766147537
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019793828328450558,
+        "width" : 0.31866266510703345,
+        "x" : 0.062273756705841503,
+        "y" : 0.81410052150595635
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.20446096654275092,
+      "text" : "예문 He threw a stone at me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.8097447482022373,
+        "x" : 0.083526697582143955,
+        "y" : 0.8648255809924853
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "한편, \"이 건물은 돌로 만들어져 있어.\"라는 문장의 장면을 떠올릴 때. 건물의 윤"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.37819025733254175,
+        "x" : 0.53828306147365657,
+        "y" : 0.92711111099864563
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.90812720848056538,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 281"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 271,
+  "pdf_page_number" : 272
+}

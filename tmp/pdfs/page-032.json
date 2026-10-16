@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024203303019205702,
+        "width" : 0.80246834412908763,
+        "x" : 0.094160162508832329,
+        "y" : 0.06776032815187516
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "일반적인 설명 방법은 '뒤에 목적어가 필요하지 않으면 자동사', '뒤에 목적어가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02469072977701825,
+        "width" : 0.23051326016668866,
+        "x" : 0.073340448473568354,
+        "y" : 0.094794160222774093
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "필요하면 타동사'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020459949069552952,
+        "width" : 0.8022988878724947,
+        "x" : 0.094252854819924417,
+        "y" : 0.1248888885108228
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 이러한 표면적인 형태와 패턴으로 구별하는 것은 이해하기 어려울 뿐 아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029784010145399331,
+        "width" : 0.82574746176160352,
+        "x" : 0.071042657871606935,
+        "y" : 0.14771075136911793
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "니라 이렇게 되는 이유에 대한 의문만 생긴다. 즉, '동사가 나타내는 마음을 알 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028289727952745203,
+        "width" : 0.82111033508043241,
+        "x" : 0.073349387585339113,
+        "y" : 0.1745184951101042
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "없다'는 것이다. 인간은 '마음'을 나타내고 싶어서 말하기 때문에 말에서 '마음'을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021928940667046426,
+        "width" : 0.57701147323586943,
+        "x" : 0.073563228782939236,
+        "y" : 0.2078488371062267
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "읽지 못하면 영어 학습은 단순한 암호 해독이 되고 만다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.37471263686983558,
+        "x" : 0.16321839409526365,
+        "y" : 0.26444444422164626
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.98149861239592973,
+      "text" : "동사가 나타내는 마음을 가시화하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023030821058485307,
+        "width" : 0.51522174733265202,
+        "x" : 0.094135620912031329,
+        "y" : 0.29824251459813822
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "자동사와 타동사가 나타내는 '마음'을 이해해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.28275862424182496,
+        "x" : 0.10804597511646888,
+        "y" : 0.35155555538962657
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.49122807017543857,
+      "text" : "동사란 주어에서나오는 함이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01752842373318142,
+        "width" : 0.75172417878098641,
+        "x" : 0.10804595647157578,
+        "y" : 0.37936046503473886
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.48335913312693496,
+      "text" : "자동사: 자신이 스스로 나아가는 움직임. 주어에서 나오는 힘이 주어 자신에게만 작용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.052873560480259985,
+        "x" : 0.17471264492018457,
+        "y" : 0.40697674433346398
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.74496644295302017,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.75172417878098641,
+        "x" : 0.10804595647157578,
+        "y" : 0.43459302317427384
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.48727015558698727,
+      "text" : "타동사: 자신에게서 나온 힘을 다른 것에 부딪쳐 나아가는 움직임. 주어에서 나오는 힘과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022448682996961788,
+        "width" : 0.28132616517916009,
+        "x" : 0.17434429232931259,
+        "y" : 0.45886308055523184
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.6329735034347399,
+      "text" : "부딪치는 '다른 것이 목적어이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021932816399468313,
+        "width" : 0.44827588130988488,
+        "x" : 0.094252863825357525,
+        "y" : 0.54651162780257623
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 언급한 예시를 영어로 바꿔 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.17931034393954379,
+        "x" : 0.14022988642103271,
+        "y" : 0.60888888879057024
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.33012820512820512,
+      "text" : "The dish broke"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.03678160880688372,
+        "x" : 0.17011494259760307,
+        "y" : 0.63226744201125362
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.43137254901960786,
+      "text" : "주어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.036781608806883692,
+        "x" : 0.26206896559655818,
+        "y" : 0.63372093012669639
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.72881355932203384,
+      "text" : "농사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.1333333376255384,
+        "x" : 0.34482758393934532,
+        "y" : 0.61046511588530306
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "접시가 깨졌어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888889461,
+        "width" : 0.032183908712008824,
+        "x" : 0.71954022943709905,
+        "y" : 0.63511111108463103
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.82432432432432434,
+      "text" : "깨다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888889461,
+        "width" : 0.057471263257762972,
+        "x" : 0.62298850619243518,
+        "y" : 0.67288888881978304
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.87254901960784315,
+      "text" : "깨지다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.025287354545754231,
+        "x" : 0.10114942606045621,
+        "y" : 0.69186046492632247
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01750646040174697,
+        "width" : 0.19540229293029185,
+        "x" : 0.14022988795554372,
+        "y" : 0.68888888849687724
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.21090909090909091,
+      "text" : "| broke the dish."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013399061414930524,
+        "width" : 0.080587717048226509,
+        "x" : 0.13556821032266977,
+        "y" : 0.71205046927256388
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.57377049180327866,
+      "text" : "주어 동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.052873560480259985,
+        "x" : 0.25057471390354813,
+        "y" : 0.71199999996729657
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.62068965517241381,
+      "text" : "목적어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01750646040174697,
+        "width" : 0.16091954356004418,
+        "x" : 0.35172413614570736,
+        "y" : 0.68888888850090224
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "나는 접시를 깼다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022193535698784683,
+        "width" : 0.80249873294106011,
+        "x" : 0.094149438498209143,
+        "y" : 0.76418833080882098
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "위의 문장에서는 주어 The dish에서 나온 동사 broke의 힘이 주어인 The"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021953488667805998,
+        "width" : 0.30804597878757911,
+        "x" : 0.071264366838394322,
+        "y" : 0.7919999997919569
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "dish 자신에게 부딪치고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02325969017876528,
+        "width" : 0.79999998283117979,
+        "x" : 0.094252878607398727,
+        "y" : 0.8154069766890556
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 '저절로 깨지는' 느낌이 든다. 자신에게서 나온 힘이 스스로에게 부딪쳐"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020501292758517753,
+        "width" : 0.54712643737363753,
+        "x" : 0.071264367403118728,
+        "y" : 0.84577777737903148
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "작용하기 때문에 이 broke는 '자동사'의 기능을 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.8022988878724947,
+        "x" : 0.091954004212514776,
+        "y" : 0.87500000019411384
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "아래 문장에서는 주어 I에서 나온 동사 broke의 힘이 the dish라는 다른 것에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.55862070504790784,
+        "x" : 0.36091953241857488,
+        "y" : 0.92577777796234861
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.86279069767441863,
+      "text" : "2장 동사 ① 문장의 형식:동사를 단어로 이해하지 말고 문형으로 이해하라 35"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 32,
+  "pdf_page_number" : 33
+}

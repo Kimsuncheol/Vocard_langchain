@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.62645010514692834,
+        "x" : 0.05336427437383455,
+        "y" : 0.069767441871779967
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "과 같이 '마음속으로 생각하는' 것을 나타내는 동사가 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026729139539930613,
+        "width" : 0.81229114532470703,
+        "x" : 0.074137121524492311,
+        "y" : 0.12413344276154337
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 동사들을 사용할 때 '생각하는지', '믿고 있는지, '바라고 있는지'를 묻는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030203525119357533,
+        "width" : 0.82884745164351015,
+        "x" : 0.055428778109916733,
+        "y" : 0.15020695743968959
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "것이 아니라, '생각하는 내용', '믿고 있는 내용', '바라고 있는 내용' 등을 묻는 것이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02918820529513888,
+        "width" : 0.83104246312921703,
+        "x" : 0.055457677566711716,
+        "y" : 0.17626934080899415
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "일반적이다. 따라서 '내용'부분에 오는 의문사가 가장 말하고 싶은 부분이므로, 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.2830626531080766,
+        "x" : 0.055684450612892948,
+        "y" : 0.21066666663624256
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "문사부터 먼저 오는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021923145718044657,
+        "width" : 0.78917217254638672,
+        "x" : 0.057872289942183901,
+        "y" : 0.25719296620878107
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.13258185721953838,
+      "text" : "에e Do you think...? + Who are you? Who do you think • you are?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020520534939236112,
+        "width" : 0.72181905399669299,
+        "x" : 0.10196488445089245,
+        "y" : 0.28155438219328421
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "넌 스스로를 누구라고 생각하는 거니?(네가 무슨 대단한 사람이라고 생각하는 거니?)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023240498012966571,
+        "width" : 0.5850705666975542,
+        "x" : 0.055485598127697842,
+        "y" : 0.30623953122289316
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "대답: This time, I'm your boss. 이번에는 내가 너의 상사야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017997138129340229,
+        "width" : 0.32283828475258569,
+        "x" : 0.10654470762144436,
+        "y" : 0.33298880646671614
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.54294478527607359,
+      "text" : "- Who are you?에 대한 대답으로 알맞다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316468,
+        "width" : 0.034802783619273796,
+        "x" : 0.05568445493243581,
+        "y" : 0.38662790701700844
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.96226415094339623,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020886033799913162,
+        "width" : 0.5640334216031162,
+        "x" : 0.097363069740522168,
+        "y" : 0.38190411985026052
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "Do you hope...? + Which team will win the game?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020968705919053754,
+        "width" : 0.53849974545565515,
+        "x" : 0.083441671302360992,
+        "y" : 0.43019925303327411
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.052857142857142859,
+      "text" : "• Which team do you hope will win the game?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016615812513563366,
+        "width" : 0.32050880518826563,
+        "x" : 0.10424990197356902,
+        "y" : 0.45634037879563016
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "당신은 어느 팀이 이기기를 바라나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019543068779839468,
+        "width" : 0.68691583113236854,
+        "x" : 0.057919866806648089,
+        "y" : 0.47927188462282722
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "대답:| hope the Yankees will win. 저는 양키스가 이겼으면 좋겠어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018363669501410551,
+        "width" : 0.47128317572853773,
+        "x" : 0.10426735230449022,
+        "y" : 0.5047526852511125
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.54199683042789226,
+      "text" : "• Which team will win the game?에 대한 대답으로 알맞다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011638242933485254,
+        "width" : 0.032482596960934723,
+        "x" : 0.055684455463848176,
+        "y" : 0.55813953491429535
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020595187717013963,
+        "width" : 0.46893553300337359,
+        "x" : 0.099669107766386322,
+        "y" : 0.55375176034390761
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "Do you believe ...? + When did it happen?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.41763340343128552,
+        "x" : 0.092807428125144517,
+        "y" : 0.60311111149887942
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.11558219178082192,
+      "text" : "When do you believe it happened?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.38515082272616297,
+        "x" : 0.10440834776164852,
+        "y" : 0.62790697663525696
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "당신은 언제 그 일이 일어났다고 생각하나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024269695705837702,
+        "width" : 0.61745548248291016,
+        "x" : 0.057855739798516097,
+        "y" : 0.64946771013747373
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "대답:| believe it happened this morning, not yesterday."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018857484605577235,
+        "width" : 0.53383718837391247,
+        "x" : 0.10428860616215689,
+        "y" : 0.67659922534658234
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "저는 어제가 아니라, 오늘 아침에 그 일이 일어났다고 생각해요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018143332587348127,
+        "width" : 0.38086548718539154,
+        "x" : 0.108872473519541,
+        "y" : 0.69812229370438017
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.52575488454706931,
+      "text" : "- When did it happen?에 대한 대답으로 알맞다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.4106728380376643,
+        "x" : 0.5058004718297352,
+        "y" : 0.92577777796089666
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.82413793103448274,
+      "text" : "12장 어순: 어순 자체가 나타내는 '심리'를 이해하라 393"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 380,
+  "pdf_page_number" : 381
+}

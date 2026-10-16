@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032095712274843202,
+        "width" : 0.12529002536426889,
+        "x" : 0.13225057898628992,
+        "y" : 0.091569767487576503
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99943977591036415,
+      "text" : "Must 93"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032429403257539735,
+        "width" : 0.30870348756963556,
+        "x" : 0.13683155076279496,
+        "y" : 0.12913413556736364
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99691294505042194,
+      "text" : "형식을 만들어라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.51740139180963696,
+        "x" : 0.1322505800812605,
+        "y" : 0.2135231313920396
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99853076216712577,
+      "text" : "• how를 자동으로 나올 수 있게 하고, what에 집중해라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843705737293884,
+        "width" : 0.8097447482022373,
+        "x" : 0.12993041000560995,
+        "y" : 0.30377906992211745
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "말하고 쓰는 행위는, 말하는 사람과 쓰는 사람만으로 성립되지 않는다. 이 행위"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024398970010017562,
+        "width" : 0.83775442296808411,
+        "x" : 0.10666094339772091,
+        "y" : 0.32882844167031067
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "에는 듣는 사람과 읽는 사람이 필요하다. 스포츠로 따지면 '대전 상대가 필요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828188166499563,
+        "width" : 0.72389789061112841,
+        "x" : 0.10904873439517924,
+        "y" : 0.35898576516031078
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 스포츠 경기에서는 다음에 제시되는 2가지를 할 수 있어야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017540138387170945,
+        "width" : 0.21113688295537775,
+        "x" : 0.12993039831481268,
+        "y" : 0.41414590781857075
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.20799999999999999,
+      "text" : "무엇을 할까(what)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.2807424501939253,
+        "x" : 0.12993039892899719,
+        "y" : 0.44172597889528653
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.11026615969581749,
+      "text" : "그것을 어떻게 할까(how)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.8097447482022373,
+        "x" : 0.12993041000212618,
+        "y" : 0.49555160138118692
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "경기 때마다 대전 상대는 달라지고, 그 상대가 어떻게 움직일지는 예측 불가능"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.83294660394841968,
+        "x" : 0.10672855404986116,
+        "y" : 0.52313167292979135
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.096525096525096526,
+      "text" : "이다. 상황에 따라 무엇을 할지(what)는 임기응변으로 대처해야 한다. 그리고 몸"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020509186164340054,
+        "width" : 0.83062648773193359,
+        "x" : 0.10904870496913527,
+        "y" : 0.55071174414413482
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.072289156626506021,
+      "text" : "을 어떻게 움직일지(how)에 대해서는 일일이 생각하지 않아야 한다. 경기 때 몸"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022651236252428375,
+        "width" : 0.8331036134199663,
+        "x" : 0.10665490152155725,
+        "y" : 0.57684113086903777
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이 알아서 움직여 줄 수 있도록, 평소에 움직임이 몸에 제대로 배게 훈련할 필요가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.058004639365456329,
+        "x" : 0.10904872426036621,
+        "y" : 0.60610465103031419
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021952329581318319,
+        "width" : 0.81206495111638854,
+        "x" : 0.12761021574110967,
+        "y" : 0.63211743769951934
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "한국어나 다른 언어도 마찬가지로, 누구와 무엇에 대해 이야기할 것인지를 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020535049065152022,
+        "width" : 0.83294660394841979,
+        "x" : 0.10672855405925574,
+        "y" : 0.65969750915043557
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "내는 What은 그때그때 다르게 대응해야 한다. 예상 질문에 대한 답변을 만들어서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021905776868935578,
+        "width" : 0.8306264877319337,
+        "x" : 0.10904870507376228,
+        "y" : 0.68594306016983708
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "달달 외워도 소용없는 이유는 이 때문이다. 그러나 어떻게 말할지를 나타내는 how"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030176895793222358,
+        "width" : 0.83344260129061609,
+        "x" : 0.10649362504723925,
+        "y" : 0.70879489887114522
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "의 경우, 사실상 형식이 그다지 많지 않다. 그래서 그 한정된 수의 형식이 자동으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021978192482130399,
+        "width" : 0.68213458494706591,
+        "x" : 0.10672853108061614,
+        "y" : 0.74110320270484509
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "로 입 밖에 나올 때까지 평소에 연습을 해 두면 실전에 도움이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022014399864495382,
+        "width" : 0.81206495111638843,
+        "x" : 0.12761021574456227,
+        "y" : 0.76868327439301098
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이는 무엇보다 실전에 대비해서 강한 자신감을 가지게 하고, 불안감을 덜어 주는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469782,
+        "width" : 0.83062640103426844,
+        "x" : 0.10904874422377843,
+        "y" : 0.79359430625827765
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "큰 장점이 있다. '무슨 말을 할까, 그리고 그것을 어떻게 말할까?'라는 2가지 작업"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957501822094883,
+        "width" : 0.83062648773193359,
+        "x" : 0.10904870498200142,
+        "y" : 0.82412790713130468
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "을 동시에 하게 되면 사람은 패닉 상태에 빠지기 쉽다. 패닉 상태를 피하기 위해, 실"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.83294660394841979,
+        "x" : 0.10672855408445538,
+        "y" : 0.85174418643710892
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "전에서는 how가 자동으로 나올 수 있게 자동화하고, what에 집중할 수 있는 환"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022225330732895454,
+        "width" : 0.21124722740866919,
+        "x" : 0.1066733699509944,
+        "y" : 0.87914896252580299
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "경을 만들어야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.039443154226649901,
+        "x" : 0.07656612578690708,
+        "y" : 0.92732558136161014
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 1,
+      "text" : "406"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 392,
+  "pdf_page_number" : 393
+}

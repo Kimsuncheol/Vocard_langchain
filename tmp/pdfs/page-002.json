@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021975915062236284,
+        "width" : 0.79498862154656957,
+        "x" : 0.10250568911282003,
+        "y" : 0.079768271158999315
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이 이론의 바탕은 인간이 세상을 어떻게 느끼고, 세상과 어떻게 연결되어 있는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377313,
+        "width" : 0.81776769201182786,
+        "x" : 0.079726632216451945,
+        "y" : 0.10901162756662808
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "지를 이해하는 것에 의해 문법이 만들어지게 되었다는 생각에 바탕을 두고 있습"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.056947606901882747,
+        "x" : 0.079726652004040055,
+        "y" : 0.13948306617684136
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.7927107145000436,
+        "x" : 0.10250569046901389,
+        "y" : 0.1991279073297284
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이 책을 통해 영문법 학습이 단순한 규칙 암기가 아니라 영어를 말하는 인간의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183600713012479,
+        "width" : 0.57175398672093225,
+        "x" : 0.079726655557529308,
+        "y" : 0.22816399286609135
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "마음을 들여다보는 행위라고 생각해 주시면 좋겠습니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.79498862154656957,
+        "x" : 0.10250568894767202,
+        "y" : 0.28779069733111373
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이 책에서는 영어를 쓰고 말하기 위해서 어떤 관점으로 영문법을 접하면 좋을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021934460828648583,
+        "width" : 0.43052392032559356,
+        "x" : 0.077448745871751476,
+        "y" : 0.31818181841296489
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "지에 따라 우선순위를 두어 설명했습니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325937199662,
+        "width" : 0.79271071450004371,
+        "x" : 0.10250569042434179,
+        "y" : 0.3473837207478071
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 문법 해설을 읽으면, 쓰고 말하는 실력은 물론이고 읽기 실력도 향상될"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021942233869311156,
+        "width" : 0.81548969972067042,
+        "x" : 0.0797266703218973,
+        "y" : 0.37645348797616762
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "수 있습니다. 더 빠르고 직감적으로 읽을 수 있게 되면 듣기 향상에도 도움이 됩"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028633097276330677,
+        "width" : 0.81586835637438904,
+        "x" : 0.079531025119437576,
+        "y" : 0.4034402057309352
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "니다. 이른바 '영어의 4대 영역(말하기, 듣기, 읽기, 쓰기)'은 모두 연결되어 있는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021947415329768294,
+        "width" : 0.10250568922671525,
+        "x" : 0.079726654127638505,
+        "y" : 0.43749999979263521
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "것입니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.46241457635463945,
+        "x" : 0.07517084073579447,
+        "y" : 0.51158645311174722
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.98390804597701154,
+      "text" : "•- 다른 사람을 설득하기 위한 '영어의 형식'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.79498862154656946,
+        "x" : 0.10022778475766422,
+        "y" : 0.55659536535618348
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "아마도 이 책을 선택한 당신은 영어를 배워 본 적이 없어서 처음으로 영어를 배"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021996642604018679,
+        "width" : 0.287015946883729,
+        "x" : 0.077448746303676902,
+        "y" : 0.58556149709547312
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "우는 사람은 아닐 것입니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.79043280745351785,
+        "x" : 0.10250569183099459,
+        "y" : 0.61627907012048377
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "앞으로 일을 하면서 영어를 사용할 것 같은 사람을 타깃 학습자로 생각하여 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021991460293584564,
+        "width" : 0.81776769201182797,
+        "x" : 0.077448727911759774,
+        "y" : 0.64661319104402892
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "책을 썼습니다. 기존의 영어책은 다양한 상황에서 사용할 수 있는 표현을 모아 놓"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025171869791340229,
+        "width" : 0.57227555599958535,
+        "x" : 0.079486019292709362,
+        "y" : 0.67273394636040729
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "은 '재치 있는 영어 표현집'이 대부분이었던 것 같습니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.79271071450004371,
+        "x" : 0.1002277861440556,
+        "y" : 0.70632798595444002
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "물론 실전이라는 것은 변화무쌍하기 때문에 책에 제시된 표현을 어느 상황에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021856734671907185,
+        "width" : 0.36674260826750171,
+        "x" : 0.07744874131528709,
+        "y" : 0.7339572189866358
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "서나 사용할 수 있는 것은 아닙니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024296922054732772,
+        "width" : 0.79516814674079095,
+        "x" : 0.10013286366664478,
+        "y" : 0.76240899624764313
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 것보다, 먼저 자신이 비즈니스 상황 등에서 '이야기하는 목적'을 생각하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02185155236147307,
+        "width" : 0.81776769201182786,
+        "x" : 0.077448727921894014,
+        "y" : 0.79500891292935405
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "고, 그 목적을 위한 영어의 형식을 습득하는 것이 효율적이라고 생각합니다. 따라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021955188370430978,
+        "width" : 0.81776769201182775,
+        "x" : 0.077448727899545891,
+        "y" : 0.82397504436218261
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "서 저는 이러한 방식을 학습자들에게 지도해 왔고, 그 효과를 확인할 수 있었습"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021908551826409051,
+        "width" : 0.056947606901882761,
+        "x" : 0.07744874767602182,
+        "y" : 0.85465116255542095
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027756671429530422,
+        "width" : 0.79303114907035621,
+        "x" : 0.10006364111198754,
+        "y" : 0.88110714730181761
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "리포트 작성, 프레젠테이션, 협상, 토론 등, 모든 것이 '다른 사람을 설득하기 위"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014262603990959355,
+        "width" : 0.066610080569815988,
+        "x" : 0.85166079146793838,
+        "y" : 0.92964195370370983
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.97959183673469385,
+      "text" : "머리말 3"
+    }
+  ],
+  "page_size_points" : [
+    409,
+    641
+  ],
+  "pdf_page_index" : 2,
+  "pdf_page_number" : 3
+}

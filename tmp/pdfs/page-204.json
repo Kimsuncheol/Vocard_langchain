@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030693950177935969,
+        "width" : 0.12529002536426889,
+        "x" : 0.13689095020456313,
+        "y" : 0.092971529830348953
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99885189437428246,
+      "text" : "Must 47"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032028469750889688,
+        "width" : 0.50580046393654565,
+        "x" : 0.13921113681369041,
+        "y" : 0.13078291845680312
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99937872763419489,
+      "text" : "가정법 현재에서 볼 수 있는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030693950177935969,
+        "width" : 0.22737819498235529,
+        "x" : 0.13921113441137456,
+        "y" : 0.16414590824523634
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99941537562116345,
+      "text" : "영어의 역사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164156,
+        "width" : 0.54524361003528943,
+        "x" : 0.13921114150207681,
+        "y" : 0.21656976773409364
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99960653157584101,
+      "text" : "• suggest thatolLf demand thot 뒤에 오는 'S +동사원형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028164818617796961,
+        "width" : 0.39301490783691401,
+        "x" : 0.11096670508665135,
+        "y" : 0.30774783251684235
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.99549259497746301,
+      "text" : "• 미국 영어는 최신 영어인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828188166499451,
+        "width" : 0.8097447482022373,
+        "x" : 0.1322505956085224,
+        "y" : 0.3589857651605135
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "영어의 발상지는 당연히 영국이다. 그리고 그곳에서 북미 대륙과 호주 대륙을 비"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021864396397329289,
+        "width" : 0.83062648773193348,
+        "x" : 0.11136889048464491,
+        "y" : 0.38656583599676253
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "롯한 다양한 곳으로 영어가 퍼져 나갔다. 영국에서 북미로 본격적인 이민이 시작된"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021900603779694494,
+        "width" : 0.52668211676857679,
+        "x" : 0.11136891830117653,
+        "y" : 0.41414590768514281
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "때는 17세기로, 지금으로부터 약 400년 전의 일이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020519531494357812,
+        "width" : 0.50580046393654565,
+        "x" : 0.13225057998472325,
+        "y" : 0.46930604997485603
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 여기에서 다음 질문에 대해 생각해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302759679641,
+        "width" : 0.82366587898947974,
+        "x" : 0.12529003022584348,
+        "y" : 0.49418604629104879
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "'오래된 옛날 그대로의 영어'가 지금도 남아 있는 것은 영국과 미국 중 어느 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.08352668176997792,
+        "x" : 0.1113689095489717,
+        "y" : 0.52470930197488219
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "라일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025685483450567204,
+        "width" : 0.81226869062943896,
+        "x" : 0.12982372315436341,
+        "y" : 0.57502674542923615
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 질문하면, 영어 강사를 포함한 상당수의 사람들이 \"영국 영어에 옛 형태가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.83062648773193359,
+        "x" : 0.11136889058924809,
+        "y" : 0.60453736624747068
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "남아 있어요.\"라고 대답한다. 그런데 실제로는, 반대로 미국 영어에서 '화석'처럼 옛"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022186656015199313,
+        "width" : 0.18804777752269397,
+        "x" : 0.10899235241719353,
+        "y" : 0.63352876415180392
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "영어가 남아 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022019572953736688,
+        "width" : 0.30162412470037292,
+        "x" : 0.13225058256325281,
+        "y" : 0.687500000147372
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "역사는 우연이 아닌 필연이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023317884295860569,
+        "width" : 0.81206495111638854,
+        "x" : 0.12993040135378361,
+        "y" : 0.7151162794607685
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "일본어를 예로 들어 보자. 메이지 시대(1868년~1912년) 말기 이후, 일본에서 많"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021947157340541867,
+        "width" : 0.83294660394841991,
+        "x" : 0.10904873967791277,
+        "y" : 0.74273255829417317
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "은 사람들이 브라질을 갔다. 그들의 후예인 일본계 2세, 3세 사람들 중에는 일본어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021910949109712141,
+        "width" : 0.83294660394841991,
+        "x" : 0.10904873967823994,
+        "y" : 0.7703488373639501
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "를 하는 사람들도 있다. 그렇다면 그들이 사용하는 일본어는 어느 시대의 일본어일"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020540222154393328,
+        "width" : 0.044083524834025986,
+        "x" : 0.10904872457061267,
+        "y" : 0.79796511603056908
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021838533496517321,
+        "width" : 0.8097447482022373,
+        "x" : 0.12993041001346281,
+        "y" : 0.82558139550333687
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다. 다이쇼 시대(1912년~1926년) 또는 쇼와 시대(1926년~1989년) 초기의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325265687594,
+        "width" : 0.25290023196827283,
+        "x" : 0.10904872380363488,
+        "y" : 0.85319767456577111
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "일본어일 가능성이 높다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.039443154226649901,
+        "x" : 0.078886311401756268,
+        "y" : 0.92877906973370306
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 1,
+      "text" : "212"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 204,
+  "pdf_page_number" : 205
+}

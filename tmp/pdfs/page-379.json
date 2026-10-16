@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024288846080413484,
+        "width" : 0.81225464560768823,
+        "x" : 0.11591676942525736,
+        "y" : 0.071677136853005585
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "do you ~? 앞에 의문사(이 문장에서는 where)가 와서 다음과 같이 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.31090487133372913,
+        "x" : 0.12529002362236638,
+        "y" : 0.1235465113045181
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.0013831258644536654,
+      "text" : ") Where do you think he is?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023297193635825164,
+        "width" : 0.81670535694469115,
+        "x" : 0.11600927035661736,
+        "y" : 0.17437722457053473
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.16401468788249693,
+      "text" : "이 패턴에서는 do you 뒤에 think(생각하다), hope(바라다, 희망하다),"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.83526680686257104,
+        "x" : 0.092807435315814146,
+        "y" : 0.20058139554967358
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.48917748917748916,
+      "text" : "believe(믿다), expec(기대하다), imagine(상상하다) 등, '마음속으로 생각하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025039691517785734,
+        "width" : 0.49711695584383875,
+        "x" : 0.097195687048111074,
+        "y" : 0.22508981415253437
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.27639751552795033,
+      "text" : "는' 것을 나타내는 동사가 사용되는 경우가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023950457997169328,
+        "width" : 0.81700819188898255,
+        "x" : 0.11118776230545842,
+        "y" : 0.25430119006671736
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "\"왜 그렇게 되는지는 모르겠지만, 그 동사들의 목록을 외워 두고, 이 패턴의 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024644261153142999,
+        "width" : 0.83320409601384937,
+        "x" : 0.095006596286217757,
+        "y" : 0.28103430045236788
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "을 만들 때 조심하면 되려나?'라고 생각하는 학습자들도 있을 것이다. 그러나 문법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.74477958679199219,
+        "x" : 0.095127607878990522,
+        "y" : 0.31094306041556674
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "은 암기 과목이 아니다. 이러한 현상이 일어나는 데는 확실한 이유가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028221686963933124,
+        "width" : 0.81009465997869323,
+        "x" : 0.11584935130908965,
+        "y" : 0.33249834905524978
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.31834532374100721,
+      "text" : "여기에서도 '말하고 싶은 것부터 먼저 말하는' 영어 어순의 원칙이 작용한다. 질문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02197819248213051,
+        "width" : 0.67749417911876342,
+        "x" : 0.092807434684923973,
+        "y" : 0.3661032027050144
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "에 예상되는 답변을 살펴보면, 왜 그러한 어순이 되는지 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0245281793044555,
+        "width" : 0.6639069210399281,
+        "x" : 0.094992668607976741,
+        "y" : 0.41271666770648596
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.17841409691629956,
+      "text" : "예B A: Do you know where he is? 그가어디에 있는지 알고있니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.47563804279674188,
+        "x" : 0.14153132648946015,
+        "y" : 0.44172597889768372
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "B: Yes, Ido(=|know)./ No, I don't (know)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020643379340392398,
+        "width" : 0.17873924428766422,
+        "x" : 0.17165125930790495,
+        "y" : 0.46642249591331142
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "응, 알아/아니, 몰라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016594377700968499,
+        "width" : 0.56164360046386719,
+        "x" : 0.14145855675498603,
+        "y" : 0.48933031950635586
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.49829931972789115,
+      "text" : ">> 답변을 보면, 이 질문에서 가장 물어보고 싶은 것이 '(그가 있는 곳을) 알"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016071132917845454,
+        "width" : 0.49651973897760565,
+        "x" : 0.16473316983779346,
+        "y" : 0.51017441866005764
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.61842105263157898,
+      "text" : "고 있는가이다. 즉, Do you know가 가장 물어보고 싶은 내용이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016970459676722172,
+        "width" : 0.061581113121726316,
+        "x" : 0.7874197660364689,
+        "y" : 0.47246228758385955
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.86153846153846159,
+      "text" : "Know?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021931639769747546,
+        "width" : 0.65197216380726208,
+        "x" : 0.095127600857390013,
+        "y" : 0.55813953482355161
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.029739776951672861,
+      "text" : "X A: Do you think where he is? 그가 어디에 있다고 생각하니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.45707654953002924,
+        "x" : 0.14153133068310203,
+        "y" : 0.58575581363275531
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "B: Yes, Ido(=lthink)./No, I don't (think)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.34570765495300299,
+        "x" : 0.16473317936644599,
+        "y" : 0.61191860432893941
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "네, 생각해요. / 아니요, 생각하지 않아요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017524620816376735,
+        "width" : 0.78190257332541724,
+        "x" : 0.14385149673926359,
+        "y" : 0.63372093050673184
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.56774193548387097,
+      "text" : "- 생각하다, 생각하지 않다'라고 답해도 질문에 대한 답이 되지 않는다. 즉, 가장 묻고 싶은 정보는 Do"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021883772785553313,
+        "width" : 0.29986108433116565,
+        "x" : 0.16442599370226352,
+        "y" : 0.65099839365518053
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.56310679611650483,
+      "text" : "You think가 아니라는 것을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02282126348638025,
+        "width" : 0.39023884859952063,
+        "x" : 0.092581753522435986,
+        "y" : 0.69945340864463723
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.22463139635732871,
+      "text" : "B A: Where do you think O he is?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017472895863217319,
+        "width" : 0.22737819498235529,
+        "x" : 0.17169373513063207,
+        "y" : 0.72674418616806902
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "그는 어디에 있을 것 같니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020467805692733876,
+        "width" : 0.35266822034662415,
+        "x" : 0.13921113330067428,
+        "y" : 0.75133451995896605
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "B: He may be in the bathroom."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010480493837404015,
+        "width" : 0.067826569080352783,
+        "x" : 0.64474757732499366,
+        "y" : 0.7593892503849855
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.93913043478260871,
+      "text" : "Where?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020545394395169891,
+        "width" : 0.25522041320800781,
+        "x" : 0.17169373945168057,
+        "y" : 0.7761627904491738
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "그는 화장실에 있을지도 몰라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491014,
+        "width" : 0.77958237041126599,
+        "x" : 0.14385150565283569,
+        "y" : 0.79937722385662202
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.50867678958785245,
+      "text" : "- 그가 어디에 있는지 장소를 대답해 주면 이 대화는 성립된다. 즉, 가장 묻고 싶은 정보는 '어디?'이다. 따"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017540138387170945,
+        "width" : 0.31786543672735046,
+        "x" : 0.16241298917604921,
+        "y" : 0.81831395377774141
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.64000000000000001,
+      "text" : "라서 의문사 where부터 먼저 말해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.81206495111638843,
+        "x" : 0.11368910191544676,
+        "y" : 0.86773255805416849
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "앞서 언급했듯이, 도치가 일어날 때는 think, hope, expect, believe, imagine"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01489208516701257,
+        "width" : 0.042077647014097719,
+        "x" : 0.090330085937703058,
+        "y" : 0.92860046854690304
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.96969696969696972,
+      "text" : "392"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 379,
+  "pdf_page_number" : 380
+}

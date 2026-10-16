@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.03480278448010167,
+        "x" : 0.064965197116097648,
+        "y" : 0.08118899738950891
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99470899470899465,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019463181178339117,
+        "width" : 0.38096166299589984,
+        "x" : 0.10886448273443204,
+        "y" : 0.077999352922822673
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "She was excited about the event."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.40835268277648495,
+        "x" : 0.11368908771980769,
+        "y" : 0.10465116280485731
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 그 일에 흥분되었어. (=흥분된 상태였다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019078485713982407,
+        "width" : 0.80742455881538122,
+        "x" : 0.08816707081160427,
+        "y" : 0.15261627944062484
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "명사 앞에 과거분사의 형용사를 붙일 때는 그 명사가 '(어떤 원인에 의해 감정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020457172139936919,
+        "width" : 0.30394432121980275,
+        "x" : 0.064965194259681738,
+        "y" : 0.18012422331877032
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이 유발된) 사람'이어야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021972999809691696,
+        "width" : 0.69178739507147613,
+        "x" : 0.064796583368546656,
+        "y" : 0.22662686732925352
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.15194908512330946,
+      "text" : "에문 An excited man was shouting. 흥분한 남자가 소리치고 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017239046816077019,
+        "width" : 0.3715777025155142,
+        "x" : 0.11586170191770345,
+        "y" : 0.25316935581770261
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.58135593220338988,
+      "text" : "*a man은 어떤 원인으로 인해 흥분한 남자이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019104279769450727,
+        "width" : 0.69373549873947249,
+        "x" : 0.064965197087787682,
+        "y" : 0.27595385938583661
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.096758587324625056,
+      "text" : "예e A lot of disappointed people wandered into the building."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020479561061909846,
+        "width" : 0.50159881808233597,
+        "x" : 0.11118417921423063,
+        "y" : 0.29937537304199835
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "실망한 많은 사람들이 건물 안으로 어슬렁거리며 들어갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016156033276453874,
+        "width" : 0.40139212101063826,
+        "x" : 0.11368909018936366,
+        "y" : 0.32412790663746727
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.56172839506172845,
+      "text" : "- people은 어떤 원인으로 인해 실망한 사람들이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023690034989879094,
+        "width" : 0.8100343528368793,
+        "x" : 0.085673453488021009,
+        "y" : 0.36894165625501063
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.43378995433789952,
+      "text" : "이러한 규칙에 따라 사용되는 동사에는 surprise, excite, disappoint, satisfy 외"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024441281566602968,
+        "width" : 0.83090898229720744,
+        "x" : 0.064800337569091648,
+        "y" : 0.39611389050879175
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.32058287795992713,
+      "text" : "에 bore(심심하게 하다), tire(지치게 하다), amaze(놀라게 하다), embarrass(당"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021899052393997032,
+        "width" : 0.49187933739195477,
+        "x" : 0.064965203573764368,
+        "y" : 0.42441860488188987
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.16740088105726872,
+      "text" : "황하게 하다), interest(흥미를 끌다) 등이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.50348025923925088,
+        "x" : 0.085846877222722898,
+        "y" : 0.47959183684794715
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.25825825825825827,
+      "text" : "주의해야 할 표현으로는 shock와 panic이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027835469385534606,
+        "width" : 0.81025736923758873,
+        "x" : 0.085580538883066201,
+        "y" : 0.50193703415792068
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "두 단어 모두 '어떤 원인이 사람에게 충격을 주다' '어떤 원인이 사람을 패닉에 빠"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023289345383326832,
+        "width" : 0.82830628740026602,
+        "x" : 0.064965182730648247,
+        "y" : 0.5319432119720332
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "뜨리다'라는 동사이다. 'shock = 충격을 받다'라고 생각하거나 'panic=패닉 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02482930939072725,
+        "width" : 0.69879215321642285,
+        "x" : 0.06246876579415736,
+        "y" : 0.55808969293867228
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "가 되다'라고 생각해서 다음과 같이 잘못 사용하는 경우가 많이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022675391521301491,
+        "width" : 0.20473754017065604,
+        "x" : 0.062364407383764635,
+        "y" : 0.60784835061024878
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.22529644268774704,
+      "text" : "X Im shocking."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.20649652142896718,
+        "x" : 0.29930394335537619,
+        "y" : 0.61180124263734181
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.22083333333333333,
+      "text" : "-Oim shocked."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017506345564428427,
+        "width" : 0.18097447604997785,
+        "x" : 0.51508120734551577,
+        "y" : 0.61337209302930873
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "난 중격을 받았어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023587847136774198,
+        "width" : 0.69185293211159127,
+        "x" : 0.062435787064115782,
+        "y" : 0.63648041823733681
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.18972033257747545,
+      "text" : "X lwas panicking. -O |was panicked. 난 패닉 상태에 빠졌어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421398,
+        "width" : 0.35962877205923094,
+        "x" : 0.55452436095338986,
+        "y" : 0.93023255793849557
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.8882575757575758,
+      "text" : "5장 동사 © 과거분사: 이미지부터 이해하자 155"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 149,
+  "pdf_page_number" : 150
+}

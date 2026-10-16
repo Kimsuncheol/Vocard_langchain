@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032111109415690064,
+        "width" : 0.12064965204759079,
+        "x" : 0.141531322622763,
+        "y" : 0.092888889332127134
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99889685603971323,
+      "text" : "Musi 61"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.036519500732421939,
+        "width" : 0.32791777090592822,
+        "x" : 0.14114552410872935,
+        "y" : 0.12781583086573267
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99858623939679547,
+      "text" : "should는 '당연함'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.36890948902476917,
+        "x" : 0.13921114580084051,
+        "y" : 0.21366279073735517
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99756157034869541,
+      "text" : "• 여러 의미를 가진 should를 풀어내다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021842377556694825,
+        "width" : 0.63573087345470081,
+        "x" : 0.13457075806894944,
+        "y" : 0.31104651152457574
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "should는 shall의 과거형에서 파생되어 만들어진 조동사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024813284132215729,
+        "width" : 0.8122956536032937,
+        "x" : 0.13446859879197651,
+        "y" : 0.3354291593648342
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "과거형은 '현실로부터의 거리'를 나타내기 때문에 shall의 '운명적으로 반드시 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.83062648773193359,
+        "x" : 0.1160092618241933,
+        "y" : 0.36482558156896416
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.12417582417582418,
+      "text" : "렇게 되다'라는 의미가, should에서는 '당연히 그렇게 되다, 보통 그렇게 되다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028171524895562072,
+        "width" : 0.83332859386097291,
+        "x" : 0.11350479303668924,
+        "y" : 0.38949232796831113
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "의미를 가지며 shall보다 '실현성'이 약해진다. '당연히 그렇게 되다 보통 그렇게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023835106743706591,
+        "width" : 0.83311939239501953,
+        "x" : 0.11360180901520713,
+        "y" : 0.41848686849997985
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "되다'라는 근본적인 의미는 힘의 용법에서 '당연히 ~해야 한다, ~하는 것이 좋다'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.83294660394841968,
+        "x" : 0.11368911089978512,
+        "y" : 0.44755555537538139
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "는 의무 • 조언의 뜻이 되고, 판단의 용법에서 '당연히 ~일 것이다'라는 예측 • 추측의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024591294182671475,
+        "width" : 0.11268484592437744,
+        "x" : 0.11303112749219632,
+        "y" : 0.47244272437401857
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "뜻이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010235141754150412,
+        "width" : 0.030162413011897704,
+        "x" : 0.11600928061702098,
+        "y" : 0.52755555564456547
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.99319727891156462,
+      "text" : "예운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.57772623408924451,
+        "x" : 0.15777261375990584,
+        "y" : 0.52311111080938055
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "You look very tired. You should take a few days off."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020479328579372735,
+        "width" : 0.37122969193892041,
+        "x" : 0.16009281052631105,
+        "y" : 0.54796511589793595
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "많이 피곤해 보여요. 며칠 쉬는 것이 좋겠어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011706718444824182,
+        "width" : 0.027842226353558625,
+        "x" : 0.11600928115165585,
+        "y" : 0.70784883723341674
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.56844546578147193,
+        "x" : 0.15777262660589547,
+        "y" : 0.70488888892326507
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "It should take only two hours if we take this route."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017459948221842492,
+        "width" : 0.4501160274852406,
+        "x" : 0.16009279820633562,
+        "y" : 0.72965116270725083
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "우리가 이 길로 가면 두 시간밖에 걸리지 않을 거에요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021819121466742697,
+        "width" : 0.81438515403053979,
+        "x" : 0.1345707640137267,
+        "y" : 0.77906976733791933
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 should는 원래 shall의 과거형에서 파생된 것이기 때문에 과거형이 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028126175774468298,
+        "width" : 0.83332391218705615,
+        "x" : 0.1134750406884743,
+        "y" : 0.80148595542178225
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그래서 '~했어야 했다, ~할 것이었다'라는 의미의 과거 시제로 나타내고 싶을 때는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024855741712782153,
+        "width" : 0.83552161130038172,
+        "x" : 0.11123122535096851,
+        "y" : 0.83212823814069936
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.24528301886792453,
+      "text" : "'should have+과거분사' 형태로 사용할 수 있다. 이는 후회를 나타낼 때 많이 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0219431525336371,
+        "width" : 0.15545243566686459,
+        "x" : 0.11368909527168389,
+        "y" : 0.86177777777901554
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "용하는 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011665374755859381,
+        "width" : 0.039443154226649901,
+        "x" : 0.083526682624204054,
+        "y" : 0.9287790698198185
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.96590909090909094,
+      "text" : "270"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 261,
+  "pdf_page_number" : 262
+}

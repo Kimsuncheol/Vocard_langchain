@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033549201870303968,
+        "width" : 0.12790697320574027,
+        "x" : 0.14186046691192902,
+        "y" : 0.090116279348960937
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99896960329726947,
+      "text" : "Mus 84"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.034883719746328423,
+        "width" : 0.35813953801777282,
+        "x" : 0.14418604393685003,
+        "y" : 0.12500000039815362
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99984452736318408,
+      "text" : "of는 '~의가 아니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017793594306049765,
+        "width" : 0.46744187401230863,
+        "x" : 0.14418603962921442,
+        "y" : 0.21352313200337381
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99977792582722624,
+      "text" : "• '미국의 쌀'은 Americon rice? rice of Americo?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027919053182907438,
+        "width" : 0.33130428390285571,
+        "x" : 0.11580152369342191,
+        "y" : 0.30518380912634813
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99556541019955658,
+      "text" : "를'꺼내다'를 나타내는 of"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023976538104943046,
+        "width" : 0.38674413784277079,
+        "x" : 0.40900289198726297,
+        "y" : 0.35698718618748426
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "지금까지 여러 번 of에 대해 언급했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024127907600267062,
+        "width" : 0.076291907546866655,
+        "x" : 0.1293517219198469,
+        "y" : 0.39219767392506077
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "a Piece"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013389117352903157,
+        "width" : 0.060634259824399572,
+        "x" : 0.29758984668939797,
+        "y" : 0.39083451105537859
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "cake"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023098485749811437,
+        "width" : 0.54212851673789175,
+        "x" : 0.40685784906844363,
+        "y" : 0.38431580161961731
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.026190476190476191,
+      "text" : "of의 근본적인 의미는 '전체에서 그것을 구성하는 일"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022313801843500514,
+        "width" : 0.18619865569633642,
+        "x" : 0.38597043947224752,
+        "y" : 0.41253495952790109
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "부를 꺼내다'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022936375539922338,
+        "width" : 0.54210656320946837,
+        "x" : 0.40452477700715467,
+        "y" : 0.43939508503088631
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "a piece of cake는 케이크 전체에서 케이크를 구성"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021864396397329289,
+        "width" : 0.56279069949419069,
+        "x" : 0.38604651035500331,
+        "y" : 0.46656976757312618
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "하는 일부인 '한 조각'을 꺼내는 이미지이고, students"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023198131140440781,
+        "width" : 0.57952672192174137,
+        "x" : 0.11142394002141194,
+        "y" : 0.49337130436215171
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "of the school은 학교 전체에서 학교를 구성하는 학생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0122563278972041,
+        "width" : 0.093219702739661292,
+        "x" : 0.71152968340085743,
+        "y" : 0.49968578952409715
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.26027397260273971,
+      "text" : "Students oi"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010369980886737684,
+        "width" : 0.08842936676112334,
+        "x" : 0.71625043277900924,
+        "y" : 0.51153012561009992
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.28947368421052633,
+      "text" : "the school"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021807498354928789,
+        "width" : 0.57674418827067753,
+        "x" : 0.11395348711496088,
+        "y" : 0.52179715264438886
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "들을 일부 꺼내는 것으로, '그 학교의 학생들'이라는 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022764887249766774,
+        "width" : 0.16775684411029868,
+        "x" : 0.1114704150320871,
+        "y" : 0.54893732337614298
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "를 만들어 낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028883248461523126,
+        "width" : 0.81454372134303776,
+        "x" : 0.13226169971059126,
+        "y" : 0.59536113137348146
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "of를 '~의라는 의미로 해석해서 문장에 적용할 수 있는 경우는 그다지 많지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021921294439729788,
+        "width" : 0.83488373063568377,
+        "x" : 0.11162790177419596,
+        "y" : 0.6263345193466664
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "않다. 영어를 학습하면서 학습자들은 이 사실을 빠르게 깨닫고 of의 매우 다양한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020504013923563602,
+        "width" : 0.25116279797676283,
+        "x" : 0.11162790321746709,
+        "y" : 0.65391459079645253
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "쓰임에 힘들어하게 된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021994045196478851,
+        "width" : 0.81415220950743417,
+        "x" : 0.13013237285652923,
+        "y" : 0.68026750937249514
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "사실 of는 영어 전치사 중 가장 다양한 의미를 파생하는 말로, 단 하나의 이미지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022701600268217992,
+        "width" : 0.83510726537459923,
+        "x" : 0.11150462026001093,
+        "y" : 0.70754907877496753
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "로 of의 의미를 모두 이해할 수 있는 것은 아니라고 생각한다. 그럼에도 불구하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025395306828183251,
+        "width" : 0.83063144086093299,
+        "x" : 0.10914053301836583,
+        "y" : 0.73338990126245218
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "어느 정도 통일된 이미지로 이해하면, 좀 더 쉽게 직관적으로 of를 사용할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025260125190762039,
+        "width" : 0.81432757690081914,
+        "x" : 0.13004481347554034,
+        "y" : 0.76067914072217069
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서는 '전체에서 그것을 구성하는 일부를 꺼내다', 즉 '꺼내다'라는 관"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022019572953736688,
+        "width" : 0.30930232730006901,
+        "x" : 0.11162790599740739,
+        "y" : 0.79048042687968845
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "점에서 of를 파악하고자 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.36279070818865744,
+        "x" : 0.19999999462735177,
+        "y" : 0.84738372060842937
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.9745283018867924,
+      "text" : "실체화: 형태로 만들어 꺼내는 패턴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023791425168726343,
+        "width" : 0.81181339796452112,
+        "x" : 0.13014056004762831,
+        "y" : 0.88067080727503122
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.1791767554479419,
+      "text" : "앞서 언급한 a piece of cake는 수많은 '구체적인 형태+of 불가산 명사' 패턴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013378552270529531,
+        "width" : 0.037475414765186801,
+        "x" : 0.078936711098931647,
+        "y" : 0.92572351451781454
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 1,
+      "text" : "368"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    642
+  ],
+  "pdf_page_index" : 356,
+  "pdf_page_number" : 357
+}

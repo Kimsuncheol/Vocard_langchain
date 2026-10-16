@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.45939675244418055,
+        "x" : 0.12296983714551502,
+        "y" : 0.078488372283990304
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.2381516587677725,
+      "text" : "예e Just focus on driving. 좀 운전에 집중해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014741601732042087,
+        "width" : 0.64733180132779211,
+        "x" : 0.16937354239316882,
+        "y" : 0.10444444455966317
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.53246753246753242,
+      "text" : "> focus는 초점을 맞추는 것이다. 한 점에 집중하면 집중된 곳에 강한 압력이 가해진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024478954739040826,
+        "width" : 0.72641598094593396,
+        "x" : 0.13913438057115293,
+        "y" : 0.13834532180406567
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "다소 독특하게 '다른 사람에게 분노를 표출'하는 의미로 '압력'이 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022814314948187975,
+        "width" : 0.39969960126009846,
+        "x" : 0.10878266571155852,
+        "y" : 0.18854726319420245
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.18767772511848341,
+      "text" : "예e She slammed the door on me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.4037123159928756,
+        "x" : 0.16705335465994733,
+        "y" : 0.21644444437960186
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 (나에게 화를 내며) 문을 쾅 닫고 나갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014684754265679278,
+        "width" : 0.3271461616862904,
+        "x" : 0.1670533691632998,
+        "y" : 0.23822222225588285
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.59368421052631581,
+      "text" : "* 문이 쾅 하는 소리는 나를 향한 압력이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023410659790038979,
+        "width" : 0.81456678563898255,
+        "x" : 0.13446884978230889,
+        "y" : 0.28194486386161333
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "\"위에 놓여 있다'라는 것은 아래에서 무언가가 받쳐 준다는 의미이기도 하다. 여기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021842377556694936,
+        "width" : 0.83062648773193359,
+        "x" : 0.11832944742759417,
+        "y" : 0.31104651152573815
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "에서 '의존하다'라는 의미가 나온다. depend on, rely on, live on과 같이 의존"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021730827331543079,
+        "width" : 0.40174635973843653,
+        "x" : 0.11817264707589657,
+        "y" : 0.33735213449868362
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "을 뜻하는 숙어는 대부분 on이 붙는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01752325608995231,
+        "width" : 0.50580046393654565,
+        "x" : 0.11368909506357093,
+        "y" : 0.38799999979864497
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.37943519188993485,
+      "text" : "예문 It depends on how you define the word."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018977745056152351,
+        "width" : 0.44805838844992896,
+        "x" : 0.16462817262337059,
+        "y" : 0.41130436251410141
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그것은 네가 그 말을 어떻게 정의하느냐에 달려 있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01607364400227862,
+        "width" : 0.78190257332541724,
+        "x" : 0.16705335362118812,
+        "y" : 0.43459302289796442
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.63154121863799284,
+      "text" : "- depend의 de는 '아래로, pend는 '매달리다'(예: pendant(펜던트))라는 어원이 있다. '매달리는 이미지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.28770301558754663,
+        "x" : 0.18793503502208833,
+        "y" : 0.45494186067536568
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.60663507109004744,
+      "text" : "로 인해, '의지하다'\"라는 의미가 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.76493887467817834,
+        "x" : 0.11600929591013488,
+        "y" : 0.49418604642767128
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.17104585265327152,
+      "text" : "예문 In the near future, more people will have to rely on care- givers.듏"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.5730858282609419,
+        "x" : 0.16241300223030797,
+        "y" : 0.52034883712671864
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "가까운 미래에, 더 많은 사람들이 간병인들에게 의지해야 할 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016191214667426235,
+        "width" : 0.78190257332541724,
+        "x" : 0.16705335369980354,
+        "y" : 0.54069767405912816
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.53508771929824561,
+      "text" : "-rely의 re는 '다시 -• 강하게, Ily는 '묶다'라는 어원이 있다. '강하게 묶다'= '항상 함께, 그것 없이는 안"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014692506578233511,
+        "width" : 0.38747098229148175,
+        "x" : 0.18793504238022524,
+        "y" : 0.56088888854926156
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.44816586921850082,
+      "text" : "된다'는 이미지가 되어 '의지하다'라는 의미가 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020781327989366272,
+        "width" : 0.56862748752940795,
+        "x" : 0.11590159486497792,
+        "y" : 0.59883749606200898
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.24983692106979777,
+      "text" : "예e The eight kids lived on their mother's income."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019032882690429687,
+        "width" : 0.48516243154352356,
+        "x" : 0.16463594947448332,
+        "y" : 0.6234548756282724
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그 여덟 명의 아이들은 어머니의 수입에 의존하여 살았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02022120496961799,
+        "width" : 0.67995621941306383,
+        "x" : 0.1136117004468459,
+        "y" : 0.6648807087698968
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.32837301587301587,
+      "text" : "에e Asian people live on rice. 아시아 사람들은 쌀을 주식으로 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017553546481662297,
+        "width" : 0.79365712946111511,
+        "x" : 0.153056937771197,
+        "y" : 0.68985976804320515
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.61988304093567248,
+      "text" : "- 무언가를 바탕으로 그 위에 삶을 꾸리는 것이 live on이고, 여기에서는 특정한 종류의 식량에 의존해 사는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.11136890541423453,
+        "x" : 0.17401392306627797,
+        "y" : 0.71066666637048059
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.63020833333333337,
+      "text" : "것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017555555555555546,
+        "width" : 0.62645010514692834,
+        "x" : 0.11600928605814657,
+        "y" : 0.74999999991723254
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.25534441805225655,
+      "text" : "예문 We don't want to spend much time on this subject."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016151162889268655,
+        "width" : 0.45243618705055932,
+        "x" : 0.16473318245834404,
+        "y" : 0.77600000025205496
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이 주제에 대해 너무 많은 시간을 할애하고 싶지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016175710890028117,
+        "width" : 0.75638051466508338,
+        "x" : 0.16705336204100821,
+        "y" : 0.79777777783442216
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.62746645619573793,
+      "text" : "> 'spend + 시간•돈 + on + 대상'의 표현으로, 돈이나 시간을 대상 위에 집중해서 투하하는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02665967475043407,
+        "width" : 0.72199119221080432,
+        "x" : 0.11578923890293327,
+        "y" : 0.83335021865884362
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.098752598752598758,
+      "text" : "예e A tax on gasoline is a big part of the government's revenue."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01618346320258246,
+        "width" : 0.38747098229148169,
+        "x" : 0.1647331862273097,
+        "y" : 0.86337209266334058
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "휘발유세는 정부 수입의 큰 부분을 차지한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.399071910164573,
+        "x" : 0.16705337195374978,
+        "y" : 0.88517441881690762
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.70444104134762631,
+      "text" : "* 세금은 무언가의 위에서 누르는 부담의 이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011758397844102708,
+        "width" : 0.039443154226649887,
+        "x" : 0.08816705385390243,
+        "y" : 0.9315555555192182
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.97058823529411764,
+      "text" : "350"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 338,
+  "pdf_page_number" : 339
+}

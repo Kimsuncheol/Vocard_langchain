@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033493176906326028,
+        "width" : 0.81441818584095338,
+        "x" : 0.069476304633721842,
+        "y" : 0.069573572788898752
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이는 장소를 나타내는 at와 비슷하다. 장소를 '안에서 보는 in과 달리, at은 장소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026423118685748426,
+        "width" : 0.83246378465132276,
+        "x" : 0.051136956680755088,
+        "y" : 0.10053761042788978
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "는 위에서 내려다보며 '점'으로 파악한다. 'on + 화제·주제'에서도, 화제를 조금 떨"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022104332449159991,
+        "width" : 0.45454545454545453,
+        "x" : 0.0512820513151458,
+        "y" : 0.13218390813056691
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "어진 장소에서 전체로 파악하여 점처럼 본다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023772457234106925,
+        "width" : 0.72978747974742531,
+        "x" : 0.072146067929722099,
+        "y" : 0.15690396921649463
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "실제 사용되는 예시로 COCA라는 코퍼스에서 채취한 예문을 살표보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011671601724666858,
+        "width" : 0.030303031206130988,
+        "x" : 0.055944055387610499,
+        "y" : 0.36914235184283295
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.98742138364779874,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024206389166632092,
+        "width" : 0.78831533952192845,
+        "x" : 0.095340490116600674,
+        "y" : 0.20507446490799341
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : ".. it's part of a growing effort to reach out these voters not only on"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021047209344217999,
+        "width" : 0.50615236975929956,
+        "x" : 0.10004187262157779,
+        "y" : 0.2334906013501139
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "economics but on health care, on education."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023421385349371548,
+        "width" : 0.78576226667924376,
+        "x" : 0.10012197926222678,
+        "y" : 0.25568977848830998
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "... 그것은 이 유권자들에게 경제에 관한 것뿐만 아니라, 의료 문제와 교육 문제에 대해서도 호"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860033704737,
+        "width" : 0.37995338439941412,
+        "x" : 0.10023309859813147,
+        "y" : 0.28197674436211173
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "소하려고 더욱 더 노력하는 점의 일부입니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02236948426480212,
+        "width" : 0.78363453258167615,
+        "x" : 0.1023766925011516,
+        "y" : 0.30045188304508952
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.51724137931034486,
+      "text" : "* 선거를 위해 유권자들에게 호소하고 있는 점으로, 경제, 의료, 교육 문제를 꼽고 있다. on economics"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020622612626862491,
+        "width" : 0.76255642284046521,
+        "x" : 0.12341159537720695,
+        "y" : 0.32033381026114283
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.43510737628384688,
+      "text" : "에서 '경제 문제 전체, on health care에서 '의료 문제 전체, on education에서 '교육 문제 전체를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016599875230055683,
+        "width" : 0.061017323624004013,
+        "x" : 0.12333749191345543,
+        "y" : 0.34271750378784649
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.53424657534246578,
+      "text" : "타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023874340175422892,
+        "width" : 0.78369790857488453,
+        "x" : 0.10233593924874972,
+        "y" : 0.36099019158134937
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "He translates Russian literature into English and writes fiction, as well"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026026851407834561,
+        "width" : 0.75568840720436792,
+        "x" : 0.099996185410508018,
+        "y" : 0.38733084255557104
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "as articles on economics, business, and finance, in both languages."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025014710363089554,
+        "width" : 0.7859377427534624,
+        "x" : 0.10238989394019034,
+        "y" : 0.41217890059339268
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그는 러시아어와 영어의 두 언어로, 경제와 비즈니스, 금융에 관한 기사를 쓸 뿐만 아니라, 러"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349072524659,
+        "width" : 0.36596736040982331,
+        "x" : 0.10256410525170155,
+        "y" : 0.43749999987472321
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "시아 문학을 영어로 번역하고 소설도 쓴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021407467195357355,
+        "width" : 0.78122225674715917,
+        "x" : 0.10475285162061371,
+        "y" : 0.4572292576466942
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.42519685039370081,
+      "text" : "* 책장 위에 책을 나열하는 것처럼, '경제 분야 전체, '비즈니스 분야 전체, 금융 분야 전체'를 나타내는 공"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014649260476244708,
+        "width" : 0.20745921134948733,
+        "x" : 0.12587412380827337,
+        "y" : 0.48099027435960529
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.48068669527896996,
+      "text" : "을 각각 나열하는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01908040826664259,
+        "width" : 0.041958042166449772,
+        "x" : 0.44289044265673883,
+        "y" : 0.5928381963972037
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "경제"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031091013806357481,
+        "width" : 0.81419043107466271,
+        "x" : 0.078895092444427384,
+        "y" : 0.65609916210505304
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "on은 '접촉하고 있다'=떨어져 있지 않다'를 나타내므로, '직접 붙는' 것을 말할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027712248575360698,
+        "width" : 0.83037835901433765,
+        "x" : 0.06036132063500825,
+        "y" : 0.68552079748529227
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "때 사용된다. 즉, '다른 주제로 벗어나지 않고 엄밀하게 그것에 관해서만'을 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023649959412430532,
+        "width" : 0.67166341434825561,
+        "x" : 0.060395335717950083,
+        "y" : 0.71352076967003308
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "내어, 전문적이고 딱딱한 주제에 관한 것이라는 인상을 줄 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025999740411706163,
+        "width" : 0.81175492026589124,
+        "x" : 0.07897686643818061,
+        "y" : 0.73953816428305696
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "about의 경우, 그림에서처럼 나열되어 있는 공을 하나하나 풀어내어, 주제의 주"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024950627833736583,
+        "width" : 0.83254302631724975,
+        "x" : 0.060424283067438189,
+        "y" : 0.76703047029620197
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "변에 있는 여러 가지 화제를 다루는 느낌이 있다. about economics는 '경제를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028924710976139356,
+        "width" : 0.83274693922563026,
+        "x" : 0.060301497220625014,
+        "y" : 0.79218813694905044
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "둘러싼 여러 가지 이야기'를 말한다. about는 '주변'을 나타내기 때문에 이처럼 '둘"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025997550586595919,
+        "width" : 0.70416580546985974,
+        "x" : 0.060514273478888825,
+        "y" : 0.82254675750398143
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "러싼' 이미지가 있다. 앞서 언급한 COCA에서 실제 사용 예시를 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015599285365205051,
+        "width" : 0.43384842439131305,
+        "x" : 0.48471996442865001,
+        "y" : 0.92426507450596074
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.92585170340681366,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 353"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    646
+  ],
+  "pdf_page_index" : 341,
+  "pdf_page_number" : 342
+}

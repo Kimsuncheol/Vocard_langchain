@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523254394531296,
+        "width" : 0.12790697320574029,
+        "x" : 0.13953488550600934,
+        "y" : 0.094476744826386572
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 1,
+      "text" : "Mus 69"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.034778177897135443,
+        "width" : 0.42379878117487974,
+        "x" : 0.14160914216837489,
+        "y" : 0.13129554396725529
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99922450562233422,
+      "text" : "부분 부정과 전체 부정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019336775037977483,
+        "width" : 0.33537518536603006,
+        "x" : 0.1439605347889262,
+        "y" : 0.2150595632731287
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99943052391799547,
+      "text" : "> 100% + 바늘구멍을 나타내는 not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033737665812174411,
+        "width" : 0.47322930230034721,
+        "x" : 0.097036886620759127,
+        "y" : 0.30680856648789856
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99206349206349209,
+      "text" : "• 부분 부정: 전체가 그렇지는 않다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029840274386935817,
+        "width" : 0.81935341337807155,
+        "x" : 0.12750016604666642,
+        "y" : 0.3558940462754544
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "\"전체가 ~는 아니다'또는 '반드시 ~인 것은 아니다'라고 부정하는 방법을, '부분"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025707380506727495,
+        "width" : 0.71448823325654376,
+        "x" : 0.11137654036393659,
+        "y" : 0.38715903572142851
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "부정'이라고 한다. 부분 부정이 어떤 이미지를 가진 표현인지 알아보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02244997151692707,
+        "width" : 0.7142719583973246,
+        "x" : 0.11148377935582074,
+        "y" : 0.43689184982250384
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.20129171151776104,
+      "text" : "예e This is not necessarily evil. 이것이 반드시 사악하다고는 할 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030475077311197918,
+        "width" : 0.30895357050447381,
+        "x" : 0.10845524581892146,
+        "y" : 0.4591015651924073
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.22262334536702769,
+      "text" : "Ce Life is not always easy."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024987493726942311,
+        "width" : 0.28511801608267678,
+        "x" : 0.42507191438658926,
+        "y" : 0.46076266212082673
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "인생이 항상 쉬운 것은 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022028890821668923,
+        "width" : 0.50986148149539268,
+        "x" : 0.10906898517171147,
+        "y" : 0.49094723526478301
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.13441238564391272,
+      "text" : "예문 Not all the people were against the plan."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024707260131835884,
+        "width" : 0.43588952393273683,
+        "x" : 0.15767531129034063,
+        "y" : 0.51324638703695979
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그 사람들 모두가 그 계획에 반대했던 것은 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020542636447482665,
+        "width" : 0.81162794498976143,
+        "x" : 0.13023253898164402,
+        "y" : 0.566666666248829
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "밑줄 친 부분에 주목하면 알 수 있듯이, 부분 부정의 형태는 'not+ 100%를 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02922512139214406,
+        "width" : 0.83760179481615038,
+        "x" : 0.10903881657727581,
+        "y" : 0.58961920074798546
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "하는 말'이다. 그리고 의미상으로 '전부가 그렇다고는 할 수 없고, 예외가 존재한다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021997416178385354,
+        "width" : 0.83488373063568377,
+        "x" : 0.10930232053505408,
+        "y" : 0.62044444438015989
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.038154392191659274,
+      "text" : "라는 것을 나타낸다. 다시 말해, 부분 부정이란 '예외도 있다'라는 것을 나타내는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02088610839843752,
+        "width" : 0.1049171295600739,
+        "x" : 0.10684376067602788,
+        "y" : 0.64798717833412811
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021999130249023446,
+        "width" : 0.54685821967926451,
+        "x" : 0.1277504617392787,
+        "y" : 0.67430470414146693
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "부분 부정에서 not의 이미지는 '작은 구멍을 뚫는 바"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01605555555555549,
+        "width" : 0.039534883961039102,
+        "x" : 0.74186046508343406,
+        "y" : 0.6875000002930004
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 1,
+      "text" : "0%"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023272609286838053,
+        "width" : 0.5674418479289085,
+        "x" : 0.10697674666677508,
+        "y" : 0.6991111112998537
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "늘'이다. not은 100% 부풀어 있는 봉투에 작은 구멍을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632713,
+        "width" : 0.36046511223513178,
+        "x" : 0.10697674608934717,
+        "y" : 0.72965116296016119
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "뚫어 바람이 나가게 하는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025580988566080709,
+        "width" : 0.81428401762264069,
+        "x" : 0.12541269602417343,
+        "y" : 0.78407348072089467
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 not의 위치에 주목하도록 하자. 다음에 제시되는 어순상의 중요한 규"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023525312635633733,
+        "width" : 0.15872860769940239,
+        "x" : 0.1066822076744296,
+        "y" : 0.81018501807740406
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "칙을 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022228635999891444,
+        "width" : 0.32611079637141649,
+        "x" : 0.12767623686979215,
+        "y" : 0.86738625039725881
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "부정어는 뒤에 오는 말을 부정한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.039534883961039047,
+        "x" : 0.074418604414829309,
+        "y" : 0.92877906966982438
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.98019801980198018,
+      "text" : "304"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 294,
+  "pdf_page_number" : 295
+}

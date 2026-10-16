@@ -1,0 +1,55 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.097469218529820156,
+        "width" : 0.29837480458346277,
+        "x" : 0.13841714511589318,
+        "y" : 0.40261627939148248
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.36159017831043555,
+      "text" : "제 10잠"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.12377005525651386,
+        "width" : 0.43050206791270862,
+        "x" : 0.15892338157065608,
+        "y" : 0.4317226006547199
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "형용사와 부사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.12359485575627904,
+        "width" : 0.48693804307417443,
+        "x" : 0.17545398324308994,
+        "y" : 0.47347223338722477
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.059378185524974515,
+      "text" : "'수식하다'의 진실"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    646
+  ],
+  "pdf_page_index" : 306,
+  "pdf_page_number" : 307
+}

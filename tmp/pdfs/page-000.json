@@ -1,0 +1,70 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.08139535152550903,
+        "width" : 0.35616439263693761,
+        "x" : 0.3173515935225853,
+        "y" : 0.19186046374106225
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "영문법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.081884727546025604,
+        "width" : 0.36206678716408441,
+        "x" : 0.31438444704993235,
+        "y" : 0.28017117645946621
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "악마의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.068404634581105128,
+        "width" : 0.36757991160331321,
+        "x" : 0.30593607214463608,
+        "y" : 0.37500000046988879
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "100법칙"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133071,
+        "width" : 0.1872146136286546,
+        "x" : 0.40867579810360427,
+        "y" : 0.4985465114994847
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "| 도키요시 히데야 지음"
+    }
+  ],
+  "page_size_points" : [
+    408,
+    641
+  ],
+  "pdf_page_index" : 0,
+  "pdf_page_number" : 1
+}

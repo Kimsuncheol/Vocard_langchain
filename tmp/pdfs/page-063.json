@@ -1,0 +1,130 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028169869316948759,
+        "width" : 0.80489670207564179,
+        "x" : 0.09180495212217514,
+        "y" : 0.06881208369056957
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, \"(지금은 괜찮지만) 나는 어제는 아팠어.\"를 영어로 바꾸면 I was"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021931524488661092,
+        "width" : 0.2275862123728134,
+        "x" : 0.071264366514742716,
+        "y" : 0.10029069739416152
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "sick yesterday.이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010839668697780969,
+        "width" : 0.087742323949199508,
+        "x" : 0.47808740276957357,
+        "y" : 0.21567206473316469
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "Iwas sick"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013665204789903407,
+        "width" : 0.090114062345480583,
+        "x" : 0.51229760695941562,
+        "y" : 0.22699964342787493
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "Yesterday"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015832806057400117,
+        "width" : 0.085495370685132077,
+        "x" : 0.40195324717782682,
+        "y" : 0.25849653300078512
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "Ian fine."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024160435994466156,
+        "width" : 0.80262063156535701,
+        "x" : 0.094089121839081288,
+        "y" : 0.31612020973036214
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 '지금은 다르다'라는 의미를 파악하는 것은 과거형과 현재완료를 구별"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021954780578613331,
+        "width" : 0.46666664949784642,
+        "x" : 0.073563229815937214,
+        "y" : 0.3457777775037616
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "하는 데도 필요한 감각이므로 잘 기억해 두자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.47126437373637481,
+        "x" : 0.45287356017031138,
+        "y" : 0.92577777796112237
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.83652430044182624,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 67"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 63,
+  "pdf_page_number" : 64
+}

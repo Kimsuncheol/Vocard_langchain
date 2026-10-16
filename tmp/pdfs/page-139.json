@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025619869656033023,
+        "width" : 0.81224728848071814,
+        "x" : 0.074141984756912804,
+        "y" : 0.071799712514687752
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "수동태는 '~하는 쪽'과 '~당하는 쪽이 바뀌어, '~당하는 쪽'이 주어가 되고, Tby"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028064463297525988,
+        "width" : 0.83566349110704785,
+        "x" : 0.050846687748190102,
+        "y" : 0.098700907504979951
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "+~하는 쪽'이 뒤에 온다. 즉, 수동태의 by는 '~하는 쪽'인 '직접적인 행위자'를 표"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022912086486816419,
+        "width" : 0.15815390728889628,
+        "x" : 0.055493812832078854,
+        "y" : 0.13025907243585078
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "현하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021989663865831233,
+        "width" : 0.5893271588264628,
+        "x" : 0.055684448312513186,
+        "y" : 0.18023255803651439
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.014201183431952662,
+      "text" : "X The meat was cut by a knife. 그고기가칼로잘렸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023173481411404073,
+        "width" : 0.58282050815879871,
+        "x" : 0.076325434087321162,
+        "y" : 0.2207040568284383
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "위 문장은 칼이 의지를 가지고 스스로 움직여서 고기를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024557343377007324,
+        "width" : 0.60360726430906475,
+        "x" : 0.055533205098117669,
+        "y" : 0.24826404157938942
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "잘랐다는 느낌이 든다. 고기를 자른 것은 칼 자체가 아니라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.60556844075520833,
+        "x" : 0.055684457024116334,
+        "y" : 0.2759999999353725
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "칼을 가진 '사람'일 것이다. 그러므로 아래와 같이 문장이 바"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02187855275472006,
+        "width" : 0.13457076701712101,
+        "x" : 0.055684454165453423,
+        "y" : 0.30523255797283166
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "뀌어야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.040888888888888975,
+        "width" : 0.66887497056460543,
+        "x" : 0.041763333493893905,
+        "y" : 0.34444444371694316
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.045820433436532505,
+      "text" : "O The meat in queston vas cur by Doug with his kimite.뉴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020289254082573649,
+        "width" : 0.42947669063054084,
+        "x" : 0.1042840058308834,
+        "y" : 0.37909564517649552
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "문제의 그 고기는 더그에 의해서 그의 칼로 잘렸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021362653944227428,
+        "width" : 0.44108670282025714,
+        "x" : 0.05556228578991744,
+        "y" : 0.43005730348326832
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.2552594670406732,
+      "text" : "에e He was hit by a Car. 그는 차에 치였다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016169251335991897,
+        "width" : 0.4083526827764849,
+        "x" : 0.10208816042572084,
+        "y" : 0.45494186007392345
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.51904761904761909,
+      "text" : "7 차가 직접적인 행위를 하는 입장이라는 느낌이 든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023633583916558121,
+        "width" : 0.68238157448193704,
+        "x" : 0.055560538148134546,
+        "y" : 0.49468808172777912
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.17514677103718199,
+      "text" : "We He was hit by Tom with his Car. 그는 톰에 의해서 차에 치였다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017513848198784765,
+        "width" : 0.73099598986037229,
+        "x" : 0.099699715242965142,
+        "y" : 0.51964756365843146
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.38926174496644295,
+      "text" : "1 차는 도구에 속하고, 직접적인 행위자는 톰이다. 여기에서는 톰이 차로 일부러 그를 친 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022212046305338573,
+        "width" : 0.8123111806017288,
+        "x" : 0.0787588355993845,
+        "y" : 0.56612267285766371
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "위 두 문장은 모두 틀리지 않았고, 전치사를 이용해서 문장의 뉘앙스를 바꿀 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020514212714301205,
+        "width" : 0.23897910693013077,
+        "x" : 0.058004646198507724,
+        "y" : 0.5959302321496549
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "있다는 것을 보여 준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.2227378250013852,
+        "x" : 0.12761020587020569,
+        "y" : 0.65111111103794106
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.98095238095238091,
+      "text" : "- 분야를 나타내는 in"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026778678894042951,
+        "width" : 0.71962578956117018,
+        "x" : 0.078660298925767189,
+        "y" : 0.68495417311792461
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이 부분을 틀리는 학습자가 많지는 않지만, 참고로 언급하도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021832041422526038,
+        "width" : 0.66357309327903369,
+        "x" : 0.060324822148380197,
+        "y" : 0.73688888890455062
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.064272211720226846,
+      "text" : "X The letter was written by English. 그 편지는 영어로 쓰였다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024879665798611117,
+        "width" : 0.80549879141733161,
+        "x" : 0.08102495692266605,
+        "y" : 0.77805541618601992
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "정답은 The letter was written in English.이다. 문제는 '왜 in을 사용하는지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.34338746848681295,
+        "x" : 0.060324827122999261,
+        "y" : 0.80666666661991848
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "잘 모르는 사람이 많다'는 점이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02338717142740887,
+        "width" : 0.81230563982158677,
+        "x" : 0.078765178163139951,
+        "y" : 0.85447368018137981
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.033519553072625698,
+      "text" : "in은 '테두리 안에 있다'를 의미하는 전치사이다. 앞 문장의 in English는 '세상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.82830628740026579,
+        "x" : 0.060324814851875103,
+        "y" : 0.88222222205017842
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "에 여러 언어가 있는데, 어느 언어의 테두리 안에서 쓰였는지'를 의미한다. 이 책에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.3619489520999557,
+        "x" : 0.55452436399739258,
+        "y" : 0.92711111098905652
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.84513274336283184,
+      "text" : "5장 동사 ④ 과거분사: 이미지부터 이해하자 145"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 139,
+  "pdf_page_number" : 140
+}

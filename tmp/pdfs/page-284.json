@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.47099768031727185,
+        "x" : 0.11600928032717839,
+        "y" : 0.075581395024841957
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.2748447204968944,
+      "text" : "예몬 Any seat will do. 아무 자리나 상관없어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01747289586321743,
+        "width" : 0.77958237041126599,
+        "x" : 0.16705336224252887,
+        "y" : 0.10174418633973659
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.52998065764023206,
+      "text" : "- Any + 단수 명사 + will do.는 \"어떤 (명사)든 상관없다. 라는 의미이다. do는 자동사로 '적절하다. 충분"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017467722773976235,
+        "width" : 0.50812062350186438,
+        "x" : 0.18793504655533236,
+        "y" : 0.1235465117494644
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.55292259083728279,
+      "text" : "하다'라는 뜻이 있으므로, '그것으로 좋다. 상관없다'라는 의미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.078886308453299803,
+        "x" : 0.59164733290006211,
+        "y" : 0.16133720895614145
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "Am 500+ )"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0072674420380507421,
+        "width" : 0.053364271467382207,
+        "x" : 0.5986078874267331,
+        "y" : 0.17296511616432175
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "will ao."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021249067740932492,
+        "width" : 0.58722656423395325,
+        "x" : 0.11590252567340187,
+        "y" : 0.30507829335466474
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.12083333333333333,
+      "text" : "예e She sings better than any student in this school."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020426548248508203,
+        "width" : 0.44363034855235706,
+        "x" : 0.16221246691246141,
+        "y" : 0.32848904938685342
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 이 학교에서 어느 학생보다도 노래를 잘한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016874924249072221,
+        "width" : 0.77970894900235266,
+        "x" : 0.16467164731443695,
+        "y" : 0.3524273675256635
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.43021914648212228,
+      "text" : "-> '어느 학생보다도'라고 말했을 때, 무심코 머릿속에 '여러 명의 학생'이 떠오르지만, 여기에서는 any에 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.65661252628673206,
+        "x" : 0.18793503604073047,
+        "y" : 0.37499999981974252
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.54341736694677867,
+      "text" : "해 '어느 1명의 (학생과 비교해도)'라는 의미가 생겨나므로, student는 단수형을 사용한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469782,
+        "width" : 0.83758700977672229,
+        "x" : 0.10208816161975953,
+        "y" : 0.42571174388547628
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.96047269763651177,
+      "text" : "• '수• 양의 무작위성'을 나타내는 any가 의문문과 부정문에 사용되는 방법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.80974474820223719,
+        "x" : 0.13457078120394284,
+        "y" : 0.4651162789870722
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "①에서 다룬 '수·양의 무작위성'을 나타내는 any는 존재를 의문시하는 의문문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023419061165263266,
+        "width" : 0.38551837747747242,
+        "x" : 0.11352072024074132,
+        "y" : 0.49119269705390201
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "과 존재를 부정하는 부정문에 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023348919437449212,
+        "width" : 0.81438515403053968,
+        "x" : 0.12993039156554989,
+        "y" : 0.51734875439272232
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "'존재를 의문시하는 의문문'이란, '있는 걸까? 없는 걸까?'와 같이 '답이 정해져 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02199371005292472,
+        "width" : 0.83062648773193359,
+        "x" : 0.11368907620773315,
+        "y" : 0.54651162806162434
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "지 않다'라는 것을 뜻하는 문장이다. 정해져 있지 않다는 것은 '몇 개든 좋은데', '어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022788748622364796,
+        "width" : 0.55943254991011193,
+        "x" : 0.11357425747879303,
+        "y" : 0.57172087988900955
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "느 정도의 양이라도 좋은데'라는 '무작위성'과 어울린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.51044082641601562,
+        "x" : 0.11136891386322624,
+        "y" : 0.62354651130633099
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.13777089783281735,
+      "text" : "예문 Do you have any money with you today?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017566001287983024,
+        "width" : 0.32946636460044165,
+        "x" : 0.16009280366347897,
+        "y" : 0.64813167282846051
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "오늘은 얼마라도 좋으니 돈 가져왔어?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491014,
+        "width" : 0.53828304464166821,
+        "x" : 0.16241300240802803,
+        "y" : 0.66992882568480172
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.53699788583509511,
+      "text" : "- 100원이든 200원이든 얼마가 되었든 돈을 가지고 있는지 묻는 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02331788429586068,
+        "width" : 0.81902547316117713,
+        "x" : 0.12296986695769432,
+        "y" : 0.71511627927060373
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "또한 존재를 부정하는 문장에 쓰이는 any는 'zero, 0'을 의미한다. '1개든, 2개"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828188166499563,
+        "width" : 0.71925752813165833,
+        "x" : 0.11368910119610751,
+        "y" : 0.74418604666374433
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "든, 몇 개든, 아니다(not)'라는 것을 말하므로, '0'을 의미하는 것이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018905693950177938,
+        "width" : 0.5382830446416681,
+        "x" : 0.11136891841203354,
+        "y" : 0.79359430636025186
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.13896848137535817,
+      "text" : "예e He doesn't have any books with him today."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164156,
+        "width" : 0.34802783619273792,
+        "x" : 0.16009281036457457,
+        "y" : 0.81976744214836628
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "그는 오늘 책을 한 권도 가져오지 않았어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014746958674909383,
+        "width" : 0.47563804279674182,
+        "x" : 0.16009281143769352,
+        "y" : 0.84156976726048982
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.46575342465753422,
+      "text" : "* 한 권이든 두 권이든 몇 권이든, '가지고 있지 않다'는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01472626886333861,
+        "width" : 0.039443154226649887,
+        "x" : 0.081206496987603141,
+        "y" : 0.92877906940817023
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.97894736842105268,
+      "text" : "294"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 284,
+  "pdf_page_number" : 285
+}

@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020508759404667232,
+        "width" : 0.088372095064683381,
+        "x" : 0.12558139420059156,
+        "y" : 0.075421473238726833
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027728865182600759,
+        "width" : 0.81222516840154491,
+        "x" : 0.14620393817287783,
+        "y" : 0.1020919376934426
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, convenience store를 상대방에서 설명할 때, GS25, CU, Seven"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025276979515799991,
+        "width" : 0.83286961642178614,
+        "x" : 0.12541067645734136,
+        "y" : 0.12997873834451368
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "Eleven 등으로 편의점의 이름을 나열하는 것이다. 물론 ①의 '넓은 범위에서 좁은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028547163441208667,
+        "width" : 0.58701779625632544,
+        "x" : 0.12748660251550906,
+        "y" : 0.15330592454086056
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "범위로'라는 설명 방법과 함께 조합해서 설명하면 더 좋다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024320360402037,
+        "width" : 0.83068570223721583,
+        "x" : 0.12770675273657783,
+        "y" : 0.20540587000849431
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.077461269365317345,
+      "text" : "ME They are stores. They are open 24 hours a day. Stores such as GS25,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.22790696404197003,
+        "x" : 0.17209302825808476,
+        "y" : 0.23247559908081938
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "CU, Seven Eleven ...."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022612121534643759,
+        "width" : 0.72368448430841625,
+        "x" : 0.17187307655664308,
+        "y" : 0.25801815741204037
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그것은 상점이다. 하루에 24시간 열려 있다. GS25, CU, 세븐일레븐과 같은 상점이·••··"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023971188671311761,
+        "width" : 0.4006800651550293,
+        "x" : 0.12291681904545015,
+        "y" : 0.30482642898240875
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.95599022004889977,
+      "text" : "③ 백과사전적 지식 활용하기(a script)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023802930735441596,
+        "width" : 0.81197244470769703,
+        "x" : 0.14401095325707214,
+        "y" : 0.33282912823941435
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들면, '지우개란 무엇인가'를 떠올릴 때 우리는 '지우개'만을 순수하게 떠올"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843595428602258,
+        "width" : 0.83023253354159265,
+        "x" : 0.12325582591131011,
+        "y" : 0.36191860487830407
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "리지 않는다. 연필과 종이, 연필로 쓴 글씨, 지우개 등 지우개와 관련된 체험적 정보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021856492456336363,
+        "width" : 0.19069766998291016,
+        "x" : 0.12093023467574616,
+        "y" : 0.38808139556619259
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "를 함께 연상한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024186604828991154,
+        "width" : 0.81185652992942114,
+        "x" : 0.14175470538810392,
+        "y" : 0.41393797494759443
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 'A에서 연상되는 지식'을 언어학에서는 'A에 대한 백과사전적 지식'이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020450723202966925,
+        "width" : 0.11162790385159579,
+        "x" : 0.12093023399889757,
+        "y" : 0.44321206758855802
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "라고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024543004006332581,
+        "width" : 0.81436573375355115,
+        "x" : 0.13933447913653782,
+        "y" : 0.46986350028077739
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "A에 대한 설명을 할 때, 순간적으로 A라는 단어가 말로 나오지 않으면 이 백과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02729647584795003,
+        "width" : 0.83532610806551844,
+        "x" : 0.11836595807184157,
+        "y" : 0.49622153608492825
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "사전적 지식을 사용하게 된다. 예를 들어서 지우개의 경우, 다음과 같이 말할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02187454880288775,
+        "width" : 0.055813951925797897,
+        "x" : 0.12093023333942664,
+        "y" : 0.52470930240600111
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021084161807502833,
+        "width" : 0.82810792055996985,
+        "x" : 0.12082968199897758,
+        "y" : 0.58249565205642406
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.080481927710843379,
+      "text" : "예e OK, you're writing with a pencil and you make a mistake. You want to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.38604649630459875,
+        "x" : 0.1627907051195531,
+        "y" : 0.60901162827002242
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "delete it. Then, what will you use?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017443150043910727,
+        "width" : 0.7720929926091975,
+        "x" : 0.16511629391934626,
+        "y" : 0.63517441861356383
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "자, 네가 연필로 글씨를 쓰다가 틀렸어. 그것을 지우고 싶어 해. 그렇다면 넌 뭘 사용하겠니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024920076845807104,
+        "width" : 0.81659663807262073,
+        "x" : 0.13706653544642641,
+        "y" : 0.68189719857053843
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "조금 난이도가 높기는 하나, 이 전략을 다음과 같이 응용할 수 있다. 예를 들어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024367952727594622,
+        "width" : 0.83290828358043334,
+        "x" : 0.11611236921571098,
+        "y" : 0.70875960517790826
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "회사의 신제품을 홍보하기 위한 매체로, Facebook이 가장 우수하다고 가정해 보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.037209302186965956,
+        "x" : 0.11627906968171083,
+        "y" : 0.73691215632927443
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024587646457296386,
+        "width" : 0.81425840204412292,
+        "x" : 0.13473943388014656,
+        "y" : 0.76307237666832306
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "이 매체가 채택되도록 상대방에게 설득하기 위해, 지금까지 설명한 3가지 전략을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023826698127211721,
+        "width" : 0.37490901080044836,
+        "x" : 0.11374082070846243,
+        "y" : 0.79021363797319233
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "사용하면 다음과 같이 말할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.039534883065657195,
+        "x" : 0.08372093045118302,
+        "y" : 0.92724046128235593
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.9882352941176471,
+      "text" : "414"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 400,
+  "pdf_page_number" : 401
+}

@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.30232557383450592,
+        "x" : 0.0604651198497329,
+        "y" : 0.072674418326021617
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.98860862489829127,
+      "text" : "를 전체 부정: not at all"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023548356388772396,
+        "width" : 0.81877795132723707,
+        "x" : 0.076641030958893797,
+        "y" : 0.11915135571809077
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "'전혀 ~아니다'라는 전체 부정을 나타내는 말에는 not at all이 있다. not과 all"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020423639529345894,
+        "width" : 0.83488368988037109,
+        "x" : 0.060465131756550411,
+        "y" : 0.14818101174695764
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이 조합되면 부분 부정이 될 것이라고 생각되지만, 이 표현은 전체 부정을 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022524961456325876,
+        "width" : 0.50027387792413891,
+        "x" : 0.062664547303796461,
+        "y" : 0.17533385934054835
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "낸다. 이 표현의 구조는 어떻게 되어 있는 것일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029638532420228625,
+        "width" : 0.81446725671941578,
+        "x" : 0.081124735361272127,
+        "y" : 0.19802555149440759
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "사실 at이라는 말에 열쇠가 있다. at은 '움직이고 있는 한 점을 가리키다'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023844244211462584,
+        "width" : 0.83049843528053979,
+        "x" : 0.062664180163910288,
+        "y" : 0.22870649106954732
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "는 근본적인 의미를 가지고 있다. 움직이는 가운데, '지금 여기'를 나타내는 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020461040994395274,
+        "width" : 0.83255811171098193,
+        "x" : 0.060465130152701392,
+        "y" : 0.25726744173660898
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이다.(Must 77 내용 참조) 따라서 '눈금 위를 움직이는 한 점을 가리키다'라는 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023963083708931521,
+        "width" : 0.8187823729081587,
+        "x" : 0.062688640832677875,
+        "y" : 0.28410618786234609
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "미로 자주 쓰인다. 구체적으로는 각도, 온도, 속도, 거리를 나타내는 점 등이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.58139536597511987,
+        "x" : 0.062790689105463357,
+        "y" : 0.33430232594729392
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.16958525345622119,
+      "text" : "예문 Water freezes at zero degrees. 물은 0도에서 언다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024259319322344042,
+        "width" : 0.81184517253528954,
+        "x" : 0.081299336328719676,
+        "y" : 0.38387103990794025
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "not at all의 at은 '이 not이 나타내는 '부정이 어느 정도 수준의 부정인지'를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028183653593698121,
+        "width" : 0.83304379203102796,
+        "x" : 0.062519075978004893,
+        "y" : 0.40860920865922923
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.14911242603550295,
+      "text" : "타낸다. 즉, not의 부정 수준을 나타내는 '0~100'의 저울이 있고, not at all은 not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020551319342327901,
+        "width" : 0.83023253354159277,
+        "x" : 0.062790709865592972,
+        "y" : 0.44040697662301831
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이 나타내는 부정이 all(100%) 수준에 있다는 의미라고 생각하면 된다. 그렇기 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021895183539538676,
+        "width" : 0.68139535730535328,
+        "x" : 0.062790691289183881,
+        "y" : 0.46656976749632495
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "문에 '완전히 not이다'라는 의미가 생기게 되었다고 생각할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.35348838025873358,
+        "x" : 0.062790693464922817,
+        "y" : 0.51730257360710363
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.20167189132706373,
+      "text" : "예⑧ I'm not disappointed at all."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744572928021626,
+        "width" : 0.21860465136441318,
+        "x" : 0.10930232536172105,
+        "y" : 0.54214729394622863
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "난 전혀 실망하지 않았어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627907232573897,
+        "width" : 0.030232556841590208,
+        "x" : 0.60465116331370095,
+        "y" : 0.62063953470735644
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "약간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010268566771323706,
+        "width" : 0.030232556841590208,
+        "x" : 0.6046511635850188,
+        "y" : 0.63081395330215428
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215404,
+        "width" : 0.046511628411032846,
+        "x" : 0.67209302288750683,
+        "y" : 0.60319767460857832
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 1,
+      "text" : "NOT"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010361424778664974,
+        "width" : 0.025581395084207648,
+        "x" : 0.80232558131836129,
+        "y" : 0.61918604635084618
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "매우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011893786893233615,
+        "width" : 0.037411345676942376,
+        "x" : 0.79665167454920338,
+        "y" : 0.62840329141898077
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421509,
+        "width" : 0.38139533996582031,
+        "x" : 0.53953488804034566,
+        "y" : 0.9244186044503333
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.86979166666666663,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 307"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 297,
+  "pdf_page_number" : 298
+}

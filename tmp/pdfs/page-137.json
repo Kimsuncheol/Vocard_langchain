@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02305046223705598,
+        "width" : 0.76363421500997331,
+        "x" : 0.10423475261392717,
+        "y" : 0.074849786924028772
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.001433349259436216,
+      "text" : "It is thought that the older we get, the more easily we forget things."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016145715485025303,
+        "width" : 0.45475637016566933,
+        "x" : 0.10440835783131847,
+        "y" : 0.10319767407606384
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "나이가 들수록 우리는 더 쉽게 잊어버린다고 생각된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02374687888713245,
+        "width" : 0.81011859000997344,
+        "x" : 0.078696774908523226,
+        "y" : 0.13978605914070952
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이전 페이지의 예문보다 위 예문처럼 표현하면 필자의 개인적인 주장이라는 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022335240347996832,
+        "width" : 0.76811913023603706,
+        "x" : 0.057915441715292122,
+        "y" : 0.16828291537935169
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "을 피하기 때문에 일반적이고 상식적인 사고방식이라는 느낌을 줄 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01613410807544402,
+        "width" : 0.24129930861452795,
+        "x" : 0.13225057757145073,
+        "y" : 0.22965116244520012
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.96724470134874763,
+      "text" : "- it is believed that ~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025715569849022679,
+        "width" : 0.81471267591976948,
+        "x" : 0.076418529375792771,
+        "y" : 0.25963487510807282
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "it is believed that이라는 말도 있다. 단, 여기에서는 동사 believe가 나타내고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.3132250630263741,
+        "x" : 0.058004638003847982,
+        "y" : 0.28924418625397497
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "자 하는 개념에 유의해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.80974476049977828,
+        "x" : 0.078886320442325089,
+        "y" : 0.31540697697311737
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "영어 학습자라면 누구나 'believe=믿다'로 알고 있다. 틀린 것은 아니지만, 모든"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021879707275499038,
+        "width" : 0.83062648908466319,
+        "x" : 0.060324806396889433,
+        "y" : 0.3429458738798199
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.21221532091097309,
+      "text" : "경우에 '믿다'로 해석하면 잘 이해되지 않는 경우도 있다. 특히 it is believed that"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025275075551991932,
+        "width" : 0.83098828471298758,
+        "x" : 0.060150987501201084,
+        "y" : 0.36805347779418218
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.034569983136593589,
+      "text" : "'S+V ~'의 경우에, 'S가 V한다고 생각되다/여겨지다'로 이해하는 것이 보다 정확"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020432667702621532,
+        "width" : 0.06032482715363198,
+        "x" : 0.060324825267975793,
+        "y" : 0.3997093021539565
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.50580046092364805,
+        "x" : 0.081206498242186578,
+        "y" : 0.42280390427975978
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "한국어 '믿다'라는 표현은 '근거가 없지만, 정말로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.52668214622118792,
+        "x" : 0.060324820100916658,
+        "y" : 0.45203488394976454
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다고 생각하다'라는 뉘앙스가 있다. 하지만 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024152904669584752,
+        "width" : 0.52927124889184396,
+        "x" : 0.060197640325924742,
+        "y" : 0.47764192948259843
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "의 believe는 '실제로 본 것은 아니어도, 그렇게 생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026714363876654268,
+        "width" : 0.52958348051030579,
+        "x" : 0.060048070481308537,
+        "y" : 0.50481131997666417
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "각할 만한 근거가 있어서 그렇게 생각하다'라는 뉘"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020886662372362363,
+        "width" : 0.13477660916375775,
+        "x" : 0.060221904114557155,
+        "y" : 0.53606829670074785
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "앙스가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011725924135629562,
+        "width" : 0.037122969931744521,
+        "x" : 0.062645011406201156,
+        "y" : 0.58720930214481237
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020662776537457739,
+        "width" : 0.69856991598792118,
+        "x" : 0.10432988637527564,
+        "y" : 0.58140163839153824
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "It is believed that dinosaurs went extinct 66 million years ago."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020542292015258479,
+        "width" : 0.38747099747894498,
+        "x" : 0.10904872398591696,
+        "y" : 0.60736468483489048
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "공룡은 6600만 년 전에 멸종했다고 생각된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020423639529345894,
+        "width" : 0.80974476049977839,
+        "x" : 0.081206505945678825,
+        "y" : 0.64818101174857101
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "과학자들은 공룡의 멸종을 실제로 본 것은 아니지만, 여러 데이터와 화석으로 미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021864231011459179,
+        "width" : 0.8329466041943705,
+        "x" : 0.060324841654832644,
+        "y" : 0.67435669898142048
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "루어 보아 '공룡이 멸종한 것은 6600만 년 전의 일이다'라고 생각하는 것이다. 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.61948956428690161,
+        "x" : 0.062645014677894725,
+        "y" : 0.70186335437026182
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "느낌을 표현하기 위해 영어로 believe라는 동사를 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020414586816092095,
+        "width" : 0.79367113045766846,
+        "x" : 0.081133439220133177,
+        "y" : 0.72985887093418333
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "Scientists believe that dinosaurs went extinct 66 million years ago."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023350346691331292,
+        "width" : 0.81002664768949462,
+        "x" : 0.083395816397258279,
+        "y" : 0.75547437503218229
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 문장을 사용해도 괜찮지만, it is believed를 사용해야 더 담담한 객관"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023258392855247334,
+        "width" : 0.83294660419437061,
+        "x" : 0.060324837945351505,
+        "y" : 0.78197674458262445
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "성을 가지게 된다. '설득을 위한 영어'를 구사하면서 이러한 객관성을 나타내는 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02184617466490768,
+        "width" : 0.48955917899490253,
+        "x" : 0.062645004406557514,
+        "y" : 0.81100266230028695
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "동태 표현을 함께 사용하면 설득에 도움이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015064119340681636,
+        "width" : 0.36220066801030593,
+        "x" : 0.55671165338041628,
+        "y" : 0.92571651866222893
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.87055837563451777,
+      "text" : "5장 동사 ④ 과거분사: 이미지부터 이해하자 143"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 137,
+  "pdf_page_number" : 138
+}

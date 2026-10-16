@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032069768269856747,
+        "width" : 0.12761020660400388,
+        "x" : 0.13457076678273525,
+        "y" : 0.095930231778913799
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99945770065075923,
+      "text" : "Must 58"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.034883721245659749,
+        "width" : 0.61020881479436695,
+        "x" : 0.13921113769905685,
+        "y" : 0.13372093006594565
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99843068875326935,
+      "text" : "'무책임'을 나타내는 may와 might"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020758233812120275,
+        "width" : 0.38555730472911487,
+        "x" : 0.13901789347682539,
+        "y" : 0.21490542259249146
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99955956837700943,
+      "text" : "• '마음이 흔들리는 상태'인 may와 might"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023559844970703181,
+        "width" : 0.27885569225658069,
+        "x" : 0.19692941396196126,
+        "y" : 0.3096556658712124
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.97666666666666668,
+      "text" : "may 힘의 용법: 상하 관계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011632064819335874,
+        "width" : 0.081986237655986449,
+        "x" : 0.76523726194890296,
+        "y" : 0.31786300289249103
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "나에게 간식"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.062645012682134404,
+        "x" : 0.77494199471883574,
+        "y" : 0.32977777795504637
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "사 주는 걸"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013370327419704786,
+        "width" : 0.067427705634724111,
+        "x" : 0.77255064825076947,
+        "y" : 0.34142530137239646
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "허락할게!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024888888888888849,
+        "width" : 0.5150811888954856,
+        "x" : 0.12993040119030824,
+        "y" : 0.34577777796439713
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "may의 어원은 '~할 능력이 있다. ~할 힘을 가지고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025311158921983545,
+        "width" : 0.53407166220925073,
+        "x" : 0.11113732230202557,
+        "y" : 0.37192807737459865
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "있다'로, 그 의미에서 '허락할 만큼의 권력을 가지고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0075555555555555376,
+        "width" : 0.039443154226649901,
+        "x" : 0.88399071971872933,
+        "y" : 0.37333333328566742
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "윗사람이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0073126614888510133,
+        "width" : 0.046403711492364996,
+        "x" : 0.88167053389032179,
+        "y" : 0.3822222220832765
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "억날깔보!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026924346923828169,
+        "width" : 0.53409580750898877,
+        "x" : 0.11112520721395053,
+        "y" : 0.39991221513702402
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "있다'라는 의미가 되어 '~해도 되다, ~해도 좋다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.29930394346063788,
+        "x" : 0.11136890982135274,
+        "y" : 0.43022222247016706
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "허락의 의미가 생기게 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.8097447482022373,
+        "x" : 0.13225059555105192,
+        "y" : 0.45639534900469869
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "즉, may가 가지는 '~해도 되다'라는 의미는, '상하 관계에서 힘이 있는 윗사람이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025727288140190874,
+        "width" : 0.34151818535544654,
+        "x" : 0.10887902339627396,
+        "y" : 0.48017153659450384
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "아랫사람을 대하는'느낌을 준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01164082675509992,
+        "width" : 0.030162413011897704,
+        "x" : 0.11136890938732261,
+        "y" : 0.53777777776262625
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.99300699300699302,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024109754774305547,
+        "width" : 0.37169218063354498,
+        "x" : 0.15521395216931461,
+        "y" : 0.53192252133137419
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "You may play video games now."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.26450115984136413,
+        "x" : 0.52436194899753141,
+        "y" : 0.53333333349895151
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이제 비디오 게임을 해도 돼."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.78190257332541724,
+        "x" : 0.1600927967837639,
+        "y" : 0.55955555551328828
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.37009544008483564,
+      "text" : "> 엄마가 아이에게 명령할 때, 아이가 숙제나 식사 등을 끝낸 후에 이제 게임을 해도 된다고 허락하는 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.041763340884988953,
+        "x" : 0.18097447792564167,
+        "y" : 0.5784883722614298
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.58823529411764708,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026412509494357694,
+        "width" : 0.8101891604336825,
+        "x" : 0.13202477830231152,
+        "y" : 0.62170505168872536
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "상하 관계가 없는 상황, 또는 상하 관계를 나타내고 싶지 않은 마음으로 '~해도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021971628824869804,
+        "width" : 0.63826131820678711,
+        "x" : 0.11128151006485174,
+        "y" : 0.65103173595392272
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "좋아'라고 허락을 표현할 때는 can을 사용하는 것이 적절하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021958401150173668,
+        "width" : 0.69157652421431104,
+        "x" : 0.15536436946244353,
+        "y" : 0.69946051692381295
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "You can go to your room if you like. 네가 원하면 네 방에 가도 좋아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023273902045355954,
+        "width" : 0.81438515403053979,
+        "x" : 0.12993039273963883,
+        "y" : 0.75288888847055191
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "mnay를 사용하면, '내 허락이 없으면 ~할 수 없다'라는 느낌이 있지만, can을 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.83062640103426844,
+        "x" : 0.11136893572416508,
+        "y" : 0.77761627927610089
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "용하면, '허락받을 상황이 되었으니 ~해도 좋다' '~해도 좋은 상황이 되었다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026205766465928759,
+        "width" : 0.83332521265203285,
+        "x" : 0.10887848606401147,
+        "y" : 0.8046208411871878
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "느낌이 있다. may는 '누가 허락해 줄 수 있는가'를 중시하고, can은 '~해도 되는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021882429334852516,
+        "width" : 0.63573087345470092,
+        "x" : 0.11136890196207999,
+        "y" : 0.8342222219202079
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "상황인지 아닌지'처럼 '어떤 상황인가'를 중시하는 차이가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029331751505533799,
+        "width" : 0.81491964513605286,
+        "x" : 0.1296793437231738,
+        "y" : 0.85831894471164805
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.10090702947845805,
+      "text" : "이 '상하 관계'를 반대로 하여 May I ~?로 말하면, '상대를 (윗사람으로) 위에 세"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02411576165093321,
+        "width" : 0.67535660483620386,
+        "x" : 0.11125503887688817,
+        "y" : 0.88927404684260625
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "우다'라는 표현이 되어, 매우 정중하게 허락을 구하는 표현이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.037122970277612855,
+        "x" : 0.08120649624814899,
+        "y" : 0.92877906963562495
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.97058823529411764,
+      "text" : "258"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 249,
+  "pdf_page_number" : 250
+}

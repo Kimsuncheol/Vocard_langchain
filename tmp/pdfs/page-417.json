@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023325581020779085,
+        "width" : 0.83062648908466308,
+        "x" : 0.051044063776624606,
+        "y" : 0.072674418772140537
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "서 소개한 '원인을 주어로 하는 구문'을 되도록 사용하여, 이야기를 수직적으로 파"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888888888888958,
+        "width" : 0.3526682102933843,
+        "x" : 0.051044085151785976,
+        "y" : 0.10311111119120553
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "고들며 심층적으로 논의해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.064252274425317196,
+        "x" : 0.13528368880347097,
+        "y" : 0.15988372093842107
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.97660818713450293,
+      "text" : "• 결론"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024745028177897144,
+        "width" : 0.63595364617963202,
+        "x" : 0.074120740950541969,
+        "y" : 0.19446398603195203
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "결론에서 사용되는 형식은 3가지이다. 다음의 형식을 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013099483489990238,
+        "width" : 0.10208817069412122,
+        "x" : 0.083526680195485106,
+        "y" : 0.23401162783262319
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.79268292682926833,
+      "text" : "단락의 시작은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.11832946344470302,
+        "x" : 0.074245941013050626,
+        "y" : 0.25145348829932401
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.65294117647058825,
+      "text" : "4자 정도 띄운다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.7238979041999114,
+        "x" : 0.1345707695410483,
+        "y" : 0.29200000009076299
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "(1) 자신의 의견. (2) This is because 이유 ①, 이유 ②, and 이유 ③. (3)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020766024271647199,
+        "width" : 0.78670498462433502,
+        "x" : 0.074172785674457634,
+        "y" : 0.32112465628352571
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "본론의 정보를 가볍게 정리하는 느낌으로 '긍정적인 미래를 예상 하는 문장'을 한 줄"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.058004641701989129,
+        "x" : 0.074245938866488725,
+        "y" : 0.35022222257637092
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "쓴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023167705959743934,
+        "width" : 0.44577939730164007,
+        "x" : 0.074118607592446817,
+        "y" : 0.39840776602121308
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "실제로 다음과 같이 결론을 작성할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.73317862436281023,
+        "x" : 0.1276102236183104,
+        "y" : 0.45494186065616293
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "Working from home is better. This is because you can save"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.78654291680518607,
+        "x" : 0.074245942990633765,
+        "y" : 0.48255813972294148
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "time, you can take better care of your children, and you can go"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.78886311848958335,
+        "x" : 0.074245934936427102,
+        "y" : 0.50872093042348454
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "see the doctor more easily. If more people work from home,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021532168918185768,
+        "width" : 0.78443915184507984,
+        "x" : 0.074137594232619355,
+        "y" : 0.53572824014746623
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "the productivity of our society will improve and we will have a"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019403311835394899,
+        "width" : 0.30220698363392062,
+        "x" : 0.073971904147018416,
+        "y" : 0.56355429423462378
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "better work-life balance."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.80974476049977839,
+        "x" : 0.076566134737309846,
+        "y" : 0.61911111106817429
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "해석: 집에서 일하는 것이 더 좋다. 이로 인해 시간을 절약할 수 있고, 아이들을 더"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.75406035294769491,
+        "x" : 0.13225056599540627,
+        "y" : 0.64533333305068463
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "잘 돌볼 수 있으며 병원에 더 쉽게 갈 수 있기 때문이다. 더 많은 사람들이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02187855275472006,
+        "width" : 0.75638046805740256,
+        "x" : 0.13225060115316847,
+        "y" : 0.67288888920002421
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "집에서 일하면, 우리 사회의 생산성은 향상되고, 일과 삶의 균형이 더 나아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021965116712782118,
+        "width" : 0.10904872163813167,
+        "x" : 0.13225058105433532,
+        "y" : 0.70203488359440758
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "질 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.35034803025265965,
+        "x" : 0.076566123974858027,
+        "y" : 0.75288888876301097
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "주의해야 할 점이 딱 한 가지 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024319856431749165,
+        "width" : 0.65234426944813828,
+        "x" : 0.074056081714942879,
+        "y" : 0.77674649141057894
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "마지막 줄인 '긍정적인 미래를 예상하는 문장'에서는 지금까지의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.67285381344193262,
+        "x" : 0.05568446212325482,
+        "y" : 0.80666666662212549
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "단락 내용을 정리하는 것이기 때문에, 갑자기 새로운 화제를 꺼내"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.67053365504488038,
+        "x" : 0.055684448493279859,
+        "y" : 0.83422222219738551
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "지 않도록 한다. 새로운 화제를 제시하게 되면, 다시 새롭게 그것에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021943152533637211,
+        "width" : 0.37819023402870128,
+        "x" : 0.055684467622706069,
+        "y" : 0.861777777641761
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "대해 논의를 시작해야 하기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.49187933739195477,
+        "x" : 0.41995360265377035,
+        "y" : 0.92877906970504531
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.92913385826771655,
+      "text" : "13장 설득을 위한 영어: '형식'을 만들어 영어로 사고하는 훈련 431"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 417,
+  "pdf_page_number" : 418
+}

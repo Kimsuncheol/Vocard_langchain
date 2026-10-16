@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030098917643229139,
+        "width" : 0.12990359042553193,
+        "x" : 0.14716775820978947,
+        "y" : 0.090336997035518563
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9971830985915493,
+      "text" : "Must 97"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032093024359808986,
+        "width" : 0.51972158445534133,
+        "x" : 0.15313224709893083,
+        "y" : 0.12790697602696866
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99953488372093025,
+      "text" : "설득에 효과적인 5가지 구문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.72621810588430835,
+        "x" : 0.14849187492857827,
+        "y" : 0.21066666636555498
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99960285941223193,
+      "text" : "• 5가지 구문으로, because를 사용하는 것보다 인과 관계를 잘 파고들 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027894315931532132,
+        "width" : 0.81249203512854606,
+        "x" : 0.14362669309898479,
+        "y" : 0.29645506065289673
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "남을 설득하기 위해서는 '의견 +이유'가 필요하다. 하지만 그것만으로는 부족"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021854005601670945,
+        "width" : 0.060324827153631994,
+        "x" : 0.1252900225849341,
+        "y" : 0.32703488346662835
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.088167052573346061,
+        "x" : 0.12529002346584053,
+        "y" : 0.38222222203059397
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021223983764648402,
+        "width" : 0.81223473515070921,
+        "x" : 0.14375841874079084,
+        "y" : 0.35416848156737424
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "아래 2개의 글 중에서 어느 것이 더 설득력이 있는지와 그 글을 택한 이유를 생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.44083524663397611,
+        "x" : 0.14617170368002888,
+        "y" : 0.44040697693382991
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "주제 : 여름은 경제에 좋다 - 찬성 vs 반대"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021825581868489485,
+        "width" : 0.78190251343639194,
+        "x" : 0.14849189861784934,
+        "y" : 0.46799999962184435
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "① 여름은 경제에 좋다. 왜냐하면 기온이 높기 때문이다. 여름에는 많은 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021886305067274403,
+        "width" : 0.75174015126329796,
+        "x" : 0.17865428613003492,
+        "y" : 0.4955555554886264
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "람들이 바다를 찾으면서 해변이 북적인다. 서핑이나 해양 스포츠를 하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957364400227886,
+        "width" : 0.75174015126329774,
+        "x" : 0.17865428619830387,
+        "y" : 0.52470930222349388
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "는 사람이 많이 있다. 여름에는 캠핑을 가는 사람도 많다. 여름을 만끽"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.75406035294769502,
+        "x" : 0.17865427816003626,
+        "y" : 0.55232558156895173
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "하며 밖으로 놀러 다니고, 마음도 개방적이 되어 애인이 생기기 쉽다. 따"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021835917154947926,
+        "width" : 0.55220419160017742,
+        "x" : 0.17865428465117969,
+        "y" : 0.57994186035922912
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "라서 여름에는 사람들로 붐비기 때문에 경제에 좋다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021949612087673653,
+        "width" : 0.78422271512078912,
+        "x" : 0.1461717049482042,
+        "y" : 0.63066666707518693
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "② 여름은 경제에 좋다. 왜냐하면 기온이 높기 때문이다. 기온이 높으면 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.75174015126329796,
+        "x" : 0.17865428618485191,
+        "y" : 0.65822222209976033
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "영을 하고 싶어져서 바다를 찾는다. 이 때문에 해안가 상점과 식당의 손"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021953488667805998,
+        "width" : 0.75174015126329796,
+        "x" : 0.17865428620864002,
+        "y" : 0.68604651152473639
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "님이 늘고 일자리가 늘어난다. 해안가 주민의 수입이 늘면 지자체의 세"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.75174015126329774,
+        "x" : 0.17865428620093399,
+        "y" : 0.71511111077300804
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "수도 오르고 지자체의 재정이 넉넉해지면 주민들은 더 알찬 행정 서비스"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02186821746826173,
+        "width" : 0.75174015126329785,
+        "x" : 0.17865428621155702,
+        "y" : 0.74266666634753165
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "를 받을 수 있다. 이렇게 많은 사람들에게 경제적 혜택이 돌아가므로 여"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021543390909830706,
+        "width" : 0.19338454659103502,
+        "x" : 0.17831557386576294,
+        "y" : 0.77007547513580643
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "름은 경제에 좋다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020560724046495227,
+        "width" : 0.62412992436835102,
+        "x" : 0.14385151101811675,
+        "y" : 0.81955555539401692
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "②가 더 설득력이 있다. 그렇다면 ①은 왜 설득력이 부족할까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025552807278103384,
+        "width" : 0.81009028008643613,
+        "x" : 0.14368320936508983,
+        "y" : 0.84376427547962618
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "①. ② 모두 의견뿐만 아니라 이유도 설명하고 있다. 그러나 ①에서는 단지 병렬"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.83062648908466308,
+        "x" : 0.1229698181087065,
+        "y" : 0.8733333335233967
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "적으로 이유를 늘어놓았을 뿐, 그 이유를 깊이 있게 제시하고 있지 않다. 왜 서핑이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.039443155383387371,
+        "x" : 0.090487238897633479,
+        "y" : 0.92296511617632249
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.95789473684210524,
+      "text" : "420"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 406,
+  "pdf_page_number" : 407
+}

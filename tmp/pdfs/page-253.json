@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.037568401187340172,
+        "width" : 0.1330177892338146,
+        "x" : 0.13391419654464823,
+        "y" : 0.091638164672202649
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99914857386121758,
+      "text" : "Must 59"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032126747416431733,
+        "width" : 0.55916474082253198,
+        "x" : 0.14385150409591593,
+        "y" : 0.13211743849948454
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99880978143259036,
+      "text" : "절대적 압력'을 나타내는 must"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016081478247863212,
+        "width" : 0.26218097860162909,
+        "x" : 0.14153132057323248,
+        "y" : 0.2165697674782151
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99791579824927057,
+      "text" : "• must와 have to의 차이점"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021905776868935467,
+        "width" : 0.80974474820223719,
+        "x" : 0.13457078123843436,
+        "y" : 0.31094306017924911
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "예전에 비하면 훨씬 좋아졌지만, 아직도 muIst와 have to의 차이를 정확히 이해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020488496352769392,
+        "width" : 0.38747098229148164,
+        "x" : 0.11136891709019302,
+        "y" : 0.33852313162677539
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "하지 못하는 학습자들이 상당수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031164673299551859,
+        "width" : 0.78214870799671521,
+        "x" : 0.10662114707896012,
+        "y" : 0.39385498728272428
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.99227799227799229,
+      "text" : "※ must: 절대, 반드시', have to: ~하지 않으면 방법이 없다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028065062078292624,
+        "width" : 0.81499290466308594,
+        "x" : 0.13199278850525786,
+        "y" : 0.44323142810046479
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.077247191011235949,
+      "text" : "must가 나타내는 근본적인 의미는 '절대, 반드시'이다. 이 의미로부터 '힘의 용법'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02470930275967953,
+        "width" : 0.83294660394841979,
+        "x" : 0.11136893048905373,
+        "y" : 0.47093023213517959
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "에서는 '반드시 ~해야 한다, 반드시 ~하지 않으면 안 된다'라는 강제력, '판단의 용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021921294439729788,
+        "width" : 0.83294660394841968,
+        "x" : 0.11136892530492046,
+        "y" : 0.50133451935236528
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "법'에서는 '반드시 ~임에 틀림없다'라는 단정의 의미가 나온다. 이번에는 must 힘"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.35498840158635919,
+        "x" : 0.11136890836430298,
+        "y" : 0.53052325571382986
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "의 용법과 have to를 비교해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02772490240076686,
+        "width" : 0.27378190647472034,
+        "x" : 0.099767978679693184,
+        "y" : 0.58274021353548955
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.97760210803689063,
+      "text" : "• must; 힘의 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164156,
+        "width" : 0.33642690831964661,
+        "x" : 0.11136891229819659,
+        "y" : 0.62500000028639258
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.20951302378255945,
+      "text" : "예e You must do it right now."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.25290023196827283,
+        "x" : 0.15777262171662726,
+        "y" : 0.64813167221378931
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "넌 지금 당장 그것을 해야 해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011788255803525605,
+        "width" : 0.030162413011897704,
+        "x" : 0.11136890940841521,
+        "y" : 0.67571174394630285
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022132751356240266,
+        "width" : 0.21931149742820044,
+        "x" : 0.1572128523154957,
+        "y" : 0.670918581134887
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "You must buy one."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022603201272224704,
+        "width" : 0.23511940782720389,
+        "x" : 0.15972521318151986,
+        "y" : 0.69559291951006075
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "넌 꼭 하나 사는 게 좋겠어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.051044084809043211,
+        "x" : 0.70533642612284286,
+        "y" : 0.59430605003023596
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "떨떠름...."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016112513389451744,
+        "width" : 0.041763340884988898,
+        "x" : 0.47331786541119736,
+        "y" : 0.64813167255084014
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.099337748344370855,
+      "text" : "명령"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01748841343401164,
+        "width" : 0.088167055086656065,
+        "x" : 0.47331786445203167,
+        "y" : 0.69617437694203699
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.21739130434782608,
+      "text" : "강한 추천"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025193479985953227,
+        "width" : 0.81233570792458276,
+        "x" : 0.13212750292779926,
+        "y" : 0.74544585544312325
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "주어에 you를 써서 상대방에게 must를 사용할 때는, 반드시 ~하라고 상대방을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02433896828376525,
+        "width" : 0.83314713564786036,
+        "x" : 0.11127448165784842,
+        "y" : 0.77295647193593509
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "강하게 압박하는 것을 의미한다. 그 압박하는 힘이 문맥에 따라 명령이 되기도 하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025065608720338139,
+        "width" : 0.29759220643477002,
+        "x" : 0.11100920961780604,
+        "y" : 0.80092815625999081
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "고, 강한 추천이 되기도 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022004055382942367,
+        "width" : 0.60324824940074562,
+        "x" : 0.14849188448245351,
+        "y" : 0.85008896771001718
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "I must finish it by five. 난 그것을 반드시 5시까지 끝내야햇."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023098153151651313,
+        "width" : 0.75658520785245031,
+        "x" : 0.15999618013510084,
+        "y" : 0.87594485179740955
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "We must abolish the old system. 우리는 그 오래된 시스템을 꼭 폐지해야 해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.039443154226649887,
+        "x" : 0.081206497016605456,
+        "y" : 0.93016014249260148
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.97916666666666663,
+      "text" : "262"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 253,
+  "pdf_page_number" : 254
+}

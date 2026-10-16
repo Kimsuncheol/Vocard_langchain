@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.76279067993164062,
+        "x" : 0.079069776211191503,
+        "y" : 0.094476744414354497
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "A: 지금 어디야? B: 미안해. 나 아직 집이야. (Sorry.Im still at home.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.093023256822065886,
+        "x" : 0.076744185891292643,
+        "y" : 0.1220053235144245
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "(5분 뒤)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020531974223829907,
+        "width" : 0.78604654832319776,
+        "x" : 0.079069748993987984,
+        "y" : 0.15116279057617343
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.0013908205841446453,
+      "text" : "A: 지금 어디야? B: 나 지금 버스 정류장이야. (Im at the bus stop now.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019417504663475915,
+        "width" : 0.14900502291592685,
+        "x" : 0.07898586051623635,
+        "y" : 0.17851799183544437
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "(다시 5분 뒤)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021897762775844209,
+        "width" : 0.704651182348078,
+        "x" : 0.079069757688524381,
+        "y" : 0.20629991139841353
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "A: 지금 어디야? B: 나 방금 역에 도착했어. 지금 바로 너에게 갈게."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.73488374189897021,
+        "x" : 0.07906975696353212,
+        "y" : 0.23691215608196281
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "(l ve just arrived at the station. Im coming to you right now.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025033730792068498,
+        "width" : 0.80959294059059839,
+        "x" : 0.078927507620870946,
+        "y" : 0.29378346808580647
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "대화에서처럼, 계속 이동하면서 지금 어디에 '점'이 있는지를 나타내는 것이 at가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.26279070160605689,
+        "x" : 0.058139532797193035,
+        "y" : 0.32253771035148926
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "지니는'장소의 느낌이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021866810247764823,
+        "width" : 0.51395346901633532,
+        "x" : 0.076744193883305348,
+        "y" : 0.36912156142742192
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "\"난 역에 있어.\"라는 말을 I'm at the station.이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028915841915804208,
+        "width" : 0.53089722720059485,
+        "x" : 0.057814249051840717,
+        "y" : 0.39285854194782144
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "나, Im in the station 으로 둘 다 나타낼 수 있지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0072674417030313965,
+        "width" : 0.053488373756408691,
+        "x" : 0.6325581385869119,
+        "y" : 0.39389534890012734
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "the st01"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026472266839475012,
+        "width" : 0.53073488582264294,
+        "x" : 0.057889349684428097,
+        "y" : 0.42141834891609864
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "만, in은 '테두리 안에 있다' = '테두리에서 벗어나지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026679748968413741,
+        "width" : 0.5235786004499956,
+        "x" : 0.057943133965326403,
+        "y" : 0.44968084665122532
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "않다'='움직이지 않다, 머물고 있다'라는 이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024907916017412157,
+        "width" : 0.51162789084694593,
+        "x" : 0.079069778995131568,
+        "y" : 0.47819767426990767
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.051383399209486168,
+      "text" : "따라서 비교해 보면, at the station은 '이동하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026251779368416717,
+        "width" : 0.83255811171098182,
+        "x" : 0.058139552167764806,
+        "y" : 0.50436046535087764
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.041405269761606023,
+      "text" : "는 중에 지금은 우연히 역에 있고, 조금 있으면 다시 이동하는' 이미지이고, in the"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894346,
+        "width" : 0.83488368988037109,
+        "x" : 0.055813974345528615,
+        "y" : 0.53194321234356257
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "station은 '역이라는 공간 안에 있고, 밖이 아니며 그 공간 밖으로 나가지 않는'이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.097674413160844298,
+        "x" : 0.060465118871014252,
+        "y" : 0.5625000002040883
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021930005768282523,
+        "width" : 0.80930233001708984,
+        "x" : 0.079069763789904796,
+        "y" : 0.58720930238004598
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "흔히 'at'는 '좁은 장소'에, 'in'은 '넓은 장소'에 사용된다고 설명하는데, 그렇게 좋"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026656163510963116,
+        "width" : 0.83287507837468922,
+        "x" : 0.057986101522073868,
+        "y" : 0.61432703282651169
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "은 설명이라고는 생각하지 않는다. 굳이 말하자면, a[는 '이동하고 있는 '점\"을 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026162169523332279,
+        "width" : 0.83058712699196557,
+        "x" : 0.057975142572223574,
+        "y" : 0.64142968511340681
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "내기 때문에, 좁게 느껴지는 것일지 모른다. at에 비해 in은 '테두리를 가진 공간'이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.38372091813520948,
+        "x" : 0.058139538211465051,
+        "y" : 0.66992014228829111
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "므로, '젬'에 비해 넓게 느껴질 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021220314682534824,
+        "width" : 0.3004324219443581,
+        "x" : 0.060263326336696774,
+        "y" : 0.7259988699575044
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.93220338983050843,
+      "text" : "• '시간'을 나타내는 at"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023381496385440625,
+        "width" : 0.42356521433049987,
+        "x" : 0.074230274817591368,
+        "y" : 0.76156914588196456
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "'시간'을 나타내는 at는 어떤 이미지일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.76976741443980823,
+        "x" : 0.079069781341142426,
+        "y" : 0.78924418614639769
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이미 시제 학습 부분에서, 인간은 시간을 '장소'로 이해하고 있다고 설명했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.81162790818647901,
+        "x" : 0.079069766755222648,
+        "y" : 0.81540697697330367
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 '장소를 나타내는 at'를 '공간과 공간 사이를 이동하는' 이미지로 설명했"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020529394987524374,
+        "width" : 0.49534884366122156,
+        "x" : 0.060465112933427795,
+        "y" : 0.84593023243510101
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "는데, 시간을 나타내는 at도 이와 매우 비슷하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.81162790818647923,
+        "x" : 0.076744185324695013,
+        "y" : 0.87209302299663327
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "'우선 역에서 ~하고, 다음에는 역 근처 카페에서 ~하고, 그 후에 더 멀리 이동하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421509,
+        "width" : 0.43488372455943719,
+        "x" : 0.47906976554047015,
+        "y" : 0.92441860444963098
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.82999999999999996,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 341"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 329,
+  "pdf_page_number" : 330
+}

@@ -1,0 +1,205 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020563881240001636,
+        "width" : 0.78703706914728333,
+        "x" : 0.08101850235265573,
+        "y" : 0.091354723744058397
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "2. 가정법 절의 사건이 직설법 사건 이전에 일어난다면, 가정법 절인 as i[절의 동사는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021799457264456534,
+        "width" : 0.20715388384732333,
+        "x" : 0.11058684313837616,
+        "y" : 0.11796069653858854
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "가정법 과거완료이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021585626823166892,
+        "width" : 0.54673663052645594,
+        "x" : 0.10627526998868753,
+        "y" : 0.1794559488837667
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "He ran out of the room as if he had seen a ghost."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016172324909883407,
+        "width" : 0.40046297420154908,
+        "x" : 0.10879629056492511,
+        "y" : 0.2076648843478488
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "그는 마치 귀신을 본 것처럼 방에서 뛰쳐나왔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348975577653,
+        "width" : 0.66898146542635839,
+        "x" : 0.10648149017677805,
+        "y" : 0.23110465144592063
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "He always comes out of the house as if he had seen a ghost."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016125689215838568,
+        "width" : 0.43518517234108667,
+        "x" : 0.10648148780205947,
+        "y" : 0.25713012469264052
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "그는 항상 마치 귀신을 본 것처럼 그 집에서 나온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017255156647925207,
+        "width" : 0.67375785654241394,
+        "x" : 0.1087249325353984,
+        "y" : 0.27872256488465985
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.34068136272545091,
+      "text" : ">'귀신을 본 것 같은 사건'이 먼저 발생하고, '(뛰어서) 나오다'라는 사건이 나중에 발생한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011692679077121237,
+        "width" : 0.053240738131783205,
+        "x" : 0.56944444563318242,
+        "y" : 0.37645348833693149
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "괜찮아?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023874374634441864,
+        "width" : 0.81266507235440344,
+        "x" : 0.078624832580968196,
+        "y" : 0.46194913494653933
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이 규칙은 '마치 ~처럼'이라는 의미를 나타내는 as if, as though, like와 같은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020540562967990561,
+        "width" : 0.43055556037209253,
+        "x" : 0.060185182659889994,
+        "y" : 0.49108734433913859
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "접속사 뒤에 나오는 가정법 절에 적용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029124669637697109,
+        "width" : 0.81518389961936255,
+        "x" : 0.078490655407870272,
+        "y" : 0.51391804193232349
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서는 '시제의 일치'라기보다. '어떤 일이 동시에 일어났는지, 시간차를 두고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02185155236147307,
+        "width" : 0.28009258617054333,
+        "x" : 0.060185188276372065,
+        "y" : 0.5450089129230612
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "일어났는지'가 포인트이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333522,
+        "width" : 0.34490741382945667,
+        "x" : 0.56944444111767922,
+        "y" : 0.93313953502752323
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.9213483146067416,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지 않다 219"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    641
+  ],
+  "pdf_page_index" : 211,
+  "pdf_page_number" : 212
+}

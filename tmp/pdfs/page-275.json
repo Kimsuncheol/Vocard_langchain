@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02187991396812361,
+        "width" : 0.25522041320800781,
+        "x" : 0.055684456854198962,
+        "y" : 0.076957295165764439
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99261992619926198,
+      "text" : "를 a의 또 다른 역할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021921294439729788,
+        "width" : 0.29698376222090289,
+        "x" : 0.071925752218487612,
+        "y" : 0.12633451934351703
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.054237288135593219,
+      "text" : "a는 크게 2가지 역할이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031304023444016282,
+        "width" : 0.81042402440851369,
+        "x" : 0.073869085475728735,
+        "y" : 0.14680405570148602
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이전 학습에서 설명했듯이, '온전히 갖추어진 형태가 1개 존재하다'라는 의미 외"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.5197215947237882,
+        "x" : 0.053364260531198943,
+        "y" : 0.18016014244252154
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "에 '상자에서 무작위로 하나를 꺼내다'라는 의미가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022014400712960125,
+        "width" : 0.058004639365456322,
+        "x" : 0.053364269509073851,
+        "y" : 0.20930232567868723
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021978192482130399,
+        "width" : 0.49883989854292443,
+        "x" : 0.074245943884542656,
+        "y" : 0.23691860480382565
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 상자 안에 여러 명의 나이 많은 남자가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021983364722906962,
+        "width" : 0.51740139180963685,
+        "x" : 0.053364269246604194,
+        "y" : 0.26290035603990924
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "들어 있다고 가정하자. 거기에서 무작위로 꺼낸 1명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024124642708123423,
+        "width" : 0.078534012491052851,
+        "x" : 0.6194310808573722,
+        "y" : 0.26183041357912717
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "JVT"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022019572953736688,
+        "width" : 0.40603247555819433,
+        "x" : 0.053364275581304993,
+        "y" : 0.29048042670672336
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "의 나이 많은 남자가 an old man이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011253139302399795,
+        "width" : 0.084247827529907227,
+        "x" : 0.78146155615217383,
+        "y" : 0.29040266161861084
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.98095238095238091,
+      "text" : "an old man"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988537812148046,
+        "width" : 0.4245939688249068,
+        "x" : 0.071925753295514441,
+        "y" : 0.31831395363957893
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 주목해야 할 측면이 2가지 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.30394430594010791,
+        "x" : 0.076566129977502506,
+        "y" : 0.38517441828144516
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "①무작위로 선택하여 꺼내다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483324111992718,
+        "width" : 0.2807424501939253,
+        "x" : 0.076566129822949011,
+        "y" : 0.41279069758323339
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "② 꺼내어 그곳에 존재하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020696679892489023,
+        "width" : 0.16252321546727957,
+        "x" : 0.14379639682018472,
+        "y" : 0.48383770612138643
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.95959595959595956,
+      "text" : "① 무작위, 랜덤"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02492137735848754,
+        "width" : 0.81206495111638843,
+        "x" : 0.074245946010938688,
+        "y" : 0.51868327397559433
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 상자 안에 'day'라는 공이 아주 많이 들어 있다고 가정하자. 그중에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023328229625878438,
+        "width" : 0.83294660394841968,
+        "x" : 0.053364284988131706,
+        "y" : 0.5465116282916731
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "아무 공이나 한 개를 꺼내면, 그것이 'a day'가 된다. a day는 '말하는 사람이 무작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469671,
+        "width" : 0.83294660394841968,
+        "x" : 0.053364289258803037,
+        "y" : 0.57250889717314679
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "위로 어느 하나의 날을 이야기 소재로 꺼내서, 듣는 사람에게 보여 주는' 심리를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021883068559857,
+        "width" : 0.079863532022996397,
+        "x" : 0.055195844070361849,
+        "y" : 0.60243055870313955
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.58236659656871448,
+        "x" : 0.074245936653771119,
+        "y" : 0.62633451939888707
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이것을 응용하면 '하루에 ~시간' 또는 '하루에 ~회'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.041763340884989009,
+        "x" : 0.83758700694461941,
+        "y" : 0.63656583653637544
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "①h"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021869568638105852,
+        "width" : 0.600928089835427,
+        "x" : 0.055684446850362619,
+        "y" : 0.65836298933912563
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "표현이 성립된다. 어느 day를 무작위로 하나 꺼내더라도, 거"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018905693950177938,
+        "width" : 0.59628768400712451,
+        "x" : 0.055684464145386373,
+        "y" : 0.68749999968057263
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "기에 an hour라고 적혀 있는 것이 an hour a day(하루에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.12296983328732576,
+        "x" : 0.053364271183649017,
+        "y" : 0.71352313137385914
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "1시간)이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.2830626531080766,
+        "x" : 0.14385150394401319,
+        "y" : 0.76734875471547037
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.92117465224111283,
+      "text" : "②꺼내어 그곳에 존재하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843705737293884,
+        "width" : 0.64037123593417089,
+        "x" : 0.076566122063850439,
+        "y" : 0.80377906991491377
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "다음으로 ②를 설명하도록 하겠다. 이는 매우 중요한 부분이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021807498354928678,
+        "width" : 0.3410672707991167,
+        "x" : 0.076566134960070406,
+        "y" : 0.83139534881337729
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "아무도 없는 무대를 상상해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.80974474820223707,
+        "x" : 0.076566140875436173,
+        "y" : 0.88656583660752519
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "상자 안에서 무작위로 나이 많은 남자(old man) 1명을 꺼내서 무대에 올리도록"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537296,
+        "width" : 0.38051041689786047,
+        "x" : 0.531322521342253,
+        "y" : 0.93149466202767506
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.956989247311828,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 285"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 275,
+  "pdf_page_number" : 276
+}

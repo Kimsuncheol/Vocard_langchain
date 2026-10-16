@@ -1,0 +1,310 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021856348529339265,
+        "width" : 0.78603467074307531,
+        "x" : 0.095359397369656804,
+        "y" : 0.073484291840755667
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.25849335302806498,
+      "text" : "서술적 용법 관계 대명사로 말하면, 계속적 용법이라고 한다. 콤마로 구분하는 것이 특징이다. \"우리 어머"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020911445651464078,
+        "width" : 0.59246973557905713,
+        "x" : 0.095363360910981854,
+        "y" : 0.095110357015573022
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.43839541547277938,
+      "text" : "니가 있고, 덧붙여서 그녀는 가고시마 출신인데...\"라고 '정보를 추가 하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813639178724,
+        "width" : 0.80186479741876782,
+        "x" : 0.08158508449655745,
+        "y" : 0.13226744199057827
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "만약 설명하고 있는 명사(선행사)가 '이 세상에 하나/1명뿐인 것'이라면, 여기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025251640272520692,
+        "width" : 0.61112429878928443,
+        "x" : 0.051042339203784023,
+        "y" : 0.15973283369573932
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "에서 사용되는 관계 대명사는 기본적으로 계속적 용법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02647295665487559,
+        "width" : 0.81848682056773792,
+        "x" : 0.067458410199768212,
+        "y" : 0.18488582334514547
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "'우리 어머니'는 일반적으로 한 명밖에 없을 것이다. '고양이'나 '남자아이'처럼 '이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023907451105920297,
+        "width" : 0.64821312644264917,
+        "x" : 0.051163772046662004,
+        "y" : 0.21489240171995694
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "세상에 많이 있는 종류 전체'에 대한 이야기를 하는 것이 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027726312777550444,
+        "width" : 0.81633316386829735,
+        "x" : 0.074306915556570416,
+        "y" : 0.24079235863298565
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 당연히 많이 있는 것 중에서, 정보의 범위를 좁히는 일이 불필요해진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030787656326226376,
+        "width" : 0.8330164822665127,
+        "x" : 0.053187673754084598,
+        "y" : 0.26581548408892242
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 제한적 용법의 관계 대명사절은 사용하지 않는다. 대신에 '정보의 추가'를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022638071734256915,
+        "width" : 0.57832553169944068,
+        "x" : 0.053463811748701205,
+        "y" : 0.29761376857514943
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "나타내는 계속적 용법의 관계 대명사를 사용하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027551302981651205,
+        "width" : 0.8302602767944337,
+        "x" : 0.055779401823497714,
+        "y" : 0.34422210152817689
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.076283618581907089,
+      "text" : "mE Bill Clinton, who is the former president of the United States, made a"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020334206607301675,
+        "width" : 0.28481886603615503,
+        "x" : 0.099972838969121097,
+        "y" : 0.37516675611214301
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "speech at the ceremony."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024098164006816969,
+        "width" : 0.53426707874644896,
+        "x" : 0.10229489478052384,
+        "y" : 0.39650641885504379
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "빌 클린턴은 미국의 전 대통령인데, 이 기념식에서 연설을 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02085243103459844,
+        "width" : 0.78365577350963256,
+        "x" : 0.10469486604109327,
+        "y" : 0.41797036624349204
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.35999999999999999,
+      "text" : "*'이 세상에 있는 많은 빌 클린턴 중 전직 대통령인 빌 클린턴'이라는 의미는 이상하다. 따라서 관계 대명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020985266294386351,
+        "width" : 0.76263150301846583,
+        "x" : 0.12801194519236345,
+        "y" : 0.43738708583499353
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.42315789473684212,
+      "text" : "사에 콤마를 붙여 계속적 용법으로 '정보의 추가'를 나타낸다. 발음할 때는 콤마 부분을 확실하게 구분"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488352448673,
+        "width" : 0.14918415112928912,
+        "x" : 0.13053612948939231,
+        "y" : 0.46220930240728619
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.38666666666666666,
+      "text" : "하여 끊어서 읽는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026295413582382077,
+        "width" : 0.81399137323552906,
+        "x" : 0.07901610947754642,
+        "y" : 0.4954097169321241
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 느낌을 이해하면, 글쓰기에서 더욱 격식을 갖춘 문장을 만들 수 있게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020507189106159895,
+        "width" : 0.058275060220198203,
+        "x" : 0.058275057164085035,
+        "y" : 0.52745792697180938
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026864613549069438,
+        "width" : 0.81412974270907323,
+        "x" : 0.078961641603521759,
+        "y" : 0.54905163536811041
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "관계 대명사의 계속적 용법도 마찬가지로 독해를 위해서만이 아닌, 글쓰기와 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023512038643957789,
+        "width" : 0.58064027266068885,
+        "x" : 0.060469700265311725,
+        "y" : 0.57840965948567036
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "하기에서도 사용하는 것을 목표로 하는 것이 바람직하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016065834052167771,
+        "width" : 0.32205640185963025,
+        "x" : 0.59888435809942386,
+        "y" : 0.92326236847286303
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.88842975206611574,
+      "text" : "10장 형용사와 부사: '수식하다'의 진실 325"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 314,
+  "pdf_page_number" : 315
+}

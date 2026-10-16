@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030736433241102423,
+        "width" : 0.12442396457171742,
+        "x" : 0.13594469976273785,
+        "y" : 0.095930233198479598
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99832495812395305,
+      "text" : "Must 16"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031386027018229234,
+        "width" : 0.17319046257245019,
+        "x" : 0.14036329394046826,
+        "y" : 0.1332895446082355
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99770729843332062,
+      "text" : "현재완료"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.052995388531382248,
+        "x" : 0.30645161445550706,
+        "y" : 0.13808139567871724
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 1,
+      "text" : "④"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03066666666666662,
+        "width" : 0.30875576433577223,
+        "x" : 0.14055299324319473,
+        "y" : 0.16711111085719799
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99934612031386227,
+      "text" : "현재완료 진행형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.47695853982556857,
+        "x" : 0.13594469303039244,
+        "y" : 0.21644444465368151
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.99980776624375245,
+      "text" : "• 그때부터 계속 지금도 -ing 상태를 have하고 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962532043456995,
+        "width" : 0.31105990604890249,
+        "x" : 0.1313364063037174,
+        "y" : 0.30959302314865944
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 잠시 복습을 해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.8041474809095116,
+        "x" : 0.13133639762103166,
+        "y" : 0.33720930249797543
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "현재완료는 광범위하게 보았을 때, 동작동사의 현재완료와 상태동사의 현재완료"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020507752312554306,
+        "width" : 0.23041475239526404,
+        "x" : 0.10829492783462609,
+        "y" : 0.36482558100921714
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "2가지로 나눌 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021900516933864966,
+        "width" : 0.8041474809095116,
+        "x" : 0.1313363950867189,
+        "y" : 0.39098837181276624
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "동작동사의 현재완료는 '동작한 후의 상태를 지금 have하고 있다'는 의미로 '이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027992853800455797,
+        "width" : 0.82526004936530328,
+        "x" : 0.11038297086613963,
+        "y" : 0.41633899303427602
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "미 ~했다'라는 '완료'를 나타내며, 상태동사의 현재완료는 '과거의 어느 시점부터"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021899225023057745,
+        "width" : 0.82488479937081272,
+        "x" : 0.11059907597596928,
+        "y" : 0.4447674417215195
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "헌재까지 변하지 않은 상태를 have하고 있다'로 기간을 수반하는 '계속'을 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025125771416558029,
+        "width" : 0.8273582297084362,
+        "x" : 0.11051114264591784,
+        "y" : 0.47064329900974267
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "낸다. 그리고 '~한 적이 있다'라는 '경험'은 '태어나서 현재까지의 시간 중에서, ~한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021922481113009984,
+        "width" : 0.82949308279707346,
+        "x" : 0.10829493306344486,
+        "y" : 0.50133333293359883
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "후의 상태를 한 번, 혹은 여러 번 have하고 있다'라는 것으로, 동작동사의 현재완"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026042490641276062,
+        "width" : 0.34437819293927407,
+        "x" : 0.10783576012690207,
+        "y" : 0.52471220784895978
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "료인 '완료' 용법의 연장선에 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.23732719905621913,
+        "x" : 0.18202764460508014,
+        "y" : 0.5857558138651523
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.96319999999999995,
+      "text" : "- 동작동사의 현재완료"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.21889400078648405,
+        "x" : 0.13133640962578061,
+        "y" : 0.62209302344197026
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "동작동사 eat의 경우:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.062211982285858725,
+        "x" : 0.25115207328999434,
+        "y" : 0.70203488362545052
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "식사 시작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.048387094344339465,
+        "x" : 0.47465437935432792,
+        "y" : 0.71066666679886226
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "식사 끝"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016029714796278238,
+        "width" : 0.089861747408114978,
+        "x" : 0.32949309020723283,
+        "y" : 0.72088888916217497
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.86486486486486491,
+      "text" : "eat/ate"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016197675069173134,
+        "width" : 0.21198157564709316,
+        "x" : 0.24423962682255998,
+        "y" : 0.77180232521629089
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.30461538461538462,
+      "text" : "eating/ 한창 먹고 있는 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.2488479291434349,
+        "x" : 0.3433179708105728,
+        "y" : 0.79777777770174507
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.43127962085308058,
+      "text" : "eaten/ 식사가 끝난 후의 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.25576037580439004,
+        "x" : 0.12211981198259766,
+        "y" : 0.88662790716505657
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.74901185770750989,
+      "text" : "We are eating lunch."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.24654378743030458,
+        "x" : 0.5921658941905511,
+        "y" : 0.88800000006869795
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.58073654390934848,
+      "text" : "I have eaten unch."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.027649770502647317,
+        "x" : 0.076036865785542709,
+        "y" : 0.92711111093727594
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 1,
+      "text" : "80"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 76,
+  "pdf_page_number" : 77
+}

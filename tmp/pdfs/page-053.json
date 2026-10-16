@@ -1,0 +1,295 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021912144978841086,
+        "width" : 0.40229885353485406,
+        "x" : 0.13563218231812513,
+        "y" : 0.071111110926783905
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 동사 know를 예로 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023546206156412675,
+        "width" : 0.80249796034414556,
+        "x" : 0.13553808474120244,
+        "y" : 0.096478762162540255
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "타동사로 know를 사용하면 '~를 직접 알고 있다', know about이나 know"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.66666666666666674,
+        "x" : 0.11494252862450698,
+        "y" : 0.12645348799376888
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "of를 사용하면 '그것에 대한 정보만을 알고 있다'라는 의미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316357,
+        "width" : 0.032183908712008838,
+        "x" : 0.11494252829812306,
+        "y" : 0.17732558143120869
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017050053914387964,
+        "width" : 0.14749870890471165,
+        "x" : 0.16080602076519337,
+        "y" : 0.1740018328178019
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.0030769230769230769,
+      "text" : "| know him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014733850267198423,
+        "width" : 0.12413793207053228,
+        "x" : 0.15862068901698048,
+        "y" : 0.20348837229336247
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.37096774193548387,
+      "text" : "(직접 알고 있다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019081712510850668,
+        "width" : 0.18237283226474593,
+        "x" : 0.32381051662516586,
+        "y" : 0.1729193758644475
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그를 알고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010372092776828379,
+        "width" : 0.08045976641476571,
+        "x" : 0.76091954245353666,
+        "y" : 0.22799999988267683
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "1 know him"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019142907036675316,
+        "width" : 0.49221209433511343,
+        "x" : 0.11713913390575596,
+        "y" : 0.25125547935778147
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.13985374771480805,
+      "text" : "예문 I know of him but I have never met him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017494832356770962,
+        "width" : 0.41609194040633796,
+        "x" : 0.16091954692677218,
+        "y" : 0.27761627898559293
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그에 대해 알고 있지만 그를 만난 적은 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.15632184078254108,
+        "x" : 0.15862068869278112,
+        "y" : 0.30087209295389339
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.34285714285714286,
+      "text" : "(정보만을 알고 있다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014746770222981764,
+        "width" : 0.53793103181863122,
+        "x" : 0.16321839203848126,
+        "y" : 0.31955555513777223
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.49266862170087977,
+      "text" : "~of는 전체에서 '일부를 꺼내다'라는 의미로. know of는 '~에 대해 조"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.1885057494945499,
+        "x" : 0.18390804467506516,
+        "y" : 0.33999999967525563
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.44791666666666669,
+      "text" : "금 알고 있다 라는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011518429226345495,
+        "width" : 0.1014586071760174,
+        "x" : 0.77681474956840002,
+        "y" : 0.33552438201785262
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.42857142857142855,
+      "text" : "I know of him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.8022988878724947,
+        "x" : 0.11494251010949016,
+        "y" : 0.38800000006901547
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.090104166666666666,
+      "text" : "예크 Idon't know about other people, but the news was shocking to me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018942470974392389,
+        "width" : 0.60246635254593006,
+        "x" : 0.16085443892390153,
+        "y" : 0.41277309312151345
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "나는 다른 사람들은 어떨지 모르겠지만 그 소식은 나에게 충격적이었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.77011490404689686,
+        "x" : 0.16551726060065161,
+        "y" : 0.43599999966086567
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.47222222222222221,
+      "text" : "* '다른 사람들이 그 뉴스에 대해 어떻게 느낄 것인가에 대한 정보는 가지고 있지 않다'라는 의미를 내포"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014715761820475293,
+        "width" : 0.041379308901758644,
+        "x" : 0.1839080465747617,
+        "y" : 0.45639534899816203
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.35714285714285715,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.027586205934505753,
+        "x" : 0.085057471630448286,
+        "y" : 0.92577777789965576
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 1,
+      "text" : "56"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 53,
+  "pdf_page_number" : 54
+}

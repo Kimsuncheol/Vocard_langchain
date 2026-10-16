@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025100002085186812,
+        "width" : 0.62309821379100172,
+        "x" : 0.078543262610739947,
+        "y" : 0.07671117826160101
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.16204690831556504,
+      "text" : "부정사의 to는 주로 '앞으로 향하다'라는 의미를 가지고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010262351867567188,
+        "width" : 0.034722221320402535,
+        "x" : 0.48842592626936215,
+        "y" : 0.12055160162393119
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "앞으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013281877354795024,
+        "width" : 0.046095048620345691,
+        "x" : 0.48264372742145706,
+        "y" : 0.12999198049361038
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "향하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.8078703318927305,
+        "x" : 0.081018535234190406,
+        "y" : 0.21656976760393709
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "전치사 to는 대부분의 경우, '도달하다'라는 뜻이다. 그리고 I am happy to see"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828188166499451,
+        "width" : 0.83101849927969862,
+        "x" : 0.057870379783535521,
+        "y" : 0.24418604666128552
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.066759388038942977,
+      "text" : "you.(너를 만나서 기뻐)와 같은 '감정의 원인'을 나타내는 부정사나, He grew up"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025271317288544703,
+        "width" : 0.83368664464206554,
+        "x" : 0.05536848716828964,
+        "y" : 0.26915619041211802
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.03244005641748942,
+      "text" : "to be a doctor.(그는 어른이 되어서 의사가 되었어.)와 같이 '결과'를 나타내는 부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843705737293884,
+        "width" : 0.42592591630651599,
+        "x" : 0.060185189876518927,
+        "y" : 0.2993772243312165
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "정사 등이 '도달'을 뜻하는 tO를 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916121350488593,
+        "width" : 0.80787033189273039,
+        "x" : 0.081018537622307568,
+        "y" : 0.35453736686004267
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "동사의 목적어에 tO 부정사가 오는 경우, 대부분 '앞으로 향하다'의 tO 부정사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.05787036976915725,
+        "x" : 0.057870370535946063,
+        "y" : 0.38211743802510412
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523256050734249,
+        "width" : 0.79166666666666674,
+        "x" : 0.04629629210390955,
+        "y" : 0.43313953459575694
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.97185501066098079,
+      "text" : "• 앞으로 실행되다'라는 의미의 동사라면 to 부정사를 목적어로 한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026450792665583478,
+        "width" : 0.81050557887300534,
+        "x" : 0.078523922477376884,
+        "y" : 0.47188482846064139
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, '무언가 먹고 싶다'라는 소망을 나타낼 때, 먹고 싶다고 바라는 것일뿐"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021534425932317469,
+        "width" : 0.46325255049035907,
+        "x" : 0.057748362953010016,
+        "y" : 0.50032144768883202
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이고 실제로, 먹는 것은 이제부터가 될 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027078827080777468,
+        "width" : 0.81297581449468082,
+        "x" : 0.078521544085016326,
+        "y" : 0.52608685216345685
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "영어로 말하면 want는 소망을 나타낸다. 그리고 want 뒤에 오는 '원하는 내용'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021993710052924609,
+        "width" : 0.82870366522606387,
+        "x" : 0.057870389467680777,
+        "y" : 0.55649466187813112
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "은 '앞으로 할 일'을 나타낸다. 따라서 '앞으로 할 일을 향해 가다'를 뜻하는 t0 부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022696781837219016,
+        "width" : 0.29947414533466316,
+        "x" : 0.057522732700843869,
+        "y" : 0.58214812595227106
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "정사가 want 목적어로 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.52314816738696812,
+        "x" : 0.055555545819881119,
+        "y" : 0.63372092991257534
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.17333333333333334,
+      "text" : "예문 | want to eat something. 난 무언가먹고 싶어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016153893861057922,
+        "width" : 0.24999999999999997,
+        "x" : 0.15277777765981129,
+        "y" : 0.66133720935383411
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.41666666666666669,
+      "text" : "무언가 할 것을 향해서 want하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.51157408369348401,
+        "x" : 0.055555550616778429,
+        "y" : 0.7019572955463047
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.12281926029309141,
+      "text" : "예e They never expected to see the rock star."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017032974555399094,
+        "width" : 0.35447723172235146,
+        "x" : 0.25447220820599825,
+        "y" : 0.7292910162554036
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.34865900383141762,
+      "text" : "무언가 할 것에 대해서 전혀 expect하지 않았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018926479638259219,
+        "width" : 0.53960783397052314,
+        "x" : 0.1040570609783296,
+        "y" : 0.74856226593810871
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그들은 그 록 스타를 볼 수 있으리라고는 전혀 예상하지 못했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016399097612319946,
+        "width" : 0.68533775383699025,
+        "x" : 0.10641454381308464,
+        "y" : 0.77142319647538282
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.44578313253012047,
+      "text" : "* expect는 '기대하다'보다는 '상황으로 보아 당연히 그러할 것으로 예상하다'\"라는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.61805554112644057,
+        "x" : 0.055555562595719921,
+        "y" : 0.81395348805000167
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.15784671532846714,
+      "text" : "예e Attention needs to be paid. 주의를 기울일 필요가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.24768518759003769,
+        "x" : 0.22453703571662267,
+        "y" : 0.84297152982768819
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.35714285714285715,
+      "text" : "무언가 할 것을 향해서 need하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024094736024578234,
+        "width" : 0.81276777551529256,
+        "x" : 0.076278815271451528,
+        "y" : 0.88001467125052313
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 want(원하다), expect(당연히 앞으로 그렇게 될 것이라고 예상하다)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.41666666666666669,
+        "x" : 0.49537037025462954,
+        "y" : 0.93016014253253143
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.97278911564625847,
+      "text" : "4장 동사 ③ 현재분사: ing는 이것에서부터 생각하자 119"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 114,
+  "pdf_page_number" : 115
+}

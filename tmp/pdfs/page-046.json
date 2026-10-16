@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022579720011809523,
+        "width" : 0.37966807347980402,
+        "x" : 0.071103413560159034,
+        "y" : 0.073415256292887587
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "자체에 '건네주다'라는 이미지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020761038484946592,
+        "width" : 0.69212562357155416,
+        "x" : 0.071163425050685181,
+        "y" : 0.12339610514077237
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.10337972166998012,
+      "text" : "예문 ㅣ gave him some money• - | gave some money to him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016143548531040164,
+        "width" : 0.30574711666831489,
+        "x" : 0.11724138407601548,
+        "y" : 0.15391459093835369
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그에게 약간의 돈을 좀 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016029752446239054,
+        "width" : 0.40229885353485406,
+        "x" : 0.078160917943856448,
+        "y" : 0.17437722423402147
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.34299516908212563,
+      "text" : "① 동사'give(주다) 에는 '건네주다'라는 이미지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016086650488639664,
+        "width" : 0.73103446262965888,
+        "x" : 0.078160929541148061,
+        "y" : 0.19476744191597639
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.43603133159268931,
+      "text" : "② '건네주다'라는 것은 물건이 이동하는 것으로, 여기에서는 '돈이 1(나) * him(그)으로 이동한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021859223308088094,
+        "width" : 0.76551726565247014,
+        "x" : 0.091954009606715209,
+        "y" : 0.23976868332911616
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "마찬가지로 teach나 show도 '지식이나 정보의 이동'을 나타내는 동사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017483240344770445,
+        "width" : 0.60229887070367438,
+        "x" : 0.068965507034057211,
+        "y" : 0.29937722447129911
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.10613496932515337,
+      "text" : "예문 He taught us science. - He taught science to us."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017519448575600172,
+        "width" : 0.31954022500082413,
+        "x" : 0.11724138173746898,
+        "y" : 0.32695729530183126
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "그는 우리에게 과학을 가르쳐 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011684805048742253,
+        "width" : 0.025287357228382393,
+        "x" : 0.07586206839730307,
+        "y" : 0.37354651176062492
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 1,
+      "text" : "예운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021800283859632952,
+        "width" : 0.37990753560126578,
+        "x" : 0.1146882226063741,
+        "y" : 0.36794014575448442
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.010849909584086799,
+      "text" : "The woman showed me the way."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017566001287983024,
+        "width" : 0.72413791919391701,
+        "x" : 0.10344828166816804,
+        "y" : 0.39813167283176742
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.01487603305785124,
+      "text" : ", The woman showed the way to me. 그여자는 내게 길을 알려 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469671,
+        "width" : 0.80689652626692165,
+        "x" : 0.089655184498289339,
+        "y" : 0.44750889647786629
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "for에 '대리, 교환'이라는 의미가 있다는 것을 이해하고, 위의 문장에 for를 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.30344827601007607,
+        "x" : 0.071264367635212017,
+        "y" : 0.47674418595865986
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "하면 의미가 다소 어색해진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02054539439516978,
+        "width" : 0.36091954999835174,
+        "x" : 0.073563211027096717,
+        "y" : 0.52616279047339864
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.056109725685785539,
+      "text" : "X Igave some money for him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101484,
+        "width" : 0.77471262828542553,
+        "x" : 0.12183908803747551,
+        "y" : 0.5523255812154112
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.28497409326424872,
+      "text" : "* 내가 그를 대신해 돈을 주었다는 의미가 되고, 누구에게 건네주었는지는 알 수 없다. 원래의 문장 | gave"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017688968427664875,
+        "width" : 0.58638371764020758,
+        "x" : 0.13785191220988127,
+        "y" : 0.57002269117486482
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.37944664031620551,
+      "text" : "him some money(나는 그에게 돈을 좀 주었다.)의 의미는 확실히 바뀌게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.53793103181863133,
+        "x" : 0.089655177768845226,
+        "y" : 0.61773255789103432
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "teach나 show의 경우에도 동일한 현상이 발생한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035112557462101734,
+        "width" : 0.33833710017251234,
+        "x" : 0.06186593111860577,
+        "y" : 0.66049604669092832
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.054666666666666669,
+      "text" : "※ He tausht science for us."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021068706207003851,
+        "width" : 0.72445082094431257,
+        "x" : 0.11710667756028126,
+        "y" : 0.68913720065060757
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.2875318066157761,
+      "text" : "- 그가 우리를 대신해서 과학을 가르쳤다는 의미가 되고, 누구에게 가르쳐 주었는지는 알 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027642141457554281,
+        "width" : 0.46666664949784636,
+        "x" : 0.064367822808548095,
+        "y" : 0.73837209316470054
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.032288698955365625,
+      "text" : "X The woman showed the way for me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021103863190077399,
+        "width" : 0.72672122574389064,
+        "x" : 0.11710393794679418,
+        "y" : 0.76377948763437775
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.32662192393736017,
+      "text" : "* 그 여자가 나를 대신해서 길을 알려 주었다는 의미가 되고, 누구에게 알려 주었는지는 알 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843705737293884,
+        "width" : 0.80459770706970823,
+        "x" : 0.091954019616991026,
+        "y" : 0.80377906990617076
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 for가 '대리, 교환'의 이미지로 문장에서 사용된다는 것을 알면, 4형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020472978781975071,
+        "width" : 0.53563216969936711,
+        "x" : 0.07126437480394951,
+        "y" : 0.83139534875374022
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "식->3형식 문장으로 매끄럽게 바꿔 쓸 수 있게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.55862070504790784,
+        "x" : 0.36321838307621035,
+        "y" : 0.93016014253153412
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.92727272727272725,
+      "text" : "2장 동사 ① 문장의 형식: 동사를 단어로 이해하지 말고 문형으로 이해하라 49"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    642
+  ],
+  "pdf_page_index" : 46,
+  "pdf_page_number" : 47
+}

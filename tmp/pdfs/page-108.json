@@ -1,0 +1,55 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.075047743055555505,
+        "width" : 0.22934371022814926,
+        "x" : 0.16285898522665354,
+        "y" : 0.41183563193860295
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.10251688152240639,
+      "text" : "제 4 장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.13673076714409726,
+        "width" : 0.50295805292169871,
+        "x" : 0.18090962350706541,
+        "y" : 0.41282051479219883
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.014590347923681257,
+      "text" : "동사 ③ 현재분사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.18500440809461804,
+        "width" : 0.78787485399770807,
+        "x" : 0.19972832356997322,
+        "y" : 0.41262614255630958
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.54432589718719693,
+      "text" : "ing는 이것에서부터 생각하자"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 108,
+  "pdf_page_number" : 109
+}

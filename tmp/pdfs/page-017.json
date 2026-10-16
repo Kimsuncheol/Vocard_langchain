@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.80275229121861824,
+        "x" : 0.094036698334854119,
+        "y" : 0.068313953661790272
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이는 자신의 영혼이 스스로의 몸을 조종하는, 즉 유체 이탈과 같이 자신이 외부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021847545199924046,
+        "width" : 0.30963301926516412,
+        "x" : 0.073394499463199717,
+        "y" : 0.095930232447719477
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "로 나와서 표현하는 느낌이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024049593607584629,
+        "width" : 0.80757715460959445,
+        "x" : 0.089313864308566193,
+        "y" : 0.12205029939741763
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "'~와 친구가 되다'는 make friends with ~이지만, 한국인은 이를 make (a)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020520672268337647,
+        "width" : 0.39678899357827857,
+        "x" : 0.07110091593747174,
+        "y" : 0.15244444437920934
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "friend with ~로 말할 가능성이 높다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.80275229121861835,
+        "x" : 0.094036698313041484,
+        "y" : 0.17866666693992694
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "영어 뇌의 사고방식으로는 내가 외부에서 나와 상대방으로 된 2명을 보고 있으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052196417914498,
+        "width" : 0.82339451822002274,
+        "x" : 0.07339448390711871,
+        "y" : 0.20622222223875686
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "므로 복수형인 friends라고 복수형으로 말한다. 하지만 한국어 뇌의 사고방식으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.82339451822002285,
+        "x" : 0.073394483894575716,
+        "y" : 0.2340116281012985
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "로는 나 자신이 시야에서 사라져 상대방 1명밖에 보이지 않으므로 (a) friend라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022111350165473054,
+        "width" : 0.15377872981382218,
+        "x" : 0.073339992774504356,
+        "y" : 0.26001990629405203
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "말하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017518087599012522,
+        "width" : 0.49770642398448472,
+        "x" : 0.075688072317718333,
+        "y" : 0.30959302317197379
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.12590975254730713,
+      "text" : "예문 | made friends with a man from Thailand."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.33715595288223094,
+        "x" : 0.11926606014064572,
+        "y" : 0.33555555582541285
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "나는 태국에서 온 남자와 친구가 되었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.045871557814351649,
+        "x" : 0.36467889987722785,
+        "y" : 0.38355555567789401
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "한국어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122503,
+        "width" : 0.032110091005818298,
+        "x" : 0.59403669750167798,
+        "y" : 0.38517441849878931
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016011627197265677,
+        "width" : 0.038990824410084945,
+        "x" : 0.37614678938134899,
+        "y" : 0.51598837245264173
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.85245901639344257,
+      "text" : "친구"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013472506205240875,
+        "width" : 0.080432543593846051,
+        "x" : 0.35542592992350458,
+        "y" : 0.53759514222583782
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "친구가 되다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.034403669700193928,
+        "x" : 0.59403669714531593,
+        "y" : 0.51598837198356762
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.81159420289855078,
+      "text" : "친구"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016205425686306452,
+        "width" : 0.17201834046438846,
+        "x" : 0.51834862740542054,
+        "y" : 0.5346666666842107
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "make friends with"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020494832356770853,
+        "width" : 0.8004587580648701,
+        "x" : 0.094036675899089039,
+        "y" : 0.57688888894509094
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "영어 뇌가 작용하지 않으면, 한국어에서 영어로 직역해서 사용하게 되어 원어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.82110089934274066,
+        "x" : 0.07339450434239117,
+        "y" : 0.60311111093079284
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "민에게 어색하게 느껴지고 그들이 이해하기 어려운 영어를 지속적으로 구사하게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020496123419867618,
+        "width" : 0.059633024622885042,
+        "x" : 0.073394496727953076,
+        "y" : 0.63066666674481653
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025534267001681932,
+        "width" : 0.80306843961222774,
+        "x" : 0.093880584154005992,
+        "y" : 0.65530815308479906
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "반대로 말하면, 영어를 제대로 말할 수 있게 된다는 것은 영어 뇌로 세상을 보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021953488667805998,
+        "width" : 0.68119267667277472,
+        "x" : 0.071100909254562042,
+        "y" : 0.68604651152556395
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "는, 즉 외부에서 자기 자신을 바라보는 능력을 가지게 되는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.80275229121861835,
+        "x" : 0.094036698295006951,
+        "y" : 0.71200000025311416
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "영어로 자기 자신을 표현할 수 있게 된다는 것은 단지 영어를 말할 수 있게 되는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.25688072804654583,
+        "x" : 0.073394498244092762,
+        "y" : 0.73982558101108908
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "것 이상의 의미를 가진다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014713177998860627,
+        "width" : 0.23394494646050956,
+        "x" : 0.68807340039359854,
+        "y" : 0.92133333326684119
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.87044534412955465,
+      "text" : "1장 영어 세계의 3가지 법칙 19"
+    }
+  ],
+  "page_size_points" : [
+    407,
+    643
+  ],
+  "pdf_page_index" : 17,
+  "pdf_page_number" : 18
+}

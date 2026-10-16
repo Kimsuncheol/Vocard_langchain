@@ -1,0 +1,205 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020172929551866337,
+        "width" : 0.413312070589539,
+        "x" : 0.057866923124178023,
+        "y" : 0.074362277276918465
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.22846715328467154,
+      "text" : "예문 We Call this flower = (Baekhap)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020289950900607701,
+        "width" : 0.30901151616522604,
+        "x" : 0.10654176754917065,
+        "y" : 0.098978143309232602
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "우리는 이 꽃을 '백합'이라고 부른다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016153747558593778,
+        "width" : 0.058004641701989157,
+        "x" : 0.76798143776994499,
+        "y" : 0.10029069726959938
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.30769230769230771,
+      "text" : "5형식"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016009044223361468,
+        "width" : 0.79582363696808511,
+        "x" : 0.095127624564637039,
+        "y" : 0.12354651127050553
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.79003267973856206,
+      "text" : "*'부르는 쪽은 We이고, this flower는 '불리는' 쪽이다. Baekhap은 this flower의 '내용 일 뿐이다. 따라서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488328721797,
+        "width" : 0.33178654663951684,
+        "x" : 0.11832946438158863,
+        "y" : 0.14389534904883705
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.73694390715667313,
+      "text" : "수동태로 만들면 this flower가 주역이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035111111111111093,
+        "width" : 0.65429232982878982,
+        "x" : 0.051044087676479007,
+        "y" : 0.18444444473280797
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.38563622170179546,
+      "text" : "O This fower is called Baekhap. 이 꽃은 '백합'이라고 불린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.40139212101063826,
+        "x" : 0.058004635363300368,
+        "y" : 0.24709302344114636
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.38283828382838286,
+      "text" : "예문 He pushed the door = (open)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020182061089409786,
+        "width" : 0.79604388297872353,
+        "x" : 0.095015940441998473,
+        "y" : 0.27350118057788864
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.67575462512171369,
+      "text" : "-'미는' 쪽은 he이고, the door는 '밀리는' 쪽이다. open은 the door가 밀린 결과로 나타난 '결과의 상태만"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.61716936260250432,
+        "x" : 0.12064965732895933,
+        "y" : 0.29644444452054841
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.66955445544554459,
+      "text" : "을 나타낼 뿐, '밀리는 '쪽은 아니다. 따라서 수동태로 만들면 the door가 주역이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024070153130425487,
+        "width" : 0.57126356625387864,
+        "x" : 0.060082482650567627,
+        "y" : 0.34435487793687614
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.24442289039767218,
+      "text" : "X The door was pushed open. 그 문은 밀려서 열렸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016023255242241796,
+        "width" : 0.081545474005083662,
+        "x" : 0.45673758809484438,
+        "y" : 0.45199999991897311
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "b 소 당하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012000000000000011,
+        "width" : 0.030162413576815983,
+        "x" : 0.44315545217330893,
+        "y" : 0.49688888899982464
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.52284263959390864,
+      "text" : "3h"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016025839063856351,
+        "width" : 0.36890951386580229,
+        "x" : 0.54524361529447707,
+        "y" : 0.92441860498413408
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.8797127468581688,
+      "text" : "5장 동사 ④ 과거분사: 이미지부터 이해하자 139"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 133,
+  "pdf_page_number" : 134
+}

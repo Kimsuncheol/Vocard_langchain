@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023667113804246021,
+        "width" : 0.80954794450239698,
+        "x" : 0.074312447192766709,
+        "y" : 0.073298336996134972
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "학교에서 here과 there을 배울 때, 원칙적으로 이 단어들 앞에 전치사를 붙이면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894457,
+        "width" : 0.83255811171098193,
+        "x" : 0.053488385935484779,
+        "y" : 0.10026619333057707
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "안 된다고 배운다. 각각 '여기에(서), 여기로', '거기에(서), 거기로'라고 해석할 수 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021926136067618063,
+        "width" : 0.83488368988037109,
+        "x" : 0.05116280622643013,
+        "y" : 0.1293604653452578
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "기 때문에, to here이나 at here로 쓰고 싶을 수 있으나, 일부 표현을 제외하고 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021816511754981116,
+        "width" : 0.26046512343666767,
+        "x" : 0.055813950064611866,
+        "y" : 0.15697674438585985
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "렇게 사용해서는 안 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024669536363792988,
+        "width" : 0.81183858351273974,
+        "x" : 0.074319518990579744,
+        "y" : 0.18271543693153458
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그 이유는, here과 there은 부사이고, 각각 다음과 같이 구성되어 있기 때문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020490703904322061,
+        "width" : 0.055813951925797897,
+        "x" : 0.053488372745111382,
+        "y" : 0.21206743569211239
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021216530448690096,
+        "width" : 0.55610136552290479,
+        "x" : 0.07660350453526675,
+        "y" : 0.26365717402907018
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "here = in this place, to this place, at this place"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.56511627544056287,
+        "x" : 0.076744187798502103,
+        "y" : 0.29503105622856096
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "there = in that place, to that place, at that place"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022387777902219019,
+        "width" : 0.48858911340886901,
+        "x" : 0.07661040175148702,
+        "y" : 0.34690197303690651
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "즉, here과 there은 전치사를 포함하는 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022730059822576698,
+        "width" : 0.53977992317893297,
+        "x" : 0.07664021185520245,
+        "y" : 0.37266416906115785
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이는 '관계 대명사와 관계 부사'의 관계에도 해당된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02196525702353791,
+        "width" : 0.71654150702736585,
+        "x" : 0.078956657906410446,
+        "y" : 0.43247307351206565
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "where = in which (place), to which (place), at which (place)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014720600266951656,
+        "width" : 0.21627907319502399,
+        "x" : 0.11627907029202285,
+        "y" : 0.46220930230132906
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.5,
+      "text" : "*사실상 place는 생략된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020937860382269524,
+        "width" : 0.7002536600286311,
+        "x" : 0.076635294528470913,
+        "y" : 0.48215750154635661
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "When = at which (time), on Which (day), in which (month)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016081230346354669,
+        "width" : 0.3162790645252575,
+        "x" : 0.11627907227797361,
+        "y" : 0.51153504905140668
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.39295392953929537,
+      "text" : "> 사실상 time, day, month는 생략된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023699811209379917,
+        "width" : 0.30815176530317828,
+        "x" : 0.078478215186043213,
+        "y" : 0.52948545481361287
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "Why = for which (reason)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062793,
+        "width" : 0.22790698571638626,
+        "x" : 0.11627906534419533,
+        "y" : 0.56104651176569897
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.35925925925925928,
+      "text" : "* 사실상 reason은 생략된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.26976743611422449,
+        "x" : 0.076744188928088597,
+        "y" : 0.58284883756602979
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "how = in Which (way)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372762116509,
+        "width" : 0.2069767388430509,
+        "x" : 0.11627907236723428,
+        "y" : 0.61046511593119945
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.28636363636363638,
+      "text" : "> 사실상 way는 생략된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020423639529345783,
+        "width" : 0.73255816372958105,
+        "x" : 0.079069755227107449,
+        "y" : 0.64818101174823806
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.26688102893890675,
+      "text" : "이와 같이 '전치사 +관계 대명사'-* 관계 부사의 구성으로 이루어져 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.49069768732244318,
+        "x" : 0.048837202717610335,
+        "y" : 0.70348837218439964
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.9682299546142209,
+      "text" : "• 관계 부사는 어떤 경우에 사용하는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02291552959127352,
+        "width" : 0.80959770896218042,
+        "x" : 0.078924016398248434,
+        "y" : 0.73729273895727621
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "관계 대명사가 아니라 관계 부사를 사용하는 경우 '관계사절 안에 선행사를 넣"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02523473436682222,
+        "width" : 0.62811582738702942,
+        "x" : 0.05802064746849131,
+        "y" : 0.76577826786937098
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "어 봤을 때, 전치사 없이 그 선행사를 넣을 수 없는 경우'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020503600932056165,
+        "width" : 0.80930233001708984,
+        "x" : 0.079069765135801523,
+        "y" : 0.79360465104081712
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.17381228273464658,
+      "text" : "선행사라는 것은 '그것만으로 정보가 부족하여, 설명을 필요로 하는 명사'라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02220140523157399,
+        "width" : 0.54902761632745911,
+        "x" : 0.06034982419339259,
+        "y" : 0.82114256984328049
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "할 수 있다. 선행사의 위치는 관계사절 바로 앞에 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024851690696844897,
+        "width" : 0.80965224179354589,
+        "x" : 0.078911189238494259,
+        "y" : 0.84648109769806568
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "관계사절이란, 관계 대명사나 관계 부사를 사용해서 선행사를 자세히 설명하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02515356712036676,
+        "width" : 0.66074258630925964,
+        "x" : 0.058008605598334206,
+        "y" : 0.87449918874315524
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "위한 'S+V~ 절'이다. 다음에 제시되는 구체적인 예시를 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011713027107895457,
+        "width" : 0.31860464269464672,
+        "x" : 0.5953488413305924,
+        "y" : 0.92724046138774108
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.89530685920577613,
+      "text" : "10장 형용사와 부사: '수식하다'의 진실 331"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 320,
+  "pdf_page_number" : 321
+}

@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023223800659179727,
+        "width" : 0.32457047474535206,
+        "x" : 0.068702350296245274,
+        "y" : 0.076385016573435771
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "지를 파악하도록 설명한 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023363021850585919,
+        "width" : 0.58886416149541798,
+        "x" : 0.14466249301797895,
+        "y" : 0.13111463793817768
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.98233618233618236,
+      "text" : "- 멀리 바라보는 '목표'에서'대리 • 교환'의 이미지를 가지다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021941860622829878,
+        "width" : 0.5540229808093794,
+        "x" : 0.087356325590734946,
+        "y" : 0.17005813943102088
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "for는 원래 '앞'이라는 뜻을 가지고 있고, 그 어원은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025690255059136247,
+        "width" : 0.5752549312285733,
+        "x" : 0.066435780403616265,
+        "y" : 0.19510086625734613
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "before(~ 앞에), forward(앞으로)와 같은 말로 남아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026443013509114599,
+        "width" : 0.57273416210662786,
+        "x" : 0.068798524438992342,
+        "y" : 0.22143447126549265
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "있다. '앞'의 의미에서 '앞으로 내다보다, 자신이 도달하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021879844665527393,
+        "width" : 0.57241379191939168,
+        "x" : 0.068965517957079933,
+        "y" : 0.25145348825972302
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.1039426523297491,
+      "text" : "자 하는 장소=목표, 목적'이라는 의미가 파생되어, for에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024399130079481357,
+        "width" : 0.82088447924907704,
+        "x" : 0.071164928459738,
+        "y" : 0.27593997290323846
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "는 '~을 위해서'라는 의미가 생겨나게 된다. 여기에서 깨달아야 할 것은 '~을 위해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025011043124728793,
+        "width" : 0.7749163363385636,
+        "x" : 0.06883455033288538,
+        "y" : 0.30208845576551946
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "서 해 주다'라는 의미는 '~을 대신해서 해 주다'라고 파악될 수 있다는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021937984890407991,
+        "width" : 0.53103448838288947,
+        "x" : 0.091954017026946097,
+        "y" : 0.33139534852061514
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어 '자녀의 장래를 위해 저축하다'라는 것은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022420750088161912,
+        "width" : 0.54978597348584746,
+        "x" : 0.071093656387437865,
+        "y" : 0.35960098441491584
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "자녀들이 쓸 돈을 부모가 대신 모아 준다는 것을 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.027586205934505781,
+        "x" : 0.82988505783734479,
+        "y" : 0.36046511631875044
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.26666666666666666,
+      "text" : "8"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022528718736436693,
+        "width" : 0.55199577234968344,
+        "x" : 0.07112061224341959,
+        "y" : 0.38756131720042863
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "한다. 일반적으로 자신의 돈은 스스로 마련해야 하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020490956624348966,
+        "width" : 0.55172411869011506,
+        "x" : 0.071264377342298693,
+        "y" : 0.41555555537304056
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "데, 그것을 누군가가 대신 해 주고 있기 때문이다. 이러"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888888351,
+        "width" : 0.022988505839630857,
+        "x" : 0.69655172397673626,
+        "y" : 0.43733333325030033
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.94871794871794868,
+      "text" : "저축"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020551679823133551,
+        "width" : 0.55172411869011517,
+        "x" : 0.071264377358624509,
+        "y" : 0.44311111124336233
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.13838550247116968,
+      "text" : "한 방식으로 파악함으로써 for에는 목표 외에 '대신, 대"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.2528735669185676,
+        "x" : 0.071264365862428999,
+        "y" : 0.47093023217238905
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.084507042253521125,
+      "text" : "리'라는 의미가 생겨났다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021815131293402734,
+        "width" : 0.41192047505439078,
+        "x" : 0.1147673698279429,
+        "y" : 0.51779860328066596
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "Can you pick up the luggage for me?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017490955776638395,
+        "width" : 0.31494252222332109,
+        "x" : 0.11724138248378474,
+        "y" : 0.54355555592197491
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "나를 위해서 짐을 찾아와 줄 수 있니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014728681776258634,
+        "width" : 0.30804597878757911,
+        "x" : 0.1218390795644297,
+        "y" : 0.56666666683255884
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.57296137339055797,
+      "text" : "* 나를 대신해서 짐을 찾아와 줄 수 있니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0089354006449381407,
+        "width" : 0.034482757418132226,
+        "x" : 0.72413793147771555,
+        "y" : 0.56395348827815872
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "아파!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021979328579372903,
+        "width" : 0.55172411869011517,
+        "x" : 0.087356330792312795,
+        "y" : 0.61046511615391053
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "'대리'란 '(자신의 할 일을) 바꿔서 하는 것'의 의미를 가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025822107103135816,
+        "width" : 0.47842115356616999,
+        "x" : 0.071098183991000874,
+        "y" : 0.6372573794648192
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.088803088803088806,
+      "text" : "지므로, 여기에서 for에는 '교환'의 뜻도 생긴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.34252873888833951,
+        "x" : 0.071264365245485461,
+        "y" : 0.68888888860136444
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.27650429799426934,
+      "text" : "예e an eye for an eye 눈에는 눈"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016967483520507809,
+        "width" : 0.7725455797841948,
+        "x" : 0.11947597886331328,
+        "y" : 0.71346392979952022
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.58672985781990517,
+      "text" : "* 상대방에게 맞아서 눈이 아픈 경우, 그 상대방의 눈을 똑같이 아프게 하는 것으로 '눈과 눈을 교환'하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015222590128580737,
+        "width" : 0.087636714243184644,
+        "x" : 0.14008968892504481,
+        "y" : 0.73366777464669464
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.41269841269841268,
+      "text" : "이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.45747124394284022,
+        "x" : 0.071264377931500117,
+        "y" : 0.75581395367913051
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.14749034749034748,
+      "text" : "예e He bought the Car for 20,000 dollars."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.29425287045506987,
+        "x" : 0.11954023136003154,
+        "y" : 0.78177777796554238
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "그는 그 자동차를 2만 달러에 샀다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.26436781313181262,
+        "x" : 0.11954023126156611,
+        "y" : 0.80377906997710258
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.63942307692307687,
+      "text" : "* '자동차와 '2만 달러를 교환하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632713,
+        "width" : 0.8022988878724947,
+        "x" : 0.091954004263752678,
+        "y" : 0.84302325598673011
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "또한 for가 나타내는 '기간'이나 '거리'도, '행위'와 그 기간•거리를 교환하여 '시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.56091952424512126,
+        "x" : 0.071264375692557252,
+        "y" : 0.87199999991621613
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "간,'거리'가 소비되었다는 것을 나타낸다고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015525156656901018,
+        "width" : 0.55650576391635898,
+        "x" : 0.36312287852589498,
+        "y" : 0.92927787425595587
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.93353474320241692,
+      "text" : "2장 동사 ① 문장의 형식: 동사를 단어로 이해하지 말고 문형으로 이해하라 47"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 44,
+  "pdf_page_number" : 45
+}

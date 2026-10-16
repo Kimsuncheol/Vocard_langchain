@@ -1,0 +1,295 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.037576950073242243,
+        "width" : 0.13582478493367164,
+        "x" : 0.12477570550317088,
+        "y" : 0.088953487093718087
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99916597164303589,
+      "text" : "Mus 56"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035111111111111204,
+        "width" : 0.49069765965823098,
+        "x" : 0.1325581467686836,
+        "y" : 0.13066666700594909
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99910172917134521,
+      "text" : "wil과 be going to의 차이점"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017448320176866261,
+        "width" : 0.63720929181134256,
+        "x" : 0.13023256328123017,
+        "y" : 0.21366279061561144
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99918725617685311,
+      "text" : "• 생각만 하고 있는가? 앞으로 실행하기 위해 나아가고 있는 중인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027929182264539887,
+        "width" : 0.81881905145454936,
+        "x" : 0.12544224713427196,
+        "y" : 0.30435945434580991
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.097826086956521743,
+      "text" : "우선 대략적으로 설명했을 때, will은 '마음의 작용'이므로 '~할 생각이다(의지)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025446768018934418,
+        "width" : 0.65862080718037752,
+        "x" : 0.10209728268602138,
+        "y" : 0.33218836261921125
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "'~일 것이라고 생각하다(예상)'의 '생각하는' 느낌이 강하게 든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025859990437825608,
+        "width" : 0.81417220678084923,
+        "x" : 0.12547616834714115,
+        "y" : 0.35979484043322274
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.2951388888888889,
+      "text" : "반면에 be going to (do)는 직역하여 알 수 있듯이, '~하는 것을 향해 나아가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027824709574381545,
+        "width" : 0.83293164897168803,
+        "x" : 0.10681121304348733,
+        "y" : 0.3878250940309742
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "고 있는 중에 있다'\"라고 미래를 향해 일이 진행 중이라는 느낌이 있다. 따라서 '생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.83255813468215811,
+        "x" : 0.10697674649985923,
+        "y" : 0.41860465135717817
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "하다'라는 느낌의 will보다는 일이 객관적으로 미래를 향해 나아가고 있다는 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020445737202962277,
+        "width" : 0.088372091961722091,
+        "x" : 0.10465116319743352,
+        "y" : 0.44622092982407358
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이 든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025571120368109823,
+        "width" : 0.8142186352330395,
+        "x" : 0.12545273784659916,
+        "y" : 0.46954100662056408
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서는 Will과 be going to를 '의지'와 '예상'의 용법으로 나누고, 각각의 차"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020468992445204059,
+        "width" : 0.25581394641148059,
+        "x" : 0.10465116620947758,
+        "y" : 0.50133333350088305
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이를 설명하도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027758397420247438,
+        "width" : 0.49069765965823087,
+        "x" : 0.10465117007355461,
+        "y" : 0.55668604665911325
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.9926605504587156,
+      "text" : "를 will의 '의지'와 be going to의 '의지\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021895349290635857,
+        "width" : 0.81860464590567117,
+        "x" : 0.12558140022545883,
+        "y" : 0.60610465088253362
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.00091827364554637281,
+      "text" : "여기에서는 '(미래에) ~할 것이다'라고 선언하는 것을 '의지'라고 정의할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316357,
+        "width" : 0.058139534757347788,
+        "x" : 0.64651162786218985,
+        "y" : 0.67732558144253452
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "흔들흔들~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.4093023229528357,
+        "x" : 0.10697674556627564,
+        "y" : 0.75581395367141313
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.94401544401544402,
+      "text" : "••- will의 '의지: 지금 결정한' 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025368426852755976,
+        "width" : 0.81663491447426995,
+        "x" : 0.12541812050676074,
+        "y" : 0.79020311364157558
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "will이 의지의 의미로 사용될 때는, 상대방이 하는 말에 마음이 흔들리다가 한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.83488373063568366,
+        "x" : 0.10697673929365555,
+        "y" : 0.81955555596513896
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "방향으로 기울어져서 '그래, 하겠어!'라고 결단하여 I will ~.로 말하는 경우가 대부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.076744188270677555,
+        "x" : 0.10697674294838216,
+        "y" : 0.84738372051496513
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "분이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.037209301592617636,
+        "x" : 0.076744186587412111,
+        "y" : 0.92577777780154513
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 1,
+      "text" : "250"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 241,
+  "pdf_page_number" : 242
+}

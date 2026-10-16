@@ -1,0 +1,520 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019969398865071875,
+        "width" : 0.47033519233735899,
+        "x" : 0.10816275762747726,
+        "y" : 0.073785028942945252
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "B:l've been to the station. 나는 역에 있었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014736613344891625,
+        "width" : 0.45622117832113895,
+        "x" : 0.11290323558290218,
+        "y" : 0.10008896821835289
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.49934980494148246,
+      "text" : "* 과거(방금 전)에 어디에 갔다가 돌아와서, 지금 여기에 있니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.42626729300731658,
+        "x" : 0.12903225199540966,
+        "y" : 0.12055160151806343
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.49038461538461536,
+      "text" : "과거(방금 전)에 역에 갔다가 돌아와서, 지금 여기에 있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026380038346260015,
+        "width" : 0.3225806361361182,
+        "x" : 0.052995395267194274,
+        "y" : 0.16548042666852858
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99291617473435656,
+      "text" : "c have gone to+장소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021854845230265485,
+        "width" : 0.47723182064858072,
+        "x" : 0.080490955549409299,
+        "y" : 0.20350359063424162
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "gO는 동작동사로, 옆에 제시된 것처럼 동작의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02200922762371893,
+        "width" : 0.14516129379380069,
+        "x" : 0.059907832257765553,
+        "y" : 0.23110465129793378
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "3단계가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021742235299107016,
+        "width" : 0.4772415053524991,
+        "x" : 0.08049253340364583,
+        "y" : 0.25884091805279397
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "gone이라는 표현의 느낌을 이해하기 위해서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022869013382446735,
+        "width" : 0.49567911554290811,
+        "x" : 0.06208351603462145,
+        "y" : 0.28543271033581308
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "는 go를 단순히 '가다'로 해석하며 파악해서는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021900603779694383,
+        "width" : 0.49539171657373937,
+        "x" : 0.062211975481516156,
+        "y" : 0.31395348851501381
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "안 된다. 여기에서는 come과 go를 비교해서 생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052987682437557,
+        "width" : 0.21428571736022348,
+        "x" : 0.062211979909061431,
+        "y" : 0.34156976735123878
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "각해 볼 필요가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014334993430303977,
+        "width" : 0.10865792300031951,
+        "x" : 0.61963417315305258,
+        "y" : 0.22466389805765274
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "떠나가는 중이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01308139532910535,
+        "width" : 0.057603688098815997,
+        "x" : 0.6313364046401081,
+        "y" : 0.26017441853275836
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.95560747663551404,
+      "text" : "going"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012010676156583688,
+        "width" : 0.050691241437860857,
+        "x" : 0.76958525474738493,
+        "y" : 0.2193060498042444
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.98456790123456794,
+      "text" : "gone"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019171972715981922,
+        "width" : 0.11532062266878418,
+        "x" : 0.74418300636260326,
+        "y" : 0.24404773438262528
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이미 갔기 때문에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.15898617635492873,
+        "x" : 0.72119815541892585,
+        "y" : 0.26156583622469487
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "지금 여기에 없다 (완료)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010360630805806292,
+        "width" : 0.025345620718930428,
+        "x" : 0.6428571434423781,
+        "y" : 0.32994186037940554
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 1,
+      "text" : "g0"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.38479261304158591,
+        "x" : 0.059907840687954725,
+        "y" : 0.38953488338864761
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.29394387001477107,
+      "text" : "예로 Hey, come here. 이봐, 여기로 와."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017976510567172976,
+        "width" : 0.25631963517332951,
+        "x" : 0.098848157001164214,
+        "y" : 0.41378602208500637
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.33550488599348532,
+      "text" : "※ come은 '다가오다'를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021420916628583031,
+        "width" : 0.49568836981554126,
+        "x" : 0.059765195784452663,
+        "y" : 0.43710135424341157
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.25537294563843238,
+      "text" : "예문 Hey, |must go now. 이봐, 나는 이제 가야 해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.23041475239526404,
+        "x" : 0.09907833797166217,
+        "y" : 0.46352313152682578
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.37698412698412698,
+      "text" : "※ 9O는 '떠나가다'를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02283097501327136,
+        "width" : 0.80661204436265865,
+        "x" : 0.080559525078248664,
+        "y" : 0.50999042142476636
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 Im going to Itaewon.(나는 이태원으로 가고 있는 중이다.)은 말하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023882865057297087,
+        "width" : 0.79754991625528926,
+        "x" : 0.059764121009980201,
+        "y" : 0.53576918184985844
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "는 이가 듣는 이를 떠나가고 있고, 이태원을 향하고 있는 중이라는 것을 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02470930275967953,
+        "width" : 0.80645157957951352,
+        "x" : 0.080645177945034147,
+        "y" : 0.56249999977337362
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 He has gone to Itaewon.은 \"그는 이태원으로 가 버렸다.\", 즉 '떠나간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.82718889804081464,
+        "x" : 0.057603706864204594,
+        "y" : 0.59156976781369541
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "후이며, 현재는 더 이상 여기에 없다'라는 것을 나타낸다. gone이 나타내는 '가 버"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025839137012848234,
+        "width" : 0.82754615600758108,
+        "x" : 0.059698875956766081,
+        "y" : 0.61693046458248268
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "린 후의 상태'는 '주어가 출발하여 떠나가서, 시야에서 사라진 상태가 된 것'을 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023546513289319226,
+        "width" : 0.064001581060197016,
+        "x" : 0.055922766950781848,
+        "y" : 0.64438269393706527
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011638251912127195,
+        "width" : 0.055299541005294661,
+        "x" : 0.30414746440518681,
+        "y" : 0.69476744203135532
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "I must"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209299365821336,
+        "width" : 0.050691241437860857,
+        "x" : 0.31566820404459123,
+        "y" : 0.71075581407852662
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.34545454545454546,
+      "text" : "90 how"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010493922488120977,
+        "width" : 0.071878032388404622,
+        "x" : 0.52056010339138981,
+        "y" : 0.68813442229156696
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.60240963855421692,
+      "text" : "Im going"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010252006961781746,
+        "width" : 0.085253453221072251,
+        "x" : 0.52304147591762562,
+        "y" : 0.70195729537500084
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "To Itaewon."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011721012855339774,
+        "width" : 0.057603688098815997,
+        "x" : 0.5599078331932954,
+        "y" : 0.7673487543504437
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "He has"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013895806892910922,
+        "width" : 0.06491953496031766,
+        "x" : 0.5597061313718843,
+        "y" : 0.78011604991404704
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.69047619047619047,
+      "text" : "gone to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011757220661937184,
+        "width" : 0.062211982285858669,
+        "x" : 0.57142857062742392,
+        "y" : 0.79492882555547417
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "Iraewon."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015892500554963829,
+        "width" : 0.47488515232446671,
+        "x" : 0.43303979953677507,
+        "y" : 0.92827228287625063
+      },
+      "confidence" : 0.5,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0.94616977225672882,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 75"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    642
+  ],
+  "pdf_page_index" : 71,
+  "pdf_page_number" : 72
+}

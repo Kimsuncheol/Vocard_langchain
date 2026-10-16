@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029522326999240511,
+        "width" : 0.80289138386185832,
+        "x" : 0.084801973688372223,
+        "y" : 0.067405526922164172
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 어떤 성질을 설명하는 문장은 기본적으로 현재형으로 나타낸다. 사물"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021852712843153266,
+        "width" : 0.70574710808390462,
+        "x" : 0.0643678256210128,
+        "y" : 0.097333333748569117
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이나 사람의 성질이라는 것은 '항상 그렇다'는 것을 나타내기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024552529229058151,
+        "width" : 0.81641740973321031,
+        "x" : 0.066499911564268516,
+        "y" : 0.14509310834217282
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.07841239109390126,
+      "text" : "예e A dog has four legs and a tail. People keep it as a pet. It ruins very fast."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022162640041775261,
+        "width" : 0.77275555445675104,
+        "x" : 0.1124819005393973,
+        "y" : 0.16994159659579644
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "개는 4개의 다리와 1개의 꼬리를 갖고 있다. 사람들은 그것을 애완동물로 기른다. 그 것은 매"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020626210530598987,
+        "width" : 0.15453156204330942,
+        "x" : 0.11238939274915007,
+        "y" : 0.19535549916491246
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "우 빠르게 달린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01038501273261172,
+        "width" : 0.029885057323257302,
+        "x" : 0.74252873559124477,
+        "y" : 0.2238372094997636
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "항상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.008720930311414965,
+        "width" : 0.036781608806883748,
+        "x" : 0.73793103456207543,
+        "y" : 0.23401162775853668
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그래~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021953488667805998,
+        "width" : 0.32413792777832717,
+        "x" : 0.066666668178917754,
+        "y" : 0.29199999979447255
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.99073359073359069,
+      "text" : "를 과거형: 지금은 다르다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021922442966037292,
+        "width" : 0.34983587466211763,
+        "x" : 0.15383591706720776,
+        "y" : 0.36746379010786634
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.9564356435643564,
+      "text" : "영어의 과거형과 한국어의 과거형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025280468410915802,
+        "width" : 0.80263247805138005,
+        "x" : 0.08949043936580986,
+        "y" : 0.40252933185591044
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.037037037037037035,
+      "text" : "한편 과거형은 글자 그대로 과거를 나타낸다. 그러나 한국어의 과거형은 영어의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025645758734809121,
+        "width" : 0.82346066073861623,
+        "x" : 0.068727549841244809,
+        "y" : 0.42963529406395917
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "과거형과 기능이 조금 다르다. 한국어의 과거형은 순수한 과거형이라고 할 수 없는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021910853068033864,
+        "width" : 0.13103448623678687,
+        "x" : 0.068965515595687032,
+        "y" : 0.4607558137867851
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "측면이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.34712644166584256,
+        "x" : 0.091954020440088838,
+        "y" : 0.51889534902724777
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "나는 어렸을 때부터 야구를 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555663,
+        "width" : 0.46436783030063294,
+        "x" : 0.091954018384166239,
+        "y" : 0.54488888907868138
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "아름다운 피부의 비결은 사실 비타민이었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.5839080595936621,
+        "x" : 0.091954015770872963,
+        "y" : 0.62209302340488104
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "위 문장에서 '~했다', '~이었다'는 과거를 나타내지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02329974110921218,
+        "width" : 0.8022988878724947,
+        "x" : 0.091954004453566371,
+        "y" : 0.64825581412089217
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서는 '지금 이미 현실이 되었다'는 것을 의미하며, 영어의 현재완료에 가까"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020981485154893731,
+        "width" : 0.16111700645478971,
+        "x" : 0.071165634585153084,
+        "y" : 0.67991623372600707
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "운 측면이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027045984056260908,
+        "width" : 0.80953245525118667,
+        "x" : 0.087193889140219027,
+        "y" : 0.72681100354017325
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이미 현실이 되었다는' 것도 과거라면 과거가 아닐까라고 생각하는 학습자가 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025636431376139357,
+        "width" : 0.8256391265053622,
+        "x" : 0.071105158426370912,
+        "y" : 0.75683472841040456
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "을 것이다. 그렇기 때문에 한국어의 과거형은 과거를 나타내는 표현에도 쓰이고, 영"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.51494253939214141,
+        "x" : 0.07126436369135325,
+        "y" : 0.78622222256782082
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "어의 과거형과 같은 기능을 하는 부분도 많이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031144292195637968,
+        "width" : 0.80763143762086842,
+        "x" : 0.091675863974906319,
+        "y" : 0.80946687518994542
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 본질적으로는 다른 것이며, 그 인식이 부족한 상태로, '~했다' '~이었다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023533621893988776,
+        "width" : 0.82329386564917362,
+        "x" : 0.073409822025415572,
+        "y" : 0.83989398084345557
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "라는 뜻 때문에 과거형을 사용해서 영어 문장을 기계적으로 만들게 되면, 이상한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022605996025933162,
+        "width" : 0.19103059621132212,
+        "x" : 0.073450220264045851,
+        "y" : 0.86878421110291348
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "문장이 될 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017116563585069522,
+        "width" : 0.46923935430127017,
+        "x" : 0.45274200925312802,
+        "y" : 0.92146388041154847
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.90322580645161288,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 65"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 61,
+  "pdf_page_number" : 62
+}

@@ -1,0 +1,295 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025813349405924502,
+        "width" : 0.8302876704520481,
+        "x" : 0.066476750974540727,
+        "y" : 0.071630752094765771
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "\"그것을 누구에게 주었니?\"라는 질문에 대한 대답에서 Adele은 새로운 정보이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888888888888847,
+        "width" : 0.46206896818136872,
+        "x" : 0.068965515792595758,
+        "y" : 0.10311111120406302
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "새로운 정보는 무거운 정보이므로 뒤에 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020560724046495227,
+        "width" : 0.79770116363396637,
+        "x" : 0.091954015720575974,
+        "y" : 0.15988372055144107
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "지금부터 부제에 쓰여 있는 Plays he baseball?이 아닌 Does he play"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021950904846191444,
+        "width" : 0.43908047575487874,
+        "x" : 0.066666658629757528,
+        "y" : 0.18444444407976801
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "baseball?인 이유'란 무엇인지 설명하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024637807210286522,
+        "width" : 0.80256423199059435,
+        "x" : 0.089513736048079801,
+        "y" : 0.21119053031134627
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "be동사에서는 Is this a pen?처럼 be동사부터 먼저 말할 수 있는데, 왜 일반동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.44137929495209205,
+        "x" : 0.068965524819663976,
+        "y" : 0.23982558158732825
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "사의 의문문에서는 do나 does를 사용할까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029290963066948894,
+        "width" : 0.43772954712772505,
+        "x" : 0.089313048511664897,
+        "y" : 0.28773769300554819
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "여기에는 ② '추상적인 정보'와 관련이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.80459770706970823,
+        "x" : 0.087356313974724584,
+        "y" : 0.31822222187071025
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "be동사는 '~한 상태로 존재하다'라는 것이 의미를 지닌 동사로, 매우 추상적인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030064388699001743,
+        "width" : 0.82807126159238742,
+        "x" : 0.068781657449779113,
+        "y" : 0.3421190311228135
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "의미를 가진 동사이다.(Must 37 내용 참고) 따라서 be동사는 '가벼운 정보'이고,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021811370001898922,
+        "width" : 0.80689652626692154,
+        "x" : 0.068965529853704521,
+        "y" : 0.3764444440469823
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "의문문에서는 먼저 말하기 쉬운, 즉 문장 맨 앞에 오기 쉬운 말이라고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023325581020779085,
+        "width" : 0.8022988878724947,
+        "x" : 0.089655153642509616,
+        "y" : 0.40400000019355309
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 일반동사는 run(달리다), make(만들다), eat(먹다) 등과 같이 추상적"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021812661912706144,
+        "width" : 0.82298851817972052,
+        "x" : 0.068965510797765736,
+        "y" : 0.43022222190070503
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "인 것이 아닌 하나하나 구체적인 정보이다. 그렇기 때문에 이러한 일반동사를 추상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632935,
+        "width" : 0.82298851817972052,
+        "x" : 0.068965510761390583,
+        "y" : 0.45639534900323708
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.09018355945730247,
+      "text" : "화해서 '가볍게' 하는 것이다. 요점은 '무언가를 하다'라는 것 때문에 do나 does를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022963036431206674,
+        "width" : 0.18035446574751671,
+        "x" : 0.068541807772752011,
+        "y" : 0.48349722647594628
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "사용하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016100775824652747,
+        "width" : 0.23218391515031644,
+        "x" : 0.075862065298405001,
+        "y" : 0.80523255775270264
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.99568965517241381,
+      "text" : "⑦ valuable information"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.76321836061115511,
+        "x" : 0.10114944020491845,
+        "y" : 0.84000000023247612
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.46831460674157305,
+      "text" : "18세기 영국에서 사전이 등장하고, 학교 교육에서 규범으로 사용하려고 영문법을 통일하는 과정에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018729818556043831,
+        "width" : 0.77719051827861285,
+        "x" : 0.087268163571651944,
+        "y" : 0.85743411086187482
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.4396067415730337,
+      "text" : "이러한 용법이 하나의 규칙으로 자리 잡았다. 그전까지는 Plays he baseball?과 같은(실제 말투는 약"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021951141357421933,
+        "width" : 0.34577901118582988,
+        "x" : 0.086925989996442937,
+        "y" : 0.87354840467011063
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.51153039832285119,
+      "text" : "간 다르다) 자유로운 어순이 상당수 존재했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488328721797,
+        "width" : 0.23218389368929104,
+        "x" : 0.68045977473581432,
+        "y" : 0.92877906980261182
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.94565217391304346,
+      "text" : "1장 영어 세계의 3가지 법칙 27"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 25,
+  "pdf_page_number" : 26
+}

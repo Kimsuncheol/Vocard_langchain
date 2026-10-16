@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027714296051539966,
+        "width" : 0.82325579903342516,
+        "x" : 0.048837213905214387,
+        "y" : 0.07122093009457009
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.97057604641525075,
+      "text" : "•부탁: 힘의 용법이지만, 조동사의 과거형이 과거를 나타내지 않는 경우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025340766534407533,
+        "width" : 0.80969706448641687,
+        "x" : 0.078859190219193742,
+        "y" : 0.1061049533429923
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "can의 '허락'을 구하는 용법(~해도 되다)은 원래 '~할 수 있다(능력)'를 나타내는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.83023253354159265,
+        "x" : 0.058139547072708304,
+        "y" : 0.13662790720942297
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.11596009975062344,
+      "text" : "can의 '힘의 용법'에서 왔다. can을 could로 하면, 과거를 나타내지 않고 공손하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020562926751909405,
+        "width" : 0.26279070160605694,
+        "x" : 0.060465114193680621,
+        "y" : 0.16548358498447435
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "게 부탁하는 느낌을 준다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.5697674317793413,
+        "x" : 0.058139539819475221,
+        "y" : 0.21366279106734287
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.20705346985210465,
+      "text" : "예e Could you do me a favor? 부탁을 들어 주시겠나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016163770985370585,
+        "width" : 0.40232558683915565,
+        "x" : 0.10930232274754624,
+        "y" : 0.23982558105583696
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.71052631578947367,
+      "text" : "* Can you do me a favor?보다 더 정중한 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024391932517105031,
+        "width" : 0.81656698747114709,
+        "x" : 0.078906892229025374,
+        "y" : 0.28174418113777666
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이는 시간상 과거를 나타내는 과거형이 '현재(=현실)로부터 거리를 두는 표현'-"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.66046511043201794,
+        "x" : 0.062790701489417344,
+        "y" : 0.31100266178444458
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "거리를 두는 표현=정중한 표현'과 같이 응용되어 사용된 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.80930233001708984,
+        "x" : 0.081395346503424004,
+        "y" : 0.36773255837248864
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "참고로, 동일하게 부탁을 나타낼 수 있는 표현으로는 Wil you ~?가 있는데,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.83255811171098182,
+        "x" : 0.058139548679720203,
+        "y" : 0.39529724897742446
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이 또한 보다 정중하게 표현할 때는 Would you~?로 말한다. 이는 힘의 용법에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021841016192296614,
+        "width" : 0.83255811171098193,
+        "x" : 0.058139548668744497,
+        "y" : 0.42147293705593192
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "will의 '의지'라는 의미를 사용하여 상대방의 의사를 물어봄으로써, 부탁과 의뢰를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020497152841292166,
+        "width" : 0.25116278908469458,
+        "x" : 0.060465116978426152,
+        "y" : 0.44897959145139776
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "표현하는 형식이 되었다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.35348838025873353,
+        "x" : 0.055813949310296262,
+        "y" : 0.49854651164071928
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.42077087794432549,
+      "text" : "예문 Would you close the door?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353247,
+        "width" : 0.22325580770319159,
+        "x" : 0.41395349308638868,
+        "y" : 0.4968944100877275
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "문 좀 닫아 주시겠어요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062793,
+        "width" : 0.27674419229680841,
+        "x" : 0.1093023223466124,
+        "y" : 0.52470930247609382
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.56880733944954132,
+      "text" : "*Wil you보다 더 공손한 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894457,
+        "width" : 0.71162791685624549,
+        "x" : 0.05116278311033879,
+        "y" : 0.56965394869673003
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.96309771309771308,
+      "text" : "•'판단 용법이지만, 조동사의 과거형이 과거를 나타내는 경우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020542292015258479,
+        "width" : 0.81162790818647901,
+        "x" : 0.081395348123737901,
+        "y" : 0.60736468484364503
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "조동사의 판단 용법에서 would, could와 같은 과거형이 시간상 과거의 의미로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941337,
+        "width" : 0.46279070594094018,
+        "x" : 0.060465116262087969,
+        "y" : 0.63354037270861407
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "사용될 때도 있다. 이는 시제 일치의 경우이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020629324316449593,
+        "width" : 0.60946737636219372,
+        "x" : 0.058030824437916746,
+        "y" : 0.6817916407599981
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.19700460829493088,
+      "text" : "예B |thought he would come. 난그가 올 거라고 생각했어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014743814239908115,
+        "width" : 0.48837210915305396,
+        "x" : 0.10232557321532196,
+        "y" : 0.70930232573523133
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.48989898989898989,
+      "text" : "* 과거의 thought했던 시점에서의 나의 예상(would)을 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894457,
+        "width" : 0.51395346901633532,
+        "x" : 0.048837215574888848,
+        "y" : 0.74844720502859963
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.13884555382215288,
+      "text" : "mB He said that it could happen to anyone."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023228846721767726,
+        "width" : 0.43100742860273883,
+        "x" : 0.1066640529120861,
+        "y" : 0.77340481848530729
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "그는 그 일이 누구에게나 일어날 수 있다고 말했어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014689647738872158,
+        "width" : 0.71627907319502382,
+        "x" : 0.10930231904202299,
+        "y" : 0.7994186046269105
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.55042918454935619,
+      "text" : "* 과거의 said했던 시점에서 어떤 일이 일어날 가능성에 대해 그가 판단(could)하는 것을 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016009007498767325,
+        "width" : 0.44418603723699401,
+        "x" : 0.46976744638527423,
+        "y" : 0.92587209268438808
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.86065573770491799,
+      "text" : "8장 동사 ⑦ 조동사: 사실을 말하는가, 생각을 말하는가? 233"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 224,
+  "pdf_page_number" : 225
+}

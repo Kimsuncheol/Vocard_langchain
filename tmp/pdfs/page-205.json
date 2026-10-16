@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.48842590505426586,
+        "x" : 0.085648158468799279,
+        "y" : 0.079768270841320765
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "왜냐하면 그들은 그 세대의 일본인 외에 다른 일"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133182,
+        "width" : 0.2453703663565896,
+        "x" : 0.61574074262480427,
+        "y" : 0.098837209176308338
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.94845360824742264,
+      "text" : "만약 옛 언어가 해외에 남아있다면..."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020509472505294002,
+        "width" : 0.51388887925581506,
+        "x" : 0.064814819513447711,
+        "y" : 0.10739750457017505
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "본인에게 일본어를 배울 기회가 없었기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680818,
+        "width" : 0.5092592672868208,
+        "x" : 0.064814810685293309,
+        "y" : 0.13502673798330744
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "반면에 일본에서는 해외에 흩어져 있는 일본계 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023711014133936059,
+        "width" : 0.51180622794411401,
+        "x" : 0.062383153198209425,
+        "y" : 0.16120722931377052
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "회와 비교해서 압도적으로 인구도 많고, 그 만큼"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023509793953037095,
+        "width" : 0.49569771506569604,
+        "x" : 0.06465121528075457,
+        "y" : 0.1888185561031025
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "엄청난 속도로 새로운 말이 생겨나며 교체된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020506881775065433,
+        "width" : 0.4907407327131792,
+        "x" : 0.08333333730549955,
+        "y" : 0.21656976709439113
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 해외로 건너간 언어는 모국의 언어보다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.82870370691472828,
+        "x" : 0.064814813096581089,
+        "y" : 0.24554367242641628
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "오래된 형태를 보존하기 쉽다. 그렇기 때문에 미국 영어에는 17세기 이후의 오래된"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021869689173027007,
+        "width" : 0.44444443962790747,
+        "x" : 0.064814817104180231,
+        "y" : 0.27180232539753613
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "영어의 형태가 남아 있는 경우가 종종 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023558665936856071,
+        "width" : 0.81039480729536595,
+        "x" : 0.083235112295741598,
+        "y" : 0.29829304921359601
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "영국 영어와 미국 영어에서 몇 가지 용법이 다르긴 하지만, 원래의 형태가 어땠는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02189559732528934,
+        "width" : 0.83101853457364161,
+        "x" : 0.062499991861310521,
+        "y" : 0.32703488353907839
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "지를 알아볼 때, 전체는 아니더라도 상당수 미국 영어 쪽이 본래의 형태인 것으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.078703701496124281,
+        "x" : 0.064814815846266569,
+        "y" : 0.3546511623910702
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "보인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027616278160489616,
+        "width" : 0.50694443962790747,
+        "x" : 0.053240741288254269,
+        "y" : 0.40843023290656189
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.94694244604316546,
+      "text" : "•suggest, demand 뒤에 오는 that 절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.81018517234108678,
+        "x" : 0.083333339657202465,
+        "y" : 0.45053475931524656
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.44483362521891417,
+      "text" : "suggest(~하도록 제안하다), demand(~하라고 요구하다), recommend(~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028663652253448468,
+        "width" : 0.82913823561234912,
+        "x" : 0.06458915689314472,
+        "y" : 0.4710498504230658
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "하도록 권장하다) 등 '~하라, ~하자'라고 제안/요구/권유하는 동사 뒤에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.83333336223255505,
+        "x" : 0.06018517061950926,
+        "y" : 0.50290697640529869
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "'that +S+V ~'가 올 때, 영국 영어에서는 일반적으로 'that+S+should +동사원"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302048844695,
+        "width" : 0.83333336223255505,
+        "x" : 0.062499985399422926,
+        "y" : 0.52616279083115958
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "형~ 형태를 사용하나, 미국 영어에서는 'that+S+동사원형~' 형태를 사용한다.(참"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.66203702579845081,
+        "x" : 0.064814820334570852,
+        "y" : 0.55659536551264222
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "고로 미국 영어의 이러한 형태는 영어 문법 문제에 종종 등장한다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018939393089416834,
+        "width" : 0.65972219813953747,
+        "x" : 0.060185199859629328,
+        "y" : 0.60606060631858694
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.28926096997690531,
+      "text" : "예문 | suggested to him that he should be nicer to Tom. 북든"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020059356927446648,
+        "width" : 0.57196530428799708,
+        "x" : 0.060093354742046662,
+        "y" : 0.63295820448077478
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.35498154981549818,
+      "text" : "예문 | suggested to him that he be nicer to Tom. 트"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018931620898731238,
+        "width" : 0.45370370691472839,
+        "x" : 0.10648147975901014,
+        "y" : 0.65843023290897151
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그가 톰에게 좀 더 친절하게 대하도록 제안했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01039464418475855,
+        "width" : 0.10185185345736419,
+        "x" : 0.46064814723516273,
+        "y" : 0.70930232540126426
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "사 주는 건 어때?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219194,
+        "width" : 0.34490741382945667,
+        "x" : 0.57175925593651267,
+        "y" : 0.9300356504612084
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.94782608695652171,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지 않다 213"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    641
+  ],
+  "pdf_page_index" : 205,
+  "pdf_page_number" : 206
+}

@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021846098008675319,
+        "width" : 0.81585077805952599,
+        "x" : 0.079254098040751716,
+        "y" : 0.072630646449017178
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "so의 '그 정도'가 '어느 정도'인지에 대한 자세한 설명을, that이 가리켜 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028949272959922889,
+        "width" : 0.80228952928022901,
+        "x" : 0.060323301679348192,
+        "y" : 0.096759550673756078
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "내고 있다. that은 원래 '그것'이라는 '정보를 가리키기' 위한 말이기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026738446407132299,
+        "width" : 0.81626701354980469,
+        "x" : 0.079058305799789549,
+        "y" : 0.12636980527730968
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 대화 상대가 Im hungry.라고 했을 때, \"나도 마찬가지야.\"라고 말하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022143489813994721,
+        "width" : 0.61538462205366651,
+        "x" : 0.060606057229426552,
+        "y" : 0.15677590803320418
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "는 So am 1. 표현을 보자. 이를 다음과 같이 생각할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020856173087053342,
+        "width" : 0.18553887714039194,
+        "x" : 0.078678008337140865,
+        "y" : 0.2156958209588854
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "lam so hungry•"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860229384099,
+        "width" : 0.58041958375410596,
+        "x" : 0.083916082132270919,
+        "y" : 0.24127906988174841
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.60304054054054057,
+      "text" : "~ '그 정도, 즉 '너와 같은 정도라는 것을 강조하고자 해서, S0가 문두에 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021075610252900723,
+        "width" : 0.066526803103360274,
+        "x" : 0.080979022700774325,
+        "y" : 0.26334300848937575
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "SO ...•"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018193431614351274,
+        "width" : 0.78101236169988453,
+        "x" : 0.088527279250443403,
+        "y" : 0.29063882499384841
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.65116279069767447,
+      "text" : "✓ (배가 고픈) 상태이다'라는 것을 강조하고자, '상태이다'를 뜻하는 be동사가 다음으로 강조되어 의문문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013443534198960272,
+        "width" : 0.11432436379519377,
+        "x" : 0.1164974916428785,
+        "y" : 0.3094119536057347
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.24285714285714285,
+      "text" : "의 어순이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018748328155706706,
+        "width" : 0.18509860472245654,
+        "x" : 0.083526381471000069,
+        "y" : 0.33084394252777649
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.032679738562091505,
+      "text" : "So am l hungry."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017938254046376723,
+        "width" : 0.42447909441861242,
+        "x" : 0.088460242419703641,
+        "y" : 0.35735593778535002
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.55214723926380371,
+      "text" : "☆ hungry는 상대방이 이미 한 말이기 때문에 생략된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023017847823083137,
+        "width" : 0.62742861834439356,
+        "x" : 0.083726130498201184,
+        "y" : 0.40235555219589147
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.34726688102893893,
+      "text" : "부정어 neither는 neither=not+either이다. either는 어느"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025984426216280943,
+        "width" : 0.65288019180297852,
+        "x" : 0.062838700041178405,
+        "y" : 0.42718783855568909
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "한쪽'이라는 뜻이고, not either, 즉 neither는 '어느 한쪽을 봐"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026277369794009298,
+        "width" : 0.3519813364202326,
+        "x" : 0.062937068872245802,
+        "y" : 0.45482728097395897
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "도 not, '둘 다 not'이라는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014875047073837355,
+        "width" : 0.1039720990441062,
+        "x" : 0.76166237152972116,
+        "y" : 0.41325714347735831
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "either Aor B"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020459382063102827,
+        "width" : 0.25218025120821869,
+        "x" : 0.064987011172345135,
+        "y" : 0.50336189549987809
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.26275115919629055,
+      "text" : "예운 A:I don't like him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018180918968072279,
+        "width" : 0.17268239368091931,
+        "x" : 0.10946299881922245,
+        "y" : 0.53306070286865215
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "B: Neither do l."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016045018779798581,
+        "width" : 0.20279719612815161,
+        "x" : 0.37995338316709137,
+        "y" : 0.50575730710615741
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "난 그를 좋아하지 않아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019110346811867185,
+        "width" : 0.093240087682550599,
+        "x" : 0.37995338260561112,
+        "y" : 0.53321523485115352
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "나도 그래."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013286093888396855,
+        "width" : 0.16317016428167164,
+        "x" : 0.7249417242711601,
+        "y" : 0.51594331253844783
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 1,
+      "text" : "어느 한쪽만을 보는 것으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013286093888396855,
+        "width" : 0.16083915667100379,
+        "x" : 0.72727272924202169,
+        "y" : 0.53188662542046394
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 1,
+      "text" : "로, 양쪽을 한꺼번에 볼"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013286093888396855,
+        "width" : 0.065268066796389523,
+        "x" : 0.72727272638304963,
+        "y" : 0.54782993786502798
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 1,
+      "text" : "수는 없다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024800708591674048,
+        "width" : 0.81118878451260656,
+        "x" : 0.086247099459332274,
+        "y" : 0.582816651919287
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 '상대방 A와, 화자인 B 자신 중, 어느 쪽을 봐도 not이다'라는 의미로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828073648565982,
+        "width" : 0.22144521366466174,
+        "x" : 0.06293706820651912,
+        "y" : 0.61191860503916284
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "neither를 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020465991896163827,
+        "width" : 0.8135198246348988,
+        "x" : 0.083916078316916262,
+        "y" : 0.63808139548075737
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "①의 부정 도치문과 마찬가지로 '(나도) not이다'라는 것을 강조하고자 하므로,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022143489813994721,
+        "width" : 0.25174825841730292,
+        "x" : 0.062937059559802347,
+        "y" : 0.66696191347401657
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "neither가 문두에 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019769170201912267,
+        "width" : 0.11867499351501465,
+        "x" : 0.087562687847163811,
+        "y" : 0.72497929596352317
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "Neither ...•"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018593221348508271,
+        "width" : 0.57129404761574487,
+        "x" : 0.086149323240450534,
+        "y" : 0.74848364608564921
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.5491400491400491,
+      "text" : "~ neither가 부정하는 동사인 like도 함께 강조되어, 의문문의 어순이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015993522056126808,
+        "width" : 0.2354312376542525,
+        "x" : 0.088578087357429947,
+        "y" : 0.77325066429200517
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.14957264957264957,
+      "text" : "Neither do |#ike him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01602956993163851,
+        "width" : 0.3869463747197931,
+        "x" : 0.086247092244556942,
+        "y" : 0.79796511595979469
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.56491228070175437,
+      "text" : "~ ike와 him은 이미 언급되어 있으므로 생략된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013286093888396744,
+        "width" : 0.41258742592551489,
+        "x" : 0.51282050604123053,
+        "y" : 0.92426926474379834
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.88888888888888884,
+      "text" : "12장 어순: 어순 자체가 나타내는 '심리'를 이해하라 389"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 376,
+  "pdf_page_number" : 377
+}

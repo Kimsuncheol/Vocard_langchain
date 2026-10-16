@@ -1,0 +1,565 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024877953677181597,
+        "width" : 0.80930236383532805,
+        "x" : 0.062790678566466501,
+        "y" : 0.073959255872750318
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "시험 삼아 실제로 누군가에게 설명해 보자. '고양이' 하면 떠오르는 말들을 열심"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028064547015883567,
+        "width" : 0.83093019309618799,
+        "x" : 0.041518347523071465,
+        "y" : 0.099636599981839158
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "히 말해 봐도, 듣는 사람이 이해하지 못하여 제대로 순서를 정해서 설명해 달라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021851246498452492,
+        "width" : 0.28139533726036126,
+        "x" : 0.044186054179896857,
+        "y" : 0.13226744224846532
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "요청하는 경우도 적지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027902837977987982,
+        "width" : 0.80991929507424643,
+        "x" : 0.06247936461612226,
+        "y" : 0.1537593947207565
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.1310344827586207,
+      "text" : "이러한 문제를 해결해 줄 방법이 '형식(일종의 순서 정하기)'이다. '형식'이 몸에 배"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026663371374165745,
+        "width" : 0.72371471215647176,
+        "x" : 0.041587629594568548,
+        "y" : 0.18341734188065795
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "어 있으면, 언제 어디서나 순간적으로 설명을 능숙하게 할 수 있게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022143489813994721,
+        "width" : 0.49302324876717629,
+        "x" : 0.062790701256682596,
+        "y" : 0.21346324187168719
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서는 이를 위한 3가지 형식을 소개하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021875708371374314,
+        "width" : 0.52325582301363038,
+        "x" : 0.044186041980527918,
+        "y" : 0.26882196631260413
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.98680904522613067,
+      "text" : "① 넓은 범위에서 좁은 범위로(general to specific)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021909180734936862,
+        "width" : 0.40465118191766403,
+        "x" : 0.060465106655293747,
+        "y" : 0.29495128464626952
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "'넓은 범위'는 '상위 카테고리'를 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813639178724,
+        "width" : 0.35348837561641178,
+        "x" : 0.067441858666424159,
+        "y" : 0.32267441874859248
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "고양이의 경우, 상위 카테고리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014747307087279005,
+        "width" : 0.037209301130146033,
+        "x" : 0.46744186093761037,
+        "y" : 0.33866279073999284
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "동물"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026806942861200556,
+        "width" : 0.37724289048648052,
+        "x" : 0.046245189785067232,
+        "y" : 0.34811861959633927
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "는 '동물'이다. 이는 일반적이고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025294779464140604,
+        "width" : 0.40513223418107269,
+        "x" : 0.043943551414642075,
+        "y" : 0.37600837851497682
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "(general) 추상적인 정보이다. '좁은 범"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014599174181901819,
+        "width" : 0.10511140214635972,
+        "x" : 0.49511871741465763,
+        "y" : 0.37569459894204416
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "애완동물이지만"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395172037991,
+        "width" : 0.065116276301390719,
+        "x" : 0.51860465254697907,
+        "y" : 0.39098837213110982
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "개는 아님"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021846098008675319,
+        "width" : 0.43023257424645389,
+        "x" : 0.046511619871301098,
+        "y" : 0.40552325552610768
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "위'는 개별적이고 구체적인(specific) 특징"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02037201062887517,
+        "width" : 0.18372092821919328,
+        "x" : 0.046511629979550655,
+        "y" : 0.43312666067073979
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "에 대한 정보이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024879240166095551,
+        "width" : 0.46744185643838643,
+        "x" : 0.069767445152899774,
+        "y" : 0.45784883755153993
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "고양이의 경우, '몸이 유연함', '점프력이 좋음',"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013579855142598296,
+        "width" : 0.079277877266525354,
+        "x" : 0.57198896822689749,
+        "y" : 0.42852983985205895
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "몸이 유연함"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488352448673,
+        "width" : 0.083720928219193191,
+        "x" : 0.58837209394049295,
+        "y" : 0.45639534890747935
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "야옹 소리를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395172038102,
+        "width" : 0.018604650565072989,
+        "x" : 0.61627906992676584,
+        "y" : 0.47093023251572519
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "냄"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02055353565064022,
+        "width" : 0.35348837561641172,
+        "x" : 0.044186044629699529,
+        "y" : 0.48671390606539311
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "'야옹 소리를 냄' 등의 특징이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013286093888396855,
+        "width" : 0.046511629794506293,
+        "x" : 0.64418604550972369,
+        "y" : 0.49557130201216171
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "상자에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013297680735693596,
+        "width" : 0.046511629794506404,
+        "x" : 0.64418604544546409,
+        "y" : 0.51017441865862601
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "들어감"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813639178724,
+        "width" : 0.52325582301363027,
+        "x" : 0.069767437383365674,
+        "y" : 0.51308139549307219
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 정보를 단계별로 정하여, 넓은 범위에서 좁"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022301640945583179,
+        "width" : 0.43980128511469418,
+        "x" : 0.048674861132306367,
+        "y" : 0.54049442282389393
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "은 범위로 순서에 맞게 이야기하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026151020195338548,
+        "width" : 0.80970588846409575,
+        "x" : 0.069582258679904918,
+        "y" : 0.56531847268542901
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "깔때기와 마찬가지로 넓은 쪽 입구를 통해 들어가기 쉽고, 거기에서 점점 좁아지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031957813867749763,
+        "width" : 0.83348310754654253,
+        "x" : 0.050773828867227006,
+        "y" : 0.58951435855192458
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "면 순서에 맞춰 듣는 이를 원하는 정보로 이끌기 쉽다. 이것이 '이해와 전달이 쉬운'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021582420997856122,
+        "width" : 0.15389636966353612,
+        "x" : 0.050958791790591838,
+        "y" : 0.62438320766514288
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "설명 방법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024401895338925228,
+        "width" : 0.82838541666666665,
+        "x" : 0.048597903700860957,
+        "y" : 0.66802901460657471
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.080000000000000002,
+      "text" : "예 A: It's an animal. Many people have the animal as a pet, but it's not a"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022793444624192083,
+        "width" : 0.59574697508034125,
+        "x" : 0.12535641845208764,
+        "y" : 0.69549492465014395
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "dog. It has a flexible body and it likes to get in boxes."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022695068345859659,
+        "width" : 0.75390902039007091,
+        "x" : 0.12539866420373361,
+        "y" : 0.72018367138409578
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "그것은 동물이야. 많은 사람들이 그것을 애완동물로 키우는데, 개는 아니야. 몸이 유연하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018165944000595458,
+        "width" : 0.25865065121481606,
+        "x" : 0.1253332176397241,
+        "y" : 0.74920638112930804
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "고 상자에 들어가는 걸 좋아해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022693517463623247,
+        "width" : 0.27050980371786348,
+        "x" : 0.09967461312247429,
+        "y" : 0.77263331439093996
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "B: Oh, a cat? 어, 고양이?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019058850088195523,
+        "width" : 0.20930232054798315,
+        "x" : 0.10000000330740377,
+        "y" : 0.80070859197245814
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "A: Correct! 맞았어!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022707326735301403,
+        "width" : 0.48648963008366569,
+        "x" : 0.053271656415991665,
+        "y" : 0.85166098955134273
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0.98106060606060608,
+      "text" : "② 구체적인 예시 나열하기(a list of examples)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026240746672962278,
+        "width" : 0.80522201213430855,
+        "x" : 0.076483377901211735,
+        "y" : 0.87637484649352604
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "단순하면서 효과적인 또 다른 방법으로는, 단순히 구체적인 예시를 나열하는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017067519830749389,
+        "width" : 0.48883073955562945,
+        "x" : 0.42070884287626514,
+        "y" : 0.92503071272780923
+      },
+      "confidence" : 1,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0.93981481481481477,
+      "text" : "13장 설득을 위한 영어: '형식'을 만들어 영어로 사고하는 훈련 413"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    645
+  ],
+  "pdf_page_index" : 399,
+  "pdf_page_number" : 400
+}

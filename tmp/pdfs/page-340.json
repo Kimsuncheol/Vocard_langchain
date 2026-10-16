@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03063416840655675,
+        "width" : 0.12820512820512819,
+        "x" : 0.13986013987603307,
+        "y" : 0.094476744785768729
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9975308641975309,
+      "text" : "Must 80"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.038901906999318947,
+        "width" : 0.54693286167590371,
+        "x" : 0.13439295510112695,
+        "y" : 0.12909487214258786
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99876336012719724,
+      "text" : "'~에 대한'을 나타내는 전치사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022513654449923259,
+        "width" : 0.62739067403679227,
+        "x" : 0.13967686558117434,
+        "y" : 0.2147355208519961
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99796618787339519,
+      "text" : "• 약간의 차이일지라도, 의미가 달라지므로 구분해서 사용해야 한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024923392281451906,
+        "width" : 0.65967366362568991,
+        "x" : 0.13286713058247576,
+        "y" : 0.30959302333133099
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "on의 용법 중에 '~에 대한' '~에 관한'이라는 의미의 용법이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011639514219052183,
+        "width" : 0.030303031291037869,
+        "x" : 0.11421911360856032,
+        "y" : 0.3619186044703937
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.98051948051948057,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0172974248850567,
+        "width" : 0.26618094593711045,
+        "x" : 0.1559846394854022,
+        "y" : 0.36024205606400073
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "a lecture on economics"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018948653152587536,
+        "width" : 0.17304785095388731,
+        "x" : 0.44256585630037326,
+        "y" : 0.35887126361607757
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "경제학에 관한 강의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021702771495693884,
+        "width" : 0.25500351343399441,
+        "x" : 0.14883268021642868,
+        "y" : 0.38568386016985934
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "a TV show on biology"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241273,
+        "width" : 0.27039626249220977,
+        "x" : 0.40326340710665348,
+        "y" : 0.38952972455262524
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "생물학에 대한 TV 프로그램"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020551319342328012,
+        "width" : 0.38461538461538458,
+        "x" : 0.13286713274607118,
+        "y" : 0.44040697661954664
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이는 about와 어떤 차이점이 있을까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020454592903631497,
+        "width" : 0.33333333333333331,
+        "x" : 0.19813519825174825,
+        "y" : 0.49418604619006423
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.9632183908045977,
+      "text" : "about의 어원은 '주변(around)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028481365836819594,
+        "width" : 0.60908482217381144,
+        "x" : 0.12786818139617981,
+        "y" : 0.52820328031064734
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.089032258064516132,
+      "text" : "abour의 어원은 '주변'이다. about에는 '약, 대략'이라는 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024076225700479958,
+        "width" : 0.62730790271378645,
+        "x" : 0.10943679318246792,
+        "y" : 0.55592815715121124
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "미가 있는데, 예를 들어, '약 100'이라는 것은 '100 주변의 수'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021932585004588168,
+        "width" : 0.62703963494368764,
+        "x" : 0.10955710490966349,
+        "y" : 0.58562555425780782
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.11061946902654868,
+      "text" : "는 의미이다. 또한 around와 같은 의미로 쓰일 수 있는데, 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025896118082826658,
+        "width" : 0.67425263233673882,
+        "x" : 0.10930635806965421,
+        "y" : 0.61085663750925989
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "역시 about가 주변이라는 의미를 어원으로 가지고 있기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014099576352651688,
+        "width" : 0.055843152211941915,
+        "x" : 0.87534182742883293,
+        "y" : 0.53146765384541328
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.98148148148148151,
+      "text" : "about"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02144298705783898,
+        "width" : 0.79515688643496274,
+        "x" : 0.10943168381688033,
+        "y" : 0.66043110074929023
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.079805352798053522,
+      "text" : "여e She walked about the Campus. = She walked around the Campus."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019879479057088645,
+        "width" : 0.30145328880375266,
+        "x" : 0.15585142270425534,
+        "y" : 0.68521759995938558
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 캠퍼스 주변을 걸어 다녔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020524236514913197,
+        "width" : 0.50815849630241727,
+        "x" : 0.10489510894041776,
+        "y" : 0.73546511608272969
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.96996336996336996,
+      "text" : "• '위에서 내려다보는 점'처럼 파악하는 on"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028055438132230992,
+        "width" : 0.54631851065872072,
+        "x" : 0.12785058809224498,
+        "y" : 0.76862126125639429
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "about와 on의 '~에 대한'이라는 의미를 비교해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029354687803280211,
+        "width" : 0.81405265786369296,
+        "x" : 0.12798874875151331,
+        "y" : 0.7955421597157063
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "on은 흔히 전문적이고 한정적인 정보를 다룬다, '~에 관한' 예를 들어. '경제에 대"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028591702655023865,
+        "width" : 0.83267811832264971,
+        "x" : 0.10928628464435713,
+        "y" : 0.82538752690498429
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "한'이라고 할 때 on economics로 나타내면, '다른 것들이 아닌, (한정하여) 경제"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020559057897450939,
+        "width" : 0.41491842677450586,
+        "x" : 0.10722610118015639,
+        "y" : 0.85610465103880007
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "라는 점에 대해서는'과 같은 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011713027107895457,
+        "width" : 0.039627039874041523,
+        "x" : 0.07692307667574147,
+        "y" : 0.9272404613557752
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.97777777777777775,
+      "text" : "352"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    644
+  ],
+  "pdf_page_index" : 340,
+  "pdf_page_number" : 341
+}

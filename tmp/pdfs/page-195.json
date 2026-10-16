@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022097813924153664,
+        "width" : 0.80996409329501073,
+        "x" : 0.074147435155899555,
+        "y" : 0.073450472016006629
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.044593088071348944,
+      "text" : "가정법이든 아니든 간에 if로 된 문장을 만들 때는 귀결절(if를 쓰지 않는 쪽의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021811370001898811,
+        "width" : 0.45040273666381836,
+        "x" : 0.055397736607564217,
+        "y" : 0.10174418592914558
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "'S+V~절)에 조동사를 쓰는 것이 기본이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028051662868923577,
+        "width" : 0.81011173941872328,
+        "x" : 0.07639879417291251,
+        "y" : 0.1262987151412307
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "조동사는 '마음속으로 생각하는 것으로, 실제로 일어나는 일이 아니라는 것'을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023945853339301104,
+        "width" : 0.59644621068781067,
+        "x" : 0.053267434370022529,
+        "y" : 0.15544475436452254
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "나타내는 기능을 한다. 예시를 보면 다음과 같은 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020558138529459646,
+        "width" : 0.58236659656871448,
+        "x" : 0.074245933313670645,
+        "y" : 0.21200000040510314
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "• will: '~할 생각이다'라고 마음속으로 생각하다 (의지)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836263020864,
+        "width" : 0.43155453421852807,
+        "x" : 0.15313224530372904,
+        "y" : 0.23982558169891588
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "'(아마) ~일 것이다'라고 생각하다 (예상)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021891472710503512,
+        "width" : 0.42227376591075549,
+        "x" : 0.07424594742684229,
+        "y" : 0.26744186034742046
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "•can: '할 수 있다'라고 생각하다(능력)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023284237331814284,
+        "width" : 0.39443154768510302,
+        "x" : 0.15313225334228997,
+        "y" : 0.29360465114641998
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "'~있을 수 있다'라고 생각하다 (가능)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028198410034179666,
+        "width" : 0.44148423454978247,
+        "x" : 0.073897002009494131,
+        "y" : 0.31975028360837188
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "• may: ~해도 좋다'라고 생각하다 (허락)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021990955776638454,
+        "width" : 0.40835267847234558,
+        "x" : 0.16009280204282964,
+        "y" : 0.35155555593621313
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "'~일지도 모른다'라고 생각하다(추측)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020519380357530315,
+        "width" : 0.5614849003878507,
+        "x" : 0.07424594876608559,
+        "y" : 0.3808139531078174
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "• must: '~하지 않으면 안 된다'라고 생각하다(의무)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021912144978841086,
+        "width" : 0.40371227264404302,
+        "x" : 0.16473319017449822,
+        "y" : 0.40697674386945226
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "•~임에 틀림없다'라고 생각하다(확신)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023567088656955226,
+        "width" : 0.81458299810236157,
+        "x" : 0.074154367793821799,
+        "y" : 0.48356181356480077
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "if절은 조건절로 불리기도 하며, If it were raining now.(만약 지금 비가 온다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021874677022298172,
+        "width" : 0.60324824940074573,
+        "x" : 0.055684459952566018,
+        "y" : 0.51155555562684218
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "면,)와 같이 어떤 조건을 마음속으로 설정하는 작업을 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.50580046393654565,
+        "x" : 0.076566125308803148,
+        "y" : 0.53633720946539787
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 그 다음에는 '~할 것이다'라고 '마음속으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021996124267578132,
+        "width" : 0.52900231968272815,
+        "x" : 0.055684454906388604,
+        "y" : 0.56666666652318931
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "로 생각하는 부분'이 이어지는 것이 자연스럽다. 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.5266821167685769,
+        "x" : 0.055684463542506002,
+        "y" : 0.59447674437895193
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "때문에 귀결절에는 조동사를 사용하는 것이 일반적"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836263020864,
+        "width" : 0.055684452707117256,
+        "x" : 0.055684455652112934,
+        "y" : 0.62209302367243013
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.66357309168035328,
+        "x" : 0.055684451711218136,
+        "y" : 0.6700581397276314
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.11614055985705778,
+      "text" : "예e Ifit were raining now, | would try the new video game."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019116278754340299,
+        "width" : 0.4849188111045144,
+        "x" : 0.10208815813393776,
+        "y" : 0.69600000011356145
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "만약 지금 비가 온다면, 새로운 비디오 게임을 해 볼 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020534884134928322,
+        "width" : 0.81206495111638843,
+        "x" : 0.076566132215098198,
+        "y" : 0.743999999957631
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이상으로 가정법을 전체적으로 훑어보았다. if와 함께 사용하는 경우가 많은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026193225436740519,
+        "width" : 0.83095827969637781,
+        "x" : 0.055535852195306615,
+        "y" : 0.76675973240203144
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "것은 사실이지만, 가정법의 핵심이 '동사 활용의 일종이라는 것'에 주목할 필요가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020536175198025197,
+        "width" : 0.058004639365456315,
+        "x" : 0.055684455244766035,
+        "y" : 0.797777777690026
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.34338747371326794,
+        "x" : 0.56844547525804956,
+        "y" : 0.92711111095596388
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.83299389002036661,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지 않다 203"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 195,
+  "pdf_page_number" : 196
+}

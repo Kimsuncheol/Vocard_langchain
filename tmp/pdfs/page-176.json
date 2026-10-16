@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024044087637602574,
+        "width" : 0.80774497174202131,
+        "x" : 0.081083707669343863,
+        "y" : 0.072640319810232112
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "한편, It is too large to get this fridge in the kitchen. 문장에서 it는 '상황'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022450770333263814,
+        "width" : 0.18812506925975178,
+        "x" : 0.060229808725932761,
+        "y" : 0.099966474848018683
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "을 뜻하는 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023425773275353334,
+        "width" : 0.80761164671985819,
+        "x" : 0.081110249467953782,
+        "y" : 0.12515985156313625
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "가주어나 가목적어를 '형태만 있을 뿐 의미는 없다'라고 생각하는 것은 옳지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024879027386100927,
+        "width" : 0.83082587059507973,
+        "x" : 0.060221632140042267,
+        "y" : 0.15344278611683537
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "않다. 그러면 가주어 ic를 해석했을 때, it is too large는 '상황이 너무 크다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020498442459444988,
+        "width" : 0.20881670146969189,
+        "x" : 0.060324827796448585,
+        "y" : 0.18313953475338729
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이상한 의미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024679183113754832,
+        "width" : 0.81001236286569156,
+        "x" : 0.081075279134695186,
+        "y" : 0.20755084569813476
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이 '상황'을 자세하게 보충 설명하는 것은 to get this fridge in the kitchen"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02185520283818343,
+        "width" : 0.82830628740026591,
+        "x" : 0.06032481429611191,
+        "y" : 0.23546511650804858
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "인데, '냉장고가 크다'라는 것이 아니라 '냉장고를 부엌에 넣는 것이 크다'는 뜻이 되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021918398358701241,
+        "width" : 0.78886311848958346,
+        "x" : 0.060324821151801537,
+        "y" : 0.26441881070408835
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "고 '(넣는) 행위'의 크기를 잴 수 있는 것처럼 표현되기 때문에 의미상 어색하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.3992759758699026,
+        "x" : 0.13900708341911064,
+        "y" : 0.31976744222704645
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.97222222222222221,
+      "text" : "- 사람이 주어가 되지 않는 표현도 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890025066927388,
+        "width" : 0.30626450126052751,
+        "x" : 0.081206496624183291,
+        "y" : 0.35610465136866032
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "반대가 되는 패턴을 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025139082609919594,
+        "width" : 0.81229178787123224,
+        "x" : 0.078756432030055862,
+        "y" : 0.38307297775566329
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 it is 문장이 자연스럽고, 사람이 주어가 되면 의미가 어색해지는 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020417191438582005,
+        "width" : 0.058004641701989143,
+        "x" : 0.060324825177393585,
+        "y" : 0.41126885513127176
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.51276102268949464,
+        "x" : 0.10672853725142317,
+        "y" : 0.4622093026899432
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.0015267175572519084,
+      "text" : "It is impossible for him to cancel the meeting."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027139348907606053,
+        "width" : 0.4927434393700133,
+        "x" : 0.059867287387652367,
+        "y" : 0.48522935647891519
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.10305958132045089,
+      "text" : "X Heis impossible to cancel the meeting."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353247,
+        "width" : 0.36194895209995565,
+        "x" : 0.10672854007297644,
+        "y" : 0.51286601559184797
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그가 그 회의를 취소하는 것은 불가능하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029467690170816185,
+        "width" : 0.81251021581338667,
+        "x" : 0.07635232761206491,
+        "y" : 0.55584460481167863
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "it is impossible은 '상황이 불가능하다'라고 말하는 것으로, 자연스러운 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027322574537627542,
+        "width" : 0.60836090737200799,
+        "x" : 0.057820811808515338,
+        "y" : 0.58321138697395847
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 불가능한 것은 '그가 그 회의를 취소할 상황'인 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843595428602258,
+        "width" : 0.80974476049977828,
+        "x" : 0.078886320281819911,
+        "y" : 0.61623779967930326
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그런데 he is impossible은 부자연스럽다. he가 주어이고 impossible은 he"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024990986381469904,
+        "width" : 0.83091400362921097,
+        "x" : 0.057863057942001514,
+        "y" : 0.64133915806126796
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "의 내용을 나타내는 보어이다. he에 대한 내용으로 he is happyy he is kind"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026032896304194031,
+        "width" : 0.83092603751108152,
+        "x" : 0.057857046376895101,
+        "y" : 0.66844101685845447
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "등 '그의 성격, 성질'을 나타내는 것은 자연스럽지만, impossible은 그의 성격이나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023258392855247334,
+        "width" : 0.79118332017398041,
+        "x" : 0.058004626088570557,
+        "y" : 0.69476486217453126
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "성질과는 관계가 없는 말이다. \"그는 불가능한 사람이다.\"라고는 말할 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023101053517163073,
+        "width" : 0.81452515514184398,
+        "x" : 0.07418382366382463,
+        "y" : 0.74879396609980253
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "impossible처럼 '상황의 성질'은 나타낼 수 있어도 '사람의 성질• 성격'은 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023525838843466595,
+        "width" : 0.5040036898132757,
+        "x" : 0.057799665175007904,
+        "y" : 0.77603525091681658
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "낼 수 없는 형용사에는 다음과 같은 것들이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021754147208889907,
+        "width" : 0.59655822321032792,
+        "x" : 0.099637271620673207,
+        "y" : 0.82799337431220432
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "It is natural for him to be angry. 그가 화내는 것은 당연해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021771601902877968,
+        "width" : 0.28634823197168668,
+        "x" : 0.10399833139138094,
+        "y" : 0.85379817430360394
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "He is natural to be angry."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017632744221319219,
+        "width" : 0.57564944003490692,
+        "x" : 0.10662719683452784,
+        "y" : 0.87921110886757392
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.3460837887067395,
+      "text" : "* '그가 자연스러운 것이 아니라 '그가 화내는 상황'이 자연스럽다는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421398,
+        "width" : 0.42459396470523053,
+        "x" : 0.48723898040840569,
+        "y" : 0.92587209282288951
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.92090395480225984,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 183"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 176,
+  "pdf_page_number" : 177
+}

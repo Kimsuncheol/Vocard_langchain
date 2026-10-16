@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "source": {
+    "file_name": "840194660-영문법악마의100.pdf",
+    "absolute_path": "/Users/gimseoncheol/Downloads/840194660-영문법악마의100.pdf",
+    "sha256": "514a96147830253fdf551d42c67f6adb865d3a0475ef85b863b49a77dd167f91",
+    "pdf_page_count": 425,
+    "scope": "entire supplied PDF",
+    "page_index_base": 0,
+    "page_number_base": 1,
+    "requested_page_index": null,
+    "requested_page_index_note": "No individual page index was supplied; the user requested the entire PDF."
+  },
+  "extraction": {
+    "method": "Apple Vision accurate OCR, ko-KR and en-US; automatic language correction disabled",
+    "text_policy": "OCR hypotheses are preserved without spelling, grammar, punctuation, or example completion. Newlines separate detected text observations. OCR itself can omit or misrecognize source text.",
+    "verification_status": "automated_ocr_with_sample_visual_checks_only",
+    "visually_sampled_pdf_page_indices": [
+      14,
+      29,
+      117,
+      200,
+      424
+    ],
+    "uncertain": true,
+    "limitations": [
+      "This is an OCR draft, not a fully verified transcription.",
+      "All 425 PDF pages are included; no page index was inferred from printed book numbering.",
+      "Low-confidence or small-print spans are retained verbatim and flagged, rather than guessed or silently completed.",
+      "High OCR confidence does not guarantee correct punctuation, symbols, or complete detection; omissions cannot always be localized.",
+      "Semantic categories and example pair associations are heuristic and marked uncertain.",
+      "Diagrams and illustrations are represented only by detected text and its coordinates; visual content is not reconstructed.",
+      "Instructions printed inside the textbook are transcribed as source content and were not executed."
+    ],
+    "bbox_coordinates": "Normalized [0,1] coordinates, origin at top left.",
+    "uncertain_span_offsets": "Zero-based Python Unicode code point offsets in the corresponding line text; end is exclusive.",
+    "marker_policy": "Preserve raw recognized markers and flag their interpretation. No marker is inferred from grammatical correctness.",
+    "line_identity": "Line ids refer to original OCR observation order; reading_order_line_ids contains a separate approximate geometric reading order."
+  },
+  "statistics": {
+    "pages": 425,
+    "lines": 10740,
+    "uncertain_lines": 4043,
+    "headings": 439,
+    "explanations": 2890,
+    "examples": 1184,
+    "candidate_example_pairs": 297,
+    "recognized_correct_incorrect_markers": 63
+  }
+}

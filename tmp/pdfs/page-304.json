@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022092837863498249,
+        "width" : 0.13469046896154233,
+        "x" : 0.12290998581131127,
+        "y" : 0.068168697324338612
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "비교해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027162949456108976,
+        "width" : 0.72667587887157092,
+        "x" : 0.1413344032390669,
+        "y" : 0.093392253753759924
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "I have a party.는 '나'에게 있는 상황으로, 내일 있는 파티를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030286593967013942,
+        "width" : 0.81028062647039245,
+        "x" : 0.14355025032867139,
+        "y" : 0.12137428697017361
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "해석하면, '\"난 내일 파티가 있어.\"로 '나'의 예정이지. 다른 사람의 예정이 아니라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022218758477104972,
+        "width" : 0.15560054779052734,
+        "x" : 0.12289578166937658,
+        "y" : 0.15095457423102177
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021482477823893231,
+        "width" : 0.53390294855291198,
+        "x" : 0.14371296616482934,
+        "y" : 0.20319928412685018
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 There is a party tomorrow. 문장의 경"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888889461,
+        "width" : 0.11832947080785572,
+        "x" : 0.73781902332198745,
+        "y" : 0.21066666653928001
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "There is a party romg"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02200000000000002,
+        "width" : 0.25058005072853778,
+        "x" : 0.12064964968406831,
+        "y" : 0.22800000008721555
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "우, 어떤 차이가 있을까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021867600335015225,
+        "width" : 0.53852532126686792,
+        "x" : 0.14141319852316656,
+        "y" : 0.25472200399534428
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "내일 파티가 열리는 것이 객관적인 사실이자 현실이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021903100755479521,
+        "width" : 0.55916474082253198,
+        "x" : 0.1206496479835875,
+        "y" : 0.28343023245296184
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "라는 느낌을 준다. 비록 여기에 있는 누구에게도 관계없"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025249891493055454,
+        "width" : 0.55958678505637427,
+        "x" : 0.12041966378062954,
+        "y" : 0.30949769777057434
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "는 일일지라도, 단지 파티가 존재하는 것은 사실인 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02190180884467241,
+        "width" : 0.055684452707117249,
+        "x" : 0.11832946725819699,
+        "y" : 0.33720930215433598
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021919896443684861,
+        "width" : 0.81206495111638843,
+        "x" : 0.13921114378214855,
+        "y" : 0.39377777806943826
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장은 have나 there is로 모두 표현할 수 있는데, '특정한 누군가에게 있는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023293281555175849,
+        "width" : 0.83526680686257104,
+        "x" : 0.11832947044342455,
+        "y" : 0.41715116273556729
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "상황을 이야기하는 것'과 '단지 객관적으로 존재하는 것'을 나타내는 차이가 있음"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022426376342773446,
+        "width" : 0.15103981711647729,
+        "x" : 0.11821559016179323,
+        "y" : 0.44736239320434046
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02310959879557295,
+        "width" : 0.81234290383078833,
+        "x" : 0.13904621799883116,
+        "y" : 0.5042015343527827
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 Kate has a younger brother and a younger sister.라는 문장을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022067908393012203,
+        "width" : 0.10569495504552669,
+        "x" : 0.1178278979829956,
+        "y" : 0.5292526661405651
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021860465155707498,
+        "width" : 0.8143851540305399,
+        "x" : 0.13689094949556582,
+        "y" : 0.55813953478051104
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이는 Kate에게 있는 상황을 말하는 것이지, 다른 사람의 상황이 아니다. 그리고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024433827718098988,
+        "width" : 0.83310985565185547,
+        "x" : 0.11824996142267175,
+        "y" : 0.58413988184524734
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장은 there is/are 구문으로 나타낼 수 없다. 형제, 자매, 부모 등은 '누군가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02488888888888896,
+        "width" : 0.83294660394841968,
+        "x" : 0.11832947777056974,
+        "y" : 0.60888888895722304
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "의 형제, 자매, 부모'를 나타내는 말이고, '객관적으로 누구에게나 있는 형제, 자매,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537357,
+        "width" : 0.33410672707991163,
+        "x" : 0.11832946696794465,
+        "y" : 0.63953488361440214
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "부모라는 존재는 없기 때문이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021842377556694936,
+        "width" : 0.5846867561340332,
+        "x" : 0.13689096056217212,
+        "y" : 0.66711111090950137
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 위 문장을 there are를 사용하여 나타낼 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020962694803873694,
+        "width" : 0.58959718184037657,
+        "x" : 0.16229259332889925,
+        "y" : 0.71600250234633256
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "There is a boy in the room. 그방에는 한 남자아이가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017507752312554192,
+        "width" : 0.69605567238547583,
+        "x" : 0.15777262770286332,
+        "y" : 0.74266666636733503
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "There is a brother in the room. 그방에는 한 남동생(형/오빠)이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.29698376222090284,
+        "x" : 0.16705336240195259,
+        "y" : 0.76888888864610705
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.61799999999999999,
+      "text" : "*누구의 남동생(형/오빠)을 말하는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020524547153049078,
+        "width" : 0.81206495111638843,
+        "x" : 0.13689095630568823,
+        "y" : 0.81377777778563187
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 '누군가에게 있는 상황이나 일에 대한 이야기'는 have가 담당하고, 만약"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.83062648773193359,
+        "x" : 0.11600926170114514,
+        "y" : 0.84156976704047615
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "같은 내용을 there is/are로 나타내면, '객관적으로 존재하는 이야기'로 파악하면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836263020753,
+        "width" : 0.060324826023795394,
+        "x" : 0.11600928072360116,
+        "y" : 0.8691860468394198
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.039443154226649901,
+        "x" : 0.085846868478322375,
+        "y" : 0.92296511608911336
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 1,
+      "text" : "314"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 304,
+  "pdf_page_number" : 305
+}

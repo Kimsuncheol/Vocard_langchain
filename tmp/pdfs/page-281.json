@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021839726574143792,
+        "width" : 0.83449882659477381,
+        "x" : 0.04662005057340133,
+        "y" : 0.074090505741651325
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "고 하게 되면, 어떤 개인지는 잘 모르겠지만, 우선 개 한 마리를 좋아한다는 느낌을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025958253307054813,
+        "width" : 0.83471462325832446,
+        "x" : 0.046513763958923288,
+        "y" : 0.097734071073088624
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "준다. \"저는 어떤 개 한 마리를 좋아해.\"라고 말하는 느낌이다. 듣는 사람은 \"그게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.37296036505631236,
+        "x" : 0.046620050157676542,
+        "y" : 0.12777284845541115
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "무슨 개인가요?\"라고 되물을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028170227687128291,
+        "width" : 0.81645389567752846,
+        "x" : 0.064988861195289432,
+        "y" : 0.15354290019784278
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.0070323488045007029,
+      "text" : "I love some dogs.라고 하면, 어떤 개인지는 모르겠지만 전체가 아니라 일부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024134754394152136,
+        "width" : 0.83467680232816943,
+        "x" : 0.046531733338820609,
+        "y" : 0.18281494409884269
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "개들을 좋아하는 것이지, 개라고 불리는 모든 종류를 좋아하는 것은 아니라는 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049070390432195,
+        "width" : 0.11188811386412703,
+        "x" : 0.046620045503833911,
+        "y" : 0.21206743572320097
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025573121200331284,
+        "width" : 0.81611333341680015,
+        "x" : 0.065154041278426472,
+        "y" : 0.23809084105049949
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.007320644216691069,
+      "text" : "I love the dog(s),라고 하면, 방금 말한 그 개(들)를 말하는 것이지, 다른 개를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02194419241416945,
+        "width" : 0.38228439809250359,
+        "x" : 0.048951040944150009,
+        "y" : 0.26598837232115824
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "좋아하는 것은 아니라는 의미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029799061109243352,
+        "width" : 0.67185852398559909,
+        "x" : 0.064939454958165874,
+        "y" : 0.28928212033708989
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "a, some, the는 모두 범위를 일정 부분에 한정하는 작용을 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.81118878747662926,
+        "x" : 0.069930081767187569,
+        "y" : 0.31976744159787496
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "'개'라는 생물 전체를 표현하고 싶다면, 아무것도 붙이지 않아야 하고, 세상의 모"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024679637526450304,
+        "width" : 0.83237024725672171,
+        "x" : 0.048857032100731952,
+        "y" : 0.34727043328297236
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "든 개를 말하는 것이기 때문에 복수형으로 해서 I love dogs.(저는 개를 아주 좋"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.83682981311765492,
+        "x" : 0.04428905609037681,
+        "y" : 0.37488908580836844
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "아해요.)라고 해야 자연스럽다. 아무것도 붙이지 않는 복수형(불가산 명사라면 단"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028595830448560178,
+        "width" : 0.83492546407585477,
+        "x" : 0.046412825061087709,
+        "y" : 0.39824473596819876
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "수형)이 가장 단순하고 전형적인 총칭 용법이다. 이는 '개라는 것은 무엇인가?라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02575121543633796,
+        "width" : 0.83939346356948896,
+        "x" : 0.041826012979833876,
+        "y" : 0.42729353894079569
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "'종류• 범주에 대한 지식을 나타내는 것' 즉 '개념의 명사'를 나타낼 때 사용하는 형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.076923076923076941,
+        "x" : 0.048951048815850814,
+        "y" : 0.45784883740184812
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "태이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029518824715263126,
+        "width" : 0.81171080325743405,
+        "x" : 0.06965323188083071,
+        "y" : 0.50599212697452689
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, \"저는 독서를 좋아해요.\"라고 말하고 싶을 때는, 아래와 같이 나타낼"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052681575121873,
+        "width" : 0.090909088439071944,
+        "x" : 0.046620047727579411,
+        "y" : 0.54069767426873427
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.030303031291037882,
+        "x" : 0.04895104834049506,
+        "y" : 0.59139307899658144
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.23543122555115964,
+        "x" : 0.088578093407477673,
+        "y" : 0.58866279105962038
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "I like reading books."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021955798977544627,
+        "width" : 0.81585084746705838,
+        "x" : 0.069930054019725213,
+        "y" : 0.63953488395345914
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이는 모든 '책'을 읽기 좋아한다는 것을 뜻한다. 다음 예문의 경우, 의미가 달라진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.59440560626168526,
+        "x" : 0.04662004057295796,
+        "y" : 0.69767441897350402
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.12884753042233357,
+      "text" : "예문 I like reading some books when I'm on the train."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.54778552802539626,
+        "x" : 0.093240103699277432,
+        "y" : 0.72227151737371631
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장은 기차에서 책 몇 권을 놓고 독서를 즐기는 느낌이 준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.50116549326144044,
+        "x" : 0.067599071547703241,
+        "y" : 0.77018633539314307
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서는 책의 존재감이 사실적으로 다가온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021910659803578314,
+        "width" : 0.81118878747662915,
+        "x" : 0.069930081683485801,
+        "y" : 0.79796511650873159
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "학습자들은 글쓰기를 할 때, 명사의 총칭 용법을 잘 구사하지 못하고, some을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.83449882659477392,
+        "x" : 0.046620050455857071,
+        "y" : 0.82558139558189969
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "사용하여 사실적인 존재감을 주는 문장을 만드는 것에도 서툴다. 이러한 명사의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021850044365572363,
+        "width" : 0.83216784007189271,
+        "x" : 0.048951044882137369,
+        "y" : 0.85314995539518013
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "용법은 영어다운 영어를 사용하기 위한 중요한 지식이므로, 잘 구사할 수 있도록"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020506180168361698,
+        "width" : 0.21212120816918179,
+        "x" : 0.04662004847534916,
+        "y" : 0.88065661063527556
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "노력할 필요가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015766670139045313,
+        "width" : 0.38251154103510054,
+        "x" : 0.52202552816510761,
+        "y" : 0.92619954569860952
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.95881006864988561,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 291"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    644
+  ],
+  "pdf_page_index" : 281,
+  "pdf_page_number" : 282
+}

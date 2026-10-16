@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024527052211170131,
+        "width" : 0.56927481564608484,
+        "x" : 0.046393177758449582,
+        "y" : 0.078371698686459657
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "정확히 알지 못한다. 이 문장에서 in은 어떤 이미지일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02398108591328052,
+        "width" : 0.51570333134044288,
+        "x" : 0.36566041597462734,
+        "y" : 0.10335074494625429
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "in은 테두리 안을 나타내기 때문에 보통 둥근 테두"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013643965032694161,
+        "width" : 0.17096113074909558,
+        "x" : 0.062548866006090276,
+        "y" : 0.12496077668846362
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.079295154185022032,
+      "text" : "People are waiting in line."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021851247343159574,
+        "width" : 0.53613051501187403,
+        "x" : 0.34498835556306934,
+        "y" : 0.13226744157516013
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "리의 공간을 떠올리게 되는데, 가늘고 긴 공간을 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022385792356344081,
+        "width" : 0.156383980404247,
+        "x" : 0.3472159350836011,
+        "y" : 0.16104547589622542
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "타내기도 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021123857388356981,
+        "width" : 0.51075592907992262,
+        "x" : 0.3681790159502929,
+        "y" : 0.18879700129088417
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "왼쪽 그림은 People are waiting in line.(사람"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020490452079671595,
+        "width" : 0.30536131425337365,
+        "x" : 0.34731934285717547,
+        "y" : 0.21511627919162501
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "들이 줄 서 있다.)을 나타낸다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030717479749735266,
+        "width" : 0.81662464141845703,
+        "x" : 0.064895706485491533,
+        "y" : 0.23739970135317712
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "line(줄) 앞에 in을 사용하는 것은, 줄을 '선'이 아닌 '테두리'로 보아 그 테두리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021875707526667343,
+        "width" : 0.58275058052756568,
+        "x" : 0.04662005299962025,
+        "y" : 0.26882196610422793
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "에서 벗어나지 않도록 하는 느낌을 나타내기 위해서이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023791420449188472,
+        "width" : 0.81600059162486682,
+        "x" : 0.069836636498307361,
+        "y" : 0.32221782718306835
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.25754060324825984,
+      "text" : "이와 같은 의미의 in이 사용된 표현은 in the course of ~(~의 과정에서)이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022045468312644423,
+        "width" : 0.54803605513139197,
+        "x" : 0.048795872836342701,
+        "y" : 0.35102280986067558
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "테두리에서 벗어나지 않고 코스를 따라가는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023878614494925232,
+        "width" : 0.81374792619185021,
+        "x" : 0.0698204912609314,
+        "y" : 0.37757249411694827
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.20476190476190476,
+      "text" : "비슷한 이미지를 가진 표현으로는 in that way(그런 식으로)가 있다. way는 원"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02881089811097004,
+        "width" : 0.83253773775967688,
+        "x" : 0.051083802886561488,
+        "y" : 0.40221505226472731
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.058548009367681501,
+      "text" : "래 '길'을 뜻하지만, street와 road가 '도로라는 시설'을 나타내는 것과 달리 way"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024352050862341934,
+        "width" : 0.83237717368386011,
+        "x" : 0.051174646319674076,
+        "y" : 0.43063442184665379
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "는 '목적지에 도달하기 위한 경로'라는 뜻을 가지고 있다. 다시 말해, 경로에서 벗"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025521483645173038,
+        "width" : 0.83492348410866479,
+        "x" : 0.048753991746506097,
+        "y" : 0.45783683259290664
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "어나게 되면 목적지에 도달할 수 없기 때문에 '벗어나서는 안 되는 테두리'라는 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020372010628875059,
+        "width" : 0.2074592113494873,
+        "x" : 0.051282049645426368,
+        "y" : 0.48981399462571296
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "미로 in이 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802326131437177,
+        "width" : 0.81351982463489891,
+        "x" : 0.069930064452937798,
+        "y" : 0.51453488343745879
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.24197002141327623,
+      "text" : "in the direction(그 방향으로)이라는 표현에도 같은 이미지가 있다. 이와 비슷"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022120799291862392,
+        "width" : 0.6551914648576217,
+        "x" : 0.051173951994727768,
+        "y" : 0.54195004186331941
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "한 것으로는 앞에서 언급한 in the east나 in the west가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017082856332865104,
+        "width" : 0.83465047316117724,
+        "x" : 0.051214933961626935,
+        "y" : 0.85978326921886217
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "*한국어에서 '~로'는 수단 •도구를 나타내는 이미지의 조사이며, 그 의미는 '~을 도구로 사용하여. '~을 이용하여'이다.(예:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019673327200174118,
+        "width" : 0.82549884102561266,
+        "x" : 0.060437735668312828,
+        "y" : 0.87559625244364281
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.0071942446043165471,
+      "text" : "고기를 칼로 썰다(도구)) 한편, in English의 in은 영어의 세계('세계'라는 테두리)를 선택하다'라는 느낌으로. '그 테두리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014623715457291242,
+        "width" : 0.22144521366466177,
+        "x" : 0.060606064456077663,
+        "y" : 0.89680232566640361
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "안에 존재하다라는 이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015695264426029532,
+        "width" : 0.43387204950506042,
+        "x" : 0.47771093795565034,
+        "y" : 0.92813686898584624
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.89276139410187672,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 347"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 335,
+  "pdf_page_number" : 336
+}

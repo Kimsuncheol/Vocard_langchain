@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.78837212649258703,
+        "x" : 0.15348835523435123,
+        "y" : 0.077034884091845446
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.24689357104267964,
+      "text" : "The doctor strongly recommended that my daughter should eat"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015011082524838737,
+        "width" : 0.11178449067202481,
+        "x" : 0.15573566206091513,
+        "y" : 0.10441306324518496
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "more. 공는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.027906975962898942,
+        "x" : 0.11162790730094256,
+        "y" : 0.13220940536853398
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.98726114649681529,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.7581395235928623,
+        "x" : 0.14651163340057066,
+        "y" : 0.13081395385837313
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.23247604639435199,
+      "text" : "The doctor strongly recommended that my daughter eat more. 트"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020932775529592274,
+        "width" : 0.47495789961381396,
+        "x" : 0.15557575091486389,
+        "y" : 0.15357161912641426
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그 의사는 우리 딸에게 더 많이 먹으라고 강력히 권했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024684152882397559,
+        "width" : 0.80959389426491479,
+        "x" : 0.13008448694247293,
+        "y" : 0.20229933352220364
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "학교나 학원에서는 일반적으로 'S+should +동사원형~'이 원래 형태이나, 미국"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02043137808446871,
+        "width" : 0.83023253354159254,
+        "x" : 0.10930233776342851,
+        "y" : 0.23247559877491031
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "영어에서 should가 생략된 것이라고 설명하기도 한다. 그 이유는 '미국 영어보다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020418481056734716,
+        "width" : 0.83023253354159265,
+        "x" : 0.10930233771445605,
+        "y" : 0.2586512864990651
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "영국 영어가 더 오래되었기 때문에 영국 영어의 형태가 본래의 영어이고 그것이 변"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.73488374189897032,
+        "x" : 0.1093023149788659,
+        "y" : 0.28615794161102959
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "화해서 미국 영어의 형태가 되었을 것이라는 잘못된 생각 때문인 것 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029691186750897769,
+        "width" : 0.80980812419544568,
+        "x" : 0.12998935319614366,
+        "y" : 0.30791886028439985
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "실제로는 반대로 미국 영어의 that+S+동사원형~' 형태가 원래의 형태로, 나중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.83720926804976026,
+        "x" : 0.10697676120668977,
+        "y" : 0.34156976767492286
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "에 영국 영어에서 새롭게 should를 사용하게 되었다고 생각하는 것이 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017143769082286875,
+        "width" : 0.23757496747103607,
+        "x" : 0.11838928970208797,
+        "y" : 0.42340351572402812
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.98259404828747898,
+      "text" : "⑦ valuable information"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372762116398,
+        "width" : 0.36744187094948505,
+        "x" : 0.16511627370745369,
+        "y" : 0.45784883686946154
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.025766871165644172,
+      "text" : "위와 같이 생각할 수 있는 이유는 3가지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02124881659764144,
+        "width" : 0.68646678057583899,
+        "x" : 0.14401206125922358,
+        "y" : 0.4730144001060328
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.048896839594514012,
+      "text" : "① should가 생략될 만한 이유가 없다(이 밖에 유사한 조동사 생략 현상을 찾을 수 없다)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014687067656360409,
+        "width" : 0.77209299260919739,
+        "x" : 0.14418605643958735,
+        "y" : 0.49418604652371279
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.065762004175365346,
+      "text" : "② 미국 영어에서 사용되는 'that + S +동사원형~'에서 동사원형은 가정법 현재의 동사 활용에 의한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019498029639473446,
+        "width" : 0.74897948178378015,
+        "x" : 0.16736186846063283,
+        "y" : 0.51297934408346502
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.016097560975609757,
+      "text" : "것이다. 가정법 자체는 영어에서 점점 쇠퇴해 가는 오래된 문법인데, 그것이 보존되고 있는 이유는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01614442586687248,
+        "width" : 0.21162791685624557,
+        "x" : 0.16744185540232612,
+        "y" : 0.53327417910954122
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.050209205020920501,
+      "text" : "오래된 미국 영어 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020550977475048748,
+        "width" : 0.77464381131258886,
+        "x" : 0.14176351800555723,
+        "y" : 0.54924174216482557
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.08537886872998933,
+      "text" : "③ 가정법은 '현실의 일이 아닌, 어디까지나 가상의 일을 상상해서 말하는 것'을 나타내는 문법이지만,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022579992780033864,
+        "width" : 0.74686111103404651,
+        "x" : 0.16725321578984939,
+        "y" : 0.56599138337265564
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.043559718969555038,
+      "text" : "영어에서는 이것이 사라지고 대신에 조동사를 사용해 '사실이 아닌, 머릿속으로만 생각할 뿐인 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016039960026846822,
+        "width" : 0.74883721091530542,
+        "x" : 0.16744185952573593,
+        "y" : 0.58866279036027269
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.070010449320794144,
+      "text" : "을 표현하게 된 역사적 경향이 있다. 그렇다면 should라는 조동사를 사용하는 영국 영어의 용법이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016181827331922083,
+        "width" : 0.55348838459361682,
+        "x" : 0.16279069130993792,
+        "y" : 0.6073646846269305
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.07407407407407407,
+      "text" : "가정법을 사용하는 미국 영어의 용법보다 더 새로운 것일 가능성이 높다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026300787396841385,
+        "width" : 0.3627906929362904,
+        "x" : 0.10465116787294004,
+        "y" : 0.66992014216507156
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.98801498127340825,
+      "text" : "• 가정법 현재란 무엇인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022921384491535468,
+        "width" : 0.81179428100585938,
+        "x" : 0.12782173771841415,
+        "y" : 0.71858048635301186
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.092307692307692313,
+      "text" : "지금까지 설명한 것처럼, 가정법 과거란 '지금 사실은 그렇지 않지만, 만약 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026394629965023175,
+        "width" : 0.83287481828169396,
+        "x" : 0.10681519629211535,
+        "y" : 0.74509724633676699
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "렇다면'이라는 전제에서 '지금 가정하는 이야기'를 할 때, 동사를 과거형으로 한 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888734602568571,
+        "width" : 0.055813951925797897,
+        "x" : 0.1069767449673336,
+        "y" : 0.77462289291252684
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026295253208705294,
+        "width" : 0.81187152862548828,
+        "x" : 0.12777910670843715,
+        "y" : 0.7992038822020705
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.10921052631578948,
+      "text" : "가정법 과거완료란 '그때 사실 그렇지 않았는데, 만약 그때 그랬더라면'이라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021877128039193283,
+        "width" : 0.72790700739080272,
+        "x" : 0.10697672875042769,
+        "y" : 0.82994186069754627
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "'과거의 그때를 가정하는 이야기'를 할 때, 동사를 과거완료로 한 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020436536557079887,
+        "width" : 0.80930233001708973,
+        "x" : 0.12790697441005969,
+        "y" : 0.85755813941385073
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.061243144424131625,
+      "text" : "여기에서 가정법 현재가 무엇인지 설명하자면, 이는 '지금은 실제로 그렇지 않지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024003699911095522,
+        "width" : 0.50486300208351831,
+        "x" : 0.10684567695731645,
+        "y" : 0.88308083184063457
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "만, 앞으로 만일 그렇게 된다면'을 나타낸 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.039534883065657181,
+        "x" : 0.076744186257869093,
+        "y" : 0.92724046127963067
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.98684210526315785,
+      "text" : "214"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 206,
+  "pdf_page_number" : 207
+}

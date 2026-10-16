@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024208350634299935,
+        "width" : 0.83473096885572473,
+        "x" : 0.11176307319198703,
+        "y" : 0.072075984296052775
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "여 도서관에서 ~했다.라는 장소의 이동과 마찬가지로 '7시에서 ~하고, 다음에는 8"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020495862376933238,
+        "width" : 0.83916079964053591,
+        "x" : 0.10955712907174736,
+        "y" : 0.10159716099093563
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "시 10분에 ~하고, 그 후에 9시에 ~했다.(I did ~ at seven, and then did ~ at"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021926136067618063,
+        "width" : 0.83682981311765481,
+        "x" : 0.10955712132148235,
+        "y" : 0.12936046534868351
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "eight ten, and after that, did ~ at nine )와 같이 시간과 시간 사이를 이동하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939033095352167,
+        "width" : 0.28904428509225877,
+        "x" : 0.10955711144247467,
+        "y" : 0.15552325603799166
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.080357142857142863,
+      "text" : "는 이미지로 at가 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.21445221642822965,
+        "x" : 0.20046619933898024,
+        "y" : 0.21206743538128947
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.97523219814241491,
+      "text" : "'눈금'을 나타내는 at"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.81585084746705849,
+        "x" : 0.1305361137438083,
+        "y" : 0.24709302337084038
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "시간을 나타내는 at의 이미지는 '시시각각으로 바뀌는 시간에서, 어느 시점에 무"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888735448774566,
+        "width" : 0.83449882659477381,
+        "x" : 0.10955711318397486,
+        "y" : 0.27462289221289093
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "엇을 하는지'를 말하며, 시간이라는 눈금 위를 이동하고 있는 점의 이미지이기도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027178689877121798,
+        "width" : 0.83236746502737713,
+        "x" : 0.11179016342652953,
+        "y" : 0.29854846172586003
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "하다. 따라서 a[는 '눈금 위를 이동하는 점'이라는 이미지로도 자주 사용되어, 속도,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021877128039193394,
+        "width" : 0.40093242069255258,
+        "x" : 0.10955709955833853,
+        "y" : 0.32994186069457898
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "각도, 온도 등을 나타낼 때에도 쓰인다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017476682654501752,
+        "width" : 0.72261073446681356,
+        "x" : 0.10955710351207734,
+        "y" : 0.3793256429039481
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.10385259631490787,
+      "text" : "예몬 The Car was running at the speed of 50 kilometers per hour."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016072203019285136,
+        "width" : 0.36130536723340678,
+        "x" : 0.15850815549723149,
+        "y" : 0.40406976709756481
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그 차는 시속 50킬로미터로 달리고 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353247,
+        "width" : 0.60372959582554309,
+        "x" : 0.10955711338268302,
+        "y" : 0.42857142856706809
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.12445003142677562,
+      "text" : "에e The temperature was kept at around 30 degrees."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0203461515871739,
+        "width" : 0.26191211493945871,
+        "x" : 0.15819508375595365,
+        "y" : 0.45075172897427929
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "온도는 약 30도로 유지되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02029367834461826,
+        "width" : 0.73910974573206012,
+        "x" : 0.10947228702779671,
+        "y" : 0.47647998158628357
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.1013655462184874,
+      "text" : "예E I don't want to keep on working at the expense of my health."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01617021992234069,
+        "width" : 0.44755245545650824,
+        "x" : 0.15617715209720495,
+        "y" : 0.50290697639989046
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "난 내 건강을 희생하면서까지 계속 일하고 싶지 않아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016290657903202499,
+        "width" : 0.78801299092436794,
+        "x" : 0.15844967042111216,
+        "y" : 0.52454491737026743
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.65723793677204656,
+      "text" : "*at the expense[cost] of one's health는 '~의 건강을 희생하면서'라는 뜻이다. 눈금 위에 'expense,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062904,
+        "width" : 0.64102564102564119,
+        "x" : 0.17715617704645617,
+        "y" : 0.54505813968947858
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.55435952637244346,
+      "text" : "cost의 (희생을 나타내는) 수준이 그려져 있어, 그 수준이 health에 이르는 이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679329947443698,
+        "width" : 0.31468531073328432,
+        "x" : 0.38694638883283117,
+        "y" : 0.57848837224372784
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.80043859649122806,
+      "text" : "at가 나타내는 점: 이동하는 '희생의 수준"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062904,
+        "width" : 0.57808857018451743,
+        "x" : 0.24475524807154722,
+        "y" : 0.65116279078904049
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.59071729957805907,
+      "text" : "노는 시간 취미 시간 휴가 가족과 보내는 시간 건강 죽음?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.30303031291037885,
+        "x" : 0.10955710436278049,
+        "y" : 0.72227151689181124
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.98142414860681115,
+      "text" : "• '방향'을 나타내는 ot"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.81118878747662937,
+        "x" : 0.13053614243138234,
+        "y" : 0.75726744208789476
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이동하고 있는 점을 가리키는 at의 이미지는, '이동하는 대상을 조준하는' 이미지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0208765078987182,
+        "width" : 0.15402418391996642,
+        "x" : 0.10946809446815459,
+        "y" : 0.78607337392953358
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "로도 이어진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.53146853542056183,
+        "x" : 0.1095571074749299,
+        "y" : 0.83575581396885024
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.24585987261146497,
+      "text" : "예문 He shot at the bird. 그는 새를 향해 총을 쏘았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.62937062146656875,
+        "x" : 0.10955711340118766,
+        "y" : 0.86335403704673752
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.20512820512820512,
+      "text" : "예문 They threw stones at him. 그들은 그를 향해 돌을 던졌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022351739675256166,
+        "width" : 0.62966658111311424,
+        "x" : 0.10708635408139221,
+        "y" : 0.88710937291432712
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.26666666666666666,
+      "text" : "예e He looked at me. 그는 나를 보았다.(나를 향해 눈을 돌렸다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014678040329290876,
+        "width" : 0.04195804269904764,
+        "x" : 0.076923076371273907,
+        "y" : 0.92587209309994001
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.99029126213592233,
+      "text" : "342"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    644
+  ],
+  "pdf_page_index" : 330,
+  "pdf_page_number" : 331
+}

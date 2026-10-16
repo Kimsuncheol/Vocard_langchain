@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032085561497326109,
+        "width" : 0.1270207831200133,
+        "x" : 0.14087759922961174,
+        "y" : 0.090017824524199153
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99891067538126366,
+      "text" : "Mus 39"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032103698308880046,
+        "width" : 0.49653580036569145,
+        "x" : 0.14087759624966645,
+        "y" : 0.1292335109054954
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99988189441360575,
+      "text" : "to 부정사의 의미상 주어와"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.045131788746770818,
+        "width" : 0.40360064134530144,
+        "x" : 0.13049278154337224,
+        "y" : 0.15662528491733552
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99929421254285133,
+      "text" : "'of + 사람 +to 부정사'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019810850820014325,
+        "width" : 0.63529983412289459,
+        "x" : 0.14078207650332891,
+        "y" : 0.21208917820982243
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99760022586109542,
+      "text" : "• 왜 'of+ 사람' 앞에는 사람의 성격, 성질을 나타내는 형용사가 올까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021893006595060882,
+        "width" : 0.81062358017508873,
+        "x" : 0.13394917978534332,
+        "y" : 0.30659536567153878
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에는 '부정사의 의미상 주어'로 불리는 'for+명사+tO 부정사'가 왜 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024821284833013935,
+        "width" : 0.83161776928191489,
+        "x" : 0.11535751163562395,
+        "y" : 0.33339079057677212
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "러한 형태를 가지는지, 그리고 이와 비슷하게 생긴 'it is+ 성격/성질+of+사람+t0"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023516098233255289,
+        "width" : 0.64920065588984943,
+        "x" : 0.11305898281946873,
+        "y" : 0.36170674192592056
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "부정사'에서 왜 for가 아닌 of를 사용하는지에 대해 살펴보겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338681041,
+        "width" : 0.81062358017508862,
+        "x" : 0.13394917977355383,
+        "y" : 0.39081996393154039
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "영어에서 to 부정사는 상당히 편리한 표현으로 필연적으로 위의 2가지 표현을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021841189440559017,
+        "width" : 0.82909931155806738,
+        "x" : 0.1154734384152956,
+        "y" : 0.41711229909630232
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "자주 사용하게 된다. 두 구문이 지닌 의미를 깊이 알게 되면, 그만큼 직관적으로 구"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021836007130124679,
+        "width" : 0.44341802935228292,
+        "x" : 0.11547343324279882,
+        "y" : 0.44474153267433381
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "문을 파악할 수 있게 되고 활용이 쉬워진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.41339492256759747,
+        "x" : 0.20092378570450961,
+        "y" : 0.50133689821191507
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.9837883959044369,
+      "text" : "(사람)에게 있어서라는 의미의 for와 to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021027247111002567,
+        "width" : 0.39079914498836427,
+        "x" : 0.13371788819117042,
+        "y" : 0.55166262610241712
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "My family is very important to me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016045371478891624,
+        "width" : 0.2956120051390736,
+        "x" : 0.18475750770478305,
+        "y" : 0.57843137266112177
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "우리 가족은 나에게 매우 중요해요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02337024981112823,
+        "width" : 0.4253388533355496,
+        "x" : 0.13373959603445901,
+        "y" : 0.59888866681926545
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "Mr. Goldberg is very important for us."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042780748663166,
+        "width" : 0.33487297761524826,
+        "x" : 0.18244803763413242,
+        "y" : 0.62789661300707744
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "골드버그 씨는 우리에게 매우 중요해요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026085591783710615,
+        "width" : 0.80637059854277482,
+        "x" : 0.13379924843570687,
+        "y" : 0.67019518578873682
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "위의 예문에서 볼 수 있듯이 '~에게'를 의미할 때 to와 for 둘 다 사용할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020512063235522682,
+        "width" : 0.42494225468195923,
+        "x" : 0.13394919586989926,
+        "y" : 0.70187165802442786
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 두 의미에는 미묘한 차이가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025888301896964006,
+        "width" : 0.81773473861369683,
+        "x" : 0.12926189308456004,
+        "y" : 0.72414599851445771
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.030874785591766724,
+      "text" : "TO가 전치사로 사용될 때는 대부분 '도달을 나타내는'의 의미를 지닌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939643139082698,
+        "width" : 0.83140877798093982,
+        "x" : 0.11085450238277582,
+        "y" : 0.7571301244764872
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "important to me의 경우, important라는 평가가 직접 me에게 도달하고 있음"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023281722995261656,
+        "width" : 0.82909931155806738,
+        "x" : 0.11316397091457681,
+        "y" : 0.78197674397248107
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "을 나타낸다. 원어민들이 이 표현을 말했을 때, '계산할 필요 없이 무조건적으로 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026764674195206339,
+        "width" : 0.62151065041832887,
+        "x" : 0.1130677094267741,
+        "y" : 0.80613281441160112
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "요하다'라는 의미로 '대가나 보상이 없는 사랑'의 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023320586498620899,
+        "width" : 0.81062358017508862,
+        "x" : 0.13394917513570437,
+        "y" : 0.86482558118178354
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.041726618705035974,
+      "text" : "한편, for는 '멀리 보이는 목표'가 근본적인 의미이기 때문에 important for us"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333522,
+        "width" : 0.0369515006423842,
+        "x" : 0.083140878027537668,
+        "y" : 0.92732558138008314
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.98750000000000004,
+      "text" : "178"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    641
+  ],
+  "pdf_page_index" : 171,
+  "pdf_page_number" : 172
+}

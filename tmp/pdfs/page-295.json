@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025285698784722199,
+        "width" : 0.81249011646617542,
+        "x" : 0.07403845213645481,
+        "y" : 0.072734630682513624
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, I don t like dogs.(난 개를 좋아하지 않아.)라는 문장에서 not이 부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026361736721462581,
+        "width" : 0.83559192310680053,
+        "x" : 0.055484321657647856,
+        "y" : 0.099934742089041961
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "정하고 있는 것은 like dogs(개를 좋아하다) 부분이지, 1를 부정하는 것은 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031010214911566858,
+        "width" : 0.68031991611827503,
+        "x" : 0.053035965176422242,
+        "y" : 0.12331144436228236
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "즉, '개를 좋아하는 사람이 자신이 아니라고'부정하는 말은 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024503726535373249,
+        "width" : 0.67779796773737122,
+        "x" : 0.074056402741265223,
+        "y" : 0.15541663603014721
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "not의 위치가 부사의 앞인지, 뒤인지에 따라 의미가 매우 달라진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016113695780436199,
+        "width" : 0.2575405944477428,
+        "x" : 0.076566129803068511,
+        "y" : 0.21644444408709695
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "really [notl: 정말 아니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022267061021592927,
+        "width" : 0.30494228276339447,
+        "x" : 0.076108596099308645,
+        "y" : 0.24422671317735523
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.0045351473922902496,
+      "text" : "not Ireallyj: 그 정도는 아니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020290746053059916,
+        "width" : 0.26971400867808948,
+        "x" : 0.42201435049378444,
+        "y" : 0.21207767966714064
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "- not이라는 것은 진실이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021106352064344525,
+        "width" : 0.41336588426069781,
+        "x" : 0.42208095244212968,
+        "y" : 0.24116576639317289
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "- 정말로 그런지 묻는다면 그 정도는 아니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022678181966145905,
+        "width" : 0.81224432858553797,
+        "x" : 0.078791183857328959,
+        "y" : 0.29286352227654389
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "그렇기 때문에 '명확히 이것은 부분 부정이다'라고 나타내려면 not always, not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030854661729600608,
+        "width" : 0.83844843777743261,
+        "x" : 0.052970034651605324,
+        "y" : 0.31475647080992686
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.046374367622259695,
+      "text" : "necessarily 등 nol을 '100%를 의미하는 말'의 앞에 놓고 '100%를 의미하는 말'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021829457600911373,
+        "width" : 0.26218097860162909,
+        "x" : 0.058004638843036964,
+        "y" : 0.34883720913108018
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "을 부정하는 것이 알맞다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017081597222222245,
+        "width" : 0.23243386095220395,
+        "x" : 0.071685654816031091,
+        "y" : 0.39727181112510446
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.99224806201550386,
+      "text" : "⑦ valuable information"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017452196756998717,
+        "width" : 0.40603247555819427,
+        "x" : 0.092807428230183633,
+        "y" : 0.43022222191065296
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.91216834400731928,
+      "text" : "사실 이 어순이 엄격하게 지켜지지 않는 경우도 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019228843688964936,
+        "width" : 0.50377668033946643,
+        "x" : 0.094954886002784136,
+        "y" : 0.44722482658813223
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.93323216995447644,
+      "text" : "All that glitters is not gold. 빛난다고 해서 모두 금은 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018785642835829064,
+        "width" : 0.31821246580644091,
+        "x" : 0.097274135842147919,
+        "y" : 0.46734363373020438
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 1,
+      "text" : "-• 속담으로, not이 all보다 뒤에 와 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026411307440863618,
+        "width" : 0.77334282614968042,
+        "x" : 0.094851186149116321,
+        "y" : 0.48102131363849221
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.92180388911874223,
+      "text" : "그러나 우리는 '알기 쉽고, 전달하기 쉬운' 명확한 표현을 유념해서 사용해야 하기 때문에, 'not + 100%'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016024548000759475,
+        "width" : 0.33642690831964667,
+        "x" : 0.081206499318785888,
+        "y" : 0.50577777792974021
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.91422805247225025,
+      "text" : "의 어순에 유의하는 것이 알맞다고 생각한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01909878200954862,
+        "width" : 0.11609365723349832,
+        "x" : 0.14612950557724994,
+        "y" : 0.56966572521540038
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.9640718562874252,
+      "text" : "both 부정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026086217244466137,
+        "width" : 0.8124594254927201,
+        "x" : 0.078703057877289831,
+        "y" : 0.60295929786371982
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "부분 부정을 학습할 때, 많은 학습자들이 쉽게 이해하기 어려운 부분이 both 부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02961287773980037,
+        "width" : 0.83121455799449562,
+        "x" : 0.060040504004813838,
+        "y" : 0.62817215149491146
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "정이다. not both로 나타내며, 기본적으로는 '양쪽 모두가 ~인 것은 아니다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026088811238606735,
+        "width" : 0.51777458190917958,
+        "x" : 0.060098599578371138,
+        "y" : 0.65766801092462945
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "의미이지만, 이러한 의미를 잘 이해하기 어려워한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.33410672707991163,
+        "x" : 0.10440835330576158,
+        "y" : 0.70930232577059804
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "A: Did you buy both of them?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0219883719550239,
+        "width" : 0.43155453421852807,
+        "x" : 0.10672853448393006,
+        "y" : 0.73401162773573136
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.0040899795501022499,
+      "text" : "B: No, not both. 아니, 둘다 사지는 않았어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018454128689236127,
+        "width" : 0.17030668258666987,
+        "x" : 0.45667087514336496,
+        "y" : 0.70668768003381621
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "그것들 둘 다 샀어?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021921120537651939,
+        "width" : 0.54092090780084778,
+        "x" : 0.083369536972870056,
+        "y" : 0.78645630518732002
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "학습자들 중에는 '둘 다 모두 사지 않았다'라고 이해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024113552517361025,
+        "width" : 0.56181673570112756,
+        "x" : 0.062481802247399791,
+        "y" : 0.81380480052329518
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "하는 사람도 있다. 사실상 영어 원어민 중에서도 그렇게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024113382127549987,
+        "width" : 0.56187625364823768,
+        "x" : 0.062467618788516012,
+        "y" : 0.84061098463129358
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "의미를 파악하는 사람도 있어, 까다로운 부분이라고 할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024319388495551264,
+        "width" : 0.56416329470547766,
+        "x" : 0.060174384095463988,
+        "y" : 0.86849264375583657
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "수 있다. 그러나 기본적으로 not both는 부분 부정이라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.008720930311414965,
+        "width" : 0.037122970277612799,
+        "x" : 0.67981438483136258,
+        "y" : 0.78924418597593704
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.96226415094339623,
+      "text" : "both"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0097988052368164213,
+        "width" : 0.060944752259687984,
+        "x" : 0.80250029442843351,
+        "y" : 0.78903146738881735
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.97297297297297303,
+      "text" : "not both"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.38051046024669299,
+        "x" : 0.53828305296830081,
+        "y" : 0.92711111099359877
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.82266910420475325,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 305"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 295,
+  "pdf_page_number" : 296
+}

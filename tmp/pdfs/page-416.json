@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023292021395048712,
+        "width" : 0.79350350119850854,
+        "x" : 0.13457075495614018,
+        "y" : 0.074127907364111456
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "해석하면 장황해 보일 수 있으나, 이것을 쓰도록 지도하는 데에는 이유가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025712871890899547,
+        "width" : 0.81009743430397729,
+        "x" : 0.13438576477235709,
+        "y" : 0.09988928193879143
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "글을 쓰다 보면, 내용이 주제에서 벗어나거나 결론이 흐지부지되어, 결국에는 무"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021885086208900062,
+        "width" : 0.83062648773193359,
+        "x" : 0.11368907615338374,
+        "y" : 0.12936046526971956
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "슨 이야기를 하고자 하는지 파악하기 어려운 경우가 있다. 영어로 글을 쓰면, 더욱"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024869207809828264,
+        "width" : 0.83784198760986339,
+        "x" : 0.11125187887199987,
+        "y" : 0.15540811488828865
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "더 그러할 가능성이 높아진다. 그렇게 어중간한 상태에서 다음 단락으로 넘어가면,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021812670595705241,
+        "width" : 0.83062648773193359,
+        "x" : 0.11136889058746374,
+        "y" : 0.18459302341055328
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "읽는 이에게 큰 스트레스를 주게 된다. 시험이라면 그러한 부분에서 감점될 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02779731801396168,
+        "width" : 0.79582370411265979,
+        "x" : 0.15081204575020798,
+        "y" : 0.20930232583351038
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "그래서 '더 이상 쓸 말이 없다'라고 판단되면, 이처럼 'Since 이유, 자신의 의견'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024104389007405413,
+        "width" : 0.82849467884410499,
+        "x" : 0.11359408107204101,
+        "y" : 0.23809900517577753
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "을 쓰고 단락을 마무리하면 된다. 이것이 안전망이 되어, 비록 단락의 중반 내용이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027121956238118861,
+        "width" : 0.65957927703857422,
+        "x" : 0.11108987114814362,
+        "y" : 0.26224935287059958
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "어중간하더라도 읽는 이는 단락의 요점을 이해할 수 있을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302759679641,
+        "width" : 0.80974474820223719,
+        "x" : 0.13225059552254301,
+        "y" : 0.31976744163208148
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "단락의 첫머리가 '의견+이유', 마지막이 '이유 +의견'의 순서로 나열되어 있다는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.44083525917746802,
+        "x" : 0.11136891274015225,
+        "y" : 0.34738372125219286
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "점에도 주목하자. 이 순서에도 이유가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024045506406084938,
+        "width" : 0.81222386793656787,
+        "x" : 0.12985580131064028,
+        "y" : 0.37482713879711815
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "어순 학습에서 설명한 것처럼, 무엇인가를 알기 쉽게 전달하기 위해서는 '이미 알"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024008184141111499,
+        "width" : 0.68241102045232593,
+        "x" : 0.11124838273543457,
+        "y" : 0.40046187071723116
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "려진 정보'를 먼저 두고, '새로운 정보'를 나중에 두는 것이 철칙이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843705737293884,
+        "width" : 0.81206495111638854,
+        "x" : 0.12993040230723499,
+        "y" : 0.42877906970727242
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "도입부의 마지막에 '자신의 의견(여기에서는 '집에서 일하는 것이 더 좋다.)'이 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02191094910971203,
+        "width" : 0.83062648773193359,
+        "x" : 0.10904870480832717,
+        "y" : 0.45774021351561367
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "미 설명되어 있다. 이미 언급한 정보이기 때문에, 본론의 단락에서 이를 사용하게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023281676065030843,
+        "width" : 0.83062648773193359,
+        "x" : 0.10904870488869602,
+        "y" : 0.48398576539437532
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "되면 '이미 알려진 정보'로 취급된다. 따라서 '의견'이 먼저 온다. 한편 도입부에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021983364722906851,
+        "width" : 0.83294660394841979,
+        "x" : 0.10904873950954054,
+        "y" : 0.5129003560416292
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "이유를 3가지 제시했으나, 그중 어느 것을 이번 본론의 단락에서 쓸지는 미리 알"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026807733277833368,
+        "width" : 0.83088779449462902,
+        "x" : 0.10892956281049872,
+        "y" : 0.53664982300062436
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "수 없다. 따라서 이유는 '새로운 정보'로 취급된다. 본론의 단락 첫머리에 '의견'인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988537812148157,
+        "width" : 0.83062640103426855,
+        "x" : 0.10904874978448992,
+        "y" : 0.56831395342820268
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "Working from home is better를 먼저 두고, '이유'인 because you can save"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.40371231599287555,
+        "x" : 0.10672852868072495,
+        "y" : 0.59593023247194499
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "time.을 나중에 두는 것은 이 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890258449676625,
+        "width" : 0.8097447482022373,
+        "x" : 0.12993041014482118,
+        "y" : 0.62055160163956258
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.066666666666666666,
+      "text" : "참고로 because는 '실은 ~라는 이유로'와 같이 새로운 정보인 이유를 다루는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.5545243783430619,
+        "x" : 0.10672852991273936,
+        "y" : 0.6481316729258505
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "접속사로, 문장의 후반부에 사용되는 것이 일반적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962674911336078,
+        "width" : 0.8097447482022373,
+        "x" : 0.12993040998897912,
+        "y" : 0.67732558154939115
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 본론의 단락 안에서 이유에 대한 논의가 심화되므로, 본론의 단락 하나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028277012801255164,
+        "width" : 0.83100943131880334,
+        "x" : 0.10888044573069826,
+        "y" : 0.69903085874028936
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "를 거의 다 읽을 때쯤에 '이유'는 읽는 이에게 '이미 알려진 정보'가 된다. 그래서 단"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029410477634850718,
+        "width" : 0.83581707694313734,
+        "x" : 0.10650157639105857,
+        "y" : 0.72712987153270092
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "락 후반부에는 이미 알려진 정보인 '이유' Since you can save time,이 먼저 오고,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026483179411429969,
+        "width" : 0.83571442690762621,
+        "x" : 0.10415289401744289,
+        "y" : 0.75698813798788223
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.044117647058823532,
+      "text" : "'의견'인 working from home is better.가 나중에 오는 것이다. 참고로 since"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028939275979147361,
+        "width" : 0.83324735814874828,
+        "x" : 0.1065670088305522,
+        "y" : 0.78167171755562037
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "는 '이미 아는 바와 같이, ~라는 이유로'라는 뜻이어서, 이미 알려진 정보인 이유를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023842984671270329,
+        "width" : 0.62905406951904286,
+        "x" : 0.10661268359472208,
+        "y" : 0.81196550612989937
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "다루는 접속사이다. 따라서 문두에 사용되는 것이 일반적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957202,
+        "width" : 0.8097447482022373,
+        "x" : 0.12761022438694009,
+        "y" : 0.86476868327097511
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "단락에서 심도 있는 논의가 가능하고 내용에 설득력이 있으려면 Must 96 학습"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021895431538917931,
+        "width" : 0.8306264877319337,
+        "x" : 0.10672851935604712,
+        "y" : 0.8923487543465618
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "에서 실행한 Why Game의 사고방식을 활용해야 한다. 그리고 Must 97 학습에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537296,
+        "width" : 0.039443154226649901,
+        "x" : 0.076566125779656477,
+        "y" : 0.93016014249532675
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 1,
+      "text" : "430"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 416,
+  "pdf_page_number" : 417
+}

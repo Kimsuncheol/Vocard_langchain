@@ -1,0 +1,790 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017547804090711772,
+        "width" : 0.034482757418132198,
+        "x" : 0.11264367874577791,
+        "y" : 0.072674418401209695
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "56"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016056848314073391,
+        "width" : 0.034482757418132198,
+        "x" : 0.11264367864725575,
+        "y" : 0.13372092981620887
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "57"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016019380357530366,
+        "width" : 0.034482757418132198,
+        "x" : 0.1126436786554659,
+        "y" : 0.19331395307641519
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "58"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.034482757418132198,
+        "x" : 0.11264367851315613,
+        "y" : 0.25145348814788737
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "59"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016064598931206597,
+        "width" : 0.036781608806883734,
+        "x" : 0.11264367807931676,
+        "y" : 0.31104651196087818
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "60"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016027131822374141,
+        "width" : 0.032183908712008824,
+        "x" : 0.11264367759801858,
+        "y" : 0.37063953524333937
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "61"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.27816092146432181,
+        "x" : 0.1839080449195632,
+        "y" : 0.072674418792345485
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "will과 be going to의 차이점"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016094315422905847,
+        "width" : 0.043678160290510193,
+        "x" : 0.55632183928003232,
+        "y" : 0.074127906574864011
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "250"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016189922756619013,
+        "width" : 0.55402298080937951,
+        "x" : 0.2528735669521151,
+        "y" : 0.094476743827831999
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "생각만 하고 있는가? 앞으로 실행하기 위해 나아가고 있는 중인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021870801289876285,
+        "width" : 0.26896551590931567,
+        "x" : 0.18160919727522717,
+        "y" : 0.12790697646392901
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "can은 '장애물이 없는' 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016177001953124992,
+        "width" : 0.045977011679261715,
+        "x" : 0.54252873563163351,
+        "y" : 0.13226744219343634
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "254"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016152454800075988,
+        "width" : 0.31724138434258531,
+        "x" : 0.2551724111620407,
+        "y" : 0.15406976708112685
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "'능력'만이 아닌, '가능성'에도 주목하자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023146930270724897,
+        "width" : 0.34313469094063154,
+        "x" : 0.17899370589514974,
+        "y" : 0.18836613868842711
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "'무책임'을 나타내는 may와 might"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020947222391764386,
+        "width" : 0.34068918563477935,
+        "x" : 0.25263707830459681,
+        "y" : 0.2108761405538645
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "'마음이 흔들리는 상태인 may와 might"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016139534844292536,
+        "width" : 0.043678160290510193,
+        "x" : 0.61379310385857622,
+        "y" : 0.19186046547589763
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "258"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023075291103786921,
+        "width" : 0.31331172036386912,
+        "x" : 0.17893796145224231,
+        "y" : 0.24842114179835073
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "'절대적 압력'을 나타내는 must"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016077518886989939,
+        "width" : 0.22988505303105217,
+        "x" : 0.25057471564539346,
+        "y" : 0.27325581428645962
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "must와 have to의 차이점"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01610206773546019,
+        "width" : 0.043678160290510193,
+        "x" : 0.58160919557313562,
+        "y" : 0.25145348795061917
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "262"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020433350457085497,
+        "width" : 0.17742544353930423,
+        "x" : 0.18148023351567139,
+        "y" : 0.30795916286059133
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "shall은 '운명'이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017518088446722979,
+        "width" : 0.043678160290510193,
+        "x" : 0.452873563590377,
+        "y" : 0.30959302303160841
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "266"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017493540445963629,
+        "width" : 0.41839080252560212,
+        "x" : 0.25287356414014717,
+        "y" : 0.33139534875342536
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "좀처럼 이해하기 힘든 shall을 알기 쉽게 파악하자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021062411838107531,
+        "width" : 0.18706343982122453,
+        "x" : 0.18124118211962703,
+        "y" : 0.36729396268680015
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "should는 '당연함'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016027131822374141,
+        "width" : 0.043678160290510193,
+        "x" : 0.4574712645602047,
+        "y" : 0.37063953447890174
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "270"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.31724138434258531,
+        "x" : 0.25287356267271388,
+        "y" : 0.38933333298151029
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "여러 의미를 가진 should를 풀어내다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015660697089301179,
+        "width" : 0.060654094282920179,
+        "x" : 0.14199466326587737,
+        "y" : 0.45839210649769191
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.28000000000000003,
+      "text" : "제9장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016073644002278731,
+        "width" : 0.034482757418132198,
+        "x" : 0.1126436786554659,
+        "y" : 0.54933333303966159
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "62"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016111111111111187,
+        "width" : 0.036781608806883734,
+        "x" : 0.11264367824023629,
+        "y" : 0.60888888918664308
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "63"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016028422885470905,
+        "width" : 0.034482757418132198,
+        "x" : 0.11264367855147031,
+        "y" : 0.66711111137215862
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "64"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016065891689724388,
+        "width" : 0.034482757418132198,
+        "x" : 0.11264367864725575,
+        "y" : 0.72666666674317226
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "65"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016103359646267301,
+        "width" : 0.034482757418132198,
+        "x" : 0.1126436786554659,
+        "y" : 0.78622222204683567
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "66"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0161408259073893,
+        "width" : 0.036781608806883734,
+        "x" : 0.112643678393493,
+        "y" : 0.84577777811768207
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "67"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.082758617803517287,
+        "x" : 0.23908046105644409,
+        "y" : 0.45639534923447833
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "명사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.034290603637695316,
+        "width" : 0.51556628263449367,
+        "x" : 0.23876254302033409,
+        "y" : 0.48169708569913761
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "동사가 '나무'라면, 명사는 '나무 열매'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021932816399468313,
+        "width" : 0.4252873459613441,
+        "x" : 0.17931034989163497,
+        "y" : 0.54651162780244888
+      },
+      "confidence" : 0.5,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "'가산 명사', '불가산 명사'로 명사 시작하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017463824801974837,
+        "width" : 0.38850576666337028,
+        "x" : 0.25287355355417424,
+        "y" : 0.56831395338923407
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "만 5세 이상인 사람이라면 이해할 수 있는 문법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02588684166802302,
+        "width" : 0.42589331947466152,
+        "x" : 0.18360803353982807,
+        "y" : 0.60350520095390936
+      },
+      "confidence" : 0.5,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "가산, 불가산을 알면, 관사 '2를 알 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017468992445203946,
+        "width" : 0.30574711666831489,
+        "x" : 0.2505747174233327,
+        "y" : 0.62933333320789986
+      },
+      "confidence" : 1,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "I like dog.라는 문장이 어색한 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.28045976212256063,
+        "x" : 0.18390804986795384,
+        "y" : 0.66569767460436391
+      },
+      "confidence" : 0.5,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0,
+      "text" : "존재의 명사•개념의 명사 ①"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.19999999570779492,
+        "x" : 0.25057471466817488,
+        "y" : 0.6888888887994995
+      },
+      "confidence" : 1,
+      "observation_index" : 38,
+      "red_ink_fraction" : 0,
+      "text" : "a와 some의 주요 기능"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.045977011679261603,
+        "x" : 0.55862068950519672,
+        "y" : 0.665697674537016
+      },
+      "confidence" : 1,
+      "observation_index" : 39,
+      "red_ink_fraction" : 0,
+      "text" : "284"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.28045976212256063,
+        "x" : 0.1839080498602417,
+        "y" : 0.72529069786341605
+      },
+      "confidence" : 0.5,
+      "observation_index" : 40,
+      "red_ink_fraction" : 0,
+      "text" : "존재의 명사 • 개념의 명사 ②"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.1632183949487957,
+        "x" : 0.25057471052194485,
+        "y" : 0.74844444409278621
+      },
+      "confidence" : 1,
+      "observation_index" : 41,
+      "red_ink_fraction" : 0,
+      "text" : "some과 총칭 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836263020753,
+        "width" : 0.048275863068013236,
+        "x" : 0.55632183851904382,
+        "y" : 0.72383720969720167
+      },
+      "confidence" : 1,
+      "observation_index" : 42,
+      "red_ink_fraction" : 0,
+      "text" : "288"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01920392523871528,
+        "width" : 0.16371318962000592,
+        "x" : 0.18134833719010107,
+        "y" : 0.78518391398428733
+      },
+      "confidence" : 1,
+      "observation_index" : 43,
+      "red_ink_fraction" : 0,
+      "text" : "any란 무엇인가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016127907647026984,
+        "width" : 0.17011493838453767,
+        "x" : 0.25057471462616093,
+        "y" : 0.80799999967102332
+      },
+      "confidence" : 1,
+      "observation_index" : 44,
+      "red_ink_fraction" : 0,
+      "text" : "an에서 파생된 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016103359646267301,
+        "width" : 0.043678160290510193,
+        "x" : 0.43678160939497485,
+        "y" : 0.78622222205691239
+      },
+      "confidence" : 1,
+      "observation_index" : 45,
+      "red_ink_fraction" : 0,
+      "text" : "292"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.22528735025354912,
+        "x" : 0.18390804908139913,
+        "y" : 0.84444444404363117
+      },
+      "confidence" : 1,
+      "observation_index" : 46,
+      "red_ink_fraction" : 0,
+      "text" : "the의 세계를 이해하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017474160088433166,
+        "width" : 0.048275863068013236,
+        "x" : 0.50574712592288995,
+        "y" : 0.84444444453257472
+      },
+      "confidence" : 1,
+      "observation_index" : 47,
+      "red_ink_fraction" : 0,
+      "text" : "296"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019878750271267398,
+        "width" : 0.40026035657579556,
+        "x" : 0.25275343876555462,
+        "y" : 0.86392172527340716
+      },
+      "confidence" : 1,
+      "observation_index" : 48,
+      "red_ink_fraction" : 0,
+      "text" : "'다른 것이 아닌 그것'으로 시작하는 다양한 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.045977011679261715,
+        "x" : 0.69885057468582079,
+        "y" : 0.54651162796915198
+      },
+      "confidence" : 1,
+      "observation_index" : 49,
+      "red_ink_fraction" : 0,
+      "text" : "276"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020562015109592102,
+        "width" : 0.050574714456764869,
+        "x" : 0.69655172312921654,
+        "y" : 0.60610465157940685
+      },
+      "confidence" : 1,
+      "observation_index" : 50,
+      "red_ink_fraction" : 0,
+      "text" : "280"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.027586205934505753,
+        "x" : 0.078160920021252869,
+        "y" : 0.92711111129572443
+      },
+      "confidence" : 1,
+      "observation_index" : 51,
+      "red_ink_fraction" : 1,
+      "text" : "10"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 9,
+  "pdf_page_number" : 10
+}

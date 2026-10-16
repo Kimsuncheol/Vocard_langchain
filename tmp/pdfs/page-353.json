@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.6009280806737588,
+        "x" : 0.092807421252099148,
+        "y" : 0.079858030223883936
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "I'd Hke to change this jacket for a smaller one, please."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.34338746848681295,
+        "x" : 0.095127611355271688,
+        "y" : 0.10465116280377007
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이 재킷을 작은 것으로 교환하고 싶어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018209520016715164,
+        "width" : 0.39707078866079343,
+        "x" : 0.10191866507449469,
+        "y" : 0.12469309734587464
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.55065359477124187,
+      "text" : "* change A for B는 'A를 B로 교환하다'를 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020989220017549104,
+        "width" : 0.75654357477282796,
+        "x" : 0.095054819643869706,
+        "y" : 0.14677962822373825
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "Can you attend the meeting for me? 나를 대신해서 회의에 참석해 주겠니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016557727329690852,
+        "width" : 0.66138556730662668,
+        "x" : 0.099707450857047186,
+        "y" : 0.17292719272299839
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.3652058432934927,
+      "text" : "• '나를 위해로 해석할 수 있는 경우도 있지만, 문맥상 '대리'의 의미로 쓰이는 경우가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019087513041052051,
+        "width" : 0.34106728844608813,
+        "x" : 0.11832946471051117,
+        "y" : 0.22093023292519842
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.97745901639344257,
+      "text" : "- '교환'에서 '균형'으로 의미 확장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022902572482903616,
+        "width" : 0.68232872063386518,
+        "x" : 0.06952364501214682,
+        "y" : 0.25474951384078259
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "대리나 교환이라는 것은 필연적으로 '등가 교환'의 이미지를 가진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02394470411163574,
+        "width" : 0.8099335798980497,
+        "x" : 0.069519242309349152,
+        "y" : 0.28299425302057912
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 1만 원은 1만 원의 가치가 있는 물건으로만 교환할 수 있다. 이러한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026187240072553353,
+        "width" : 0.8308048329454788,
+        "x" : 0.048639756624692353,
+        "y" : 0.30937140779536643
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "의미에서 '균형이 잡히다, 균형을 이루다'로 의미가 확장되어 for가 사용되었다. 아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022422971615457143,
+        "width" : 0.67538408861092647,
+        "x" : 0.048632749739529066,
+        "y" : 0.33663003632279453
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "래 표현은 '교환 • 대리'가 '균형'의 의미로 발전한 전형적인 예시이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.43155452647107712,
+        "x" : 0.046403711173918942,
+        "y" : 0.39529724946327305
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "• A make up for B/A compensate for B"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.41531324454233159,
+        "x" : 0.044083516824613603,
+        "y" : 0.42147293719237178
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "(A가 B를 보상하다• A가 B를 보충하다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011644673114766579,
+        "width" : 0.030162413576815983,
+        "x" : 0.04872389757022641,
+        "y" : 0.47238372071926116
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011691102329988712,
+        "width" : 0.03016241357681599,
+        "x" : 0.048723897503935402,
+        "y" : 0.52173913030321162
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.97297297297297303,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.35034803025265959,
+        "x" : 0.092807423321823027,
+        "y" : 0.46938775497185314
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "Let me make up for being late."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01751795297400971,
+        "width" : 0.3433874684868129,
+        "x" : 0.095127611344972995,
+        "y" : 0.49556344234900673
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "내가 지각한 걸 보상해 줄 수 있게 해줘."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.70301626218971625,
+        "x" : 0.095127599636552762,
+        "y" : 0.51889534920765368
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "He worked very hard to compensate for his lack of experience."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.51276102268949475,
+        "x" : 0.095127609188358275,
+        "y" : 0.54347826098360308
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그는 자신의 경험 부족을 보완하기 위해 매우 열심히 일했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016103155547364523,
+        "width" : 0.77726219664228735,
+        "x" : 0.099767973495230269,
+        "y" : 0.56686046477919472
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.32729624838292365,
+      "text" : "- make up은 '움푹 파인 곳을 올려(up) 형태를 만들다, 즉 '메우다'라는 의미이다. compensate의 어원"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016118631811404271,
+        "width" : 0.7610208714261969,
+        "x" : 0.11600928574897548,
+        "y" : 0.58562555456719423
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.43771827706635624,
+      "text" : "은 'com(함께) + pensate(매달다: pendant와 동일한 어원)'로, 함께 매달아 저울이 평형을 이루도록"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.61020880083665774,
+        "x" : 0.11832947417384697,
+        "y" : 0.60603371808798379
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.39827586206896554,
+      "text" : "하는 것이다. 다시 말해, '보충하는 것은 '균형을 잡을 수 있도록 (보충)하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023647413279170415,
+        "width" : 0.52238353972739371,
+        "x" : 0.046260302778629296,
+        "y" : 0.64994848053215404
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "• take A for granted (A를 당연한 것으로 여기다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.66357309327903369,
+        "x" : 0.090487235146191461,
+        "y" : 0.70053238684471286
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.0010729613733905579,
+      "text" : "She took my love for granted. 그녀는 내 사랑을 당연하게 여겼어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018290122843677259,
+        "width" : 0.77744469608820921,
+        "x" : 0.099680160357860884,
+        "y" : 0.72369126797146344
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.29662261380323052,
+      "text" : "> take는 '잡다'라는 의미에서 '~라고 여기다. 파악하다'라는 뜻이 되었다. granted는 '승인된 것, 즉 '인정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062904,
+        "width" : 0.7610208714261969,
+        "x" : 0.11600928574897548,
+        "y" : 0.74563953503891844
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.25951557093425603,
+      "text" : "된 것 이라는 이미지이다. 'A의 가치'를 이미 인정된 것과 균형을 이루는 것으로 생각하여, '노력하지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014650956655669845,
+        "width" : 0.55220419160017731,
+        "x" : 0.1160092729487959,
+        "y" : 0.7644188106244566
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.22889305816135083,
+      "text" : "아도 당연한 것으로 받아들일 수 있는 것이라고 이해하다'라는 의미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.27842227584081336,
+        "x" : 0.046403711136877114,
+        "y" : 0.8139534887368256
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "• give up A for dead/lost"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.46171693193151597,
+        "x" : 0.044083529277861543,
+        "y" : 0.83850931635212711
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "(A를 죽은(잃은) 것으로 생각하고 단념하다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.41299304285793442,
+        "x" : 0.04872389610064571,
+        "y" : 0.88808139571652667
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.14006791171477079,
+      "text" : "예e His family gave him up for dead."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.43387472815547429,
+        "x" : 0.46867748501065903,
+        "y" : 0.92857142877402277
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.95913461538461542,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 365"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 353,
+  "pdf_page_number" : 354
+}

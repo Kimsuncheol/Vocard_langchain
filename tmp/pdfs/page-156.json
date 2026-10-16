@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023335627237955681,
+        "width" : 0.78682610261524832,
+        "x" : 0.085705849848352819,
+        "y" : 0.08722735486444555
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.24681753889674682,
+      "text" : "1. 명사적 용법: 부정사구('to+동사원형'을 포함한 하나의 의미 덩어리)를 대"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020489664713541633,
+        "width" : 0.58236659706061611,
+        "x" : 0.088167049429576053,
+        "y" : 0.11773255775894476
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "명사인 it으로 바꿔도 의미가 통한다면 명사적 용법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.4106728411735372,
+        "x" : 0.067285389053824238,
+        "y" : 0.1844444443792842
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.21086956521739131,
+      "text" : "예e | want to buy the Car. want it."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016031008402506597,
+        "width" : 0.42459396470523048,
+        "x" : 0.11136891097930203,
+        "y" : 0.20930232521528036
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "난 그 자동차를 사고 싶어. -* 난 그것을 갖고 싶어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020549437628851974,
+        "width" : 0.56167702099955674,
+        "x" : 0.064867775115347304,
+        "y" : 0.23229548630662089
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.13804945054945056,
+      "text" : "예e The idea is to generate electricity out of wind."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017714460584852376,
+        "width" : 0.17713584088264628,
+        "x" : 0.11103451296435986,
+        "y" : 0.260011480242333
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "-The idea is it."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016103359646267412,
+        "width" : 0.70533642058676849,
+        "x" : 0.11136891257500033,
+        "y" : 0.28622222210089743
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그 아이디어는 바람으로 전기를 발생시키자는 것이다. -*그 아이디어는 그것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.67285381344193262,
+        "x" : 0.064965204624146372,
+        "y" : 0.30959302344689976
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.20824742268041238,
+      "text" : "예e It is fun to swim with friends. 친구들과 수영하는 건 재미있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014670542399088604,
+        "width" : 0.50348025923925088,
+        "x" : 0.11368910464401301,
+        "y" : 0.33866279090987195
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.68811188811188806,
+      "text" : ">to swim with friends는 가주어 it의 구체적인 내용을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02044702911376961,
+        "width" : 0.78654291680518607,
+        "x" : 0.085846870952064766,
+        "y" : 0.39244186008739645
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.52023809523809528,
+      "text" : "2. 형용사적 용법: 형용사는 명사를 수식하는 말이다. 즉, 명사의 모습을 설"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025839003668891025,
+        "width" : 0.78907505333000894,
+        "x" : 0.088081784683561509,
+        "y" : 0.4171182944327031
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "명하는 말이다. '가벼운 정보를 먼저 말하고, 무거운 정보는 나중에 말하는'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632935,
+        "width" : 0.78422271512078912,
+        "x" : 0.088167062956675465,
+        "y" : 0.44622093024387288
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "영어의 어순 규칙에 따라, '명사의 자세한 모습을 설명'하는 부정사의 형용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02617270575629338,
+        "width" : 0.7845966312056738,
+        "x" : 0.087962431944204555,
+        "y" : 0.47316908338528141
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "사적 용법은 '무거운 정보'로, 명사 뒤에 온다. 즉, 명사 바로 뒤에서 명사의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021861757066514831,
+        "width" : 0.48491877562610819,
+        "x" : 0.088167062190590229,
+        "y" : 0.5043604650120006
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "모습을 설명하는 부정사는 형용사적 용법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.64965196974734041,
+        "x" : 0.064965198279402558,
+        "y" : 0.57267441879694825
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.15067650676506766,
+      "text" : "예E He doesn't have any power to thire or fre someone]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01754469638400602,
+        "width" : 0.098498178035654915,
+        "x" : 0.35442138328812672,
+        "y" : 0.59690249478043189
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.61475409836065575,
+      "text" : "힘, 권력 ^"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016038759867350261,
+        "width" : 0.23201856680795652,
+        "x" : 0.4733178626425818,
+        "y" : 0.59733333350177886
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.56774193548387097,
+      "text" : "누군가를 고용하거나 해고하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.22737818508283469,
+        "x" : 0.33642691662451185,
+        "y" : 0.62209302346517792
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 1,
+      "text" : "무엇을 하려고 향하는 힘인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.4663572920129655,
+        "x" : 0.11136891768081848,
+        "y" : 0.65688888850944915
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그에게는 누군가를 고용하거나 해고할 힘이 전혀 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372802734352,
+        "width" : 0.54988398991578014,
+        "x" : 0.0974477961105496,
+        "y" : 0.68023255778070213
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.62235294117647055,
+      "text" : "-to hire or fire someone은 어떤 power인지'에 대한 자세한 설명이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.008897932688395116,
+        "width" : 0.10672854159740686,
+        "x" : 0.78190255038459122,
+        "y" : 0.6235465115739437
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "Boseat have any Pomo"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.78654291680518607,
+        "x" : 0.085846870947754991,
+        "y" : 0.75422222237711567
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.43342036553524804,
+      "text" : "3. 부사적 용법 ①: 부사에는 여러 가지 기능이 있는데, 우선 동사를 수식"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.78422271512078912,
+        "x" : 0.088167064574956155,
+        "y" : 0.7817777779506252
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "하는 기능, 즉 동사의 모습을 설명하는 것이 주된 기능이다. 예를 들어, '달"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026148405287000798,
+        "width" : 0.78670766843971629,
+        "x" : 0.085779149354549666,
+        "y" : 0.80804964138654278
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "리다'라는 동사의 경우, 어떤 식으로 달리는지를 설명하는 '빨리 달리다' 또"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022862236870659691,
+        "width" : 0.53617021276595744,
+        "x" : 0.088038177262468473,
+        "y" : 0.83631780567584812
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "는 '친구와 달리다'에서 '빨리', '친구와'는 부사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.42923432478667983,
+        "x" : 0.49187935721222847,
+        "y" : 0.92877906970472512
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.88288288288288286,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 163"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 156,
+  "pdf_page_number" : 157
+}

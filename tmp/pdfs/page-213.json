@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.1342592564496127,
+        "x" : 0.1435185198144093,
+        "y" : 0.077034884058209796
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9445910290237467,
+      "text" : "shall = 운명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023597649286987488,
+        "width" : 0.81496585499156593,
+        "x" : 0.076313499184458788,
+        "y" : 0.11171443685491955
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.076131687242798354,
+      "text" : "shall은 '정해진 운명의 흐름에 있다'라는 근본적인 뜻을 가진 조동사이다. 다만"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020517245545956797,
+        "width" : 0.83333336223255505,
+        "x" : 0.057870355804692603,
+        "y" : 0.14081996408954023
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "미래를 나타내는 shall 용법은 현재 거의 사용되지 않고, 미국 영어에서는 will이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957779100659436,
+        "width" : 0.83101853457364183,
+        "x" : 0.05787036222269417,
+        "y" : 0.16844919781825984
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "사용되는 것이 일반적이다. 미래를 나타내는 shall이 문장에서 쓰인다고 하더라도,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026387666848466496,
+        "width" : 0.63013865730979224,
+        "x" : 0.057635825374031668,
+        "y" : 0.19174813527607404
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "일반적이지 않은 매우 고풍스러운 느낌의 문장인 경우가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017516996346268021,
+        "width" : 0.22222221981395374,
+        "x" : 0.10416666748499842,
+        "y" : 0.24273255830490426
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "We Shall Overcome"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017516996346268021,
+        "width" : 0.16898147626356647,
+        "x" : 0.34722222471378555,
+        "y" : 0.2427325583247455
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "우리는 승리하리라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016193052451665912,
+        "width" : 0.40972224148837,
+        "x" : 0.10416665692436246,
+        "y" : 0.27034883724383973
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "(미국 민권 운동의 상징으로 불리는 노래의 제목)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941235,
+        "width" : 0.41666668111627747,
+        "x" : 0.10648147412525434,
+        "y" : 0.29634581084933564
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.38129496402877699,
+      "text" : "* 우리는 반드시 극복한다.(그러한 운명의 흐름에 있다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018910894206926043,
+        "width" : 0.80787034468217334,
+        "x" : 0.055555568293865647,
+        "y" : 0.31684491938774917
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.3113673805601318,
+      "text" : "예e Ishall return. 반드시 돌아오겠다. (맥아더 장군이 필리핀에서 철수할 때 했던 말)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018096310994629383,
+        "width" : 0.3244993903420188,
+        "x" : 0.10631511669138122,
+        "y" : 0.34176579714267064
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.27312775330396477,
+      "text" : "~ 나는 반드시 돌아온다.(그러할 운명이다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023382767424013906,
+        "width" : 0.8125,
+        "x" : 0.076388888678840902,
+        "y" : 0.37923351165936814
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "위의 표현은 보통 회화에서 나오지 않으며, 연극에 나오는 대사 같은 느낌을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916324867071735,
+        "width" : 0.057870371775193649,
+        "x" : 0.05787036968724886,
+        "y" : 0.40686274489658625
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025528300892223021,
+        "width" : 0.81274015253240417,
+        "x" : 0.076272575175718296,
+        "y" : 0.43175747024969602
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 말하고 싶은 것은, shall이 '운명의 흐름에 있다'라는 이미지를 가지고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02301262704233864,
+        "width" : 0.15782257643612949,
+        "x" : 0.055347970919938601,
+        "y" : 0.46160415157569812
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "있다는 점이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026238495865820166,
+        "width" : 0.81515121459960949,
+        "x" : 0.07855554210444661,
+        "y" : 0.4868595536445981
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 shall의 과거형은 should인데, 조동사의 과거형은 '현실에서 멀어지다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021864506862592781,
+        "width" : 0.83564818989146827,
+        "x" : 0.055555534538708186,
+        "y" : 0.51737967935796891
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "라는 의미로 사용되는 경우가 많다.(Must 51 내용 참조) 그러한 예시로, may와"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025928147123884249,
+        "width" : 0.83355730230158021,
+        "x" : 0.05544453172196126,
+        "y" : 0.54314174694238671
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "might를 들 수 있으며, may보다 might가 현실성이 떨어지며 '불확실성'이 강해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.057870371775193656,
+        "x" : 0.05555555472521994,
+        "y" : 0.57263814629191057
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027170281571712973,
+        "width" : 0.81506321646950475,
+        "x" : 0.073949503138169975,
+        "y" : 0.59611025268465123
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "shall과 should도 마찬가지이다. shall은 '운명적으로 반드시 ~할 것이다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021942233869311267,
+        "width" : 0.83333336223255505,
+        "x" : 0.055555540969682564,
+        "y" : 0.62645348819032509
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "강한 현실감이 있고, should는 shall에 비해 현실감이 떨어지며 '상황을 보았을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023292086766152909,
+        "width" : 0.51851853457364161,
+        "x" : 0.055555547410089806,
+        "y" : 0.65406976741666001
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "때, 일반적으로 ~하게 될 것이다'라는 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021999233334247248,
+        "width" : 0.80787034468217322,
+        "x" : 0.07870371649083617,
+        "y" : 0.68003565055606863
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 이러한 점에서 should에 '일반적으로 ~해야 한다'와 '일반적으로 ~하게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.31249999999999994,
+        "x" : 0.055555555437102111,
+        "y" : 0.70930232523740921
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "될 것이다'라는 의미가 생긴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860069777992,
+        "width" : 0.057870371775193642,
+        "x" : 0.055555554666178099,
+        "y" : 0.76598837222360838
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.98604651162790702,
+      "text" : "\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023343903920654774,
+        "width" : 0.60416668111627758,
+        "x" : 0.11342591858060141,
+        "y" : 0.76453488369582945
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.96658312447786132,
+      "text" : "- 'f + should에 •혹시라도, 만에 하나라는 뜻이 있는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.79861112074418505,
+        "x" : 0.076388884020268541,
+        "y" : 0.80080213870420525
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "지금까지 should뿐만 아니라 shall의 의미까지 자세히 다룬 이유는 무엇일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027553588948785346,
+        "width" : 0.8106509988958186,
+        "x" : 0.073839700474541997,
+        "y" : 0.82571167898044096
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "사실 'if+should'의 '혹시라도, 만에 하나'라는 의미는 should가 아닌, shall에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021846370901015932,
+        "width" : 0.51620370691472839,
+        "x" : 0.053240739017865184,
+        "y" : 0.85606060601597822
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "서 나온 것이라 할 수 있다. 다음 설명을 함께 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219305,
+        "width" : 0.34722221981395374,
+        "x" : 0.56250000108168396,
+        "y" : 0.9344919785455853
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.96116504854368934,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지 않다 221"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    641
+  ],
+  "pdf_page_index" : 213,
+  "pdf_page_number" : 214
+}

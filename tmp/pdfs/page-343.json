@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020517487775128629,
+        "width" : 0.24065420906088628,
+        "x" : 0.051401867484436335,
+        "y" : 0.073959256246632687
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.53000000000000003,
+      "text" : "consider와 비슷하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029194462711141567,
+        "width" : 0.81599135004896728,
+        "x" : 0.072146781585488859,
+        "y" : 0.094561129379001296
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "con은 '함께, sider는 '별, 별자리'를 뜻하는 말로, 점성술사가 '별을 한데 모아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023884322180802942,
+        "width" : 0.83441996778178418,
+        "x" : 0.05358282193419376,
+        "y" : 0.12378344487123161
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "바라보며 미래의 일이 어떻게 될지 점치며 숙고하다'가 어원이다. 시뮬레이션은 일"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026594608837360867,
+        "width" : 0.83458377153445507,
+        "x" : 0.053529615025838986,
+        "y" : 0.15153534429213789
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "종의 상상이며, 머릿속에 상상할 때는 동작 중인 영상을 떠올리므로, consider 뒤"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021911754557471963,
+        "width" : 0.28271027915498131,
+        "x" : 0.053738320255063865,
+        "y" : 0.18157661678417913
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "에 동사의 -ing형이 붙는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02454407305924422,
+        "width" : 0.70359237105758099,
+        "x" : 0.09798502530061938,
+        "y" : 0.22797545003055508
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "I considered going with him. 난 그와 함께 갈지 말지 곰곰이 생각했어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017135624340723021,
+        "width" : 0.45587249495025384,
+        "x" : 0.1073488932610427,
+        "y" : 0.25496299755912877
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.63325183374083127,
+      "text" : "* 그와 함께 가면 어떻게 될지를 시뮬레이션하면서 검토했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027107079964596492,
+        "width" : 0.81358141776842952,
+        "x" : 0.07687495926513073,
+        "y" : 0.29737289777507714
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.23990498812351543,
+      "text" : "한편, think of의 of는 '전체에서 구성 요소를 일부 꺼내다'라는 근본적인 의미가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026045343113537012,
+        "width" : 0.83450656467013906,
+        "x" : 0.055887643371568645,
+        "y" : 0.32657655196895985
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "있다. 예를 들어, a piece of cake의 경우, 케이크 전체에서 구성 요소인 한 조각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025108203938621898,
+        "width" : 0.83451978025952633,
+        "x" : 0.0581990881618836,
+        "y" : 0.3537749363500664
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "을 꺼내는 느낌이다. think of는 '마음속으로 생각하는 내용을 꺼내 그 내용이 갑"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024854779982587893,
+        "width" : 0.83411218366052342,
+        "x" : 0.056074749194567175,
+        "y" : 0.38081395322864542
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "자기 떠오르는' 느낌이다. '문득 떠오르다' 또는 (문득) 생각나다'라는 의미로 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020384884809793058,
+        "width" : 0.05841121510562735,
+        "x" : 0.058411214740800028,
+        "y" : 0.41275464987989285
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019043401240035451,
+        "width" : 0.45560748760516834,
+        "x" : 0.098130835575672398,
+        "y" : 0.4592559787338889
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "I can't think of anything truer than that."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021971083405379011,
+        "width" : 0.46759963511062141,
+        "x" : 0.1050058582397654,
+        "y" : 0.48099499628451781
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "그 이상으로 진실된 이야기는 아무것도 생각나지 않아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025611243911080939,
+        "width" : 0.81351812205083684,
+        "x" : 0.07921093823502777,
+        "y" : 0.52919907755747986
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "또한 전체가 아닌 일부분을 꺼내는 of의 성질 때문에 '전체에 대해 잘 생각하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025800761551430407,
+        "width" : 0.64977192674946582,
+        "x" : 0.060594747489849991,
+        "y" : 0.55600310062101166
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "것이 아니라 부분적인 인상으로 생각하다'라는 의미로도 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02163437808689761,
+        "width" : 0.31586097652076656,
+        "x" : 0.10725781292232266,
+        "y" : 0.60845212103792545
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "What do you think of him?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016054030115146167,
+        "width" : 0.1915887903284143,
+        "x" : 0.41822429633390973,
+        "y" : 0.60894597018723184
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그를 어떻게 생각해?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014634014126259864,
+        "width" : 0.55841120967158564,
+        "x" : 0.10981308667755843,
+        "y" : 0.63507528809694691
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.42560553633217996,
+      "text" : "> 얼핏 본 인상 등. 부분적인 데이터에 근거한 판단이나 감상을 묻는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027838630946575793,
+        "width" : 0.75747298107527594,
+        "x" : 0.058113288752693192,
+        "y" : 0.65033060849296098
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.085455574419920771,
+      "text" : "예B 'Cause when Ithink of you, baby, nothin' else seems to matter."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019808026728532879,
+        "width" : 0.52122071529725333,
+        "x" : 0.10735455353125943,
+        "y" : 0.6794950975592311
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "왜냐하면 네 생각을 하면 다른 건 아무것도 상관없는 것 같아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018096988025864569,
+        "width" : 0.78287047470397086,
+        "x" : 0.10973663593849561,
+        "y" : 0.70153455972579015
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.46011131725417442,
+      "text" : "+ Janet Jackson의 When I Think of You 노래 가사 중에서. 마음속에 플래시처럼 you의 이미지가 확 떠"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014722846059064265,
+        "width" : 0.1845794416900374,
+        "x" : 0.12850467155998627,
+        "y" : 0.7236492468564073
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.45714285714285713,
+      "text" : "오르는 느낌을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015751597942558426,
+        "width" : 0.43488679108796302,
+        "x" : 0.48583317594858855,
+        "y" : 0.92062156047933175
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.93174061433447097,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 355"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    645
+  ],
+  "pdf_page_index" : 343,
+  "pdf_page_number" : 344
+}

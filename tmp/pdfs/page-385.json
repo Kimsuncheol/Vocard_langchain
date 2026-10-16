@@ -1,0 +1,310 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03733316436740497,
+        "width" : 0.12675079432400793,
+        "x" : 0.1525561301601398,
+        "y" : 0.089083352172888763
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99825021872265962,
+      "text" : "Must 91"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035215125638188405,
+        "width" : 0.63320194591175427,
+        "x" : 0.1578305934486868,
+        "y" : 0.12896695410682668
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99697859116022103,
+      "text" : "수학의 수식과 영어의 어순은 같다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01748184112711304,
+        "width" : 0.47441859678788623,
+        "x" : 0.15581395723933059,
+        "y" : 0.2136627907106452
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99775684163301925,
+      "text" : "•'~의 00배라는 표현을 쉽게 이해할 수 있게 된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025489055697856644,
+        "width" : 0.80967252904718567,
+        "x" : 0.15096985546484545,
+        "y" : 0.30772157395692878
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "학창 시절에 배운 문자식을 떠올려 보자. 곱셈에서는 글자를 다음과 같이 옆으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020499732077597699,
+        "width" : 0.10465115850622003,
+        "x" : 0.12790697876096588,
+        "y" : 0.33575581380863828
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "나열한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01680653562774248,
+        "width" : 0.096283533356406492,
+        "x" : 0.37632717184441217,
+        "y" : 0.38600185066982684
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "axb=ab"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023289346229532937,
+        "width" : 0.72790700739080261,
+        "x" : 0.14883719383211336,
+        "y" : 0.44476744159985027
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "영어 표현에서도 같은 형태가 나타난다. 예를 들어 '30분'은 1/2시간으로,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.2930232611569491,
+        "x" : 0.14883720645640916,
+        "y" : 0.47238372129232808
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "1/2 × 1시간 =half an hour"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306034,
+        "width" : 0.19302324815229935,
+        "x" : 0.14883721303476269,
+        "y" : 0.49999999986627186
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "로 나타낼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021911949421731136,
+        "width" : 0.37906976179643115,
+        "x" : 0.14883721200576042,
+        "y" : 0.52750665498624816
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 덧셈 문자식을 떠올려 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014793173443879648,
+        "width" : 0.1070660135962746,
+        "x" : 0.36739722568939448,
+        "y" : 0.58708015701915139
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "0+0=0+0"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026702893552467133,
+        "width" : 0.8118251453746449,
+        "x" : 0.14641662367300576,
+        "y" : 0.63211627073596499
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "즉, '+' 기호는 생략할 수 없다. 영어 표현에서도 같은 형태가 있다. 예를 들어, 1시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024900923816102094,
+        "width" : 0.30111811377785425,
+        "x" : 0.12510709927247632,
+        "y" : 0.65991350311202579
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "간 반'은 1시간+1/2시간으로,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.41860463402488018,
+        "x" : 0.14418605496971243,
+        "y" : 0.69032830532804079
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "1시간 + 1/2시간 = an hour and a half"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027114176813648583,
+        "width" : 0.38470337607643829,
+        "x" : 0.14604644341616818,
+        "y" : 0.71435014830362931
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "처럼 '+'를 나타내는 and를 표시한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021897762775844321,
+        "width" : 0.81162790818647912,
+        "x" : 0.14418604560289913,
+        "y" : 0.77180232580726171
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "이는 우연이 아니라 필연이다. 수식이란 숫자를 사용해 세상의 현상을 설명하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.83023253354159254,
+        "x" : 0.12558140732460749,
+        "y" : 0.79941860487872973
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "것으로, 일종의 언어이다. 그리고 학창 시절에 배우는(방정식 이후의) 수학은 고대"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026047850459047228,
+        "width" : 0.8328909440474076,
+        "x" : 0.1230891085027024,
+        "y" : 0.82566969473580576
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그리스에서 발생하여 유럽에서 성장한 것이다. 따라서 유럽에서 성장한 수식은, 유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.2813953486355868,
+        "x" : 0.12325581393490591,
+        "y" : 0.85448092242026585
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "럽어의 영향을 많이 받았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.039534883065657181,
+        "x" : 0.09069767462996213,
+        "y" : 0.92441860483386895
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.9662921348314607,
+      "text" : "398"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 385,
+  "pdf_page_number" : 386
+}

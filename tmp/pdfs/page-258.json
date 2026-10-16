@@ -1,0 +1,595 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024933252317595245,
+        "width" : 0.36302721821669992,
+        "x" : 0.05986016561148904,
+        "y" : 0.071082395772779527
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "명이라는 강한 신념을 느끼게 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018905711896491706,
+        "width" : 0.80831411375221629,
+        "x" : 0.080831395663640102,
+        "y" : 0.10319767477167852
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "제2차 세계 대전 중 더글러스 맥아더가 필리핀에서 철수하면서 했던 말인 I shall"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026162790104667044,
+        "width" : 0.82678984513519493,
+        "x" : 0.057736718887367831,
+        "y" : 0.12645348845057347
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.0099573257467994308,
+      "text" : "return.도 \"반드시 돌아오겠다. 그것이 나의 운명이다.라는 신념이 표현되어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021851553211450048,
+        "width" : 0.81062358017508873,
+        "x" : 0.078521926524134991,
+        "y" : 0.18313953455008791
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 의미 때문에 shall은 '미래를 향한 강한 의지'를 나타낸다고 설명되기도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555062033913332,
+        "width" : 0.064341714196171323,
+        "x" : 0.057986731754438088,
+        "y" : 0.21133720934794964
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021877461363712603,
+        "width" : 0.72979216879986708,
+        "x" : 0.080831398169991978,
+        "y" : 0.23975044578714866
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 현대 영어에서는 shall이 아닌 will을 사용하는 것이 일반적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018222373649610768,
+        "width" : 0.23368937174479165,
+        "x" : 0.071335249100078449,
+        "y" : 0.29004200956891513
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.99579242636746146,
+      "text" : "⑦ valuable informafion"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016141234447186958,
+        "width" : 0.76905309798869681,
+        "x" : 0.094688231493867542,
+        "y" : 0.32397504458056403
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.93062200956937802,
+      "text" : "연설 등에서 극적인 효과를 주기 위해 shall을 쓰는 경우가 있다. 그리고 Shall은 고풍스러운 인상을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600453,
+        "width" : 0.78521936294880323,
+        "x" : 0.080831426903395731,
+        "y" : 0.34302325616568563
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.94377665761923224,
+      "text" : "주기도 한다. shall이 사용된 예시로, 1865년에 나온 루이스 캐럴의 『이상한 나라의 앨리스,가 세상에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017825311942958999,
+        "width" : 0.7829098965259309,
+        "x" : 0.080831425755510292,
+        "y" : 0.36319073105263788
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.95055169595422961,
+      "text" : "나온 것은 1865년의 일인데, 제1장에서 토끼가 Oh, dear! on, dear! | shall be late!(큰일이다! 큰"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016128279946067137,
+        "width" : 0.26789838642093305,
+        "x" : 0.080831407131754796,
+        "y" : 0.38226744189273143
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.90727699530516437,
+      "text" : "일이야! 난 늦을 거야!)라고 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017597313233237877,
+        "width" : 0.76905309798869692,
+        "x" : 0.094688231531507155,
+        "y" : 0.41844919819341109
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.75663716814159288,
+      "text" : "이번에는 색다른 shall 표현을 소개하도록 하겠다. 일상생활에서는 사용하지 않지만, 시대극에서 왕"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017491087344028378,
+        "width" : 0.78290989652593101,
+        "x" : 0.080831425978424215,
+        "y" : 0.43750000019008572
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.74033149171270718,
+      "text" : "등이 사용할 수 있는 표현이다. 학습자들 대부분이 아래와 같은 예문을 보았을 때, 이해하기 어려워한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014718836854060946,
+        "width" : 0.027713626834517668,
+        "x" : 0.080831408118537937,
+        "y" : 0.45766488410393003
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016084234982250867,
+        "width" : 0.61662818421708776,
+        "x" : 0.10854503017607392,
+        "y" : 0.49554367195191995
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.677320221266134,
+      "text" : "1. You shall have this magic wand. 그대에게 이 마법의 지팡이를 주리라,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133182,
+        "width" : 0.32563511192375888,
+        "x" : 0.12702078110509518,
+        "y" : 0.51453488359717459
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.70314637482900133,
+      "text" : "(뉴 l will give you this magic wand.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017488496613800031,
+        "width" : 0.54272517211048321,
+        "x" : 0.1062355662382999,
+        "y" : 0.53197674437941955
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.52152080344332852,
+      "text" : "2. Thomas shall contact you. 토마스가 너에게 연락하게 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016058325980011334,
+        "width" : 0.33025404476950349,
+        "x" : 0.12702078350439375,
+        "y" : 0.55080213909114362
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.66162310866574969,
+      "text" : "(뉴 l wil have Thomas contact you.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017514404766062364,
+        "width" : 0.77367203083444147,
+        "x" : 0.092378765073565502,
+        "y" : 0.58720930251960157
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.40867992766726946,
+      "text" : "1번을 직역하면 \"그대는 이 마법의 지팡이를 가지게 될 운명에 있다. \"가 된다. 의역하면 \"그대는 이 마"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018939393939393923,
+        "width" : 0.78521936294880312,
+        "x" : 0.080831427770072184,
+        "y" : 0.60606060567780828
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.37926136363636365,
+      "text" : "법의 지팡이를 반드시 가지게 될 것이다. 내가 그대에게 이것을 줄 것이기 때문이다. \"가 되어 \"그대에게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.78521936294880312,
+        "x" : 0.080831427648000248,
+        "y" : 0.62344028514829963
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.2674364896073903,
+      "text" : "이 마법의 지팡이를 주리라.\"가 된다. 2번을 직역하면 \"토마스가 너에게 연락할 운명에 있다.\"가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.78983829579454778,
+        "x" : 0.076212491667915175,
+        "y" : 0.64389534918921931
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.36313868613138683,
+      "text" : "\"토마스가 반드시 너에게 연락한다. 내가 그렇게 하도록 시키기 때문이다.\"라는 의미이다. 사람의 운명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372013955643,
+        "width" : 0.55889143707058953,
+        "x" : 0.080831417605435385,
+        "y" : 0.66424418608264357
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.34608695652173915,
+      "text" : "을 결정짓는 듯한 말투이기 때문에 윗사람이 아랫사람에게 쓰는 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018929030168502781,
+        "width" : 0.3348729776152482,
+        "x" : 0.14780600529802107,
+        "y" : 0.72816399272440324
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.97310756972111556,
+      "text" : "상대방에게 제안: ~해 드릴까요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020553517469110383,
+        "width" : 0.48036953540558519,
+        "x" : 0.078521929648688912,
+        "y" : 0.76598837175157386
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "Shall I ~?라는 표현은 현대 영어에서도 흔히"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022019960026052554,
+        "width" : 0.34411086495040999,
+        "x" : 0.057736715221543972,
+        "y" : 0.7921511626044101
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "쓰이므로, 사용할 수 있어야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01891348493715439,
+        "width" : 0.48036953540558508,
+        "x" : 0.078521929530329271,
+        "y" : 0.81976744220709707
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "상대방에게 선의의 제안을 할 때 쓰는 표현이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325937199662,
+        "width" : 0.50115473321143611,
+        "x" : 0.057736721031042167,
+        "y" : 0.84738372074682466
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "며, 다소 겸손하게 말하는 느낌도 있다. 따라서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325937199662,
+        "width" : 0.30946882531997999,
+        "x" : 0.057736718860534469,
+        "y" : 0.87499999981330656
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "정중한 인상을 주는 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011736724465926107,
+        "width" : 0.057736720091907667,
+        "x" : 0.58198614326202069,
+        "y" : 0.77034883716521918
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "제가 들어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011635679612185257,
+        "width" : 0.071593534861896124,
+        "x" : 0.57505773590981812,
+        "y" : 0.78342245991253379
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "드리는 것이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013335279389923627,
+        "width" : 0.078628448053454703,
+        "x" : 0.57038554491425575,
+        "y" : 0.79638468565448151
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "당연하겠죠?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010373917067964644,
+        "width" : 0.04849884357858214,
+        "x" : 0.83140877671532787,
+        "y" : 0.77450980400485059
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "어머, 들"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01312803117136685,
+        "width" : 0.053117781835244959,
+        "x" : 0.82909930758122274,
+        "y" : 0.7863372094194313
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "어주시는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010296190061246269,
+        "width" : 0.030023093257390054,
+        "x" : 0.83833718290363757,
+        "y" : 0.79941860478095239
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "군요"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011651224843533536,
+        "width" : 0.078521939541431163,
+        "x" : 0.5750577368184876,
+        "y" : 0.85026737979934419
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "Shall I~?가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013146167557932298,
+        "width" : 0.069284063028105636,
+        "x" : 0.5796766750679333,
+        "y" : 0.8618538322704562
+      },
+      "confidence" : 1,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "전달하고자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013146167557932298,
+        "width" : 0.04618937715570981,
+        "x" : 0.59122401799805369,
+        "y" : 0.87500000011382706
+      },
+      "confidence" : 1,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0,
+      "text" : "하는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014721427584289404,
+        "width" : 0.44572749577515519,
+        "x" : 0.46651269541556434,
+        "y" : 0.93313953476133427
+      },
+      "confidence" : 1,
+      "observation_index" : 38,
+      "red_ink_fraction" : 0.96325459317585305,
+      "text" : "8장 동사 ⑦ 조동사: 사실을 말하는가, 생각을 말하는가? 267"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    641
+  ],
+  "pdf_page_index" : 258,
+  "pdf_page_number" : 259
+}

@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.80046402324329724,
+        "x" : 0.11136891634237048,
+        "y" : 0.074127906658093212
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.099350973539690468,
+      "text" : "예문 | visited the city where my mother spent some years in her youth."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.053364271467382263,
+        "x" : 0.26218097319322298,
+        "y" : 0.098754448145190188
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.52238805970149249,
+      "text" : "선행사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01475785550697839,
+        "width" : 0.072039864280007082,
+        "x" : 0.34797078699718093,
+        "y" : 0.098725723383719433
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.36144578313253012,
+      "text" : "관계사절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.47563804279674182,
+        "x" : 0.15777262581624044,
+        "y" : 0.11773255781907954
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "나는 어머니가 젊었을 때 몇 년을 보낸 도시를 방문했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026745105553352189,
+        "width" : 0.81228091500022193,
+        "x" : 0.13214011012122029,
+        "y" : 0.16430439433393773
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "위 문장의 경우, the city는 '어떤 도시인지' 설명이 필요한 명사이고, where my"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025064259661474297,
+        "width" : 0.83104124936190515,
+        "x" : 0.10884365180320156,
+        "y" : 0.19401282791464114
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "mother spent some years in her youth가 설명의 내용인, 관계 부사를 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0215641578321355,
+        "width" : 0.1789970831437544,
+        "x" : 0.111197513991717,
+        "y" : 0.22177606060302968
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "한 관계사절이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024224075134114398,
+        "width" : 0.81228195537220349,
+        "x" : 0.13212680709790947,
+        "y" : 0.25011494109240462
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이 my mother ~ in her youth라는 절 안에 선행사인 the city를 넣어 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021838533496517321,
+        "width" : 0.83294660394841979,
+        "x" : 0.1090487396930311,
+        "y" : 0.27758007099319382
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "the city 앞에 전치사 in을 붙여서 in the city라고 해야 한다. 즉, 만약 이 절을 관"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.66125288876620214,
+        "x" : 0.11136891516966321,
+        "y" : 0.30516014244240108
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "계 부사 where 대신에 관계 대명사 which로 쓰면 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022095922049254368,
+        "width" : 0.80522762645374635,
+        "x" : 0.10667038666143315,
+        "y" : 0.36164586428060141
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "| visited the City. + My mother spent some years in the city in her youth."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023113204915328422,
+        "width" : 0.78208368474786916,
+        "x" : 0.12055099599352567,
+        "y" : 0.38804637827162292
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "기| visited the city in which my mother spent some years in her youth."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483324111992829,
+        "width" : 0.8190255598588424,
+        "x" : 0.1252900041769778,
+        "y" : 0.44172597828962501
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.13409961685823754,
+      "text" : "'전치사 +관계 대명사'-'관계 부사의 원칙에 따라서 in which는 where가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.058004639365456329,
+        "x" : 0.11136890988030354,
+        "y" : 0.47093023242268806
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021567333635486352,
+        "width" : 0.74488839236172777,
+        "x" : 0.10667319993140714,
+        "y" : 0.51738703775340777
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "l visited the city where my mother spent some years in her youth."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022260855949646219,
+        "width" : 0.80994892120361317,
+        "x" : 0.13445669289965043,
+        "y" : 0.56043305659164455
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 관계사절 안에 선행사를 넣어 봤을 때, 전치사가 불필요한 경우에는 관계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023897792096664094,
+        "width" : 0.83771367506547401,
+        "x" : 0.11129296395357099,
+        "y" : 0.58860649037289792
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "대명사를 사용한다. 예를 들어, 아래 문장에서 사용하는 동사 visit는 타동사인데,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021978192482130399,
+        "width" : 0.51044082641601562,
+        "x" : 0.11136891451047633,
+        "y" : 0.61610320267251573
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "전치사를 사용하지 않고 직접 목적어가 뒤에 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023154630355563421,
+        "width" : 0.78910628232088953,
+        "x" : 0.10891034524090722,
+        "y" : 0.67206963566142008
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "This is the City. + My mother visited the city several times in her youth."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021451347663309139,
+        "width" : 0.76812249963933765,
+        "x" : 0.12057857736064212,
+        "y" : 0.6999504549552279
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "- This is the city which my mother visited several times in her youth."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019194284792048211,
+        "width" : 0.44108061356977979,
+        "x" : 0.13444805670411897,
+        "y" : 0.72659044309415988
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이곳이 어머니가 젊었을 때 몇 번 방문했던 도시이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302759679641,
+        "width" : 0.81206495111638843,
+        "x" : 0.13225058698029304,
+        "y" : 0.77470930210464717
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이처럼 '전치사 +관계대명사'로 사용할 필요가 없을 때에는, 관계부사(여기에서는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962674911336189,
+        "width" : 0.80742454528808583,
+        "x" : 0.11136893918890363,
+        "y" : 0.80232558139747179
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "where)로 쓰지 않고 그대로 관계대명사(여기에서는 which)를 사용하면 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022789356123085969,
+        "width" : 0.44829008795998315,
+        "x" : 0.11347269839760919,
+        "y" : 0.85832036450461102
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.97602397602397606,
+      "text" : "• 관계부사 how 사용 시 주의 사항"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.039443154226649901,
+        "x" : 0.081206497074610084,
+        "y" : 0.92877906971190083
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 1,
+      "text" : "332"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 321,
+  "pdf_page_number" : 322
+}

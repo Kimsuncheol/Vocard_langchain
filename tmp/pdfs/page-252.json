@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021872093200683507,
+        "width" : 0.81206495111638843,
+        "x" : 0.078886317046214127,
+        "y" : 0.074127906741908722
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "추측을 나타내는 may, might는 '판단 용법'이기 때문에, 시간상으로 과거를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.83294660394841968,
+        "x" : 0.058004656095685725,
+        "y" : 0.1017441862135573
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.047709923664122141,
+      "text" : "타내고 싶은 경우에는 'may have+과거분사', might have+과거분사'의 형태를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021026626586914121,
+        "width" : 0.11005322499708695,
+        "x" : 0.055254576162670842,
+        "y" : 0.12970564307145627
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022070437961154488,
+        "width" : 0.44347776066173206,
+        "x" : 0.0926613881234645,
+        "y" : 0.17715918374106987
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "They might have thought it was okay."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023125554402669279,
+        "width" : 0.37876636331731622,
+        "x" : 0.10414177629190084,
+        "y" : 0.20088892278286874
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그들은 그것이 괜찮다고 생각했을지도 몰라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020487080891927079,
+        "width" : 0.52469977465542872,
+        "x" : 0.13423294397259494,
+        "y" : 0.25422222180355702
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.96666666666666667,
+      "text" : "- 기원을 나타내는 may(~이기를 빌다)란 무엇인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.81438515403053979,
+        "x" : 0.076566122516549803,
+        "y" : 0.28924418618241121
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "may가 '추측'의 의미라는 것에서 알 수 있듯이, 이는 '생각만 하고 있을 뿐, 정말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021806201510959244,
+        "width" : 0.83526680686257104,
+        "x" : 0.055684462217219052,
+        "y" : 0.31686046500572873
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "그렇게 될지는 모르겠다'라는 마음을 강하게 나타내는 말이다. 따라서 문어체적인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024495208740234475,
+        "width" : 0.64997434616088867,
+        "x" : 0.057876031143152963,
+        "y" : 0.34184365851177267
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "표현으로 '생각만 하고 있을 뿐'을 나타내는 절에서 많이 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020466408623589283,
+        "width" : 0.48723897066983307,
+        "x" : 0.10440835675074971,
+        "y" : 0.39377777779139955
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "Whatever may happen, | will not give it up."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016046512179904604,
+        "width" : 0.4686774774031206,
+        "x" : 0.10672854656526111,
+        "y" : 0.41999999979886093
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "무슨 일이 일어날지라도, 난 그것을 포기하지 않을 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.5081206668506969,
+        "x" : 0.099767972697952831,
+        "y" : 0.44311111096771305
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "Say it louder so that everyone may hear you."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017465116712782169,
+        "width" : 0.36194894530556421,
+        "x" : 0.10672854347174968,
+        "y" : 0.46799999963944439
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "모두에게 들리도록 그것을 더 크게 말해라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.5730858282609419,
+        "x" : 0.10672854747395738,
+        "y" : 0.48977777777339226
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "-• 직역: 그것을 더 큰 소리로 말해라, 그러면 모두가 들을지도 몰라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014727389865451412,
+        "width" : 0.25058005072853778,
+        "x" : 0.41763340839558033,
+        "y" : 0.51288888898026441
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.21212121212121213,
+      "text" : "(주 말하는 사람이 생각하는 내용)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024612599690755244,
+        "width" : 0.80992742018266162,
+        "x" : 0.078788743686776783,
+        "y" : 0.55791745786757885
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 '강하게 생각하다, 강하게 바라다'라는 의미로 may를 강조해서 문두에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537357,
+        "width" : 0.5034802610223944,
+        "x" : 0.058004648950588322,
+        "y" : 0.58575581384954734
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "놓으며, 기원 용법이 생겨났다고 추측할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023294573465983071,
+        "width" : 0.8143851540305399,
+        "x" : 0.076566123485020121,
+        "y" : 0.61333333332672657
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "may가 강조되어 문두에 나오기 때문에, 결과적으로 may를 사용한 의문문과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020448321024576832,
+        "width" : 0.20649652047590777,
+        "x" : 0.058004639873811173,
+        "y" : 0.64088888863991067
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "동일한 어순이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.81438515403053979,
+        "x" : 0.078886309201328095,
+        "y" : 0.66569767402011837
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "참고로, '허락'을 구하는 May I ~?와 같은 표현이 '신에게 허락을 구하는 =기원'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023831685384114509,
+        "width" : 0.74968173287131556,
+        "x" : 0.057881904911279959,
+        "y" : 0.69409773775829131
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이라는 이미지와 겹쳐져 may 기원문의 성립을 뒷받침한 것으로 생각된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.26914152232083405,
+        "x" : 0.058004644703738381,
+        "y" : 0.74399999966604802
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.17351598173515981,
+      "text" : "예문 May God bless you."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.3271461616862904,
+        "x" : 0.37122970326186466,
+        "y" : 0.7440000002498246
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "당신에게 신의 은종이 있기를 빕니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020475452846950959,
+        "width" : 0.61716938018798828,
+        "x" : 0.05800463667652845,
+        "y" : 0.77022222192199863
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.11186440677966102,
+      "text" : "예e May you be very happy. 당신이 매우 행복하기를 빕니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488328721797,
+        "width" : 0.44315546209161927,
+        "x" : 0.46867748925581443,
+        "y" : 0.92877906998045279
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.98148148148148151,
+      "text" : "8장 동사 ⑦ 조동사: 사실을 말하는가, 생각을 말하는가? 261"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 252,
+  "pdf_page_number" : 253
+}

@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023791055238119641,
+        "width" : 0.78268610095301405,
+        "x" : 0.14337410554972527,
+        "y" : 0.088999499505978963
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "초급 또는 중급 수준에서 벗어나 어려운 말을 쓰려고 하면, 어려운 표현을 썼다는 자기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026247121261107953,
+        "width" : 0.7828161361369681,
+        "x" : 0.14559400714950271,
+        "y" : 0.11851776672082226
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "만족감만 상대방에게 전달되고, 이해하기 어려운 문장을 만들게 되어 정작 자신이 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.44444445887355943,
+        "x" : 0.14351851118509218,
+        "y" : 0.14970930224115475
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "하고 싶은 내용이 잘 전달되지 않는 경우가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957501822094883,
+        "width" : 0.38194445887355932,
+        "x" : 0.14120369629337201,
+        "y" : 0.1991279071230011
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 경우, 문장의 형태도 형편없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025375412028031064,
+        "width" : 0.80596101368572703,
+        "x" : 0.14330684429054405,
+        "y" : 0.2257062025602341
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "명사 표현에 집착하는 초급, 중급의 영어 학습자들은 종종 그 명사 표현에 맞는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021885086208900173,
+        "width" : 0.41203704184674206,
+        "x" : 0.1203703678463529,
+        "y" : 0.25436046526768252
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "동사나 구문을 습득하는 것에 소홀하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02688937170225536,
+        "width" : 0.76881648936170222,
+        "x" : 0.13875786171066701,
+        "y" : 0.28128941521780049
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "어려운 말을 사용하려면 그 말의 구문이나 문장 구성도 그에 걸맞아야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023710344185608578,
+        "width" : 0.61158979699966753,
+        "x" : 0.13869171927683219,
+        "y" : 0.30777347031447855
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "그 균형이 깨진 문장들은 차마 눈 뜨고 볼 수 없을 정도이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028915437515095954,
+        "width" : 0.81062834178302301,
+        "x" : 0.14094347423049547,
+        "y" : 0.33423902739557287
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "그보다는 중학교 수준의 탄탄한 구문을 제대로 사용하고, 개수가 많지 않더라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026327072089253001,
+        "width" : 0.83128921833444136,
+        "x" : 0.11789993691739405,
+        "y" : 0.36307735315066814
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "도 응용이 잘 되는 표현들을 이용해서, 평이하고 이해하기 쉬운 문장을 작성하도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022762889115411578,
+        "width" : 0.14388254584995569,
+        "x" : 0.11787354180349958,
+        "y" : 0.39050809029818201
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "록 해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021926466680506351,
+        "width" : 0.52314816738696812,
+        "x" : 0.17361110125811538,
+        "y" : 0.45494186061306008
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.023268698060941829,
+      "text" : "영어 학습의 첫 번째 목표는, 하고 싶은 말을 전달하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02243378832671139,
+        "width" : 0.29215587859458114,
+        "x" : 0.13637270062786236,
+        "y" : 0.52708592077478489
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "이 사실을 잊어서는 안 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023836123137287446,
+        "width" : 0.27150623510915339,
+        "x" : 0.13625444608084694,
+        "y" : 0.55477152853255773
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이것이 설득력의 원천이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024610858795057422,
+        "width" : 0.8104233329177748,
+        "x" : 0.13645032695591638,
+        "y" : 0.60971228662931642
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "기본적으로는 중학교 영어와 동사 표현을 중심으로 쓰면서, 숙달되면 읽기에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028763231433583392,
+        "width" : 0.83154357477282803,
+        "x" : 0.11547133287916174,
+        "y" : 0.63424597164640384
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "습득한 고난이도의 표현들을 추가하는 과정을 거쳐야 한다. 고급 문장을 만들고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020566085055205297,
+        "width" : 0.83101849927969851,
+        "x" : 0.11574075020422832,
+        "y" : 0.66548042664778917
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "싶은 사람은 자신이 쓰고 싶은 표현의 구문이나 문장 구성을 제대로 알기 위해서,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022884411319719078,
+        "width" : 0.73864114098515066,
+        "x" : 0.11333390442242951,
+        "y" : 0.69227430487271024
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "Reading으로 영어 문장을 더 많이 접하며 인풋을 늘리는 것이 필수이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02302807081636582,
+        "width" : 0.80814373476285462,
+        "x" : 0.1364387302316824,
+        "y" : 0.71869870725623297
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "영어를 학습하는 사람들은 초급 및 중급 단계에서 다음과 같이 생각하는 것이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02200922762371893,
+        "width" : 0.10648147907662901,
+        "x" : 0.11574074181524301,
+        "y" : 0.74688612102694918
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "중요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.81018516594636536,
+        "x" : 0.13657408360364331,
+        "y" : 0.77313167292923868
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "중학교 영어는 '사용하기 위한 영어'이고, 고등학교 영어는 '이해하기 위한 영어'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.055555557359194929,
+        "x" : 0.11342592489550543,
+        "y" : 0.80232558102715401
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537296,
+        "width" : 0.039351851551245293,
+        "x" : 0.083333333360662079,
+        "y" : 0.92571174377082621
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.98809523809523814,
+      "text" : "434"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 420,
+  "pdf_page_number" : 421
+}

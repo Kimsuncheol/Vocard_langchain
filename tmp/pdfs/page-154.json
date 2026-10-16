@@ -1,0 +1,115 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026340523613823774,
+        "width" : 0.83316624418218077,
+        "x" : 0.062550418001372787,
+        "y" : 0.070562494035875223
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "있을 뿐 아직 실행하지 않은 것으로, 앞으로 실행할 동작'이라는 의미를 가진 용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.3062645012605274,
+        "x" : 0.06496519773878226,
+        "y" : 0.098666667012265341
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "법으로 발전한 것처럼 보인다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021990955776638454,
+        "width" : 0.81206496218417556,
+        "x" : 0.083526683537312602,
+        "y" : 0.12645348827003922
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "오래전 과거에 사용되었던 영어에서는 동사원형, 명령문, 가정법 현재에 개별적인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.8329466041943705,
+        "x" : 0.062645027253819999,
+        "y" : 0.15406976706440845
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "활용 형태가 있었기 때문에 현재와 같이 동일한 형태(=동사원형)는 아니었지만, 적"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020536176045735655,
+        "width" : 0.83294660419437061,
+        "x" : 0.062645027253816279,
+        "y" : 0.18168604613419215
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "어도 현대 영어에서 이들이 같은 형태가 된 것은 단순한 우연이 아닌 인지적 필연성"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022344851175943981,
+        "width" : 0.20895931162732709,
+        "x" : 0.062573708335363604,
+        "y" : 0.20903106234681956
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이 있다고 생각한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.42459396470523048,
+        "x" : 0.49187935163810403,
+        "y" : 0.92577777796148841
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.90243902439024393,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 161"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 154,
+  "pdf_page_number" : 155
+}

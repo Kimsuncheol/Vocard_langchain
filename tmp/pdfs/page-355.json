@@ -1,0 +1,235 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01673063712377687,
+        "width" : 0.34154425726996529,
+        "x" : 0.095565417597343896,
+        "y" : 0.079312452036034431
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.39735099337748342,
+      "text" : "* 태권도 연습과 맞바꿔 8년을 소비한 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020500751593347299,
+        "width" : 0.065420558309962629,
+        "x" : 0.4439252346300655,
+        "y" : 0.16860465117312096
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 1,
+      "text" : "for"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014630152125396534,
+        "width" : 0.053738319636070453,
+        "x" : 0.57710280272368708,
+        "y" : 0.18023255818584638
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "8년간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028447086141635269,
+        "width" : 0.81834720274661676,
+        "x" : 0.069705642616731067,
+        "y" : 0.31027250393739725
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이 때문에 행위와 맞바꿔 '얼마만큼의 기간을 소비했는지'를 말하면 되고, '그것이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023977645421260352,
+        "width" : 0.5236591654285746,
+        "x" : 0.051220688665499649,
+        "y" : 0.34136754207893127
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "행해진 기간이 언제인지'를 설명할 필요는 없어진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027268613303415012,
+        "width" : 0.81601804206174322,
+        "x" : 0.069799030271123094,
+        "y" : 0.36667781536629285
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 for 뒤에 오는 기간을 나타내는 말에 last, next, the와 같이 한정하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021918192070284337,
+        "width" : 0.21962616314575542,
+        "x" : 0.051401873380393294,
+        "y" : 0.3981399466768899
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "말을 쓸 필요는 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028930174132381747,
+        "width" : 0.81379521470463867,
+        "x" : 0.072114232780662438,
+        "y" : 0.42051061371524967
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.075313807531380755,
+      "text" : "그러나 예외로, 'for the past+기간'이라는 말도 있다. '지금부터 시간을 계산해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02214348981399461,
+        "width" : 0.38551400122139867,
+        "x" : 0.051401880600359814,
+        "y" : 0.45039858253674414
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "서 과거~동안의 기간'이라는 뜻이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010355943488905783,
+        "width" : 0.028037383685424452,
+        "x" : 0.056074765984390582,
+        "y" : 0.50708591686506199
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.99056603773584906,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02387782553849338,
+        "width" : 0.55658198082209309,
+        "x" : 0.10018234565862671,
+        "y" : 0.49825221340529724
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "We have hardly seen him for the past two weeks."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024489671387854073,
+        "width" : 0.39321542940927712,
+        "x" : 0.10005943159954447,
+        "y" : 0.52333470014576999
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "지난 2주 동안 우리는 그를 거의 보지 못했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033592295076490197,
+        "width" : 0.81395475816862539,
+        "x" : 0.076635785808170639,
+        "y" : 0.5655764594812972
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "단, 이 또한 '어느 기간에 했는지'보다는 '현재에 이르기까지. 그 행위와 맞바꿔 어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024290976849565271,
+        "width" : 0.63812290637241809,
+        "x" : 0.055900381942864411,
+        "y" : 0.59871577958940303
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "느 정도의 기간을 소비했는지'를 나타내는 것에는 변함이 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016681024096939168,
+        "width" : 0.43738166830818209,
+        "x" : 0.48342729694658698,
+        "y" : 0.92416512344235091
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.94835680751173712,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 367"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    645
+  ],
+  "pdf_page_index" : 355,
+  "pdf_page_number" : 356
+}

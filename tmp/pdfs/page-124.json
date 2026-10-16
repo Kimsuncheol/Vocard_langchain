@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011773901621500715,
+        "width" : 0.027842228125173146,
+        "x" : 0.064965196726276542,
+        "y" : 0.076888888929320331
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99378881987577639,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021362415737576024,
+        "width" : 0.39473193013076241,
+        "x" : 0.10425764724927859,
+        "y" : 0.072863119540297006
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "Turning right, you'll find the shop."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.32946636659879208,
+        "x" : 0.10904871913595209,
+        "y" : 0.098666666245772361
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "우회전하면, 그 가게를 찾을 수 있어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016038759019639692,
+        "width" : 0.041763340835030083,
+        "x" : 0.686774942150157,
+        "y" : 0.0973333333775247
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.055555555555555552,
+      "text" : "조건"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012000000000000011,
+        "width" : 0.037122969931744521,
+        "x" : 0.062645011507445614,
+        "y" : 0.15244444430845117
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.48259861722905584,
+        "x" : 0.10440834786560635,
+        "y" : 0.15111111106634501
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "Pushed by me, the shopping Cart fell over."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.30394432121980275,
+        "x" : 0.11136890656337162,
+        "y" : 0.17587209321245856
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "나에게 밀려, 쇼핑 카트가 쓰러졌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122281,
+        "width" : 0.039443155383387385,
+        "x" : 0.68445475630627606,
+        "y" : 0.17732558129532694
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.077586206896551727,
+      "text" : "이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020546512179904552,
+        "width" : 0.69605570042386977,
+        "x" : 0.062645003507136351,
+        "y" : 0.22799999981885888
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.10178384050367262,
+      "text" : "예e He, not knowing what to say, kept looking at the ground."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020546512179904552,
+        "width" : 0.43387472815547429,
+        "x" : 0.10904871469527816,
+        "y" : 0.2514534879915733
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "그는 뭐라고 말해야 할지 몰라 계속 땅만 쳐다봤다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016102067735460079,
+        "width" : 0.044083526286673003,
+        "x" : 0.68445475646223186,
+        "y" : 0.25145348797021283
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.18584070796460178,
+      "text" : "이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011647286732991535,
+        "width" : 0.034802784480101684,
+        "x" : 0.06264501133514426,
+        "y" : 0.30666666661381259
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021942854139539891,
+        "width" : 0.49902075368461879,
+        "x" : 0.095048518443817065,
+        "y" : 0.30349697129683451
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "She kept talking to me, shaking our hands."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025800958421495324,
+        "width" : 0.4017259530141844,
+        "x" : 0.10888434074699767,
+        "y" : 0.32668671799209847
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 악수를 한 채로, 나에게 계속 말을 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016056846618652365,
+        "width" : 0.58236659706061611,
+        "x" : 0.11136891114486579,
+        "y" : 0.35022222249605084
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.51134380453752182,
+      "text" : "*'~하면서, ~한 채로'를 나타낸다. 문장 끝에 오는 분사구문은 이 패턴이 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829708,
+        "width" : 0.046403709032856733,
+        "x" : 0.68445475774188547,
+        "y" : 0.32703488349672472
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "상황"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024286808437771201,
+        "width" : 0.80994673925088645,
+        "x" : 0.083431221159988675,
+        "y" : 0.39464686800429161
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "분사구문의 읽기 방법에서 '~하고 (있어)'가 뿌리가 되는 이유는, 분사구문이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.30394432121980275,
+        "x" : 0.060324823029983404,
+        "y" : 0.42577777806528561
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "-ing으로 되어 있기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021837209065755148,
+        "width" : 0.80974476049977828,
+        "x" : 0.083526691559035721,
+        "y" : 0.45200000033128929
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "수동태의 경우에는 과거분사를 사용하는데, 그것은 단순히 'being+과거분사'에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021897933112250412,
+        "width" : 0.83526680587876778,
+        "x" : 0.060324833594777472,
+        "y" : 0.47955555535512018
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "서 being이 생략된 것이다. 따라서 분사구문인 이상 모두 -ing로 되어 있다고 할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020600302802191828,
+        "width" : 0.09148919937458444,
+        "x" : 0.05991809044066098,
+        "y" : 0.50633338041957987
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021899225023057745,
+        "width" : 0.80974476049977839,
+        "x" : 0.083526691600432801,
+        "y" : 0.53333333321015963
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.047493403693931395,
+      "text" : "따라서 '동작하는 중'이라는 의미가 뿌리에 있다. 'A를 하는 중에 B를 하다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025569018893771722,
+        "width" : 0.81008058372118796,
+        "x" : 0.062494252092751626,
+        "y" : 0.55880200711890693
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "의미가 기본이 되어, 'A하는 중'이 'A하고 (있어)라는 의미의 바탕이 되는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023417431301540725,
+        "width" : 0.41853109589705234,
+        "x" : 0.49831538564059369,
+        "y" : 0.91985929301641978
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.83939393939393936,
+      "text" : "4장 동사 ③ 현재분사: ing는 이것에서부터 생각하자 129"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 124,
+  "pdf_page_number" : 125
+}

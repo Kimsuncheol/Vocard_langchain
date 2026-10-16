@@ -1,0 +1,235 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024627925023211761,
+        "width" : 0.47122183688345798,
+        "x" : 0.058106966395037984,
+        "y" : 0.073027961434105171
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99431818181818177,
+      "text" : "d some은 '없어도 되는 말'이 아니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024923932160967333,
+        "width" : 0.81859290837562326,
+        "x" : 0.067373372878907864,
+        "y" : 0.12118430013556769
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "some을 잘 구사하는 학생들은 영어 학습자들 중에서도 수준이 상당히 높다고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022824552277071697,
+        "width" : 0.11991373697916667,
+        "x" : 0.050765742107405323,
+        "y" : 0.15137842151063052
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025902576328064364,
+        "width" : 0.72510287293002129,
+        "x" : 0.065176700876251339,
+        "y" : 0.17369520253119641
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "'읽기를 위한 영어'에서 some은 '없어도 되는' 표현으로 취급을 받는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024880831497585021,
+        "width" : 0.81585084746705827,
+        "x" : 0.069930054234547998,
+        "y" : 0.20186335444006054
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "우리가 학교에서 처음 some이라는 단어를 배울 때, '5ome은 '몇 개의, 약간의'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024633626760162897,
+        "width" : 0.83474766223179309,
+        "x" : 0.051149953753390098,
+        "y" : 0.23012438416039427
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "라는 뜻인데, 이를 번역하지 않아도 된다'라고 배우기도 한다. 영어 단어를 모국어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465148017,
+        "width" : 0.83449882659477392,
+        "x" : 0.051282053269379714,
+        "y" : 0.25726744143852232
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "로 바꿔 해석하는 것을 '학습'이라고 생각하는 현재의 영어 교육에서는, 왜 some을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941559,
+        "width" : 0.73193472403067139,
+        "x" : 0.051282055719310667,
+        "y" : 0.28615794159231012
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "사용하거나 사용하지 않을 때가 있는지에 대해 주의를 기울이지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025363856115061867,
+        "width" : 0.81389076689369655,
+        "x" : 0.072067045605040819,
+        "y" : 0.31068856564765579
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 영어 원어민들이 어떤 마음으로 'some을 쓰고 싶다'고 생각하는지를 모"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024152786200725584,
+        "width" : 0.76706393423922714,
+        "x" : 0.051190451455715887,
+        "y" : 0.34086318141999028
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "르는 한, some을 제대로 구사해서 영어를 말하거나 쓰는 것은 불가능하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021853913220030607,
+        "width" : 0.81351977399951036,
+        "x" : 0.072261091919100004,
+        "y" : 0.39529724933096566
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.072957198443579771,
+      "text" : "some은 '존재하여 그곳에 있다'라는 것을 나타내기 위한 말이다. 즉, '개념'이 아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020510049022820165,
+        "width" : 0.63170165146178325,
+        "x" : 0.053613043618721989,
+        "y" : 0.42280390457962158
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "닌 '존재'의 의미로 명사를 사용할 때 some을 사용해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445453016,
+        "width" : 0.81585084746705838,
+        "x" : 0.072261056361024048,
+        "y" : 0.45058139522717933
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "먼저 some이 '존재를 나타내는 말'임을 보여 주는 구체적인 예시를 보자. 이는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306034,
+        "width" : 0.25407924815120858,
+        "x" : 0.053613056457098331,
+        "y" : 0.47959183684279427
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "다음 학습에서 계속된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017193922027614938,
+        "width" : 0.3825855744190706,
+        "x" : 0.53133065306296123,
+        "y" : 0.92416030078016531
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.88528678304239405,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 287"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    644
+  ],
+  "pdf_page_index" : 277,
+  "pdf_page_number" : 278
+}

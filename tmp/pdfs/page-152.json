@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026778174506293384,
+        "width" : 0.81024559507978722,
+        "x" : 0.087909074606636425,
+        "y" : 0.089338820407874109
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "영영 사전에서도 동사의 의미를 설명할 때, 부정사의 명사적 용법인 'to+동사원"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028503284030490517,
+        "width" : 0.6016332748088431,
+        "x" : 0.066945991437217287,
+        "y" : 0.11495918184428633
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "형'을 쓴다. 이를 통해 동사의 '개념' 부분을 설명하는 것이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022416776021321638,
+        "width" : 0.6546548180546321,
+        "x" : 0.064790837240404325,
+        "y" : 0.16732184671043626
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.11091954022988505,
+      "text" : "예문 eat; to put food in your mouth, chew it and swallow it"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016089147779676627,
+        "width" : 0.33642690672096631,
+        "x" : 0.11368909883080323,
+        "y" : 0.19466666651597808
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "먹다: 음식을 입에 넣고, 씹고, 삼키는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.24825987038037456,
+        "x" : 0.1136890902180978,
+        "y" : 0.21644444439866584
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "(출처: OALD 옥스퍼드 현대 영영 사전)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016138242933485314,
+        "width" : 0.55684455168162683,
+        "x" : 0.11600927858621392,
+        "y" : 0.23822222253374981
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.46349745331069608,
+      "text" : "> 먹는 행위를 언제 할지는 상관없이, '먹다'라는 것이 어떤 행위인지만을 설"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.25058005042109932,
+        "x" : 0.13689094914802041,
+        "y" : 0.2586666667976103
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.57818181818181813,
+      "text" : "명하는 데 't0+ 동사원형'을 쓴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0091962899102104867,
+        "width" : 0.058182060295808413,
+        "x" : 0.69364678873671759,
+        "y" : 0.21778557595333214
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이게 바로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013719156053331183,
+        "width" : 0.086088805503033661,
+        "x" : 0.68433378736327466,
+        "y" : 0.2293322824169397
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "먹는다는 것!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.54756378823138296,
+        "x" : 0.058004647044401336,
+        "y" : 0.32703488409199244
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.98396051819864283,
+      "text" : "• '아직 하지 않은' 것을 나타내는 경향이 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.81206496218417568,
+        "x" : 0.088167054760235036,
+        "y" : 0.36482558158952916
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "동사원형은 보통 '아직 하지 않은 것'을 나타내는 경향이 있는 것으로 보인다. 'to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021900516933864966,
+        "width" : 0.56148491176307624,
+        "x" : 0.060324829101144554,
+        "y" : 0.39098837197865344
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "+동사원형'은 '앞으로 할 일'을 의미하는 경우가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02028582085503472,
+        "width" : 0.52453067860704794,
+        "x" : 0.064865616765880138,
+        "y" : 0.44011814393898285
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.21505376344086022,
+      "text" : "예문 | want to eat something. 난 무언가 먹고 싶어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.57308583361037235,
+        "x" : 0.11600928725908791,
+        "y" : 0.46656976765562408
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.40093603744149764,
+      "text" : "* 무언가 먹고 싶은(want) 것은 지금이지만, 먹는(eat) 것은 앞으로의 일이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020541343688964875,
+        "width" : 0.27378189411569148,
+        "x" : 0.088167057462297679,
+        "y" : 0.51288888923449494
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "명령문도 동사의 원형이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02084793429904519,
+        "width" : 0.1787974364368628,
+        "x" : 0.064893625053133563,
+        "y" : 0.56079696306838134
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.49086161879895562,
+      "text" : "예문 Stop! 멈춰!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.40603248109208778,
+        "x" : 0.1160092813854039,
+        "y" : 0.58711111138265126
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.43568464730290457,
+      "text" : "- 현재 하고 있지 않은 일을 지금부터 하라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.81206496218417545,
+        "x" : 0.08584687514921148,
+        "y" : 0.630666666276395
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "가정법 현재로 불리는 용법도 동사원형을 사용하여, 주절의 동사에는 '~해라''~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022918309529622372,
+        "width" : 0.82846264128989366,
+        "x" : 0.0671980459007821,
+        "y" : 0.65979723001976831
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "하자'를 의미하는 말이 온다. 이는 가정법 현재 부분(Must 47)에서 설명할 예정으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.79582363696808522,
+        "x" : 0.064965211578198581,
+        "y" : 0.68888888906284407
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "로, should가 생략된 것이 아니라 순수하게 가정법 현재라는 활용형인 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02186821746826173,
+        "width" : 0.55452434999722955,
+        "x" : 0.064965203139766364,
+        "y" : 0.73546511617163612
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.12575655682582382,
+      "text" : "GB They suggested to her that she stay with me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.44779580839982264,
+        "x" : 0.11368910264596205,
+        "y" : 0.75999999981717359
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.026666666666666668,
+      "text" : "그들이 그녀에게 나와 함께 있으면 어떨지 제안했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017512998792860279,
+        "width" : 0.77969485884862577,
+        "x" : 0.11362959712826415,
+        "y" : 0.78203855688965063
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.50666666666666671,
+      "text" : "- suggested에서 알 수 있듯이 과거의 일을 말하고 있는데, stay라는 동사원형을 사용한 것에 주목하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020326057434082001,
+        "width" : 0.63602840342420208,
+        "x" : 0.13442922214073683,
+        "y" : 0.80075030399628688
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.52587244283995183,
+      "text" : "that 절의 내용은 '(앞으로) ~하자고, ~하면 어떨지'라고 제안하는(suggest) 내용이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020496124267578075,
+        "width" : 0.8051044437056738,
+        "x" : 0.08816703535840674,
+        "y" : 0.84883720891606107
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "동사원형이 '아직 하지 않은 일'을 나타내는 경향이 있는 것은 동사의 원형이 시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025026729159885019,
+        "width" : 0.83092716298204794,
+        "x" : 0.064809295620199756,
+        "y" : 0.87355587958000536
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "간에서 해방된 머릿속의 '개념'만을 의미하여 '생각만 하는 것(=실제로 실행하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.42691416638962765,
+        "x" : 0.49419952922859922,
+        "y" : 0.92577777796114602
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.91373239436619713,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 159"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 152,
+  "pdf_page_number" : 153
+}

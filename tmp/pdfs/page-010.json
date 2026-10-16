@@ -1,0 +1,715 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016141234447186847,
+        "width" : 0.034324943349602524,
+        "x" : 0.066361555670736497,
+        "y" : 0.073975044521553013
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "68"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042780748663055,
+        "width" : 0.034324943349602524,
+        "x" : 0.066361555661201804,
+        "y" : 0.13368983974277726
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "69"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016133462256501252,
+        "width" : 0.034324943349602524,
+        "x" : 0.066361555670736497,
+        "y" : 0.19331395346641222
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "70"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133071,
+        "width" : 0.029748284414912882,
+        "x" : 0.066361555618630524,
+        "y" : 0.25436046493161002
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "71"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017555858999650176,
+        "width" : 0.26086957267161165,
+        "x" : 0.1304347787635558,
+        "y" : 0.075581395537326346
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "others, another, the other"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133071,
+        "width" : 0.05491990721627571,
+        "x" : 0.47139588157111456,
+        "y" : 0.075581395181786193
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "300"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017493678074257057,
+        "width" : 0.35926771699712512,
+        "x" : 0.1990846733778677,
+        "y" : 0.093023255837203944
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "'다른'이라는 해석만으로는 알 수 없는 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.22425630119409456,
+        "x" : 0.13272310786977198,
+        "y" : 0.13226744220621878
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "부분 부정과 전체 부정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017465178341789067,
+        "width" : 0.045766589346896425,
+        "x" : 0.45308924544859602,
+        "y" : 0.13226744191278539
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "304"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017498859534714084,
+        "width" : 0.28604119547297446,
+        "x" : 0.19908466532355132,
+        "y" : 0.15406976762805469
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "100%+바늘구멍을 나타내는 not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018923847858068554,
+        "width" : 0.38215101434943377,
+        "x" : 0.13272311975813922,
+        "y" : 0.19186046546400848
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "존재문 ①: there is 구문의 의미상 주어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022461515484434202,
+        "width" : 0.32113780332415287,
+        "x" : 0.1963369712523968,
+        "y" : 0.21060169177480714
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "\"'새로운 정보'의 존재를 나타내는 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016133462256501252,
+        "width" : 0.043478261218981795,
+        "x" : 0.61098398140423904,
+        "y" : 0.19331395348088132
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "308"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.31578946917244555,
+        "x" : 0.13272311440248322,
+        "y" : 0.25133689820258154
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "존재문 ②: have 언어와 be 언어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372013955532,
+        "width" : 0.041189930412206754,
+        "x" : 0.54233409647200492,
+        "y" : 0.25290697673042528
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "312"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939041355289457,
+        "width" : 0.46958507580703568,
+        "x" : 0.19884932512128375,
+        "y" : 0.27048700420859439
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "have의 '있다'와 there is의 '있다'를 구분하여 사용하자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014832290948606053,
+        "width" : 0.07337206401182024,
+        "x" : 0.098325409527028881,
+        "y" : 0.3414210638042634
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.58823529411764708,
+      "text" : "제 10 장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025002023965492115,
+        "width" : 0.22662359944890054,
+        "x" : 0.19446852051496022,
+        "y" : 0.33851642986317487
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "형용사와 부사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026323425578561155,
+        "width" : 0.24942792399545738,
+        "x" : 0.19450800577669752,
+        "y" : 0.36627907004412519
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "'수식하다'의 진실"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016174916490088953,
+        "width" : 0.034324943349602524,
+        "x" : 0.068649885190187304,
+        "y" : 0.43168604648966802
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "72"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017825311942958999,
+        "width" : 0.034324943349602524,
+        "x" : 0.068649885190187304,
+        "y" : 0.4910873439614365
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "73"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016058325980011334,
+        "width" : 0.034324943349602524,
+        "x" : 0.068649885180652598,
+        "y" : 0.55080213903011566
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "74"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017548086808964469,
+        "width" : 0.034324943349602524,
+        "x" : 0.068649885327487073,
+        "y" : 0.60901162793022723
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "75"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372013955643,
+        "width" : 0.034324943349602524,
+        "x" : 0.068649885190187304,
+        "y" : 0.6700581395129237
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "76"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021999233334247359,
+        "width" : 0.48512585243482276,
+        "x" : 0.1327231148586562,
+        "y" : 0.43003565055931881
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "'다른 것들이 아닌, 바로 이것'을 나타내는 형용사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021999233334247137,
+        "width" : 0.04805492015367141,
+        "x" : 0.7070938212732788,
+        "y" : 0.43003565050046078
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "318"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.4462242555082514,
+        "x" : 0.20137300220010756,
+        "y" : 0.45053475897166617
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "한정적 용법: 수식하다'란 무엇인지 반드시 알 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023618538324420735,
+        "width" : 0.32723111784859993,
+        "x" : 0.13272311537775958,
+        "y" : 0.48529411763193664
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "\"단순히 모습을 설명하는' 형용사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017825311942958888,
+        "width" : 0.043478261218981795,
+        "x" : 0.55148741390487477,
+        "y" : 0.49108734398007092
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "322"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017483314303365804,
+        "width" : 0.5400457489356566,
+        "x" : 0.20137300642560654,
+        "y" : 0.5115864529370665
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "서술적 용법을 이해하면, 관계 대명사의 계속적 용법을 알 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019592422852541702,
+        "width" : 0.16952644305282763,
+        "x" : 0.13262808270851653,
+        "y" : 0.549070067630269
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "부사를 이해하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860069778103,
+        "width" : 0.043478261218981795,
+        "x" : 0.39588100678562732,
+        "y" : 0.54941860470348303
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "326"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.48970250333293103,
+        "x" : 0.19679634073628066,
+        "y" : 0.56818181805739743
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "'명사 외의 것을 수식하다'란 구체적으로 무엇을 말하는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.32036614150143738,
+        "x" : 0.13272310762456729,
+        "y" : 0.60901162825583421
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "관계 부사와 관계 대명사의 차이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.19450800606373991,
+        "x" : 0.19679634004169561,
+        "y" : 0.62789661346839298
+      },
+      "confidence" : 0.5,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "'전치사+명사'_,부사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022004415644681363,
+        "width" : 0.048054920153671521,
+        "x" : 0.54462242541134132,
+        "y" : 0.60901162754738847
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "330"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.21967962886510267,
+        "x" : 0.13501144403552517,
+        "y" : 0.66844919749477605
+      },
+      "confidence" : 1,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "명사 뒤에 오는 수식어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017553268269421607,
+        "width" : 0.045766589346896425,
+        "x" : 0.45308924532655176,
+        "y" : 0.67005813964534355
+      },
+      "confidence" : 1,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0,
+      "text" : "334"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021759658786277281,
+        "width" : 0.48552549555060565,
+        "x" : 0.20119726235894239,
+        "y" : 0.68743634687634747
+      },
+      "confidence" : 0.5,
+      "observation_index" : 38,
+      "red_ink_fraction" : 0,
+      "text" : "수식어로도 나오는 '~하는 중(ing)과 '앞으로 향하다(1O)'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941124,
+        "width" : 0.073226542955034252,
+        "x" : 0.098398170055663647,
+        "y" : 0.75713012451575601
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 39,
+      "red_ink_fraction" : 0.69264069264069261,
+      "text" : "제 11 장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302048844695,
+        "width" : 0.11441647604610142,
+        "x" : 0.19679633798217974,
+        "y" : 0.75436046507815246
+      },
+      "confidence" : 0.5,
+      "observation_index" : 40,
+      "red_ink_fraction" : 0,
+      "text" : "전치사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026292335115864485,
+        "width" : 0.59038899453838223,
+        "x" : 0.19679634931261666,
+        "y" : 0.78475935852013301
+      },
+      "confidence" : 1,
+      "observation_index" : 41,
+      "red_ink_fraction" : 0,
+      "text" : "전치사를 파악하면 숙어를 공략할 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01613605298672971,
+        "width" : 0.034324943349602524,
+        "x" : 0.068649885190187304,
+        "y" : 0.84883720928036566
+      },
+      "confidence" : 1,
+      "observation_index" : 42,
+      "red_ink_fraction" : 0,
+      "text" : "77"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019658464373964346,
+        "width" : 0.098756061511093313,
+        "x" : 0.13254416587621001,
+        "y" : 0.84700216312558219
+      },
+      "confidence" : 0.5,
+      "observation_index" : 43,
+      "red_ink_fraction" : 0,
+      "text" : "전치사 at"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016136052986729821,
+        "width" : 0.045766589346896425,
+        "x" : 0.32265446265593661,
+        "y" : 0.84883720929483475
+      },
+      "confidence" : 1,
+      "observation_index" : 44,
+      "red_ink_fraction" : 0,
+      "text" : "340"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017825311942958999,
+        "width" : 0.32036614150143738,
+        "x" : 0.20366132272754212,
+        "y" : 0.8689839569954958
+      },
+      "confidence" : 1,
+      "observation_index" : 45,
+      "red_ink_fraction" : 0,
+      "text" : "다양한 용법에 적용되는 공통된 이미지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219194,
+        "width" : 0.061784894278879898,
+        "x" : 0.85583524154248214,
+        "y" : 0.93003565043958802
+      },
+      "confidence" : 0.5,
+      "observation_index" : 46,
+      "red_ink_fraction" : 0.97999999999999998,
+      "text" : "목차 11"
+    }
+  ],
+  "page_size_points" : [
+    407,
+    641
+  ],
+  "pdf_page_index" : 10,
+  "pdf_page_number" : 11
+}

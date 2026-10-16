@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023322447035047711,
+        "width" : 0.81224649602716636,
+        "x" : 0.13680183775443269,
+        "y" : 0.070736526274984834
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 what은 명사와 잘 쓰인다고 했다. 형용사가 없어도, 'What a+명사!'만"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021360136244032213,
+        "width" : 0.58261723951859901,
+        "x" : 0.11590341020992243,
+        "y" : 0.097866097445723277
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "으로 '정말 대단한 ~구나!'라고 감탄하는 말이 될 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.3921113881197843,
+        "x" : 0.11368908542406654,
+        "y" : 0.14825581414411471
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.3140916808149406,
+      "text" : "예문 What a man! 정말 대단한 남자야!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027495356241861946,
+        "width" : 0.8262661153619939,
+        "x" : 0.10426393789749416,
+        "y" : 0.19899254776491615
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.96690647482014391,
+      "text" : "• |donit think he is kind.가 맞을까?, I think he is not kind.가 맞을까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021952196756998665,
+        "width" : 0.80742463198575098,
+        "x" : 0.13689093212761302,
+        "y" : 0.23822222194243836
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "부정이라는 것은 중요한 정보이다. 부정을 나타내는 표현의 유무에 따라서 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02245404730902778,
+        "width" : 0.35322477600791241,
+        "x" : 0.11575592646110545,
+        "y" : 0.26399182509063457
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "의 의미가 정반대가 되기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024730658637152847,
+        "width" : 0.8077902360395951,
+        "x" : 0.13670866694089259,
+        "y" : 0.29064295451523336
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그래서 영어에서는 부정 표현을 가급적 앞에 둔다. 이 또한 '하고 싶은 말을 먼"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025951537238227074,
+        "width" : 0.26558717814358795,
+        "x" : 0.11329165353275084,
+        "y" : 0.31581195852528632
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "저 하는' 규칙의 일종이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024985561794704902,
+        "width" : 0.46911161596124828,
+        "x" : 0.13436166634054605,
+        "y" : 0.37140657793762155
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "한국어로 \"나는 그가 친절하지 않다고 생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039443154226649901,
+        "x" : 0.82830626531706952,
+        "y" : 0.37777777781140232
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "한국어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.008720930311414854,
+        "width" : 0.03944315422664979,
+        "x" : 0.84918793581010898,
+        "y" : 0.39680232545475769
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "여러분, 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02488888888888896,
+        "width" : 0.48723897066983313,
+        "x" : 0.11600928214933935,
+        "y" : 0.39822222200629875
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "한다.\" 또는 \"나는 그가 친절하다고 생각하지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023650339762369743,
+        "width" : 0.48986630006269982,
+        "x" : 0.11351566430245195,
+        "y" : 0.42855232838534274
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "는다.\"라고 말해도 두 문장 모두 문제가 없다. 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020493539598253063,
+        "width" : 0.48723897066983313,
+        "x" : 0.11368909823816932,
+        "y" : 0.45639534910686175
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "러나 영어로 I donit think he is kind.라는 문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020480620490180068,
+        "width" : 0.48955917358398438,
+        "x" : 0.11368909040287477,
+        "y" : 0.48533333336020079
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "장은 자연스럽지만, I think he is not kind.라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023328164842393639,
+        "width" : 0.83294660394841979,
+        "x" : 0.11368911073675214,
+        "y" : 0.51155555590244672
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "는 문장의 경우, 틀렸다고는 할 수 없지만, 상당히 매끄럽지 않은 표현이어서 첨삭"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021891634623209644,
+        "width" : 0.13514647700569846,
+        "x" : 0.11108105371830962,
+        "y" : 0.53847278689434486
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이 필요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024685473971896688,
+        "width" : 0.81458802656693874,
+        "x" : 0.13215399853360738,
+        "y" : 0.56666576509545197
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "마찬가지로 Nobody was there.(거기에는 아무도 없었다.)는 자연스럽지만,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021967700534396672,
+        "width" : 0.56612530621615331,
+        "x" : 0.10904871583328185,
+        "y" : 0.59447674407678808
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "Anybody was not there.라는 문장은 부자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02329974110921218,
+        "width" : 0.81206495111638843,
+        "x" : 0.13225058697390624,
+        "y" : 0.6482558141274658
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "또한 nol과 no뿐만 아니라, 부정적인 의미를 가진 표현도 가급적 먼저 말하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020799802144368496,
+        "width" : 0.13010926680131391,
+        "x" : 0.11127947320705343,
+        "y" : 0.67564661011193794
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "경향이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023723665025499163,
+        "width" : 0.47607898712158203,
+        "x" : 0.13202052893582802,
+        "y" : 0.7330509083562462
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.0079113924050632917,
+      "text" : "The budget will be likely to be denied."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021258933173285643,
+        "width" : 0.53854487159035425,
+        "x" : 0.13211778858786916,
+        "y" : 0.79047752837382013
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.0015748031496062992,
+      "text" : "The budget will be unlikely to be approved."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027744104173448414,
+        "width" : 0.8100033673373136,
+        "x" : 0.1321130575666655,
+        "y" : 0.83463743581642513
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "한국어의 경우, \"예산은 아마 부결될 것이다.\" 혹은 \"예산은 아마 승인되지 않을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026908264160156237,
+        "width" : 0.45310362902554602,
+        "x" : 0.10876944510258447,
+        "y" : 0.86278527887625234
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "것이다.\" 중 어느 것으로 말해도 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.039443154226649901,
+        "x" : 0.078886311401756268,
+        "y" : 0.92577777792145788
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.95876288659793818,
+      "text" : "396"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 383,
+  "pdf_page_number" : 384
+}

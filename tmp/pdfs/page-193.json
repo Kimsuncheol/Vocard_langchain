@@ -1,0 +1,565 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022843388825681377,
+        "width" : 0.81187404285777687,
+        "x" : 0.078954001201753776,
+        "y" : 0.073072237265697448
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 가정법이란 if의 유무에 따른 것이 아니라 '가정해서 하는 상상 속의 이야"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020495862376933238,
+        "width" : 0.58372094414450904,
+        "x" : 0.058139527816016508,
+        "y" : 0.10159716099253235
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "기'라는 것을 나타내기 위한 '동사의 활용 형태'인 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.30697675184770068,
+        "x" : 0.055813949541265971,
+        "y" : 0.16133720903726734
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.98700173310225303,
+      "text" : "를 가정법의 3가지 시간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.80697675184770068,
+        "x" : 0.079069763468850585,
+        "y" : 0.20763087843293526
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "직설법에서 '실제로 항상 그러하다'를 나타내는 현재형과 '과거에 실제로 그랬다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.70465118234807789,
+        "x" : 0.060465106567265808,
+        "y" : 0.23691215643331964
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "를 나타내는 과거형이 있듯이, 가정법도 시간에 따라 형태가 달라진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022359115207946312,
+        "width" : 0.73971878398548474,
+        "x" : 0.078994152916911003,
+        "y" : 0.26256235858978105
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "가정법의 공통적 특징은 '실제로는 그렇지 않다'를 전제로 한다는 점이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026375590326940479,
+        "width" : 0.4581395496021618,
+        "x" : 0.048837199604603913,
+        "y" : 0.31810115326113531
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.96722621902478012,
+      "text" : "•가정법 현재: 동사원형을 사용한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465148017,
+        "width" : 0.54883722825483838,
+        "x" : 0.058139525291185462,
+        "y" : 0.3575581392740419
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "① 지금 실제로는 그렇지 않지만, 앞으로 그렇게 하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957035284710824,
+        "width" : 0.474646351554177,
+        "x" : 0.058014198713389635,
+        "y" : 0.38686597626342534
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.11750599520383694,
+      "text" : "예문 | suggest that the plan be postponed."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031916062389735989,
+        "width" : 0.45938019319014112,
+        "x" : 0.10653103035527511,
+        "y" : 0.40274979866180594
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.84076433121019112,
+      "text" : "그 계획을 연기할 것을 제안합니다! 가정법 현재형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016166350221676229,
+        "width" : 0.50930231267755677,
+        "x" : 0.10930233194439541,
+        "y" : 0.43877551057276176
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.29619565217391303,
+      "text" : "- suggest(~하도록 제안하다), demand(~하라고 요구하다),"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.49069768732244323,
+        "x" : 0.12558138893131032,
+        "y" : 0.45784883721669845
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.30256410256410254,
+      "text" : "recommend(~하도록 권장하다) 등 '~하라 ~하자'와 같은 의미를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014703833538552979,
+        "width" : 0.48837210915305401,
+        "x" : 0.12790696858626377,
+        "y" : 0.4781976745714962
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.30059523809523808,
+      "text" : "가진 동사 뒤에 오는 that 절, 즉 '~하라, ~하자'의 내용을 담은 절의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062904,
+        "width" : 0.48837210915305396,
+        "x" : 0.12790696856300787,
+        "y" : 0.49854651178184661
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.26058631921824105,
+      "text" : "동사에 원형이 쓰인다. 명령문에서 동사원형을 쓰는 것과 느낌이 비"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062904,
+        "width" : 0.055813951925797883,
+        "x" : 0.12790697740365697,
+        "y" : 0.5188953489600362
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.125,
+      "text" : "슷하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011694971184447067,
+        "width" : 0.046511628411032957,
+        "x" : 0.63255813916657655,
+        "y" : 0.42441860449094815
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "콜록콜록"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088731144631766234,
+        "width" : 0.046511628411032957,
+        "x" : 0.75581395314332089,
+        "y" : 0.41126885527543156
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "10명 중에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209302128787858,
+        "width" : 0.055813951925797967,
+        "x" : 0.75116279138593822,
+        "y" : 0.42005813952292104
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "8명이 감기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0075421472937001743,
+        "width" : 0.025581395084207648,
+        "x" : 0.76279069766461471,
+        "y" : 0.42857142859009145
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "여서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.007297105036061069,
+        "width" : 0.032558140429583382,
+        "x" : 0.68139534827358039,
+        "y" : 0.50290697679262197
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "조퇴하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0089027773731031878,
+        "width" : 0.027906975962899039,
+        "x" : 0.68604651191284216,
+        "y" : 0.51017441857485024
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "습니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021945482032322272,
+        "width" : 0.62325581637295813,
+        "x" : 0.058139533558145745,
+        "y" : 0.55944986656462281
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "② 지금 실제로는 그렇지 않지만, 만약 앞으로 그렇게 된다면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023530053796235073,
+        "width" : 0.48655609651045362,
+        "x" : 0.05792198689878416,
+        "y" : 0.58704182721954046
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.22239031770045387,
+      "text" : "대g Ifit rain tomorrow, 만약 내일 비가 온다면,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.030232556841590208,
+        "x" : 0.17209302376266741,
+        "y" : 0.60901162782975682
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.75510204081632648,
+      "text" : "7"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014830268582307626,
+        "width" : 0.1279922507025979,
+        "x" : 0.21623643268469001,
+        "y" : 0.61903835406490115
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.9887640449438202,
+      "text" : "가정법 현재형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016065754082315031,
+        "width" : 0.77906972711736511,
+        "x" : 0.10930234562736395,
+        "y" : 0.64098837175607593
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.29667519181585678,
+      "text" : "- 이러한 형태는 현재 사용되지 않고 있으며, 대신에 'Tf + 직설법의 현재형(즉, 일반적인 현재형)이 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014702543920400157,
+        "width" : 0.039534883065657167,
+        "x" : 0.12790697694723788,
+        "y" : 0.65971606052141862
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.18518518518518517,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011723344476220809,
+        "width" : 0.037209302186965949,
+        "x" : 0.058139534813493772,
+        "y" : 0.70629991140750803
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 27,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018838005776731115,
+        "width" : 0.23121365633877841,
+        "x" : 0.10188286028512908,
+        "y" : 0.70376003022059685
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "Ifit rains tomorrow,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01675506598566523,
+        "width" : 0.11886373433199793,
+        "x" : 0.20917278388024857,
+        "y" : 0.73217479257300144
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.98614958448753465,
+      "text" : "가정법 현재형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01473994538544976,
+        "width" : 0.30465115200389514,
+        "x" : 0.39069767971248781,
+        "y" : 0.73380656607847627
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.34810126582278483,
+      "text" : "- 이것이 현대 영어의 일반적인 형태이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02594276096509851,
+        "width" : 0.80962094393643469,
+        "x" : 0.078905670808881431,
+        "y" : 0.77069160376335255
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "즉, 학교에서 '시간 • 조건을 나타내는 부사절에서 미래의 일에도 현재형을 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.82790695537220349,
+        "x" : 0.060465126835618221,
+        "y" : 0.80212954782196022
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "한다'라고 배운 것은, 원래 가정법 현재(동사원형)의 형태를 사용한 것이다. 지금은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020546160869716834,
+        "width" : 0.67441862279718556,
+        "x" : 0.058139525692780983,
+        "y" : 0.82994186034343309
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "가정법이 쇠퇴하여 일반적인 (직설법의) 현재형을 사용하게 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020436536557079887,
+        "width" : 0.78837212649258703,
+        "x" : 0.07906975059344358,
+        "y" : 0.85755813941364878
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 현대 영문법에서, 이 형태는 가정법 문장과 다른 것으로 구분하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021902922094661603,
+        "width" : 0.80465117367831152,
+        "x" : 0.081395343233518685,
+        "y" : 0.88226744209093799
+      },
+      "confidence" : 0.5,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "왜나하면 '만약 내일 비가 온다면'이라고 말했을 때, \"정말 비가 올 수도 있는데"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.3441860459067605,
+        "x" : 0.56744186065464142,
+        "y" : 0.92724046131849569
+      },
+      "confidence" : 0.5,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0.92481203007518797,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지 않다 201"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 193,
+  "pdf_page_number" : 194
+}

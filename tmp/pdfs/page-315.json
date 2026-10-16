@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.034027086046006905,
+        "width" : 0.1306651397184892,
+        "x" : 0.13757572028722487,
+        "y" : 0.089512985969962378
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99858423784804151,
+      "text" : "Must 74"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033457365247938409,
+        "width" : 0.31322505257346422,
+        "x" : 0.14153132510814145,
+        "y" : 0.12933333284692661
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99943946188340804,
+      "text" : "부사를 이해하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020558138529459757,
+        "width" : 0.55684453790838073,
+        "x" : 0.14153133170319546,
+        "y" : 0.21200000036270961
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99831029185867892,
+      "text" : "• '명사 외의 것을 수식하다'란 구체적으로 무엇을 말하는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.80974474820223719,
+        "x" : 0.13457078110868845,
+        "y" : 0.30800000020976603
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "명사란, 매우 간단히 말하면 사물, 사람, 또는 개념의 이름을 의미하고, 동사를 간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.30858469009399414,
+        "x" : 0.11368909334931278,
+        "y" : 0.33555555580318841
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "단히 말하면 동작을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026554119533962695,
+        "width" : 0.81005399877374828,
+        "x" : 0.13441655627406071,
+        "y" : 0.35949375787924964
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이와 달리, 형용사와 부사는 '모습'을 나타내는 말이다. 형용사는 명사를 수식하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021900516933864966,
+        "width" : 0.4501160274852406,
+        "x" : 0.11136890028940337,
+        "y" : 0.39098837198846259
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "여, 명사의 모습을 설명하는 말이라고 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.28538283434781164,
+        "x" : 0.13225057795128753,
+        "y" : 0.41715116239493122
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 부사란 무엇일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025503442552354594,
+        "width" : 0.55258828943425953,
+        "x" : 0.13438924925487303,
+        "y" : 0.44258289359050762
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "단적으로 말하면, '명사 외의 말들을 수식하는 말'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183850097656248,
+        "width" : 0.8097447482022373,
+        "x" : 0.13225059548787718,
+        "y" : 0.47238372082489066
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이 설명은 사실이지만, 그 말의 범위가 너무 넓다고 생각할 수 있어서 좀 더 범위"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024634670681423665,
+        "width" : 0.57585456154563208,
+        "x" : 0.11119194629468412,
+        "y" : 0.4972660844071799
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "를 좁혀 구체적인 이미지를 파악하기 쉽도록 설명하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.49419953606345435,
+        "x" : 0.19721577695565207,
+        "y" : 0.55511111108101485
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.97708465945257794,
+      "text" : "부사의 가장 일반적인 기능: 동작의 모습을 설명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021816537645128031,
+        "width" : 0.80046402324329724,
+        "x" : 0.1322505867971672,
+        "y" : 0.59155555547145777
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "부사의 주된 기능은 동사의 수식, 즉 동작의 모습이나 목적을 설명하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026756078084309798,
+        "width" : 0.81481864235617896,
+        "x" : 0.13205605342536328,
+        "y" : 0.61618724149623494
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, '달리다'라는 동사를 보자. 어떤 식으로 '달리다'인가? '빨리 달리다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029903745863172682,
+        "width" : 0.8332936547019264,
+        "x" : 0.1134907845680035,
+        "y" : 0.6429577438719456
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.0028530670470756064,
+      "text" : "느리게 달리다. '공원에서 달리다' '친구와 달리다' '내일 달리다' 등은 모두 '언제,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.83294660394841968,
+        "x" : 0.10904874538077843,
+        "y" : 0.67151162811331033
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "어디서, 어떻게 '달리다'인가'를 구체적으로 설명하는 부사이다. 또한 '막차를 타기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03447868516710062,
+        "width" : 0.83366593447598547,
+        "x" : 0.108661082424371,
+        "y" : 0.69375897382870377
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "위해 달리다' '건강을 위해 달리다'. '살을 빼려고 달리다' 등도 달리는 이유를 설명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022255338880750819,
+        "width" : 0.15837367014451459,
+        "x" : 0.11106838522241173,
+        "y" : 0.7286979119370709
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "하는 부사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016065891689724388,
+        "width" : 0.048723898150704104,
+        "x" : 0.54292343359783324,
+        "y" : 0.75726744144850822
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "언제?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013439476013183627,
+        "width" : 0.062834046103737551,
+        "x" : 0.81197044783018835,
+        "y" : 0.78470468057123355
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "어떻게?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014402938842773438,
+        "width" : 0.082461796023629019,
+        "x" : 0.51230414575771421,
+        "y" : 0.80888798295118869
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "어디에서?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01025452168782548,
+        "width" : 0.041763340884988898,
+        "x" : 0.80974477962711111,
+        "y" : 0.83422222221077857
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "왜?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039443154226649887,
+        "x" : 0.078886311394505693,
+        "y" : 0.92577777792418336
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.96875,
+      "text" : "326"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 315,
+  "pdf_page_number" : 316
+}

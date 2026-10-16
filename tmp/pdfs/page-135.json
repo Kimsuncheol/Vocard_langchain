@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024878814697265605,
+        "width" : 0.81230183053523952,
+        "x" : 0.071817495917013058,
+        "y" : 0.073224684738594559
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, The factory polluted water.(그 공장이 물을 오염시켰다.)라고 하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024926167805989663,
+        "width" : 0.83315040101396287,
+        "x" : 0.050947948128032536,
+        "y" : 0.097860316975487582
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "면 공장이 '오염시키는 쪽'이고 물이 '오염되는 쪽'이 된다. 분명히 공장에 책임이 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.16705336334012078,
+        "x" : 0.051044083991192528,
+        "y" : 0.12933333373313094
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "음을 보여 준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.45475637016566928,
+        "x" : 0.071925759068364167,
+        "y" : 0.15688888850644611
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 이것을 수동태로 하여 Water was"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.055684456250346237,
+        "x" : 0.78654292262060077,
+        "y" : 0.17288888877316988
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "하는 쪽"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025984321594238358,
+        "width" : 0.47643467247063392,
+        "x" : 0.048328250975085592,
+        "y" : 0.18115862343856892
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "polluted.(물이 오염되었다.)라고 하면 '오염"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024806911892361061,
+        "width" : 0.47366765881261075,
+        "x" : 0.050850839338224742,
+        "y" : 0.20682784355942818
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "시키는 쪽'이 사라지고 '오염되는 쪽만 언어화"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.067285383508560503,
+        "x" : 0.78886310860234077,
+        "y" : 0.22800000011377453
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "당하는 쪽"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.47331785377881214,
+        "x" : 0.051044089236466937,
+        "y" : 0.23822222221637901
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "된다. 누가 오염시켰는지, 즉 책임의 소재가 문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020559432135688005,
+        "width" : 0.29002319768810947,
+        "x" : 0.051044085490726226,
+        "y" : 0.26577777753251131
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "장 안에서 사라지는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027206798977322144,
+        "width" : 0.81246632244570027,
+        "x" : 0.071715166292821361,
+        "y" : 0.28947289970139511
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 설명을 읽고서 '어? by the factory는 어디 갔지?'라고 생각하는 사람도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026093957689073299,
+        "width" : 0.83319429438164894,
+        "x" : 0.050913010469554244,
+        "y" : 0.31583753552604499
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "있을 것이다. 하지만 수동태에서는 명확하게 '누구에 의해서 ~당했는가'를 말하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83294660419437061,
+        "x" : 0.051044100783711889,
+        "y" : 0.34577777774169283
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "싶은 경우가 아닌 이상, 80% 이상의 확률로 'by ~'가 생략된다고 한다. 여러 가지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020555555555555549,
+        "width" : 0.83294660419437061,
+        "x" : 0.051044099179244469,
+        "y" : 0.37499999962255604
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이유가 있는데, 그중 하나는 책임의 소재를 부정하기 위한 것이다. 소재를 명확하게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02182816569010404,
+        "width" : 0.63109048613419771,
+        "x" : 0.051044083961305872,
+        "y" : 0.40261627896706731
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "밝히지 않음으로써, 상황이 객관적으로 표현되는 효과가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022051200018988748,
+        "width" : 0.7843686800476507,
+        "x" : 0.097368106611497265,
+        "y" : 0.44942470246505706
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "During the 1960s, the air and water were more polluted than now."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.43155452647107717,
+        "x" : 0.097447794653092515,
+        "y" : 0.47511111124368077
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "1960년대에, 지금보다 공기와 물이 더 오염되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016120155334472641,
+        "width" : 0.784222715120789,
+        "x" : 0.099767992674836686,
+        "y" : 0.49854651127059169
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.4390532544378698,
+      "text" : "* 당시 벌어졌던 상황을 담담하고 객관적으로 서술하고 있다. 'by + 동작의 주체'를 붙이면 상황에 대한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013104651133219458,
+        "width" : 0.43619488655252664,
+        "x" : 0.12296984198867683,
+        "y" : 0.51889534877453114
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.47686116700201209,
+      "text" : "설명보다는 책임을 추궁하는 것으로 초점이 옮겨지게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052713182237409,
+        "width" : 0.81902548066267733,
+        "x" : 0.055684475289284274,
+        "y" : 0.55813953450446252
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.070679434564523483,
+      "text" : "we This sort of communication is thought to be a key step in perception."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020531008402506545,
+        "width" : 0.49883989915780141,
+        "x" : 0.097447799714877867,
+        "y" : 0.58266666638542342
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 종류의 의사소통은 인식의 핵심 단계라고 생각된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016117571512858087,
+        "width" : 0.78190251343639183,
+        "x" : 0.099768000707130003,
+        "y" : 0.6061046508054132
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.45614035087719296,
+      "text" : "* 과학 논문에서 자주 볼 수 있는 문장 형식이다. 누가 그렇게 생각하는지를 언급하지 않음으로써, 필자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488328721797,
+        "width" : 0.50348025923925088,
+        "x" : 0.12064966144711779,
+        "y" : 0.62645348858555316
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.39179104477611942,
+      "text" : "의 주관만이 아닌 객관적 사실이라는 인상을 심어 주는 효과가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02635012902153866,
+        "width" : 0.70997678066821812,
+        "x" : 0.055684463374131583,
+        "y" : 0.67587209290039674
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.98994132439228832,
+      "text" : "를 자신이 말하는 것이 아닌, 모두가 말하고 있다는 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025978056165907093,
+        "width" : 0.8101181571365248,
+        "x" : 0.071724121193842971,
+        "y" : 0.7207525103777207
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "수동태의 표현을 잘 사용하면, '자신이 말하고 있다기보다, 모든 사람이 그렇게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020546512179904552,
+        "width" : 0.4083526827764849,
+        "x" : 0.051044076126396797,
+        "y" : 0.75145348799146694
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "말하고 있다'는 태도를 취하기 쉬워진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016184755113389793,
+        "width" : 0.26450115230912014,
+        "x" : 0.051044087253670482,
+        "y" : 0.80959302289043966
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.96316758747697973,
+      "text" : "• it is said that ~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023122467041015726,
+        "width" : 0.62684395431626772,
+        "x" : 0.071759959186733502,
+        "y" : 0.84177476158361864
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 의견을 말할 때 아래와 같이 말했다고 가정해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.3619489520999557,
+        "x" : 0.54292343566771772,
+        "y" : 0.92711111099840815
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.8441558441558441,
+      "text" : "5장 동사 ④ 과거분사: 이미지부터 이해하자 141"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 135,
+  "pdf_page_number" : 136
+}

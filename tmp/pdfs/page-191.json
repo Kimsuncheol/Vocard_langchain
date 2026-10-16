@@ -1,0 +1,55 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.076442288633141731,
+        "width" : 0.23418635375110816,
+        "x" : 0.14645967506619714,
+        "y" : 0.413909558267471
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.1617161716171617,
+      "text" : "제 7 장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.12539029057933471,
+        "width" : 0.45473230240192819,
+        "x" : 0.16488773225693421,
+        "y" : 0.4264078305201886
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "동사 ⑥ 가정법:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.15571581375947963,
+        "width" : 0.61800684286347507,
+        "x" : 0.18419281303761553,
+        "y" : 0.4468230713581105
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.37406669985067198,
+      "text" : "실제로는 그렇지 않다"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 191,
+  "pdf_page_number" : 192
+}

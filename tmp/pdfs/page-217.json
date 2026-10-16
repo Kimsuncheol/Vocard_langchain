@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.036724232738802876,
+        "width" : 0.1336153144510383,
+        "x" : 0.1394750144137184,
+        "y" : 0.09200323350546924
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99957428693060879,
+      "text" : "Mus 50"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033488269389574721,
+        "width" : 0.37062937853343125,
+        "x" : 0.14452214044328024,
+        "y" : 0.13220940532750991
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99832419256550886,
+      "text" : "조동사란 무엇인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019655247123873898,
+        "width" : 0.35234445859903618,
+        "x" : 0.14199359434276246,
+        "y" : 0.21457972326930652
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.9984046796064876,
+      "text" : "• 영어를 사용할 때 누락하기 쉬운 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027051580407075781,
+        "width" : 0.81617271662437674,
+        "x" : 0.1396820083711463,
+        "y" : 0.30752886024631554
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "학교에서 will은 '~할 것이다' can은 '~할 수 있다', may는 '~일지도 모른다. ~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.83449882659477381,
+        "x" : 0.11655011999524643,
+        "y" : 0.33575581403227384
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "해도 좋다' should는 '~해야 한다' mUSt는 '~해야 한다' 등 조동사의 개별 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022349954180307052,
+        "width" : 0.11278561105755321,
+        "x" : 0.11610136689218044,
+        "y" : 0.36382502287217866
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "를 배운다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023376811788266227,
+        "width" : 0.81600169646434295,
+        "x" : 0.13511904101649774,
+        "y" : 0.39094805421730539
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "자, 그러면 영어의 조동사란 무엇인지 배운 적이 있는가? 조동사를 제대로 이해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023366408530017813,
+        "width" : 0.49217280635127314,
+        "x" : 0.11639634012229104,
+        "y" : 0.4185457026895496
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "하지 못하면 부자연스러운 문장을 만들 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.3473193394152867,
+        "x" : 0.11421911805540386,
+        "y" : 0.47819767464718499
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.98831263696128557,
+      "text" : "를 조동사 = 생각만 하는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024848196711705239,
+        "width" : 0.81387711658097406,
+        "x" : 0.13502045983624322,
+        "y" : 0.52527700381320719
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서 말하는 조동사는 정확하게 법조동사*라고 하는데, 편의상 조동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020568086070726688,
+        "width" : 0.23776223381020745,
+        "x" : 0.114219116073723,
+        "y" : 0.55501330938558746
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "라고 부르도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021604559119020594,
+        "width" : 0.55739691318609774,
+        "x" : 0.13273845433628348,
+        "y" : 0.58070473995948091
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.058653846153846154,
+      "text" : "조동사는 화자가 생각만 할뿐이지 현실의 이야기는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024763426319518334,
+        "width" : 0.26216423273765804,
+        "x" : 0.11142800858104011,
+        "y" : 0.60628012253429164
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "아니라는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0245347230330758,
+        "width" : 0.55514939354355852,
+        "x" : 0.13502040877364913,
+        "y" : 0.63312757135987918
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어 \"4월에는 많은 한국인들이 벚꽃놀이를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024875673024973843,
+        "width" : 0.57808857018451743,
+        "x" : 0.11188811547081454,
+        "y" : 0.66279069775676969
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.055118110236220472,
+      "text" : "한다.\"라고 말하면, 항상 실제로 행해지는 것을 이야기하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02188099689365175,
+        "width" : 0.49417249022046389,
+        "x" : 0.11188811350241974,
+        "y" : 0.69032830517698396
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "는 것이기 때문에, 조동사를 사용해서는 안 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.80885780095374826,
+        "x" : 0.11188811569360835,
+        "y" : 0.73982558176533364
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.085651214128035322,
+      "text" : "예e Many people in Korea celebrate cherry blossoms blooming in April."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027240296222514115,
+        "width" : 0.56231232993623126,
+        "x" : 0.13262742463499388,
+        "y" : 0.78819856976043956
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 당신이 해외에 있다고 가정하고, \"이제 4월이니"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.58275058670261315,
+        "x" : 0.1118881093652077,
+        "y" : 0.8181011535218774
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "까, 한국에서는 지금쯤 많은 사람들이 벚꽃놀이를 하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894346,
+        "width" : 0.58275058670261304,
+        "x" : 0.11188810753447438,
+        "y" : 0.84294587434505797
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "있을지도 모른다.\"라고 말하면 '화자가 생각하는 것'을 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.3939393741792423,
+        "x" : 0.11188812164799543,
+        "y" : 0.87354651185724441
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "하는 것으로 조동사를 사용해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.048951048457045121,
+        "x" : 0.79953379922718837,
+        "y" : 0.86468500428136874
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "꽃구경할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0098978624792360748,
+        "width" : 0.042587424275542185,
+        "x" : 0.80373643311707177,
+        "y" : 0.8769476237875633
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "때겠네"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.039627039874041523,
+        "x" : 0.079254079014028186,
+        "y" : 0.92587209320596209
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 1,
+      "text" : "226"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    644
+  ],
+  "pdf_page_index" : 217,
+  "pdf_page_number" : 218
+}

@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.038827256944444444,
+        "width" : 0.13310053399268618,
+        "x" : 0.12829938582408729,
+        "y" : 0.092217157738644029
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 1,
+      "text" : "Must 23"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032177003648546032,
+        "width" : 0.33178654663951679,
+        "x" : 0.13457076373433094,
+        "y" : 0.13226744113409938
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99943893772208714,
+      "text" : "다양한 '미래' 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020135999891493062,
+        "width" : 0.68237079593306738,
+        "x" : 0.13445076698446254,
+        "y" : 0.21429196236668036
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.999333599893376,
+      "text" : "• 미래 표현을 능숙하게 사용하기 위해 미래를 바라보는 '마음'을 이해하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025404332478841107,
+        "width" : 0.66157486286569145,
+        "x" : 0.1135239302742547,
+        "y" : 0.30943159537091347
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99647887323943662,
+      "text" : "를 미래를 바라보는 '마음'으로 만들어지는 미래 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025825676812065934,
+        "width" : 0.81016655238807633,
+        "x" : 0.13201165441196733,
+        "y" : 0.35560066483733888
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "인간이 시간을 말로 표현하기 위한 문법인 '시제'는 물리적인 시간의 법칙에 의해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483203464084165,
+        "width" : 0.45243616848127211,
+        "x" : 0.10904873921644041,
+        "y" : 0.38662790724639662
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "서 만들어진 것이 아니라고 앞에서 설명했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025392474704318602,
+        "width" : 0.8123946386026154,
+        "x" : 0.12977735774763535,
+        "y" : 0.41200018557078355
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "미래 표현도 그중 하나인데, 영어를 사용하는 사람이 미래를 어떻게 보느냐에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02188501315646707,
+        "width" : 0.23665892688940601,
+        "x" : 0.11136891423511133,
+        "y" : 0.44177777742175517
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "따라 표현이 달라진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030233710394965252,
+        "width" : 0.81493837613586007,
+        "x" : 0.12965227193408693,
+        "y" : 0.46371818783155994
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서는 '현재형, '현재 진행형' be going to', 'will' 그리고 be about"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021886305067274292,
+        "width" : 0.61716936260250443,
+        "x" : 0.1090487292574485,
+        "y" : 0.49555555549205255
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "1O'와 같은 미래 표현들이 어떤 마음을 나타내는지 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022080880059136332,
+        "width" : 0.40415502237089984,
+        "x" : 0.19005487598339943,
+        "y" : 0.55137557793020398
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.97633654688869409,
+      "text" : "- 미래를 나타내는 현재형: 항상 그렇다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027429594251844547,
+        "width" : 0.81020923371010634,
+        "x" : 0.13200609130492919,
+        "y" : 0.58279817830665104
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "현재형이 나타내는 미래는 '어제도 오늘도 내일도 그렇다'라는 '반복되는 일'에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021943152533637211,
+        "width" : 0.27378189411569148,
+        "x" : 0.11136891554849609,
+        "y" : 0.61627906948718469
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "사용되는 것이 일반적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027555260552300398,
+        "width" : 0.81732229679188828,
+        "x" : 0.12968001980597146,
+        "y" : 0.63799103088890818
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이 '항상 그렇다'라는 느낌은 결국 '우리가 사는 세상에선 늘 그렇다'라는 '현실'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027824739244249108,
+        "width" : 0.83098560089760642,
+        "x" : 0.1135048616417025,
+        "y" : 0.66510606456635279
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.011464968152866241,
+      "text" : "을 나타내는 것이기도 하다. 그래서 현재형은 '항상 그렇다'의 형태, '현실'의 형태라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021881137424045072,
+        "width" : 0.28074245588153812,
+        "x" : 0.11368909687504078,
+        "y" : 0.69767441848695533
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "고 생각하면 이해하기 쉽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017448320176866261,
+        "width" : 0.21345708319481382,
+        "x" : 0.15313224707235329,
+        "y" : 0.76888888918816622
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "I get up at seven."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01607881164550784,
+        "width" : 0.25290023046182408,
+        "x" : 0.44083526765481884,
+        "y" : 0.76444444450331572
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "나는 (항상) 7시에 일어난다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.24129930861452789,
+        "x" : 0.15545243393270949,
+        "y" : 0.79360465133293934
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "He teaches English."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01944445037841791,
+        "width" : 0.47132628961657802,
+        "x" : 0.4406569495362514,
+        "y" : 0.79017440719790266
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그는 (평소) 영어를 가르친다. -* 그는 영어 선생님이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022133338080512099,
+        "width" : 0.54793350544381647,
+        "x" : 0.15525927774924575,
+        "y" : 0.81832845233070406
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "The sun rises in the east. 해는 (언제나) 동쪽에서 뜬다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024487675984700585,
+        "width" : 0.81244788203679075,
+        "x" : 0.13438486199916244,
+        "y" : 0.8872179258425591
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "미래를 표현할 때도 현실로 확정된 것, 다시 말해서 거의 틀림없이 일어난다고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013091731177435895,
+        "width" : 0.037122969931744507,
+        "x" : 0.085846867578597982,
+        "y" : 0.930222222326474
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.96551724137931039,
+      "text" : "108"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 104,
+  "pdf_page_number" : 105
+}

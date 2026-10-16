@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.52900230461824027,
+        "x" : 0.064965204885030006,
+        "y" : 0.072674418225477599
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.98099117447386286,
+      "text" : "• ① 문장의 앞 부분: 'S(주어)+V(동사)'의 앞"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020525839911566868,
+        "width" : 0.51740138277094416,
+        "x" : 0.062645016107316542,
+        "y" : 0.11191860426971845
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.13319530710835059,
+      "text" : "에e At the party, | found myself very nervous."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.47099769538175973,
+        "x" : 0.1136890872309665,
+        "y" : 0.13808139554100674
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "파티에서, 나는 내가 너무 긴장했다는 것을 알게 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016420837402343791,
+        "width" : 0.78203722365359052,
+        "x" : 0.11594706099086984,
+        "y" : 0.15829762016394588
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.66807610993657507,
+      "text" : "at the party는 '어디에서 긴장하고 있는 자신을 found했는지'라는 '동작의 발생 장소를 설명하고 있으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014461834377712646,
+        "width" : 0.11638561275833886,
+        "x" : 0.13670278514940154,
+        "y" : 0.17954233861316227
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.56521739130434778,
+      "text" : "브로, 부사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021999999999999909,
+        "width" : 0.56380511344747331,
+        "x" : 0.064965192537647973,
+        "y" : 0.22800000009212062
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.11900311526479751,
+      "text" : "에e Talking with her, I found myself very nervous."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021264339023166268,
+        "width" : 0.57325569315159575,
+        "x" : 0.11359304977527519,
+        "y" : 0.25256660018821731
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그녀와 이야기하면서, 나는 내가 너무 긴장했다는 것을 알게 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01469767422146262,
+        "width" : 0.58468675545766846,
+        "x" : 0.11600929037707779,
+        "y" : 0.27599999997716673
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.70013568521031211,
+      "text" : "*talking with her는 '어떤 상황에서 긴장하고 있는 자신을 found했는지'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014719638400607638,
+        "width" : 0.39675176092918885,
+        "x" : 0.13689094082748629,
+        "y" : 0.29505813974488382
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.69822485207100593,
+      "text" : "는 '동작의 발생 상황'을 설명하고 있으므로 부사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027616278754340362,
+        "width" : 0.61252900252105491,
+        "x" : 0.060324822611604635,
+        "y" : 0.33866279070196414
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.97832980972515859,
+      "text" : "•② 문장의 중간 부분:부정문에서 not이 오는 위치"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017487080044216619,
+        "width" : 0.31090486134197692,
+        "x" : 0.06960557217123893,
+        "y" : 0.38222222214219825
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.20739910313901344,
+      "text" : "예문 He didn't remain silent."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023824305216471275,
+        "width" : 0.28202503826601288,
+        "x" : 0.11318273883823605,
+        "y" : 0.40370564111425833
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "그는 침묵한 채로 있지는 않았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016000000000000014,
+        "width" : 0.56612527184452566,
+        "x" : 0.11600928971881463,
+        "y" : 0.43022222249474518
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.64085447263017359,
+      "text" : "- didnt는 remain이라는 동작이 아니었다고 설명하고 있으므로 부사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021574022081163324,
+        "width" : 0.56168840557125432,
+        "x" : 0.06485247430880145,
+        "y" : 0.47776582354805641
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.12360289283366206,
+      "text" : "예e He, not knowing what to do, remained silent."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.41067284117353714,
+        "x" : 0.11368910133693826,
+        "y" : 0.50436046503229226
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.039473684210526314,
+      "text" : "무엇을 하면 좋을지 몰라서, 그는 침묵을 지켰다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017521604749891395,
+        "width" : 0.78203505928634753,
+        "x" : 0.11594449974612039,
+        "y" : 0.52492232307646913
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.68249780123131043,
+      "text" : "-not knowing은 didnit와 같은 위치에 있다. 그리고 '왜 remain silent했는지'라는 '동작의 이유'를 설명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.18793503781582446,
+        "x" : 0.13689094965055945,
+        "y" : 0.54933333338398149
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.49537037037037035,
+      "text" : "하고 있으므로 부사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777954101562576,
+        "width" : 0.043369623278895153,
+        "x" : 0.33098340173716351,
+        "y" : 0.61611102306323973
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02518077596028645,
+        "width" : 0.090272949435186711,
+        "x" : 0.34208848117889712,
+        "y" : 0.62474603213536928
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "knowing"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015410006205240911,
+        "width" : 0.12381280127992023,
+        "x" : 0.51918047711447857,
+        "y" : 0.6100869016743462
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : ", what to do"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.15081205976770279,
+        "x" : 0.41995359877044097,
+        "y" : 0.64825581356326567
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "최~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016019380357530366,
+        "width" : 0.069605568960203423,
+        "x" : 0.51044083489344827,
+        "y" : 0.69331395310020749
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "silent"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02368835279676651,
+        "width" : 0.73800654850953018,
+        "x" : 0.064870677380267416,
+        "y" : 0.7571897133495693
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.97528278173439464,
+      "text" : "•③ 문장의 끝부분: 문장이 끝난 뒤에 오는 '콤마(,)+분사'의 형태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021869509379068952,
+        "width" : 0.52436194453679075,
+        "x" : 0.062645013666479413,
+        "y" : 0.79644444420035609
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.14534075104311545,
+      "text" : "CB She ate breakfast at eight in the morning."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.3132250630263741,
+        "x" : 0.11368909249805693,
+        "y" : 0.82266666648197151
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.041666666666666664,
+      "text" : "그녀는 아침 8시에 아침밥을 먹었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019442874484591921,
+        "width" : 0.78208890874335102,
+        "x" : 0.11591372907778254,
+        "y" : 0.84317678249677985
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.68833202819107286,
+      "text" : "- at eight in the morning은 언제 eat breakfast했는지'라는 '동작의 발생 시간'을 설명하므로 부사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014729973687065967,
+        "width" : 0.039443155383387357,
+        "x" : 0.13689095132996137,
+        "y" : 0.86482558149108102
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.49056603773584906,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.41531324454233165,
+        "x" : 0.50812063980454092,
+        "y" : 0.92577777781272019
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.9145299145299145,
+      "text" : "4장 동사 ③ 현재분사: ing는 이것에서부터 생각하자 127"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 122,
+  "pdf_page_number" : 123
+}

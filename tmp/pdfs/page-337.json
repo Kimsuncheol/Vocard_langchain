@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.83255811171098193,
+        "x" : 0.046511641706048608,
+        "y" : 0.079858029948717824
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.015984015984015984,
+      "text" : "서 '계속'이라는 용법이 있는데, keep on, go on, carry on, 등과 같이 '계속되는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255812772735696,
+        "width" : 0.83255811171098193,
+        "x" : 0.046511641865439331,
+        "y" : 0.10465116314851586
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "움직임'을 나타내는 동사와 자주 쓰인다. '~하는 것을 계속하다'라는 뜻이 되는 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.83023253354159277,
+        "x" : 0.048837221492417093,
+        "y" : 0.13354037243113326
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "유는, '~라는 계속되는 동작에서 벗어나지(떨어지지) 않고 있다'라는 것을 나타내"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020440405411538243,
+        "width" : 0.13023256171833383,
+        "x" : 0.048837207391802077,
+        "y" : 0.16415261794115421
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012116374647924144,
+        "width" : 0.050841596993533078,
+        "x" : 0.64315526193245598,
+        "y" : 0.18778593212398786
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.94230769230769229,
+      "text" : "1on"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.23720929839394311,
+        "x" : 0.095348839060631352,
+        "y" : 0.21206743537987627
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "We kept on running."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.18604651364413172,
+        "x" : 0.34186046399352532,
+        "y" : 0.21073646834938264
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "우리는 계속 달렸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022055575143159145,
+        "width" : 0.24514365196228027,
+        "x" : 0.087962733429338691,
+        "y" : 0.23701904177809741
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "She went on talking."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020646282287435147,
+        "width" : 0.18148034269159491,
+        "x" : 0.34879471225727648,
+        "y" : 0.23822337046966591
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 계속 말했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013087843833185508,
+        "width" : 0.051162790168415406,
+        "x" : 0.74651162805532711,
+        "y" : 0.25000000019360746
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.80158730158730163,
+      "text" : "달리다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030003382658260414,
+        "width" : 0.8145437240600587,
+        "x" : 0.069519407217786183,
+        "y" : 0.27753853576594611
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.074257425742574254,
+      "text" : "이와 같이 '떨어져 있지 않다'라는 이미지는 on time의 '제시간에 '시간에 맞춰'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025001018155224042,
+        "width" : 0.76303187283602625,
+        "x" : 0.048695580319388476,
+        "y" : 0.30742274874755848
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "라는 의미로도 응용된다. 이는 '정해진 시간에서 벗어나지 않다'라는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025303132362670344,
+        "width" : 0.64225318215110083,
+        "x" : 0.095101284754486481,
+        "y" : 0.35468937089379149
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "Our filight departed on time. 우리 비행기는 제시간에 출발했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024182224019819842,
+        "width" : 0.81412098624489526,
+        "x" : 0.06733566285569631,
+        "y" : 0.40985822094857538
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "'인접'이라는 뜻으로도 응용된다. 아래 예문의 on the river라는 표현은 강 위에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052681575121873,
+        "width" : 0.33255813338539819,
+        "x" : 0.051162793654415513,
+        "y" : 0.43877550994071524
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "건물이 떠 있다는 의미가 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.31860464269464667,
+        "x" : 0.090697678497242376,
+        "y" : 0.48837209303403606
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "The building is on the river."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020379389718029439,
+        "width" : 0.21263536539944733,
+        "x" : 0.41594112885340279,
+        "y" : 0.48416040866248933
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "그건물은 강가에 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022874891387749896,
+        "width" : 0.62340016798539599,
+        "x" : 0.072023176101322417,
+        "y" : 0.53033006395689064
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "'강을 덮듯이, 강 위로'를 뜻하면, over the river로 표현한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02459507106994252,
+        "width" : 0.81646607138893823,
+        "x" : 0.067334316035859973,
+        "y" : 0.5840245627289441
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "'~하자마자'라는 표현이 있는데, 이 또한 접촉을 나타내는 on에서 의미가 확장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.7116279168562456,
+        "x" : 0.051162785660340535,
+        "y" : 0.61337209290119055
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "된 것으로, 'A라는 행위와 붙어서 B라는 행위가 일어나다'를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021771076408866885,
+        "width" : 0.51879722421819519,
+        "x" : 0.04874015174111572,
+        "y" : 0.66126055198973888
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.11864406779661017,
+      "text" : "예e Many TV shows are available on demand."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016137976929902376,
+        "width" : 0.45348834991455073,
+        "x" : 0.097674430864983772,
+        "y" : 0.68749999960835206
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "많은 TV 프로그램을 보고 싶을 때 바로 볼 수 있어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016832923719918957,
+        "width" : 0.38638379357077862,
+        "x" : 0.10216431105532657,
+        "y" : 0.70860561961621127
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.40470588235294119,
+      "text" : "- on demand를 직역하면. '요구/수요와 붙어'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020618763663859729,
+        "width" : 0.50958811153065064,
+        "x" : 0.053330968956832182,
+        "y" : 0.72989812527634534
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.12566641279512566,
+      "text" : "에문 On getting on the train, she became sick."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020376305296660013,
+        "width" : 0.32358759099786927,
+        "x" : 0.099790633682705104,
+        "y" : 0.75526270088524206
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "열차에 타자마자, 그녀는 몸이 아팠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020410742501611678,
+        "width" : 0.32325582070784137,
+        "x" : 0.048837205811553375,
+        "y" : 0.80523255801363314
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.97821350762527237,
+      "text" : "• '~ 위에'에서 의미 확장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.81395348635586817,
+        "x" : 0.06976744259330464,
+        "y" : 0.84011627880602746
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "'위에 놓여 있다'라는 의미에서, '위에서 눌러 압력을 가하다'라는 이미지가 생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020535843078288263,
+        "width" : 0.060465113683180374,
+        "x" : 0.051162791860980189,
+        "y" : 0.87045252907926074
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "긴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014620279144584969,
+        "width" : 0.43510085886174982,
+        "x" : 0.47432289249805942,
+        "y" : 0.93155780219215134
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.84615384615384615,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 349"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 337,
+  "pdf_page_number" : 338
+}

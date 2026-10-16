@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024042977415150935,
+        "width" : 0.83279635689475318,
+        "x" : 0.04406347055207957,
+        "y" : 0.073940244234807606
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "개의 문제점)에 대해 '이게 아니야! 저게 아니야!'라고 서로 다투는 느낌이 있다고 생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020419770674887427,
+        "width" : 0.081395349719307647,
+        "x" : 0.044186045945686404,
+        "y" : 0.10603371777759785
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "각된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.6418604850769043,
+        "x" : 0.086046501614371801,
+        "y" : 0.15261627908211817
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "The two countries started a war over territorial disputes."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.43488372455943713,
+        "x" : 0.093023254064135225,
+        "y" : 0.1773255814025696
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "그 두 나라는 영토 분쟁을 둘러싼 전쟁을 시작했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028254768757452031,
+        "width" : 0.80991649627685558,
+        "x" : 0.067136908049519897,
+        "y" : 0.21345600188823888
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "또한, over가 지닌 '문제의 구석구석까지 바라보며 커버하다'라는 느낌으로 인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026370625635534717,
+        "width" : 0.83065006949684839,
+        "x" : 0.046296150573868662,
+        "y" : 0.24134521365845818
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.084596967278531526,
+      "text" : "해, 'go over+문제'가 '문제를 자세히 살펴보다(검토하다)'라는 의미를 가지게 되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02646998123669897,
+        "width" : 0.83068969032981188,
+        "x" : 0.046294870531834918,
+        "y" : 0.27033683358438365
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "었다. go over는 문제의 구석구석까지 시선을 움직인다는 의미로 사용된다. 그리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027091599187707094,
+        "width" : 0.83071951432661584,
+        "x" : 0.046292857989494625,
+        "y" : 0.29703571778472393
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "고 look over A의 경우, 'A의 구석구석까지 시선을 움직이다'라는 이미지로, '훑어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020531974223830018,
+        "width" : 0.23488372022455389,
+        "x" : 0.048837209548575782,
+        "y" : 0.32830523518445842
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "보다'라는 뜻이 생긴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021997236845867851,
+        "width" : 0.33292594822970306,
+        "x" : 0.092829622835015294,
+        "y" : 0.37577318632100165
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "We want to go over his story."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.33953486789356579,
+        "x" : 0.43023256893693795,
+        "y" : 0.37488908625416184
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "우리는 그의 이야기를 검토하고 싶다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017463785626767758,
+        "width" : 0.36046511476690118,
+        "x" : 0.04883720995475023,
+        "y" : 0.40550133062586236
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.16868798235942667,
+      "text" : "예문 She looked over the report."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016072203019285247,
+        "width" : 0.29767441749572754,
+        "x" : 0.40930232602559258,
+        "y" : 0.40406976710042231
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 그 보고서를 훑어보았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02834121040675941,
+        "width" : 0.81211879036643286,
+        "x" : 0.069511658972846557,
+        "y" : 0.45177846896152229
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "한편 이러한 over가 '넘어서'라는 의미로 사용되어, overlook이라는 단어에 '못"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025152375662125803,
+        "width" : 0.83273783597079187,
+        "x" : 0.048756298026276894,
+        "y" : 0.48100679606553387
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "보고 넘어가다. 간과하다'라는 의미가 생긴다. 시선이 목표 위를 넘어서 벗어나는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020749248650186125,
+        "width" : 0.13271437991749158,
+        "x" : 0.05108467038295867,
+        "y" : 0.51142770123632619
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "것을 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.28139534863558685,
+        "x" : 0.09534883726392053,
+        "y" : 0.5594498666935489
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "Did l overlook anything?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.24418603290211072,
+        "x" : 0.37674419461483599,
+        "y" : 0.55668604672807165
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "내가 무언가를 간과했니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.81162790818647923,
+        "x" : 0.069767441175570266,
+        "y" : 0.60901162799810526
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "overlook은 문맥에 따라 '바라보다, 내려다보다(내려다보이다)'라는 뜻으로도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020734079558974106,
+        "width" : 0.10716312581842596,
+        "x" : 0.04874401836349182,
+        "y" : 0.63934226251976123
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016137976929902487,
+        "width" : 0.58837210048328747,
+        "x" : 0.048837205477927401,
+        "y" : 0.68749999966026232
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.0990990990990991,
+      "text" : "예e The hotel room overlooks the beach and ocean."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01615087395763648,
+        "width" : 0.41860463402488013,
+        "x" : 0.097674427064505132,
+        "y" : 0.71366279035819313
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "그 호텔 객실에서는 해변과 바다가 내려다보인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01473994538544976,
+        "width" : 0.55813954093239526,
+        "x" : 0.10232557834324364,
+        "y" : 0.73380656607960004
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.25757575757575757,
+      "text" : "-'간과하다'로 해석하기보다는 '내려다보이다'로 해석하는 것이 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014787821190063166,
+        "width" : 0.43741590326482599,
+        "x" : 0.47200460109184889,
+        "y" : 0.92718498731588395
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.90808823529411764,
+      "text" : "11장 전치사:전치사를 파악하면 숙어를 공략할 수 있다 375"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 363,
+  "pdf_page_number" : 364
+}

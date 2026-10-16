@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021849960009538538,
+        "width" : 0.45920744809237385,
+        "x" : 0.046620054668848041,
+        "y" : 0.075581394937551782
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이해하고 있다는 것은 매우 흥미로운 일이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010341781974366748,
+        "width" : 0.030303031206130981,
+        "x" : 0.048951048382948503,
+        "y" : 0.13064659000365397
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.98666666666666669,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021699902016679373,
+        "width" : 0.51074396480213513,
+        "x" : 0.093103941289938361,
+        "y" : 0.12417637758595512
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.0015735641227380016,
+      "text" : "He's feeling down. We need to cheer him up."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02120118525516046,
+        "width" : 0.54128768227317114,
+        "x" : 0.095318008905516685,
+        "y" : 0.1475137014227067
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "그는 기분이 우울해. 우리가 그를 기운이 나도록 다독여 줘야 해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02850095818167353,
+        "width" : 0.30889177322387695,
+        "x" : 0.048467767927633722,
+        "y" : 0.19933667124754906
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.97803617571059431,
+      "text" : "• '다가오다', 멀어지다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028793649191978798,
+        "width" : 0.69278513301502564,
+        "x" : 0.069674044545445402,
+        "y" : 0.23183332579513949
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "한국어에는 없는 감각으로, '다가오는 Up, '멀어지는 down'이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025971337479759549,
+        "width" : 0.81400845267555932,
+        "x" : 0.06967060013562848,
+        "y" : 0.26053949201221394
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "up은 상승을 나타내는데, 이는 모습이 커지는 것도 의미한다. 원근법의 관계에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031559036092699055,
+        "width" : 0.83529741113836109,
+        "x" : 0.048567452408331817,
+        "y" : 0.28496833675266164
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "가까워질수록 물건이나 사람이 상승하며 커 보인다. 여기에서 up에 '다가오다'\"라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02635902762940967,
+        "width" : 0.83493475480513135,
+        "x" : 0.048752670135880229,
+        "y" : 0.31529643788978379
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "는 의미가 나타나게 되었다. 또한 down은 하강을 나타내지만, 모습이 작아지는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030735512556915645,
+        "width" : 0.8377040516246449,
+        "x" : 0.050898570665503004,
+        "y" : 0.33995706140200854
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "것도 의미한다. 따라서 멀리 떨어지면서 모습이 작아짐에 따라 down은 '멀어지다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020556110317882292,
+        "width" : 0.26107226718555798,
+        "x" : 0.051282048400227993,
+        "y" : 0.37333923834547933
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "라는 의미를 가지게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023254584590347571,
+        "width" : 0.6460176381197843,
+        "x" : 0.051101992801694252,
+        "y" : 0.41971458893807345
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.1034688995215311,
+      "text" : "예문 He walked up to me and tried to give me something."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016010258237908026,
+        "width" : 0.40093239870938391,
+        "x" : 0.097902098926416242,
+        "y" : 0.44767441828423915
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "그는 나에게 다가와 무언가를 건네주려고 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017689290988540218,
+        "width" : 0.53874319249933422,
+        "x" : 0.10240878061070514,
+        "y" : 0.46746018367982689
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.42233856893542759,
+      "text" : "-'walk to ~뿐이라면, 단지 '걸어서 ~에 도달하다'라는 의미가 된다. Up"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018200469713912204,
+        "width" : 0.513238169930198,
+        "x" : 0.12566993030119375,
+        "y" : 0.48683283319018134
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.36511156186612576,
+      "text" : "이 함께 쓰이면서 '모습이 가까이 클로즈업되어 보이다'라는 느낌이 생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014751169088142335,
+        "width" : 0.041958042166449799,
+        "x" : 0.12587412564560185,
+        "y" : 0.50872093028233023
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.33333333333333331,
+      "text" : "긴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019220546455484655,
+        "width" : 0.47105815193869849,
+        "x" : 0.053490213808809563,
+        "y" : 0.54771554092639763
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.13698630136986301,
+      "text" : "예e Mike was further down on the beach."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017714791851195733,
+        "width" : 0.36596736040982331,
+        "x" : 0.10023310395204249,
+        "y" : 0.5739592561956236
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "마이크는 해변에서 더 멀리 간 곳에 있었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018021238071924905,
+        "width" : 0.54330400987104943,
+        "x" : 0.10013119883833822,
+        "y" : 0.59434632633359352
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.38447319778188538,
+      "text" : "- 머릿속에 자신의 위치에서 출발한 시선이 아래로 떨어진 곳을 향하며,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016139000047087348,
+        "width" : 0.26340326395901764,
+        "x" : 0.12354312321288335,
+        "y" : 0.61627906944154642
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.30373831775700932,
+      "text" : "점점 멀리 작게 보이는 느낌이 든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020432518687894419,
+        "width" : 0.46620048176158557,
+        "x" : 0.048951041045078636,
+        "y" : 0.66424418617807202
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.97222222222222221,
+      "text" : "• 종료 • 완료를 나타내는 up과 down"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02633765907388963,
+        "width" : 0.81402431834827771,
+        "x" : 0.074334788377360184,
+        "y" : 0.69649689484817989
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "up에는 '종료•완료'의 의미도 있다. 이는 수위가 상승한 결과, 물이 가득 찬 모습"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022829233174623931,
+        "width" : 0.62725791064175684,
+        "x" : 0.053479647783437674,
+        "y" : 0.72479634720381025
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "에서 온 것이다. '가득 찬 상태여서 이대로 종료'라는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024723359607193074,
+        "width" : 0.68584203720092785,
+        "x" : 0.055708487612640294,
+        "y" : 0.77204235839900948
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.13895993179880647,
+      "text" : "여룸 I must finish this up by tomorrow. 난 내일까지 이걸 끝내야 해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022102178568540243,
+        "width" : 0.42457688938487659,
+        "x" : 0.053428417093605726,
+        "y" : 0.80169780444719585
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.21227621483375958,
+      "text" : "Ce Don't give up on me. 날버리지마."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018142592072803665,
+        "width" : 0.41980804096568702,
+        "x" : 0.10243427399629521,
+        "y" : 0.82670999801802059
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.41686182669789229,
+      "text" : "- give up on A는. 'A를 포기하다•단념하다'를 뜻한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021145771624664023,
+        "width" : 0.67185410586270411,
+        "x" : 0.12557372947067255,
+        "y" : 0.84377686341814417
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.34452554744525549,
+      "text" : "give up은 '완전히 내어 주다' ='포기하다'를 뜻하고, on은 'me를 누르는 압력'을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020414495172492164,
+        "width" : 0.34965033964677289,
+        "x" : 0.055944060879244244,
+        "y" : 0.87063953501084934
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.34639175257731958,
+      "text" : "에e Time is up. 시간이 다 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015700153590726962,
+        "width" : 0.43857639486139477,
+        "x" : 0.47768709620722449,
+        "y" : 0.92418851403106861
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.88621444201312916,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 377"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 365,
+  "pdf_page_number" : 366
+}

@@ -1,0 +1,715 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941124,
+        "width" : 0.061643835543250508,
+        "x" : 0.11187214604116014,
+        "y" : 0.13368983962219039
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.86818181818181817,
+      "text" : "제1 장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.043142114731079761,
+        "width" : 0.53070474405582546,
+        "x" : 0.20216781942983819,
+        "y" : 0.060947969580425476
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "\"악마의 영문법 100법칙' 목차"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024711892779073152,
+        "width" : 0.324200905337721,
+        "x" : 0.19634703580145912,
+        "y" : 0.13081395361765613
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "영어 세계의 3가지 기본"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042780748663055,
+        "width" : 0.031963471271076793,
+        "x" : 0.077625570177598233,
+        "y" : 0.19474153283626572
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "01"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017592131772780739,
+        "width" : 0.034246575598623236,
+        "x" : 0.077625570671008018,
+        "y" : 0.25290697676743656
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "02"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017553268269421607,
+        "width" : 0.034246575598623236,
+        "x" : 0.077625570667202826,
+        "y" : 0.31238859185267676
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "03"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021346348917208102,
+        "width" : 0.29044190307959122,
+        "x" : 0.14131862648110571,
+        "y" : 0.19125887381580331
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "영어의 시각으로 세상을 봐라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017586950312323713,
+        "width" : 0.031963468599720213,
+        "x" : 0.52511415607304701,
+        "y" : 0.19186046516859934
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "16"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017825311942958999,
+        "width" : 0.42009130312281162,
+        "x" : 0.21004567253129094,
+        "y" : 0.21345811045259233
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "영어란 '또 다른 자신'이 외부에서 나를 보는 것이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.3767123182280725,
+        "x" : 0.14155251668082255,
+        "y" : 0.2513368982061559
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "하고 싶은 말부터 먼저 하는 것이 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372013955643,
+        "width" : 0.031963468599720102,
+        "x" : 0.61187214678842006,
+        "y" : 0.25290697665048345
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "20"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019404098524341884,
+        "width" : 0.5230702632615547,
+        "x" : 0.20766071786362,
+        "y" : 0.27405213707770026
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "This is a pen.의 의문문이 Is this a pen?의 어순이 되는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020504291044836975,
+        "width" : 0.5936072854434743,
+        "x" : 0.14155252153738054,
+        "y" : 0.31104651128750282
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "가벼운 정보를 먼저, 무거운 정보를 나중에 말하는 것이 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017519587076496479,
+        "width" : 0.52968035358674714,
+        "x" : 0.21004566792585672,
+        "y" : 0.33422459876568877
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "Plays he baseball?이 아닌, Does he play baseball?인 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860069778103,
+        "width" : 0.031963468599720102,
+        "x" : 0.82876712414762865,
+        "y" : 0.31104651165115738
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "24"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133182,
+        "width" : 0.038812784253716134,
+        "x" : 0.077625571229306314,
+        "y" : 0.49273255797248372
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "04"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017511814035833906,
+        "width" : 0.036529679926169692,
+        "x" : 0.079908675895713877,
+        "y" : 0.55080213918778509
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "05"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01609459875314212,
+        "width" : 0.034246575598623236,
+        "x" : 0.07990867565470014,
+        "y" : 0.61046511620440091
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "06"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017553268269421607,
+        "width" : 0.034246575598623236,
+        "x" : 0.079908675556852743,
+        "y" : 0.67005813966546879
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "07"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016138643716958279,
+        "width" : 0.034246575598623236,
+        "x" : 0.079908675556852743,
+        "y" : 0.72950089106573501
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "08"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042780748663166,
+        "width" : 0.034246575598623236,
+        "x" : 0.079908675556852743,
+        "y" : 0.78921568629208361
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "09"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016136052986729821,
+        "width" : 0.031963471271076793,
+        "x" : 0.082191780232041503,
+        "y" : 0.84883720927524109
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "10"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941124,
+        "width" : 0.061643835543250494,
+        "x" : 0.11187214603123359,
+        "y" : 0.40106951830940862
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.92148760330578516,
+      "text" : "제 2 장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302048844695,
+        "width" : 0.29908675506335347,
+        "x" : 0.19634703324097408,
+        "y" : 0.39825581407018196
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "동사 ① 문장의 형식:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027647185878107661,
+        "width" : 0.67375127541250879,
+        "x" : 0.19623327673433341,
+        "y" : 0.4272739113001377
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "동사를 단어로 이해하지 말고 문형으로 이해하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023330950269512041,
+        "width" : 0.29452055175097386,
+        "x" : 0.13698629784977945,
+        "y" : 0.48691860443759738
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "'문장'이란 무엇인지 이해하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017825311942958999,
+        "width" : 0.031963468599720213,
+        "x" : 0.52511415596840472,
+        "y" : 0.49108734391950881
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "30"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020331015561353749,
+        "width" : 0.58011236110655195,
+        "x" : 0.20536865767834775,
+        "y" : 0.51013308406729674
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "'물!'을 '존재하는 것'과 '바라고 원하는 것'이라는 개념에서 생각해 본다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023445187192974615,
+        "width" : 0.41133446786917893,
+        "x" : 0.141369257338225,
+        "y" : 0.54679147152174667
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "동사가 나타내는'힘의 방향'을 이해하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016058325980011334,
+        "width" : 0.031963471271076793,
+        "x" : 0.63470319575715572,
+        "y" : 0.55080213901679198
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "34"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01891348493715439,
+        "width" : 0.52739726261598396,
+        "x" : 0.21004566126557481,
+        "y" : 0.56976744216378239
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "목적어의 유무는 일단 제외하고, '자동사'와 '타동사'를 살펴보자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022004414794704275,
+        "width" : 0.35844748360770085,
+        "x" : 0.13926940877164948,
+        "y" : 0.60901162772155648
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "1형식, 2형식, 3형식과 수식어의 관계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023299150925906509,
+        "width" : 0.32046857133966866,
+        "x" : 0.2096951795694271,
+        "y" : 0.62772812825823665
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "수식어는 '동사의 힘이 미치지 않은 말'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860069778103,
+        "width" : 0.034246575598623208,
+        "x" : 0.58904109565768992,
+        "y" : 0.61046511640406442
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "38"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.39269404050682777,
+        "x" : 0.13698630919864099,
+        "y" : 0.66711229959778962
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "'건네주다'라는 의미를 가진 4형식 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133071,
+        "width" : 0.036529679926169623,
+        "x" : 0.61415525127809412,
+        "y" : 0.67151162772230766
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "42"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01756363204031286,
+        "width" : 0.48630136869200802,
+        "x" : 0.21232876759917885,
+        "y" : 0.69028520496698165
+      },
+      "confidence" : 1,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "문형은 단순한 어순의 패턴이 아니라 의미를 가진 단위이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01892903016850267,
+        "width" : 0.36301368692008062,
+        "x" : 0.14155251716099496,
+        "y" : 0.72816399272516608
+      },
+      "confidence" : 1,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0,
+      "text" : "4형식에서 3형식 문장으로 바꿔 쓰기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017496268804485626,
+        "width" : 0.30136986740496979,
+        "x" : 0.21004565967651051,
+        "y" : 0.74854651165115749
+      },
+      "confidence" : 1,
+      "observation_index" : 38,
+      "red_ink_fraction" : 0,
+      "text" : "to와 for의 이미지 차이를 파악하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042780748663055,
+        "width" : 0.034246575598623208,
+        "x" : 0.59817351574901412,
+        "y" : 0.72816399319859515
+      },
+      "confidence" : 1,
+      "observation_index" : 39,
+      "red_ink_fraction" : 0,
+      "text" : "46"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.15981735101267067,
+        "x" : 0.14155251147118489,
+        "y" : 0.78779069799388579
+      },
+      "confidence" : 1,
+      "observation_index" : 40,
+      "red_ink_fraction" : 0,
+      "text" : "5형식은 3+2=5"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016164552719197811,
+        "width" : 0.16894976832285649,
+        "x" : 0.21004566367999974,
+        "y" : 0.80959302328323524
+      },
+      "confidence" : 1,
+      "observation_index" : 41,
+      "red_ink_fraction" : 0,
+      "text" : "3형식+2형식=5형식"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042780748663166,
+        "width" : 0.029680364272173743,
+        "x" : 0.39497716934793137,
+        "y" : 0.78921568629208361
+      },
+      "confidence" : 1,
+      "observation_index" : 42,
+      "red_ink_fraction" : 0,
+      "text" : "50"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183600713012479,
+        "width" : 0.58675796978947825,
+        "x" : 0.13926941356416495,
+        "y" : 0.84447415309622986
+      },
+      "confidence" : 1,
+      "observation_index" : 43,
+      "red_ink_fraction" : 0,
+      "text" : "'간접적인' 힘이 전달되는 방법을 전치사의 차이로 나타내다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017506632575376768,
+        "width" : 0.31735158968372501,
+        "x" : 0.21004566621474205,
+        "y" : 0.87063953507353331
+      },
+      "confidence" : 0.5,
+      "observation_index" : 44,
+      "red_ink_fraction" : 0,
+      "text" : "I heard you.와 Ive heard of you."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017589541042552281,
+        "width" : 0.031963471271076793,
+        "x" : 0.81963470262930171,
+        "y" : 0.84738372104069237
+      },
+      "confidence" : 1,
+      "observation_index" : 45,
+      "red_ink_fraction" : 0,
+      "text" : "54"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219194,
+        "width" : 0.052511412890351439,
+        "x" : 0.87442922494751829,
+        "y" : 0.93003565043460446
+      },
+      "confidence" : 0.5,
+      "observation_index" : 46,
+      "red_ink_fraction" : 0.9838709677419355,
+      "text" : "목차 5"
+    }
+  ],
+  "page_size_points" : [
+    408,
+    641
+  ],
+  "pdf_page_index" : 4,
+  "pdf_page_number" : 5
+}

@@ -1,0 +1,625 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372802734352,
+        "width" : 0.062068966035266127,
+        "x" : 0.13793103411402838,
+        "y" : 0.072674418213458436
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.32777777777777778,
+      "text" : "제3장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024888888888888849,
+        "width" : 0.19770115504955613,
+        "x" : 0.23448275568259089,
+        "y" : 0.071111111468756705
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "동사 ② 시제:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.613793095455894,
+        "x" : 0.23448276250894684,
+        "y" : 0.10029069727511242
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "실제로 우리는 시간을 이렇게 파악하고 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021166873508029593,
+        "width" : 0.20762617108523429,
+        "x" : 0.10994802807098288,
+        "y" : 0.16112778555965912
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "11 시제를 이해하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.029885057323257247,
+        "x" : 0.41149425283262425,
+        "y" : 0.16424418618261849
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "60"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022251622517903691,
+        "width" : 0.32461592919715843,
+        "x" : 0.21815332579987587,
+        "y" : 0.1806511306684766
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "인류는 '시간'을 '장소'로 이해하고 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.48965518484638715,
+        "x" : 0.10804597077587061,
+        "y" : 0.2208888890579559
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "12 현재형: 항상 그렇다 과거형: 지금은 다르다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017507752312554303,
+        "width" : 0.42988507019987254,
+        "x" : 0.21839079812370912,
+        "y" : 0.24266666636597034
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "과거의 일을 말한다고 해서 반드시 과거형은 아니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.034482757418132337,
+        "x" : 0.68735632233691091,
+        "y" : 0.22088888924057126
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "64"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.38850576666337028,
+        "x" : 0.10804596713569153,
+        "y" : 0.28044444435864091
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "13 현재완료 ① 동작 동사의 현재완료"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019758039686414985,
+        "width" : 0.31302961518492883,
+        "x" : 0.2135868086025618,
+        "y" : 0.30079269846307533
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "'완료'의 이미지는 과거형과는 다르다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014733850267198312,
+        "width" : 0.032183908712008824,
+        "x" : 0.59080459725319101,
+        "y" : 0.2817777773623602
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "68"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.38850576666337028,
+        "x" : 0.10574711656188662,
+        "y" : 0.33999999965786043
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "14 현재완료 ② 상태 동사의 현재완료"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016208010355631575,
+        "width" : 0.032183908712008824,
+        "x" : 0.58850574667847833,
+        "y" : 0.34156976783478799
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "72"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016129199557834206,
+        "width" : 0.39770112929632562,
+        "x" : 0.21839081454723941,
+        "y" : 0.36177777753647711
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "상태 동사가 현재완료가 되면 '기간'을 나타낸다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.45977010606210444,
+        "x" : 0.10804598134896445,
+        "y" : 0.3995555558065621
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "15 현재완료 ③ ever의 진짜 의미를 파악하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016145995246039435,
+        "width" : 0.43448275151635019,
+        "x" : 0.21609195747901133,
+        "y" : 0.42296511591918651
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "ever = 이제까지라는 해석 그대로 받아들이지 말자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.034482757418132226,
+        "x" : 0.65977011552738707,
+        "y" : 0.39955555541125665
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "76"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01777777777777767,
+        "width" : 0.33793103611083641,
+        "x" : 0.10804597608747436,
+        "y" : 0.45911111082883838
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "16 현재완료 ④ 현재완료 진행형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488328721797,
+        "width" : 0.029885057323257302,
+        "x" : 0.54252873558166637,
+        "y" : 0.4607558141097825
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "80"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02180107031928169,
+        "width" : 0.42117373953388715,
+        "x" : 0.21816323628650999,
+        "y" : 0.47829509910775259
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그때부터 계속 지금도 -ing 상태를 have하고 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017549096001519104,
+        "width" : 0.386206904544106,
+        "x" : 0.10804597291521728,
+        "y" : 0.51889534875241994
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "17 현재완료 ⑤ 미래 완료를 파헤치다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.3264367898975914,
+        "x" : 0.21839080040752612,
+        "y" : 0.53911111151484936
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "미래보다는 예상•상상이라고 생각하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988371107313326,
+        "width" : 0.034482757418132226,
+        "x" : 0.58620689717599128,
+        "y" : 0.51889534917018054
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "84"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.52413794494714749,
+        "x" : 0.10804597009802179,
+        "y" : 0.57688888865601973
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "18 과거완료 이야기의 배경이 되는 시점은 언제인가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.35862068787908757,
+        "x" : 0.21839080543927741,
+        "y" : 0.59866666681510272
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "문법이라기보다는 숙어의 하나로. 생각하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016178293863932214,
+        "width" : 0.032183908712008824,
+        "x" : 0.7264367811716862,
+        "y" : 0.57848837251320384
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "88"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.40919539697059593,
+        "x" : 0.10804597957560656,
+        "y" : 0.63644444481287932
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "19 진행형 ① 진행형에서 흔히 있는 오해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01958669959174264,
+        "width" : 0.35204734748593525,
+        "x" : 0.21591138784801742,
+        "y" : 0.65691667107890639
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "'진행형 =~하고 있다'로 이해하면 안 된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016140827602810326,
+        "width" : 0.029885057323257302,
+        "x" : 0.61149425283262415,
+        "y" : 0.63808139493248794
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "92"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.53103448838288936,
+        "x" : 0.10574712709591157,
+        "y" : 0.6946666668917113
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "20 진행형 ② 상태 동사가 진행형이 될 수 없는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.35402298510158448,
+        "x" : 0.21839080873656411,
+        "y" : 0.71644444421088327
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "동작 동사와 상태 동사의 차이를 이해하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021677640279134103,
+        "width" : 0.52445453799391262,
+        "x" : 0.10559790610920763,
+        "y" : 0.7538442419918
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "21 진행형 ③ 지각동사가 진행형이 될 수 없는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.36551723131482938,
+        "x" : 0.21839080994962554,
+        "y" : 0.77599999965732003
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "지각동사의 성질을 알면 수수께끼가 풀린다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016186047024197014,
+        "width" : 0.043678160290510193,
+        "x" : 0.7241379312627908,
+        "y" : 0.75581395306689836
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "100"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.29425287045506987,
+        "x" : 0.1057471278980177,
+        "y" : 0.81540697693224384
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "22 진행형 ④ 일시적인 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016148578219943643,
+        "width" : 0.045977011679261659,
+        "x" : 0.49195402283330542,
+        "y" : 0.81540697716436661
+      },
+      "confidence" : 1,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "104"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.37931036110836414,
+        "x" : 0.21839079667317987,
+        "y" : 0.83555555581028385
+      },
+      "confidence" : 1,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0,
+      "text" : "시작과 끝이 없으면 '도중'은 존재하지 않는다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023502020941840285,
+        "width" : 0.22833045927281115,
+        "x" : 0.10531898880688721,
+        "y" : 0.87136908727031792
+      },
+      "confidence" : 0.5,
+      "observation_index" : 38,
+      "red_ink_fraction" : 0,
+      "text" : "23 다양한 '미래' 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.043678160290510137,
+        "x" : 0.42528735652779731,
+        "y" : 0.87644444432521296
+      },
+      "confidence" : 1,
+      "observation_index" : 39,
+      "red_ink_fraction" : 0,
+      "text" : "108"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01754005177815765,
+        "width" : 0.60000000858441016,
+        "x" : 0.21839080040494074,
+        "y" : 0.89534883712064672
+      },
+      "confidence" : 1,
+      "observation_index" : 40,
+      "red_ink_fraction" : 0,
+      "text" : "미래 표현을 능숙하게 사용하기 위해 미래를 바라보는 '마음'을 이해하라"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 5,
+  "pdf_page_number" : 6
+}

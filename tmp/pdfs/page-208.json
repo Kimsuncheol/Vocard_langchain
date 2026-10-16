@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03211111111111109,
+        "width" : 0.12761020660400388,
+        "x" : 0.13457076678273525,
+        "y" : 0.092888889529085361
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99943534726143424,
+      "text" : "Musi 48"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030742340087890563,
+        "width" : 0.25137697566639294,
+        "x" : 0.13644143291776498,
+        "y" : 0.13234637417066131
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 1,
+      "text" : "as if ~의 시제"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017448321024576829,
+        "width" : 0.29466355930675159,
+        "x" : 0.13689095535822518,
+        "y" : 0.21366279044439906
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99925678186547751,
+      "text" : "•가정법에서 시제 일치는 없다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632935,
+        "width" : 0.6241299455816095,
+        "x" : 0.11136890180924394,
+        "y" : 0.31104651180064602
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.98904220779220775,
+      "text" : "를 시제가 일치해야 할 때 • 일치하지 않아도 될 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023330749511718762,
+        "width" : 0.81670535694469104,
+        "x" : 0.12761019639231028,
+        "y" : 0.35755813951851301
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "'마치 ~처럼'이라는 의미로, '사실은 그렇지 않지만, 비유해서 말하면 ~처럼'을 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028453301323784763,
+        "width" : 0.46239063956520776,
+        "x" : 0.11109841204633385,
+        "y" : 0.38155328933253374
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.3371212121212121,
+      "text" : "타내는 'as if+가정법의 S+V ~ 표현이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019241575453016413,
+        "width" : 0.68233563683249732,
+        "x" : 0.11128208452639771,
+        "y" : 0.43476294569598073
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.093149038461538464,
+      "text" : "에e He talked about the accident as if he was(were) a victim."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.5313225225968794,
+        "x" : 0.15777261331032494,
+        "y" : 0.46075581414581013
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "그는 마치 자신이 피해자인 것처럼 그 사고에 대해 이야기했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888889461,
+        "width" : 0.048723898150704215,
+        "x" : 0.65893271441797741,
+        "y" : 0.50133333339479436
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "100년 전"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021825581868489596,
+        "width" : 0.49651973897760565,
+        "x" : 0.13225057123045475,
+        "y" : 0.51017441850088918
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "예문에서 실제로는 피해자가 아니지만, 마치 피해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0089134368896484073,
+        "width" : 0.051044084809043211,
+        "x" : 0.65893271381357577,
+        "y" : 0.51288888868757065
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "일이지...?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.52204175428910693,
+        "x" : 0.10904872851019155,
+        "y" : 0.53466666708708488
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "자인 것처럼 이야기하기 때문에 '실제로는 아니다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.51740139180963696,
+        "x" : 0.11136890954814994,
+        "y" : 0.56533333293471555
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "라는 것을 나타내어 동사를 was(문어체에서는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483204311794623,
+        "width" : 0.20417633923617279,
+        "x" : 0.10904872134540118,
+        "y" : 0.59288888905925619
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "were)로 사용했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.81206495111638866,
+        "x" : 0.12993040135036366,
+        "y" : 0.6191111110684111
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 문제가 되는 부분은 '가정법에서 시제가 일치하지 않아도 된다'라는 규"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020484495374891498,
+        "width" : 0.081206495111638827,
+        "x" : 0.10904872452688835,
+        "y" : 0.64666666688281593
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "칙이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024632534450954924,
+        "width" : 0.72870089791037818,
+        "x" : 0.12983781847935091,
+        "y" : 0.67184510884786985
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들면, 위 예문을 본 학습자들이 아래와 같이 질문하는 경우가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024167136298285596,
+        "width" : 0.81689193032004626,
+        "x" : 0.12749937516403745,
+        "y" : 0.69909434493734524
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "talked라는 동사 형태로 알 수 있듯이, 이 문장에 있었던 일은 과거의 일이죠?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83062648773193359,
+        "x" : 0.11136889049666462,
+        "y" : 0.72800000035746981
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 과거를 돌이켜보는 가정법이니까, as if 뒤에는 가정법 과거완료가 되어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026743147108289844,
+        "width" : 0.26000870357860217,
+        "x" : 0.10897476813007573,
+        "y" : 0.75261679834844819
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "야하는 것은 아닌가요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020509044223361528,
+        "width" : 0.61716938018798839,
+        "x" : 0.1322505766099985,
+        "y" : 0.81104651124940896
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "일반적인 경우를 보았을 때, 이러한 질문 내용은 맞는 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024953365749783019,
+        "width" : 0.81227718700062135,
+        "x" : 0.12983016797629948,
+        "y" : 0.83477862001647885
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 말하는 일반적인 경우는 '만약 그때 ~였다면, ~하고 있었을 것이다'를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021859173244900165,
+        "width" : 0.26218097860162903,
+        "x" : 0.10904872171785743,
+        "y" : 0.86622222219212608
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "나타내는 문장을 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039443154226649901,
+        "x" : 0.078886311633774811,
+        "y" : 0.92711111129572443
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.97142857142857142,
+      "text" : "216"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 208,
+  "pdf_page_number" : 209
+}

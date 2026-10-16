@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022084431966145845,
+        "width" : 0.39697399058698435,
+        "x" : 0.1011092101610819,
+        "y" : 0.071594056217205937
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "Ihave lived in London for 10 years."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01892050340440532,
+        "width" : 0.2814914073863386,
+        "x" : 0.10582775371028778,
+        "y" : 0.098889111254862327
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "나는 런던에 산지 10년이 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.64516127227223641,
+        "x" : 0.11059908725050448,
+        "y" : 0.12209302346967943
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.59106529209621994,
+      "text" : "* 과거 어느 시점부터 현재까지 '계속 거주하고 있는 상태'를 유지하고 있음을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.069124423566422788,
+        "x" : 0.49078341020106619,
+        "y" : 0.1626666665099068
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.921875,
+      "text" : "London"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011753229777018204,
+        "width" : 0.05299539391177327,
+        "x" : 0.2718893997607032,
+        "y" : 0.21644444451134426
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "10년전"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122281,
+        "width" : 0.11290322372371958,
+        "x" : 0.35714285786570871,
+        "y" : 0.27906976734424327
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.92307692307692313,
+      "text" : "변하지 않는 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021966408623589451,
+        "width" : 0.80645157957951341,
+        "x" : 0.080645176470941188,
+        "y" : 0.3297777773657623
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "위의 문장을 그대로 직역하면 \"나는 10년 동안 런던에 살고 있는 상태를 유지하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.82718889804081464,
+        "x" : 0.059907855009683889,
+        "y" : 0.35901162808075937
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "고 있다.\"가 된다. 상태동사는 '변하지 않는 상태'를 나타내기 때문에, 이를 현재완"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483204311794734,
+        "width" : 0.82488479937081283,
+        "x" : 0.062211978065644394,
+        "y" : 0.38662790659844748
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "료로 사용하면 (어느 기간 동안) 변하지 않은 상태를 꾸준히 유지 (have)하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021824289109971806,
+        "width" : 0.21198157564709316,
+        "x" : 0.059907829568602661,
+        "y" : 0.41422222260337227
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "있다'는 의미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.80645157957951341,
+        "x" : 0.080645177836301582,
+        "y" : 0.44177777736082202
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "현재형이 특정 기간을 잘라 정하지 않고 '지금 현재의 항상 계속되는 상태'를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023435340881347688,
+        "width" : 0.82736115664117604,
+        "x" : 0.059819519714660901,
+        "y" : 0.46681827626218753
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "타내는 것에 비해, 현재완료는 '과거 어느 시점부터 현재까지 꾸준히 유지되는 상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024115531073676255,
+        "width" : 0.36943465261096176,
+        "x" : 0.061878086101796979,
+        "y" : 0.49346018051227714
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.13333333333333333,
+      "text" : "태'라는 '시간 잘라 내기'가 발생한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02833959282769094,
+        "width" : 0.44562680092449763,
+        "x" : 0.059462577957045425,
+        "y" : 0.55273930609583866
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.99501424501424507,
+      "text" : "• have been to와 have gone to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026200654771592835,
+        "width" : 0.80677896561508289,
+        "x" : 0.078181781825974031,
+        "y" : 0.60069528044339116
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "be동사는 상태동사의 왕이라고 할 수 있다. 그 어원은 '~한 상태로 존재하다'인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.82718889804081441,
+        "x" : 0.059907855008166838,
+        "y" : 0.63226744205486074
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "데 현재완료에서 be동사를 사용하는 것은 다소 헷갈릴 수 있기 때문에 우선 다음"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.30645162262264197,
+        "x" : 0.059907829216261053,
+        "y" : 0.65822222208790593
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "표를 통해 설명하도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016029716491699153,
+        "width" : 0.19354837737735808,
+        "x" : 0.071428576170262173,
+        "y" : 0.72088888850457022
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "have been +보어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042635599772148,
+        "width" : 0.22811058916056948,
+        "x" : 0.069124429335410562,
+        "y" : 0.75866666703364016
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.002631578947368421,
+      "text" : "have been in+ 장소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018926062689887058,
+        "width" : 0.22853824416404045,
+        "x" : 0.071200145985515398,
+        "y" : 0.80655898438246221
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.005208333333333333,
+      "text" : "have been to+장소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.23041475239526404,
+        "x" : 0.069124420920995966,
+        "y" : 0.85465116297809984
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "have gone to+ 장소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.49078339010435035,
+        "x" : 0.3271889499939078,
+        "y" : 0.71947674437866815
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "과거 어느 시점부터 현재까지 계속 그 상태이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.5023041417131302,
+        "x" : 0.32718894285257144,
+        "y" : 0.75726744205317154
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "과거 어느 시점부터 현재까지 쭉 그 장소에 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026808800591362814,
+        "width" : 0.23325800929318358,
+        "x" : 0.32461523345028304,
+        "y" : 0.78819443675096934
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "① ~에 간 적이 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.30414745938794735,
+        "x" : 0.32718894286283545,
+        "y" : 0.81822222206793371
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "② (방금 전에) ~에 다녀왔다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021913436889648419,
+        "width" : 0.44239632804235723,
+        "x" : 0.32488478517687508,
+        "y" : 0.85319767431394367
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "~에 이미 갔기 때문에, 지금 여기에는 없다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.47235021335617955,
+        "x" : 0.43778802684669116,
+        "y" : 0.92711111099947685
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.89595375722543358,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 73"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 69,
+  "pdf_page_number" : 70
+}

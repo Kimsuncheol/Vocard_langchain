@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028509723896882888,
+        "width" : 0.83768671209161927,
+        "x" : 0.12067195217035508,
+        "y" : 0.074986939450557566
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "하자. 이는 an old man이 되는데, 여기에서 중요한 점은 '아무것도 없던 곳에, 무"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027200088737914241,
+        "width" : 0.76804577220569958,
+        "x" : 0.12067141723317003,
+        "y" : 0.10228175037944987
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.04399057344854674,
+      "text" : "언가를 하나 꺼내어 존재하게 하다'라는 '존재'의 의미가 2에 있다는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021796272196596189,
+        "width" : 0.81183832341974438,
+        "x" : 0.13943053143478218,
+        "y" : 0.13286669716101318
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이야기에서 처음 등장한 인물에게는 a를 붙이고, 두 번째 등장부터는 the를 붙이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024751813832700309,
+        "width" : 0.64232215014371008,
+        "x" : 0.12072452703380841,
+        "y" : 0.15845184201784823
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.26126126126126126,
+      "text" : "는 규칙인 '첫 등장에 붙이는 a'를 기억하는 사람도 있을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023658237948074978,
+        "width" : 0.78644951907071192,
+        "x" : 0.16490106909318622,
+        "y" : 0.20721394948715266
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.0040691759918616479,
+      "text" : "Once upon a time, there was an old man in a village. The old man was"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016445520395923729,
+        "width" : 0.12442066452719946,
+        "x" : 0.16459596501922125,
+        "y" : 0.23589427815339548
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "a tarmer...."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020783665546190488,
+        "width" : 0.71416326002641151,
+        "x" : 0.16502612401351821,
+        "y" : 0.25979681390667786
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "옛날 옛적에, 한 마을에 나이 많은 남자 한 명 있었어요. 그 할아버지는 농부였어요....."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021874547956681534,
+        "width" : 0.81627906452525745,
+        "x" : 0.13488372339044555,
+        "y" : 0.45341614947660891
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.032487309644670052,
+      "text" : "an old man과 a village는 아무것도 없는 무대에 한 명의 나이 많은 남자와"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021861651775153645,
+        "width" : 0.49767442183061084,
+        "x" : 0.11627906802121248,
+        "y" : 0.47959183635489633
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.0080775444264943458,
+      "text" : "하나의 마을을 꺼내어 출현시키는 이미지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024311155371678606,
+        "width" : 0.81421141190962354,
+        "x" : 0.1347393171655728,
+        "y" : 0.53328500854474736
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이, a는 '형태로 인식하는 명사를 동일한 종류의 형태가 많이 들어 있는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026629067144250063,
+        "width" : 0.73313357613303443,
+        "x" : 0.11370216011382875,
+        "y" : 0.55777318429191936
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "상자 안에서 무작위로 1개를 꺼내어 존재하게 하다'라는 이미지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026829271900410512,
+        "width" : 0.81192632154984912,
+        "x" : 0.13471654985241843,
+        "y" : 0.61521528098748834
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.001152073732718894,
+      "text" : "이를 응용한 표현이 few((수가) 거의 없는)와 a few((수가) 약간 있는), 혹은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.83488368988037109,
+        "x" : 0.11162792234138376,
+        "y" : 0.6437444539438012
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "litle((양이) 거의 없는)과 a litle(양이) 약간 있는)이다. a를 사용하여 존재의 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021940322713504989,
+        "width" : 0.23023256388577545,
+        "x" : 0.11395348538013804,
+        "y" : 0.66992014215464424
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "미를 나타내는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011692391525038426,
+        "width" : 0.032558137720281419,
+        "x" : 0.11162790765148718,
+        "y" : 0.86912156152279663
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023981245831250053,
+        "width" : 0.51693005995316943,
+        "x" : 0.16014631821703096,
+        "y" : 0.71660774598215082
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.00074962518740629683,
+      "text" : "We still have a few days before leaving Japan."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021628472058246362,
+        "width" : 0.40753672339699487,
+        "x" : 0.16018009109310061,
+        "y" : 0.74087827199036227
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.011904761904761904,
+      "text" : "우리가 일본을 떠날 때까지 아직 며칠 남아 있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021801900313613509,
+        "width" : 0.45848547328602185,
+        "x" : 0.15796929334606225,
+        "y" : 0.76719814306905076
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.013377926421404682,
+      "text" : "We have few days before leaving Japan."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022111930779471489,
+        "width" : 0.40744733810424805,
+        "x" : 0.1602201749523384,
+        "y" : 0.7911637209190433
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.12213740458015267,
+      "text" : "우리가 일본을 떠날 때까지 남은 날이 거의 없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019628240455011325,
+        "width" : 0.4469464475458319,
+        "x" : 0.15794680332437283,
+        "y" : 0.81620474427538092
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.00088417329796640137,
+      "text" : "There remains a little milk in the bottle."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020453302439272458,
+        "width" : 0.24186045473272147,
+        "x" : 0.15813953993015087,
+        "y" : 0.84156976731106725
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.22972972972972974,
+      "text" : "병에 우유가 조금 남아 있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019658785111732802,
+        "width" : 0.42832938107577234,
+        "x" : 0.15793249582526334,
+        "y" : 0.86558943068225735
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.0036429872495446266,
+      "text" : "There remains little milk in the bottle."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445453016,
+        "width" : 0.28372092680497601,
+        "x" : 0.15813953647922807,
+        "y" : 0.89244186033826989
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "병에 우유가 거의 남아 있지 않아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.037209302186965942,
+        "x" : 0.081395348797989917,
+        "y" : 0.93023255832224117
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.99122807017543857,
+      "text" : "286"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 276,
+  "pdf_page_number" : 277
+}

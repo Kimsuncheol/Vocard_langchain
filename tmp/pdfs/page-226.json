@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02470930212878919,
+        "width" : 0.50465115633877844,
+        "x" : 0.058139537991154573,
+        "y" : 0.077034883813357879
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "① 의지(힘의 용법):~할 생각이다, ~할 작정이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021913239039883958,
+        "width" : 0.33720931139859284,
+        "x" : 0.079069762848536562,
+        "y" : 0.10319767464236751
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "일반적으로 '의지 미래'라고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.81162790818647923,
+        "x" : 0.0790697707711015,
+        "y" : 0.1277728483908116
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 오늘 수업이 갑자기 휴강이 되어 \"이제 어떻게 할래?\"라고 친구가 물"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024922102663299084,
+        "width" : 0.8348836898803712,
+        "x" : 0.0604651297275886,
+        "y" : 0.1569767441079476
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "었다고 가정하자. 그러자, '어떻게 하지?'라고 당신의 마음이 흔들린 뒤, Well."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026027417119456886,
+        "width" : 0.5748443603515625,
+        "x" : 0.055623149226146751,
+        "y" : 0.18484991337582157
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.0033955857385398981,
+      "text" : "then, Ill go to the library.(그렇다면 난 도서관에 갈"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.27441859245300293,
+        "x" : 0.058139541820010153,
+        "y" : 0.20930232543269844
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.0042016806722689074,
+      "text" : "게)로 \"기울어지는' 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.55116280642422766,
+        "x" : 0.076744178067504484,
+        "y" : 0.24127907013689043
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "will을 '미리 정하지 않고 지금 결정한 것(예정)'이라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147795,
+        "width" : 0.56976743177934119,
+        "x" : 0.060465119409332697,
+        "y" : 0.26744186004317361
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "설명하기도 한다. 이는 '지금 마음이 기울면서 하게 된"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024107991432657072,
+        "width" : 0.33782772584394971,
+        "x" : 0.057873733940645759,
+        "y" : 0.29286288200565658
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "의사 결정'이라는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.34418604590676039,
+        "x" : 0.058139535069875597,
+        "y" : 0.35029069804167046
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "② 예상(판단의 용법): ~일 것이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.63023255088112573,
+        "x" : 0.079069773878374008,
+        "y" : 0.37488908564726753
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "일반적으로 '단순 미래'라고 한다. 그러나 그 정체는 '예상'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894457,
+        "width" : 0.8116279081864789,
+        "x" : 0.079069763697458176,
+        "y" : 0.40106477371651983
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 친구가 \"내일은 날씨 괜찮을까?\"라고 묻고, 이에 당신의 마음이 '맑을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02181135328237005,
+        "width" : 0.83255811171098193,
+        "x" : 0.058139548652247471,
+        "y" : 0.4316770185707044
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "까? 비가 올까?라고 흔들리다가, 이 상황이라면 분명히 맑을 것이라고 마음이 기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021920977595006885,
+        "width" : 0.76744183627041906,
+        "x" : 0.058139546863703699,
+        "y" : 0.45918367332823729
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.0026109660574412533,
+      "text" : "울어져서, Itill be sunny tomotrow.(내일은 맑을 거야)로 말하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.61395350369540125,
+        "x" : 0.14418603872806832,
+        "y" : 0.65116279043715608
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.95869098712446355,
+      "text" : "시간, 조건을 나타내는 부사절: will을 사용하지 못하는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02195708859569756,
+        "width" : 0.81162790818647901,
+        "x" : 0.076744185428430617,
+        "y" : 0.68589174835267885
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "will이 가지고 있는 2가지의 큰 의미가 '의지'와 '예상'이라는 것을 알게 되면, 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.83023253354159277,
+        "x" : 0.058139546947883307,
+        "y" : 0.71366279057303494
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "른바 '시간이나 조건을 나타내는 부사절'에서 '미래를 나타내지만 will을 사용하면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026098437508123573,
+        "width" : 0.37987804412841797,
+        "x" : 0.05548880970135342,
+        "y" : 0.73712798132165569
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "안 되는 이유'를 이해할 수 있게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021944192414169561,
+        "width" : 0.80930233001708984,
+        "x" : 0.079069763441067475,
+        "y" : 0.76598837214748772
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 배운 가정법 부분에서 '시간이나 조건을 나타내는 부사절'에 사용되는 직"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022387874369718563,
+        "width" : 0.83042690970680921,
+        "x" : 0.05803764531247755,
+        "y" : 0.79484521620343362
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "설범 현재형의 동사가 원래는 가정법 현재(동사원형)라고 설명했다. 그리고 가정법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.83255811171098182,
+        "x" : 0.055813967277449,
+        "y" : 0.82412790685563175
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이 쇠퇴하면서 직설법 현재형이 사용되었다고 했다.(Must 47 내용 참조) 여기에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022555504420635031,
+        "width" : 0.72346188805320044,
+        "x" : 0.055726654241718847,
+        "y" : 0.85012633190713882
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "는 미래의 일을 말하면서 왜 will을 사용하면 어색해지는지 설명하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025113438332937665,
+        "width" : 0.81188349290327588,
+        "x" : 0.076622590721543857,
+        "y" : 0.8748433751181286
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "will을 '미래'로 생각하지 않고 '의지' 또는 '예상'을 의미한다고 생각하면, 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016415261756876576,
+        "width" : 0.44883719357577234,
+        "x" : 0.46511628682667516,
+        "y" : 0.92857142821266059
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.92127071823204421,
+      "text" : "8장 동사 ⑦ 조동사: 사실을 말하는가, 생각을 말하는가? 235"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 226,
+  "pdf_page_number" : 227
+}

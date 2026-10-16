@@ -1,0 +1,70 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.10025061581174921,
+        "width" : 0.29876488218916225,
+        "x" : 0.14057424969877791,
+        "y" : 0.39655572494671087
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.44683504833177423,
+      "text" : "제 12 장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.063177265880169142,
+        "width" : 0.15909394609167218,
+        "x" : 0.17222799632010174,
+        "y" : 0.4794532594736951
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "어순:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.18838812504541147,
+        "width" : 0.81006422110483156,
+        "x" : 0.18584892323503469,
+        "y" : 0.40677930708022714
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.57717941882164758,
+      "text" : "어순 자체가 나타내는 '심리'를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.083385119509971517,
+        "width" : 0.26111590879183288,
+        "x" : 0.21092420839873385,
+        "y" : 0.55628331382744955
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.41238233164373644,
+      "text" : "이해하라"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    645
+  ],
+  "pdf_page_index" : 372,
+  "pdf_page_number" : 373
+}

@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02193606303549922,
+        "width" : 0.13913862079593306,
+        "x" : 0.071308287632790901,
+        "y" : 0.073334294042295745
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017465178341789067,
+        "width" : 0.31177829174285238,
+        "x" : 0.10392609654622297,
+        "y" : 0.13226744204895424
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.0076726342710997444,
+      "text" : "|watched Tv. 난 TV를 봤어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017162985980191947,
+        "width" : 0.6121903223348848,
+        "x" : 0.124614412785857,
+        "y" : 0.15343729532917005
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.42588726513569936,
+      "text" : "> TV 프로그램의 내용이 '앞으로 어떻게 될 것인가'를 생각하면서 영상을 지켜보다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020548335158676156,
+        "width" : 0.42725172110483156,
+        "x" : 0.073903004401394884,
+        "y" : 0.20494186080948229
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.062193126022913256,
+      "text" : "X l watched a picture. 난 사진을 봤어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133182,
+        "width" : 0.47113162642675088,
+        "x" : 0.12471132293404361,
+        "y" : 0.23110465104038425
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.44215938303341901,
+      "text" : "- 사진은 움직이지 않기 때문에, 움직임을 쫓아 지켜볼 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021848961631244501,
+        "width" : 0.81524251302083339,
+        "x" : 0.092378743543581679,
+        "y" : 0.27761627888402274
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 look at과 watch는 see와 비교했을 때, '지각동사'라고 말할 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836181423025,
+        "width" : 0.83140877798093971,
+        "x" : 0.073902996382894312,
+        "y" : 0.30377907011180794
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "지각동사란 '들어온 정보를 알아차리다'라는 의미이기 때문이다.(그럼에도 불구하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021874870633484034,
+        "width" : 0.83140877798093971,
+        "x" : 0.073903001213596317,
+        "y" : 0.33284883702782597
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "고 look at과 watch는 지각 구문에는 사용된다. 이에 관한 설명은 이번 학습에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019215007516789617,
+        "width" : 0.11099186890514183,
+        "x" : 0.073834319429795056,
+        "y" : 0.36030528688069041
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "생략한다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0210428526907257,
+        "width" : 0.18264149334413787,
+        "x" : 0.14078086975072879,
+        "y" : 0.41971113176159469
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.97547683923705719,
+      "text" : "- hear, isten to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377313,
+        "width" : 0.57505774531804077,
+        "x" : 0.09237874848279326,
+        "y" : 0.45348837175250367
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "see는 시각을 이용한 지각동사이고, 청각을 이용한 지각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.26327945357518839,
+        "x" : 0.073902998278475629,
+        "y" : 0.48110465081626419
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "동사는 hear에 해당한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020633377918372497,
+        "width" : 0.36980209891677746,
+        "x" : 0.076037215834529881,
+        "y" : 0.5287723805782083
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.17871485943775101,
+      "text" : "예e I heard some strange noises."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021948622297263243,
+        "width" : 0.19720175452266181,
+        "x" : 0.12188977005351566,
+        "y" : 0.55272095521183662
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "난 이상한 소리를 들어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133071,
+        "width" : 0.44110856292941053,
+        "x" : 0.12471130734020959,
+        "y" : 0.57703488359824606
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.34343434343434343,
+      "text" : "* 들으려고 의도한 것이 아닌. 귀에 들려오는 소리를 들었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012032085561497263,
+        "width" : 0.046189377155709699,
+        "x" : 0.83371824433207586,
+        "y" : 0.52450980373436362
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "쌩그랑!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022612517317773584,
+        "width" : 0.81080227033466312,
+        "x" : 0.092288927016888345,
+        "y" : 0.62322750998740328
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "listen to는 '자신의 주위에 들려오는 소리들을 무시하고, 특정 소리만을 듣기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02189559732528934,
+        "width" : 0.41108545614472519,
+        "x" : 0.073902999336489153,
+        "y" : 0.65106951912274735
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "위해 귀를 기울이다'라는 것을 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028593539341673191,
+        "width" : 0.14358719629598848,
+        "x" : 0.75283653083658575,
+        "y" : 0.66019624597959414
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.082397003745318345,
+      "text" : "1~8~8~8"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010385877095866802,
+        "width" : 0.050914910499085808,
+        "x" : 0.77823769434764922,
+        "y" : 0.70192915434598002
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.75,
+      "text" : "listen"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.043241116664838875,
+        "width" : 0.66261471146387418,
+        "x" : 0.073206223980031099,
+        "y" : 0.68800147881780171
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.23050847457627119,
+      "text" : "ma Hey. are you listening to me? 이봐, 내말듣고있어? C"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133071,
+        "width" : 0.43418012037344861,
+        "x" : 0.12240185656030107,
+        "y" : 0.72674418592366019
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.27586206896551724,
+      "text" : "*내 이야기에 집중해서 귀를 기울이고 있는지 묻고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020548335158676267,
+        "width" : 0.42725172110483156,
+        "x" : 0.076212477265136122,
+        "y" : 0.77450980369269429
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.24511082138200782,
+      "text" : "예e A: Do you hear me? 내 목소리 들려?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020535381507533645,
+        "width" : 0.58198614458665776,
+        "x" : 0.12009237783694877,
+        "y" : 0.80213903742011083
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "B: No, | can't hear you. We've got a bad connection."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017825311942958999,
+        "width" : 0.30023093798481826,
+        "x" : 0.1570438842361532,
+        "y" : 0.82976827068068149
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "아니, 안 들려. 연결이 안 좋은가 봐."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042780748663055,
+        "width" : 0.55196303780197253,
+        "x" : 0.15704389035998365,
+        "y" : 0.85026737928205776
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.30059523809523808,
+      "text" : "* 목소리가 귀에 들리는지, 다시말해 목소리를 지각하고 있는지 묻고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015937283289836346,
+        "width" : 0.48745861729831563,
+        "x" : 0.4433484253181319,
+        "y" : 0.93015995793912798
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.86206896551724133,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 101"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    641
+  ],
+  "pdf_page_index" : 97,
+  "pdf_page_number" : 98
+}

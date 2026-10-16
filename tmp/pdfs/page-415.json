@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.099767979831560299,
+        "x" : 0.092807425281435624,
+        "y" : 0.087111111095158233
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.84868421052631582,
+      "text" : "단락의 시작은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.11600928340397826,
+        "x" : 0.083526680701291489,
+        "y" : 0.10444444427152
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.81632653061224492,
+      "text" : "4자 정도 띄운다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777892,
+        "width" : 0.27378189411569148,
+        "x" : 0.13225058415561136,
+        "y" : 0.14666666638194692
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "자신의 의견 because 이유."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028321275499131993,
+        "width" : 0.64342616737311609,
+        "x" : 0.14584999928955428,
+        "y" : 0.20053567345189305
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "(Why Game에서 터득한 요령으로, '이유'에 대한 논의를 심화한다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021491512722439321,
+        "width" : 0.24887169371259976,
+        "x" : 0.49615420036635427,
+        "y" : 0.26328845699812198
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "Since 이유, 자신의 의견."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020549096001519107,
+        "width" : 0.81438516386857274,
+        "x" : 0.081206489900452317,
+        "y" : 0.33555555553170535
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 이전에 학습한 Must 98 내용의 예시 글에서 언급한 이유인 ① you"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.51508122437389181,
+        "x" : 0.060324817041006999,
+        "y" : 0.36337209263935177
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "can save time을 사용하여 단락을 하나 써 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021511084662543367,
+        "width" : 0.72178435629986704,
+        "x" : 0.15069317600573073,
+        "y" : 0.41200443335512582
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "Working from home is better because you can save time."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.78654291680518629,
+        "x" : 0.083526685397539532,
+        "y" : 0.44040697693682918
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "It takes a lot of time for workers to commute. Some people"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023481421576605932,
+        "width" : 0.7845861556682181,
+        "x" : 0.085669206580428509,
+        "y" : 0.46534260441875808
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "even spend a fifth of their work time on the commute, This"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.78422271512078889,
+        "x" : 0.085846879076955054,
+        "y" : 0.49555555578663313
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "makes people very exhausted and prevents them from Working"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.784222715120789,
+        "x" : 0.085846878979214281,
+        "y" : 0.52311111081089923
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "efficiently. If people work from home, they do not have to worry"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020829147338867204,
+        "width" : 0.78672056806848412,
+        "x" : 0.085744915402417909,
+        "y" : 0.5493706801158138
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "about having a bad time on the crowded train, and they can"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020494831509060396,
+        "width" : 0.784222715120789,
+        "x" : 0.08584688611709948,
+        "y" : 0.57688888869367105
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "sleep more at home. This allows workers to stay healhy. Since"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022158101399739505,
+        "width" : 0.58273947424922434,
+        "x" : 0.085600514190642213,
+        "y" : 0.60325136485128883
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "you can save time, working from home is better."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021926356845431871,
+        "width" : 0.80974476049977839,
+        "x" : 0.08584687733096219,
+        "y" : 0.66266666650153738
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "해석: 시간을 절약할 수 있기 때문에 집에서 일하는 것이 더 좋다. 근로자들은 통"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021987080044216567,
+        "width" : 0.75406035294769513,
+        "x" : 0.14153130836808989,
+        "y" : 0.69022222237539366
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "근하는 데 많은 시간이 걸린다. 심지어 근무 시간의 5분의 1을 통근하는 데"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022395478990342887,
+        "width" : 0.7542354935449912,
+        "x" : 0.1414530058860356,
+        "y" : 0.71653025005090021
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "소비하는 사람들도 있다. 이 때문에 사람들은 매우 지치고 효율적으로 일"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.75174015126329785,
+        "x" : 0.14385150206540834,
+        "y" : 0.7439999996585045
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "하지 못한다. 만약 집에서 일을 하면, 붐비는 전철에서 힘든 시간을 보낼 염"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021975451999240447,
+        "width" : 0.75406035294769502,
+        "x" : 0.14385149398039537,
+        "y" : 0.7718023254783567
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "려도 없고 집에서 잠을 더 많이 잘 수 있다. 이는 근로자들이 건강을 유지할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021914728800455641,
+        "width" : 0.71461718403701258,
+        "x" : 0.14153131507815603,
+        "y" : 0.79941860454830005
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "수 있게 한다. 시간을 절약할 수 있으므로, 집에서 일하는 것이 더 좋다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.81206496218417556,
+        "x" : 0.085846869143740068,
+        "y" : 0.85465116296465449
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "단락의 첫 줄에 의견을 제시하는 것뿐만 아니라, 마지막 줄에도 'Since 이유, 자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021847545199924046,
+        "width" : 0.27842227584081336,
+        "x" : 0.064965196066169337,
+        "y" : 0.8822222223307743
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "신의 의견'을 쓰도록 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014787865532769118,
+        "width" : 0.49437333776595743,
+        "x" : 0.42915358192813152,
+        "y" : 0.92579258631017503
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.91049913941480209,
+      "text" : "13장 설득을 위한 영어:'형식'을만들어 영어로 사고하는 훈련 429"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 415,
+  "pdf_page_number" : 416
+}

@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032103698308880158,
+        "width" : 0.1270207831200133,
+        "x" : 0.12471131752940279,
+        "y" : 0.088662790548336701
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99890049477735021,
+      "text" : "Must 20"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029411764705882359,
+        "width" : 0.18013856495525818,
+        "x" : 0.12702078663573571,
+        "y" : 0.12923351226646396
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99926873857404019,
+      "text" : "진행형 ②"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03470956322981078,
+        "width" : 0.69554949821309842,
+        "x" : 0.12913035335883535,
+        "y" : 0.16072536048468145
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99943991038566171,
+      "text" : "상태동사가 진행형이 될 수 없는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017529950847387732,
+        "width" : 0.39953812403036348,
+        "x" : 0.12240183856218545,
+        "y" : 0.21212121174048049
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99974437627811863,
+      "text" : "• 동작동사와 상태동사의 차이를 이해하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024001888200348542,
+        "width" : 0.81082633809840421,
+        "x" : 0.11999560066709342,
+        "y" : 0.30627960621073136
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "현재 진행형을 학교에서 배우면 여러 가지 예외 용법을 배우게 된다. 대표적인 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023680415807985855,
+        "width" : 0.65153185255984036,
+        "x" : 0.099182796187480229,
+        "y" : 0.33392411917292952
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "중 하나가 '상태동사로는 진행형을 사용할 수 없다'라는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022560032931241092,
+        "width" : 0.59609370671265516,
+        "x" : 0.11997998844997861,
+        "y" : 0.36180687982797
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서는 왜 그러한 현상이 일어나는지를 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021841189440558906,
+        "width" : 0.49191686751994684,
+        "x" : 0.1200923744369428,
+        "y" : 0.41711229910409264
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "현재 진행형은 동작동사에서 발생하는 용법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010257326982875625,
+        "width" : 0.060046186514779942,
+        "x" : 0.33025404346316428,
+        "y" : 0.46656976757165003
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "식사 시작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219194,
+        "width" : 0.04849884357858214,
+        "x" : 0.54965358040470436,
+        "y" : 0.47370766473355463
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "식사 끝"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014971279205485466,
+        "width" : 0.092550778219885832,
+        "x" : 0.40407103113495674,
+        "y" : 0.4837934300439426
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.88622754491017963,
+      "text" : "eat/ate"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018946996134657668,
+        "width" : 0.080866133236715931,
+        "x" : 0.31965063733292953,
+        "y" : 0.5329285207678488
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.85106382978723405,
+      "text" : "eating/"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219194,
+        "width" : 0.12240185027426859,
+        "x" : 0.42725173063422822,
+        "y" : 0.53475935836463973
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "한창 먹고 있는 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333633,
+        "width" : 0.23556581321337544,
+        "x" : 0.42263279764742079,
+        "y" : 0.56104651176667952
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.51000000000000001,
+      "text" : "eaten/ 식사가 끝난 후의 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03089895605403481,
+        "width" : 0.80883910267065595,
+        "x" : 0.11981245852574304,
+        "y" : 0.5757081068107559
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.030254777070063694,
+      "text" : "동작동사는 동작의 '시작, 도중, 끝'이라는 3가지 단계로 동작함으로써 '변화가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022044198823272687,
+        "width" : 0.20099011143894058,
+        "x" : 0.099273998611333777,
+        "y" : 0.60889069110581229
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "일어나는 동사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027547742806228848,
+        "width" : 0.81096814744015955,
+        "x" : 0.11762845064534647,
+        "y" : 0.63470958178401404
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, She ate dinner:의 경우, eat는 동작동사로, '먹다'에 의해 '배고픈 상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025084442845852872,
+        "width" : 0.41638685726950353,
+        "x" : 0.096725650114676043,
+        "y" : 0.66108175169249639
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "태'에서 '배부른 상태'로 변화가 일어난다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026214287667776004,
+        "width" : 0.80638756718195925,
+        "x" : 0.11990867638547821,
+        "y" : 0.68824531230974084
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 이러한 '배부른 상태로 변화하는 도중'의 단계가 아래 예문과 같은 진행형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377313,
+        "width" : 0.057736720091907681,
+        "x" : 0.096997690627641228,
+        "y" : 0.71947674379348447
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.62817551633144952,
+        "x" : 0.096997692073169661,
+        "y" : 0.76871657775371804
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.18284424379232506,
+      "text" : "여크 She was eating dinner. 그녀는 저녁을 먹고 있는 중이었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042780748663166,
+        "width" : 0.30023093798481826,
+        "x" : 0.22863741773482538,
+        "y" : 0.7950089122935603
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.28368794326241137,
+      "text" : "^ 다 먹기 전으로, 먹고 있는 도중의 단계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025357695186839391,
+        "width" : 0.80860794824911342,
+        "x" : 0.11764085660399944,
+        "y" : 0.83376614349263245
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "중요한 사항이므로 다시 한 번 설명하면, 진행형은 '변화하고 있는' 중간의 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022508740212615619,
+        "width" : 0.13654154243198693,
+        "x" : 0.096856249448948134,
+        "y" : 0.86447237405898736
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024955436720142665,
+        "width" : 0.80831411375221629,
+        "x" : 0.11778290082761987,
+        "y" : 0.88948306567832469
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.053742802303262956,
+      "text" : "한편, 상태동사는 언제 시작되어서 언제 끝나는지를 의식하지 않고, '그저 막연히"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333633,
+        "width" : 0.030023093257390013,
+        "x" : 0.064665127620727639,
+        "y" : 0.92732558148413979
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.96825396825396826,
+      "text" : "96"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    641
+  ],
+  "pdf_page_index" : 92,
+  "pdf_page_number" : 93
+}

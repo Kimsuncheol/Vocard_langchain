@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024189443350686624,
+        "width" : 0.81040039062500002,
+        "x" : 0.12721460579315338,
+        "y" : 0.069603141506728416
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이 부분이 중요한 이유는, 단순히 '~하고'를 분사구문으로 기억하게 되면 \"화창"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028167516735524867,
+        "width" : 0.83139180934175538,
+        "x" : 0.10859549028690489,
+        "y" : 0.096002896134616211
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "해서 우리는 공원에 갔다.\"라는 문장의 경우, 아래와 같이 잘못된 영어 문장으로 만"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022154314237981532,
+        "width" : 0.11821993564037567,
+        "x" : 0.10871410617834143,
+        "y" : 0.12627749400598387
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "들 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.43055554112644057,
+        "x" : 0.10879630119603899,
+        "y" : 0.18594306068114763
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.056565656565656569,
+      "text" : "X Being sunny, we went to the park."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020524704583599007,
+        "width" : 0.8078703318927305,
+        "x" : 0.12962964875304342,
+        "y" : 0.23837209294138828
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.15578635014836795,
+      "text" : "주어를 의식하는 습관을 들이면, 날씨 주어는 it이기 때문에 앞뒤 절이 주어가 다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021941984251300561,
+        "width" : 0.83101849927969851,
+        "x" : 0.10879630616037335,
+        "y" : 0.26453488386498525
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "르므로 it도 남겨야한다고 생각할 수 있게 된다. 익숙해질 때까지는 힘들겠지만, 처"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021905776868935578,
+        "width" : 0.43287037518007526,
+        "x" : 0.10879629378734994,
+        "y" : 0.29215116294169552
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "음에는 일부러 주어를 의식할 필요가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017534966146394493,
+        "width" : 0.23842591630651597,
+        "x" : 0.11805556023768268,
+        "y" : 0.34011627935583333
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.9939178915357324,
+      "text" : "⑦ valuable information"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.77083333333333326,
+        "x" : 0.14351851841524821,
+        "y" : 0.37354651130901817
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.1171387421987518,
+      "text" : "참고로 명칭을 기억할 필요는 없지만, 제시된 경우처럼 주어가 생략되지 않은 분사구문을 문법적으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017534966146394493,
+        "width" : 0.72916666666666674,
+        "x" : 0.12962962971408906,
+        "y" : 0.39234875448000528
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.18319783197831979,
+      "text" : "는 '독립 분사구문'이라고 한다. 이 패턴은 There is/are 구문의 분사구문에서 흔히 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164267,
+        "width" : 0.51157408369348401,
+        "x" : 0.14351851358079726,
+        "y" : 0.41279069796599011
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.31726907630522089,
+      "text" : "Since there was no bus service, we had to walk nome."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016179756761869779,
+        "width" : 0.49768516594636525,
+        "x" : 0.14351852801526851,
+        "y" : 0.43149466177924145
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.14539400665926749,
+      "text" : "- There being no bus service, we had to walk nome."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017509103245582525,
+        "width" : 0.42129629148659126,
+        "x" : 0.16898148379244643,
+        "y" : 0.44912790726662166
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.022657054582904221,
+      "text" : "버스가 운행되지 않아서, 우리는 집으로 걸어가야 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026733542676498079,
+        "width" : 0.81287391608488457,
+        "x" : 0.12713516278147535,
+        "y" : 0.50860238554253623
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이 부분에서 학습자들 중에 '왜 굳이 being으로 해야 되지? There was no"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02425814777930857,
+        "width" : 0.83355219414893611,
+        "x" : 0.1040728404798985,
+        "y" : 0.53722555917594839
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "bus service, we had to walk home.이라고 하면 안 될까?'라고 생각하는 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483324111992718,
+        "width" : 0.21759258297318262,
+        "x" : 0.10879630098756894,
+        "y" : 0.56672597828068494
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "람들도 있을 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024626531634890814,
+        "width" : 0.81038125761857271,
+        "x" : 0.12951271190929134,
+        "y" : 0.58920798656757556
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.012455516014234875,
+      "text" : "그러나 영어에서 두 개의 'S+V ~(이것을 '절'이라고 부른다)를 접속사 없이 콤"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890258449676625,
+        "width" : 0.83101849927969862,
+        "x" : 0.10648149126582203,
+        "y" : 0.62055160183033287
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "마로만 연결하는 것은 문법상 바람직하지 않다. 그래서 there was no ...의 경"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023770658146868406,
+        "width" : 0.83350224055296984,
+        "x" : 0.10640372858041998,
+        "y" : 0.64636440647114579
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "우, 보통 절이기 때문에 접속사를 사용해서 연결해 주어야 한다. 이 경우, 접속사는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.83101849927969851,
+        "x" : 0.10648148709626187,
+        "y" : 0.67296511644114632
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "since이다. since는 '~해서, ~하기 때문에'라는 의미뿐만 아니라 절과 절을 잇는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02187991396812361,
+        "width" : 0.30555556277011303,
+        "x" : 0.10879629336802986,
+        "y" : 0.70195729510367366
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "접속사의 문법적 역할을 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023773258691156429,
+        "width" : 0.5072870782081117,
+        "x" : 0.10863712751477228,
+        "y" : 0.75823050993290064
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.97451790633608815,
+      "text" : "• 수동태의 분사구문은 being을 생략한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02479498072451114,
+        "width" : 0.81273608917885642,
+        "x" : 0.12487433543333798,
+        "y" : 0.79251307175949637
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "'말하지 않아도 아는 것은 생략하는 것'이 분사구문의 철칙이다. 따라서 수동태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029191249630205141,
+        "width" : 0.82923419492464545,
+        "x" : 0.10851975871922058,
+        "y" : 0.81754100040719402
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "의 분사구문은 being을 생략한다. be동사는 '~한 상태로 존재하다'라는 굉장히"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022004055382942367,
+        "width" : 0.63194445887355932,
+        "x" : 0.10879628899316725,
+        "y" : 0.85008896770989983
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "추상적인 의미로, 굳이 말하지 않아도 의미가 통하기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023857349178544984,
+        "width" : 0.81282179812167554,
+        "x" : 0.12945987352582422,
+        "y" : 0.87537410588818187
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "일반적인 문장에는 동사가 있고 그것이 현재인지 과거인지 그 동사를 보고 처음"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01472626886333861,
+        "width" : 0.039351851551245279,
+        "x" : 0.078703704056553289,
+        "y" : 0.92877906940817023
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 1,
+      "text" : "132"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 127,
+  "pdf_page_number" : 128
+}

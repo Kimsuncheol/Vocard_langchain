@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022266127386523116,
+        "width" : 0.15960382772675644,
+        "x" : 0.14178020061745986,
+        "y" : 0.083424298071690495
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.93233082706766912,
+      "text" : "② may 기원문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024873799291150411,
+        "width" : 0.6550116356382979,
+        "x" : 0.069930082588776407,
+        "y" : 0.1148255814247533
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "'~이기를 빌다'라고 신에게 비는 문장을 '기원문'이라고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021831883465052715,
+        "width" : 0.4871795004986702,
+        "x" : 0.051282044563301737,
+        "y" : 0.14677276763065072
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "may가 문두에 나오며 의문문의 어순을 취한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020401527141702513,
+        "width" : 0.27707186218694591,
+        "x" : 0.10023310524729355,
+        "y" : 0.19622093061447321
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "May God bless America.듏"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860033704848,
+        "width" : 0.23776223473515073,
+        "x" : 0.10023310167010342,
+        "y" : 0.2209302327608289
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "미국에 신의 가호가 있기를."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026524296700691008,
+        "width" : 0.80919319315159577,
+        "x" : 0.074452722285105244,
+        "y" : 0.26701713199127997
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "일반적인 문장이라면 God may bless America.의 어순이 될 것이다. 동사는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024768417857580771,
+        "width" : 0.83449880180629421,
+        "x" : 0.051282062779836671,
+        "y" : 0.293545535148383
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "bless이다. 우선 '~해도 되다'\"라는 뜻의 may는 결코 상냥한 표현이 아니다. 윗사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709076716982192,
+        "width" : 0.73909435948581559,
+        "x" : 0.055836603748695104,
+        "y" : 0.31997825824674098
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "람이 아랫사람에게 '~해도 된다고 허락을 해 주다'라는 뜻을 가진 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024216438583522515,
+        "width" : 0.28522429770611701,
+        "x" : 0.055500622708889648,
+        "y" : 0.37025643299556998
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.25534950071326679,
+      "text" : "예e You may have a seat."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019385514061183273,
+        "width" : 0.11907933011968086,
+        "x" : 0.35887525323035613,
+        "y" : 0.37039445225077616
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "넌 앉아도 돼."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02515046940136545,
+        "width" : 0.78344899711879434,
+        "x" : 0.07682867370318823,
+        "y" : 0.41286145567370602
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "윗사람이 아랫사람에게 반쯤 명령하는 것처럼 말하는 '허가, 허락'을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026863558539028776,
+        "width" : 0.80697965148492901,
+        "x" : 0.076679149742569605,
+        "y" : 0.44024463811185166
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "위의 may 기원문을 다시 보자. 기독교의 세계에서 '가장 위에 있는 입장'은 '하느"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027808780484659179,
+        "width" : 0.83239503684618787,
+        "x" : 0.055841855872450469,
+        "y" : 0.46654227153576544
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.0061162079510703364,
+      "text" : "님'이다. 기원문에서 may가 문두에 나오는 것은 '하느님에게 허락(may)을 구하는'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026281422582165925,
+        "width" : 0.83008470467641837,
+        "x" : 0.055812912715865061,
+        "y" : 0.49587715604276184
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "것을 강조하기 위함이고, 이것이 '~이기를 빌다'라고 하느님에게 부탁하는 표현이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022832624265095691,
+        "width" : 0.2290255066350842,
+        "x" : 0.055602390951098708,
+        "y" : 0.52555241077176806
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "된 것이라고 생각된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023090526975434345,
+        "width" : 0.56198089816046104,
+        "x" : 0.076802922049261702,
+        "y" : 0.55198871059345733
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "허락을 강조하기 때문에 may가 강조되어 문두에 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024684799760975373,
+        "width" : 0.80909285308621448,
+        "x" : 0.076813813718071139,
+        "y" : 0.57755188100279509
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 God may bless America.와 같은 '주어+동사~'의 어순이 May God"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027946914011772184,
+        "width" : 0.51112493420323579,
+        "x" : 0.053311386492031591,
+        "y" : 0.60590781948556238
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "bless America.처럼 의문문 어순이 되는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027573436261488116,
+        "width" : 0.80915536001218968,
+        "x" : 0.076772683397268074,
+        "y" : 0.63100860361436162
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "영화 '스타워즈'에 나오는 대사인 'May the Force be with you.\"(포스가 당신"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325463737726,
+        "width" : 0.39627040565436611,
+        "x" : 0.055944051278335828,
+        "y" : 0.66133720934580065
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "과 함께하기를.)도 이와 같은 구문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372681311702,
+        "width" : 0.046620048360621683,
+        "x" : 0.058275057235243316,
+        "y" : 0.71947674381922788
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.99532710280373837,
+      "text" : "\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019009725906277697,
+        "width" : 0.18181818968860813,
+        "x" : 0.14452214047197781,
+        "y" : 0.71794871815148176
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.92672413793103448,
+      "text" : "③ 가정법 도치문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255812816130872,
+        "width" : 0.81351976327016839,
+        "x" : 0.076923104542071963,
+        "y" : 0.75000000033612058
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "가정법 학습(Must 44)에서 자세히 설명한 부분으로, \"실제로 일어나지 않았지만,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023444728868182607,
+        "width" : 0.82983684133976054,
+        "x" : 0.058275050658791079,
+        "y" : 0.77761627944464773
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "만일 그렇다면 이렇게 될 거야.\"라고 '상상의 이야기'를 할 때 사용하는 동사의 활"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020942637395479302,
+        "width" : 0.17965810789284131,
+        "x" : 0.055858591621423863,
+        "y" : 0.80784263477549023
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "용이 가정법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02720049732454477,
+        "width" : 0.81151616522606373,
+        "x" : 0.076784351143156765,
+        "y" : 0.83044400143876773
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "가정법에서는 동사를 일부러 과거형이나 과거완료로 함으로써. '현실의 이야기가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023430592396109673,
+        "width" : 0.26107225350454344,
+        "x" : 0.055944059095214126,
+        "y" : 0.86030061924543588
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "아니라는'것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015324293249587284,
+        "width" : 0.40816135271221199,
+        "x" : 0.50339594773145779,
+        "y" : 0.92432888626556342
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.93000000000000005,
+      "text" : "12장 어순: 어순 자체가 나타내는 '심리'를 이해하라 387"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    646
+  ],
+  "pdf_page_index" : 374,
+  "pdf_page_number" : 375
+}

@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026018819665104886,
+        "width" : 0.83291946757923463,
+        "x" : 0.1137505977239248,
+        "y" : 0.071672699874050338
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "곽은 떠올릴 수 있지만, 건축 재료가 되는 돌의 윤곽은 떠올리지 않을 것이다. 돌의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024285063451650157,
+        "width" : 0.83049930225719104,
+        "x" : 0.11381298392469542,
+        "y" : 0.099904743592731937
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "온전한 형태보다는, 돌에 얼굴을 바짝 대면 느낄 수 있는 돌 표면의 까칠까칠한 느"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025575692820781759,
+        "width" : 0.83049756830388866,
+        "x" : 0.11380635115789021,
+        "y" : 0.12723831392191987
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.021352313167259787,
+      "text" : "낌을 떠올릴 것이다. 이는 돌의 '재질 • 소재'를 떠올리고 있는 것일 뿐, 하나의 동글"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023895463376523374,
+        "width" : 0.55634914744984021,
+        "x" : 0.11372101652121659,
+        "y" : 0.15353678740919663
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "동글한 돌의 윤곽을 떠올리는 것은 아니라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026302220870037529,
+        "width" : 0.80974206057461817,
+        "x" : 0.13464949967650702,
+        "y" : 0.18055387080250551
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 이 문장에서 '돌'을 불가산 명사로, 즉 재질로 인식한다는 것을 알 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023527361168307226,
+        "width" : 0.55609633705832739,
+        "x" : 0.11150910511863689,
+        "y" : 0.20907832068690668
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "있다. 이를 토대로 아래와 같은 문장을 완성할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012134919255416543,
+        "width" : 0.10943776910955261,
+        "x" : 0.82551367435356093,
+        "y" : 0.23230463328283379
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "This building is"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011643163483018082,
+        "width" : 0.10056987675753515,
+        "x" : 0.83209787472414665,
+        "y" : 0.24518225701504148
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "made of srone"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011664018656367681,
+        "width" : 0.032558140429583479,
+        "x" : 0.11162790641311525,
+        "y" : 0.2616279067906897
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.34651162407614966,
+        "x" : 0.15813953665049948,
+        "y" : 0.25865128698696616
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "This building is made of stone."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023366816401375834,
+        "width" : 0.6304719231345437,
+        "x" : 0.16965026248855769,
+        "y" : 0.33828043538682318
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.97195817490494296,
+      "text" : "- 명사를 취급하는 방식에 따라 문장의 의미가 바뀔 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023743131040151799,
+        "width" : 0.81198935075239698,
+        "x" : 0.13004138674465582,
+        "y" : 0.3750813036209133
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "'명사 앞에 a가 있든지 없든지 뜻은 통하지 않는가?'라고 생각하면, 문장을 대충"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941337,
+        "width" : 0.43023256822065864,
+        "x" : 0.11162790169131225,
+        "y" : 0.40239574104966658
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "읽을 수는 있다. 하지만 말할 때는 어떨까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.76976741443980823,
+        "x" : 0.13255815303409094,
+        "y" : 0.43023255787720904
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "만약 당신이 애견가로 자기소개를 할 때, 아래 예문처럼 말하면 어떻게 될까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022034341292563209,
+        "width" : 0.16191452199762518,
+        "x" : 0.10871559437254459,
+        "y" : 0.477227490003028
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.40433925049309666,
+      "text" : "예크 llike dog."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016451430299584624,
+        "width" : 0.081357153979214725,
+        "x" : 0.79672623950017463,
+        "y" : 0.4812204153817754
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.95321637426900585,
+      "text" : "I like dog"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.5790697878057306,
+        "x" : 0.130232547807661,
+        "y" : 0.53194321229823127
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "알다시피, a dog에서 a가 사라지면 '한 마리의 개라는 형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032847312243511562,
+        "width" : 0.60088651830499817,
+        "x" : 0.10885808478619237,
+        "y" : 0.55337817726050642
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.039829302987197723,
+      "text" : "태가 사라지고 '개라는 재질을 가진 고깃덩어리가 된다. 보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028543727844292377,
+        "width" : 0.60071086883544922,
+        "x" : 0.10896867562565832,
+        "y" : 0.58143897307622505
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "통 상대방은 그렇게 해석해서, '아, 이 사람 개고기를 먹는구"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021942901949810634,
+        "width" : 0.52325582504272461,
+        "x" : 0.10930231991783118,
+        "y" : 0.61337209325440578
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "나. 그래서 개를 좋아하는 거야 라고 생각할 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028167387819332479,
+        "width" : 0.80984774502840906,
+        "x" : 0.12993728433478202,
+        "y" : 0.66392488639413172
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "당신이 애견가이고 개라는 종류의 동물을 좋아한다면, 아래 문장처럼 말하는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022407572356175853,
+        "width" : 0.15602836825630884,
+        "x" : 0.10686953670933864,
+        "y" : 0.69301133007656646
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018334477584554643,
+        "width" : 0.17063287171450531,
+        "x" : 0.10665966624650404,
+        "y" : 0.74309329678600178
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.3832684824902724,
+      "text" : "예운 I like dogs."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012633926168203136,
+        "width" : 0.10123709115115076,
+        "x" : 0.69245782517902688,
+        "y" : 0.77301472536940308
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.93827160493827155,
+      "text" : "llike dogs."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020498442459444988,
+        "width" : 0.61162792552601197,
+        "x" : 0.1255813859507528,
+        "y" : 0.79636202277042722
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "a dog가 아닌 dogs인 이유는 Must 65 학습 내용에서 자세"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939033095352167,
+        "width" : 0.63255812905051489,
+        "x" : 0.10697674673720105,
+        "y" : 0.82253771069881287
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "히 설명하겠다. 여기에서는 문장에서 dog라고 말하는 것이 어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021936453859046634,
+        "width" : 0.55116280642422766,
+        "x" : 0.10697673620394088,
+        "y" : 0.85029069790578782
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "떤 의미를 전달하는지 이해하는 것만으로도 충분하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.039534883065657181,
+        "x" : 0.076744186316008628,
+        "y" : 0.92587209318415986
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.97029702970297027,
+      "text" : "282"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 272,
+  "pdf_page_number" : 273
+}

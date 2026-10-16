@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.027649768126497123,
+        "x" : 0.10829493146670537,
+        "y" : 0.074090505607191659
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99342105263157898,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019501893416694949,
+        "width" : 0.70755442687730752,
+        "x" : 0.14736736627157623,
+        "y" : 0.071835428898996079
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.00096993210475266732,
+      "text" : "This made me = (think twice). [This made me ...+I thought twice.]"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.41705069025525232,
+        "x" : 0.15207373309554692,
+        "y" : 0.10026619360560951
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이것은'나=2번 생각하다'라는 상태로 만들었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.26267282134537623,
+        "x" : 0.14976958000727048,
+        "y" : 0.12200532366224526
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "-이것이 나를 망설이게 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147795,
+        "width" : 0.83179723897899072,
+        "x" : 0.10138248615227746,
+        "y" : 0.16133720903509596
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "•let: '해방하다' '방출하다'라는 이미지를 가진 단어이다. (참고로 명사 outlet"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026970589171496751,
+        "width" : 0.82527085530942335,
+        "x" : 0.105800212052176,
+        "y" : 0.18690270467068737
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "는 '배출구'를 뜻한다.) 그 이미지에서 '하고 싶은 대로 하게 해 주다'라는 의미가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020541002397105657,
+        "width" : 0.080645162847977667,
+        "x" : 0.10599078249903558,
+        "y" : 0.21947674403028816
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011693681566294245,
+        "width" : 0.029953917705895353,
+        "x" : 0.10599078299293045,
+        "y" : 0.27180232538888105
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.65668201044138985,
+        "x" : 0.14746544611274484,
+        "y" : 0.26885536850040503
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.0054466230936819175,
+      "text" : "Let him =(Say anything).((You) let him ...+ He says anything]"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023622561897338801,
+        "width" : 0.40389130454190836,
+        "x" : 0.15175593752868777,
+        "y" : 0.29340299740565856
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "'그=무엇이든지 말하다'라는 상태로 만들어라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020561637133756472,
+        "width" : 0.32258065139191061,
+        "x" : 0.14976958203136853,
+        "y" : 0.31810115367372127
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "-• 그가 무엇이든 말하도록 놔두어라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011738821163363777,
+        "width" : 0.029953917705895367,
+        "x" : 0.10599078298172976,
+        "y" : 0.37488908586862091
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.9932432432432432,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019082354568440874,
+        "width" : 0.70737325290084396,
+        "x" : 0.15668203698275784,
+        "y" : 0.37045252876404944
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.005054759898904802,
+      "text" : "MIl let you =(know) when | arrive there.lril let you...+ You know.]"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.68894007772668342,
+        "x" : 0.14976959192994341,
+        "y" : 0.39825581419242662
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "내가 거기에 도착하면 '너=알고 있는' 상태가 되게 할 거야.(wil은 의지를 나타냄)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.36405530626428451,
+        "x" : 0.14976958178380509,
+        "y" : 0.4228039038690341
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "-*내가 거기에 도착하면 너에게 알려 줄게."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.17972350087011579,
+        "x" : 0.19354838769858268,
+        "y" : 0.47382431263572944
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.94312796208530802,
+      "text" : "② 지각동사 구문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02189131468508021,
+        "width" : 0.80645159628823848,
+        "x" : 0.12442397158330502,
+        "y" : 0.50872093045711175
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "지각동사 구문이라는 것은 지각동사를 사용할 때 나타나는 구문이다. 지각동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025602208690084782,
+        "width" : 0.8251840669226882,
+        "x" : 0.10584992302695842,
+        "y" : 0.53280379322501692
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "란 '들어온 정보를 알아차리는 것'을 의미하는 '지각'을 나타내는 동사이다. 주로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023253677794651928,
+        "width" : 0.38286761191323843,
+        "x" : 0.1011506817960799,
+        "y" : 0.56508361258674222
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "see, hear, feel, watch 등이 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028940791457547688,
+        "width" : 0.58829301922633181,
+        "x" : 0.10340154049119467,
+        "y" : 0.61469864767305715
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "•hear: 귀에 들어온 소리를 알아차리다 ='들리다' '듣다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017457336689797542,
+        "width" : 0.51843317517416054,
+        "x" : 0.10368663811342686,
+        "y" : 0.66858917491404779
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.13053097345132744,
+      "text" : "예문 She heard someone =(calling her name)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014659983982739377,
+        "width" : 0.56682027610210095,
+        "x" : 0.1520737328117705,
+        "y" : 0.69609582981007079
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "[She heard someone ...+ Someone was calling her name.]"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014650956655669845,
+        "width" : 0.48387096635735316,
+        "x" : 0.14976958583054001,
+        "y" : 0.72093023271201073
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 '누군가=자신의 이름을 부르고 있는 것 을 들었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017494738154847145,
+        "width" : 0.51382489211113302,
+        "x" : 0.14976958150899056,
+        "y" : 0.74267968042496457
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "-> 그녀는 누군가가 자신의 이름을 부르고 있는 것을 들었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014696095829636158,
+        "width" : 0.027649768126497123,
+        "x" : 0.073732719508180014,
+        "y" : 0.9228039039402558
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.98305084745762716,
+      "text" : "52"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    644
+  ],
+  "pdf_page_index" : 49,
+  "pdf_page_number" : 50
+}

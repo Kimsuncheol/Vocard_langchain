@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024151476252545656,
+        "width" : 0.52614360836380758,
+        "x" : 0.10386187962740022,
+        "y" : 0.10123255819000099
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.12016021361815754,
+      "text" : "예e She ate breakfast, reading the newspaper."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02106869857082172,
+        "width" : 0.35676092053136088,
+        "x" : 0.15262925052603149,
+        "y" : 0.127581974171185
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 신문을 읽으면서 아침밥을 먹었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016096995818657422,
+        "width" : 0.75,
+        "x" : 0.15509259230117395,
+        "y" : 0.15116279074973193
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.58596837944664026,
+      "text" : "-reading the newspaper는 '무엇을 하면서 eat breakfast했는지'라는 '동작의 모습'을 설명하므로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014954152904795626,
+        "width" : 0.076589451783092316,
+        "x" : 0.17351082953551097,
+        "y" : 0.17130199328979412
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.44155844155844154,
+      "text" : "부사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302759679641,
+        "width" : 0.70138887445977394,
+        "x" : 0.10185185337582292,
+        "y" : 0.32994186004215631
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.99149408284023666,
+      "text" : "를 여러 가지로 해석되는 분사구문의 '뿌리'를 읽는 방법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023418802383531445,
+        "width" : 0.81500702986480489,
+        "x" : 0.11794433321780486,
+        "y" : 0.37932785418112502
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "'아, 이게 분사구문이구나!'라고 판단되면 그 다음은 읽는 방법에 대해 알아보도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.087962963564176072,
+        "x" : 0.10416666624260332,
+        "y" : 0.40836298907287949
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026380038346260015,
+        "width" : 0.81018516594636525,
+        "x" : 0.1226851945711846,
+        "y" : 0.43313953489255153
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "분사구문은 '시간', '이유', '조건', '상황' 등, 여러 가지 해석 방법이 있다. 그래서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02182301592572311,
+        "width" : 0.64351849927969862,
+        "x" : 0.10416667616904506,
+        "y" : 0.46218861181934723
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "학습자들은 분사구문을 어떻게 해석해야 할지 어려움을 겪는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020524704583599118,
+        "width" : 0.81018516594636536,
+        "x" : 0.12268519468849828,
+        "y" : 0.49110320246894146
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 분사구문의 형태는 -ing로 변하지 않기 때문에, 뿌리가 되는 읽기 방법도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021895431538917931,
+        "width" : 0.82870366522606376,
+        "x" : 0.10416668578505844,
+        "y" : 0.51734875434634386
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "변하지 않는다. 따라서 그 뿌리로부터 여러 가지로 해석되는 방법이 가지처럼 퍼져"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.83101849927969862,
+        "x" : 0.10185186135074124,
+        "y" : 0.54492882542202836
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "가는 것이다. 갑자기 가지를 보면 혼란스러울 수 있지만, 뿌리부터 차츰 가지에 도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02051435925358136,
+        "width" : 0.25925924963984931,
+        "x" : 0.10185185654250924,
+        "y" : 0.57250889662960924
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "달하게 되면 어렵지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01747289586321743,
+        "width" : 0.19212962481992468,
+        "x" : 0.1365740763631858,
+        "y" : 0.63078291778325579
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "뿌리가 되는 읽기 방법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.24074075036015072,
+        "x" : 0.1388888839634432,
+        "y" : 0.6583629897090304
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "현재분사(ing)~하고 (있어)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022499059018715406,
+        "width" : 0.30837685875858822,
+        "x" : 0.13631920359822466,
+        "y" : 0.68289290159479599
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.013605442176870748,
+      "text" : "과거분사(ed 등)~하게 되어,~해져"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026672165588976227,
+        "width" : 0.4265226756427305,
+        "x" : 0.101506645260898,
+        "y" : 0.75800828714661916
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.15119363395225463,
+      "text" : "에E Driving a car, he had an accident."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302759679641,
+        "width" : 0.32870370851340869,
+        "x" : 0.14583333081274014,
+        "y" : 0.78633720907619209
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "차를 운전하다가, 그가 사고를 당했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026658215132472352,
+        "width" : 0.34102358987145392,
+        "x" : 0.10373727911106424,
+        "y" : 0.83511745902443268
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.18018967334035826,
+      "text" : "대E Being sick, I stayed home."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024729170408961609,
+        "width" : 0.28774747375055409,
+        "x" : 0.14778845364183646,
+        "y" : 0.86174582771186747
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "아팠기 때문에, 나는 집에 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016153893861057922,
+        "width" : 0.04398148178208805,
+        "x" : 0.72453703676375913,
+        "y" : 0.78633720931155704
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "시간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016045270017033375,
+        "width" : 0.04166666666666663,
+        "x" : 0.72453703691448812,
+        "y" : 0.86476868336511892
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01617975676186989,
+        "width" : 0.043981481782088036,
+        "x" : 0.069444444178400427,
+        "y" : 0.92732558140751942
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 1,
+      "text" : "128"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 123,
+  "pdf_page_number" : 124
+}

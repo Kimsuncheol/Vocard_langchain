@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02388641743291875,
+        "width" : 0.80762497922207444,
+        "x" : 0.081119143848628297,
+        "y" : 0.075219441283545629
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "그 밖에도, 이미 앞에서 1/2이라고 쓴 것처럼 분수는 분자를 먼저, 분모를 뒤에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024809970195672104,
+        "width" : 0.83089114791112573,
+        "x" : 0.060193204865550777,
+        "y" : 0.10250609325304161
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "쓴다. a half(1/2)나 a quarter(1/4)는 조금 특수한 표현이다. 예를 들어 2/3는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023613784201079624,
+        "width" : 0.78437941530917554,
+        "x" : 0.057906290913786296,
+        "y" : 0.13075181180387396
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "tWo thirds, 3/5은 three fifiths와 같이 분자를 먼저 쓰고, 분모는 뒤에 쓴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147795,
+        "width" : 0.80974476049977839,
+        "x" : 0.081206505712987834,
+        "y" : 0.156976743907417
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이를 이용하면, 이른바 '배수 표현'을 쉽게 만들 수 있다. as ~ as 구문에서 자주"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022049065279347135,
+        "width" : 0.18105023972531584,
+        "x" : 0.060286944979955327,
+        "y" : 0.1859231417631908
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "나오는 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016087679283324885,
+        "width" : 0.24593966869597741,
+        "x" : 0.10672854140494534,
+        "y" : 0.23546511593676178
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "He is twice as rich as ."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017511504037039494,
+        "width" : 0.41299304285793448,
+        "x" : 0.10672853719790476,
+        "y" : 0.25865128660131509
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그는 내 두 배만큼 부자다.(나보다 두 배 부자다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025163249410986355,
+        "width" : 0.81229577030695921,
+        "x" : 0.078783317985349363,
+        "y" : 0.29729687110065461
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 문장이 있을 수 있다. 배수 표현이란, 글자 그대로 '곱셈'을 나타내는 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026299497778688563,
+        "width" : 0.83062640250997333,
+        "x" : 0.06032484843565529,
+        "y" : 0.32253771085299188
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 그래서 표현을 '나란히 배열 '하면 '~배'를 나타낼 수 있다. 위 예문을 만드는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.80974476049977839,
+        "x" : 0.060324835426883355,
+        "y" : 0.35448092242635332
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "방법을 생각해 보자. 그리고 as ~ as 구문을 쉽게 만드는 방법도 함께 알아보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02493183911111152,
+        "width" : 0.58271051501551419,
+        "x" : 0.062485361739935581,
+        "y" : 0.4117564614508431
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.98784878487848782,
+      "text" : "was ~ as 구문을 매우 간단하게 만드는 방법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465148017,
+        "width" : 0.81206496218417556,
+        "x" : 0.078886312312661161,
+        "y" : 0.46220930206562816
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "as ~ as 표현이나 비교급을 사용한 문장은 읽고 이해하기 어렵고, 만드는 것도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.078886310766774714,
+        "x" : 0.06032482592622853,
+        "y" : 0.48979591832966385
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "힘들다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025913197907496022,
+        "width" : 0.80764792151484921,
+        "x" : 0.081109636223259951,
+        "y" : 0.512442996785201
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "그 이유는 '비교하는 쪽'과 '비교를 당하는 쪽'의 2가지 정보, 즉 일반적인 문장의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021928715303923707,
+        "width" : 0.82830628740026591,
+        "x" : 0.060324814434099996,
+        "y" : 0.54347826120066201
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "두 배에 달하는 정보를 다루어야 하기 때문이다. 이러한 문장을 한꺼번에 만들려면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021946771650475094,
+        "width" : 0.82830628740026591,
+        "x" : 0.060324814416054834,
+        "y" : 0.57122093046548339
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "머리가 혼란스러워진다. 단순한 문장부터 시작해서, 점차 표현을 늘려 간다면 쉽"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021837147337838259,
+        "width" : 0.83526680587876767,
+        "x" : 0.060324833602548006,
+        "y" : 0.59883720953537034
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "게 만들 수 있을 뿐만 아니라, 긴 비교 문장을 아주 쉽게 읽는 것도 가능할 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939033095352167,
+        "width" : 0.25754061218694591,
+        "x" : 0.060324821400726571,
+        "y" : 0.65552325602953587
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.0017271157167530224,
+      "text" : "① He has many books."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.23897912857380318,
+        "x" : 0.088167048137692355,
+        "y" : 0.68012422380845838
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그는 많은 책을 가지고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020461040994395385,
+        "width" : 0.6867749369736259,
+        "x" : 0.078886313293004773,
+        "y" : 0.72227151725952832
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "일단 이처럼 단순한 문장을 만든다. 그리고 문장을 만들었다면, 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023988155950564916,
+        "width" : 0.70322975537455668,
+        "x" : 0.06022432815297226,
+        "y" : 0.74646443189253098
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "다음에는 문장 안에서 '모습을 나타내는 말(문법적으로 말하면, 형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021851333983725185,
+        "width" : 0.70301626218971636,
+        "x" : 0.060324815425250151,
+        "y" : 0.77761627930228427
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "용사나 부사)을 찾는다. 이 문장에서는 many(많은)가 그러한 단어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019402548816210397,
+        "width" : 0.057168038009751773,
+        "x" : 0.059664284932390843,
+        "y" : 0.80416455220703831
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019112017478367438,
+        "width" : 0.29002319768810947,
+        "x" : 0.060324829781235267,
+        "y" : 0.86024844702781478
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "② He has as many books."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020542307246968927,
+        "width" : 0.41331531714040337,
+        "x" : 0.085709229940250709,
+        "y" : 0.88359522266896973
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "그는 똑같이 많은(=같은 개수) 책을 가지고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.40835268277648495,
+        "x" : 0.50580045664163509,
+        "y" : 0.92857142877423537
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.90874524714828897,
+      "text" : "12장 어순: 어순 자체가 나타내는 '심리'를 이해하라 399"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 386,
+  "pdf_page_number" : 387
+}

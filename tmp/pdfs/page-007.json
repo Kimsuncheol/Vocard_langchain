@@ -1,0 +1,730 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014680878533257391,
+        "width" : 0.062068966035266127,
+        "x" : 0.13333333296416772,
+        "y" : 0.076888888661465926
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.68691588785046731,
+      "text" : "제6장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.25517240757680637,
+        "x" : 0.2344827616301228,
+        "y" : 0.074127906567925339
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "동사 ⑤ 동사원형:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029534064398871518,
+        "width" : 0.430382450924644,
+        "x" : 0.23425124480506479,
+        "y" : 0.10020184677636645
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "의미를 생각해 본 적이 있는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016148579067654101,
+        "width" : 0.036781608806883748,
+        "x" : 0.10804597709081101,
+        "y" : 0.16844444448591411
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "34"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017519379509819855,
+        "width" : 0.034482757418132184,
+        "x" : 0.11034482817106527,
+        "y" : 0.22666666695608018
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "35"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.034482757418132184,
+        "x" : 0.11034482817106527,
+        "y" : 0.2862222222553511
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "36"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777892,
+        "width" : 0.034482757418132184,
+        "x" : 0.11034482808212166,
+        "y" : 0.34577777760653228
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "37"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016178294711642671,
+        "width" : 0.034482757418132184,
+        "x" : 0.1126436786376772,
+        "y" : 0.40533333348357137
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "38"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372802734463,
+        "width" : 0.034482757418132198,
+        "x" : 0.11264367864725575,
+        "y" : 0.46511627865341809
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "39"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016179586622450115,
+        "width" : 0.036781608806883734,
+        "x" : 0.11264367823139458,
+        "y" : 0.52470930190923215
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "40"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016142119513617548,
+        "width" : 0.032183908712008824,
+        "x" : 0.11264367772180284,
+        "y" : 0.58430232516504599
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "41"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.036781608806883734,
+        "x" : 0.11264367835517881,
+        "y" : 0.64222222184030309
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "42"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016187338935004347,
+        "width" : 0.034482757418132198,
+        "x" : 0.1149425292219684,
+        "y" : 0.70203488330458097
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "43"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.26206897247357375,
+        "x" : 0.18160919185429419,
+        "y" : 0.16569767460378748
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "동사원형에 대해 생각하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017509044223361525,
+        "width" : 0.29425287045506987,
+        "x" : 0.25057471423453392,
+        "y" : 0.18604651153160834
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "동사가 시간에서 해방되어 남은 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.043678160290510082,
+        "x" : 0.53563218415551128,
+        "y" : 0.16569767426707349
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "158"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021197857326931469,
+        "width" : 0.46465626648206748,
+        "x" : 0.1791638693178067,
+        "y" : 0.22315957125083663
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "to 부정사(= to+동사원형) ① ~ 쪽으로 이끌다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021232779608832519,
+        "width" : 0.42350397767229253,
+        "x" : 0.25030854102985611,
+        "y" : 0.24325437045123088
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "용법에 현혹되지 않고, 우선은 단지 '로 생각하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014709302266438851,
+        "width" : 0.039080460195635269,
+        "x" : 0.73793103421252715,
+        "y" : 0.22529069781860034
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "162"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023359260559081996,
+        "width" : 0.57969611874780236,
+        "x" : 0.17911124676816362,
+        "y" : 0.28064805492622258
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "t0 부정사(=to+동사원형) ② 를 어느 방향에서 보는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.22988505303105222,
+        "x" : 0.24597701359941648,
+        "y" : 0.30523255805177918
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "\"에는 3가지 의미가 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016187338087293779,
+        "width" : 0.043678160290510193,
+        "x" : 0.84827586233123387,
+        "y" : 0.28177777762624656
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "166"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01999019453260642,
+        "width" : 0.17041110053511777,
+        "x" : 0.1814611162893891,
+        "y" : 0.34392932090009287
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "be동사 정리하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016020672268337699,
+        "width" : 0.043678160290510193,
+        "x" : 0.44597701174171811,
+        "y" : 0.34444444429896948
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "170"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.38850576666337022,
+        "x" : 0.25057470283537986,
+        "y" : 0.36482558130785747
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "be동사는 여러 문장에서 무슨 기능을 하는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017891467624240431,
+        "width" : 0.13347888629983082,
+        "x" : 0.18153641891137698,
+        "y" : 0.40384496383219981
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "be to 부정사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.043678160290510137,
+        "x" : 0.40919540266262672,
+        "y" : 0.40261627886632589
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "174"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021614405314127505,
+        "width" : 0.37288454380384145,
+        "x" : 0.25265158806068116,
+        "y" : 0.42246176660188295
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "근본적인 의미: ~하는 것을 향한 상태에 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025516008165147652,
+        "width" : 0.48350763119725737,
+        "x" : 0.18128093647093033,
+        "y" : 0.45763353777848492
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "t0 부정사의 의미상 주어와 'of+사람+to 부정사'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679586622450058,
+        "width" : 0.043678160290510193,
+        "x" : 0.75402298871170514,
+        "y" : 0.46220930250206294
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "178"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020743935479058284,
+        "width" : 0.55207509229957807,
+        "x" : 0.2527012603536995,
+        "y" : 0.48117961613178939
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "왜 'of+사람'앞에는 사람의 성격, 성질을 나타내는 형용사가 올까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021681443956163227,
+        "width" : 0.20314551674028661,
+        "x" : 0.18116288286120316,
+        "y" : 0.52113631277459982
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "tough 구문 공략 ①"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679585774739601,
+        "width" : 0.043678160290510137,
+        "x" : 0.47356321861911271,
+        "y" : 0.52311111150113676
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "182"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020195766872829868,
+        "width" : 0.52231045278986465,
+        "x" : 0.25494029635830506,
+        "y" : 0.54169528903573749
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "왜 He is impossible.(그는 불가능해)이라고 말할 수 없을까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021857538011338939,
+        "width" : 0.19869488636987959,
+        "x" : 0.18340750249557169,
+        "y" : 0.58052476512991313
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "tough 구문 공략 ②"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.048275863068013292,
+        "x" : 0.47356321802538032,
+        "y" : 0.57994186024091066
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "186"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.33103449267509455,
+        "x" : 0.25287355833822811,
+        "y" : 0.60174418595120027
+      },
+      "confidence" : 1,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "가주어 it를 사용하는 문장과 느낌 차이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022148631625705351,
+        "width" : 0.20315019524382472,
+        "x" : 0.18122726347339463,
+        "y" : 0.6401283371270392
+      },
+      "confidence" : 1,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0,
+      "text" : "have, get 사역 구문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016087855868869294,
+        "width" : 0.050574714456764758,
+        "x" : 0.47356321737608009,
+        "y" : 0.64088888862500815
+      },
+      "confidence" : 1,
+      "observation_index" : 38,
+      "red_ink_fraction" : 0,
+      "text" : "190"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023544236077202685,
+        "width" : 0.65785399703872183,
+        "x" : 0.25039130102208457,
+        "y" : 0.6575642207881105
+      },
+      "confidence" : 0.5,
+      "observation_index" : 39,
+      "red_ink_fraction" : 0,
+      "text" : "have나 get에 '~시키다, ~하게 하다', '~당하다'라는 의미가 생긴 이유는 무엇일까?\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020446734958224799,
+        "width" : 0.1914285050833443,
+        "x" : 0.18819142763397639,
+        "y" : 0.69918844775817646
+      },
+      "confidence" : 0.5,
+      "observation_index" : 40,
+      "red_ink_fraction" : 0,
+      "text" : "원형 부정사와-ing"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.091954023358523429,
+        "x" : 0.25517241410617891,
+        "y" : 0.74709302303160818
+      },
+      "confidence" : 1,
+      "observation_index" : 41,
+      "red_ink_fraction" : 0,
+      "text" : "무엇일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017458656311035159,
+        "width" : 0.043678160290510137,
+        "x" : 0.47126436818807821,
+        "y" : 0.69911111106433332
+      },
+      "confidence" : 1,
+      "observation_index" : 42,
+      "red_ink_fraction" : 0,
+      "text" : "194"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022723515828450558,
+        "width" : 0.66255773874274793,
+        "x" : 0.25264300652941024,
+        "y" : 0.71829365134245149
+      },
+      "confidence" : 1,
+      "observation_index" : 43,
+      "red_ink_fraction" : 0,
+      "text" : "keep, leave 뒤에는 ing이 오고, make, have 뒤에는 동사원형이 오는 이유는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014746769375271307,
+        "width" : 0.062068966035266099,
+        "x" : 0.14482758582815239,
+        "y" : 0.81955555595898688
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 44,
+      "red_ink_fraction" : 0.72864321608040206,
+      "text" : "제7창"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026281120300292948,
+        "width" : 0.21905547623560565,
+        "x" : 0.24335929094128958,
+        "y" : 0.81516599282047841
+      },
+      "confidence" : 0.5,
+      "observation_index" : 45,
+      "red_ink_fraction" : 0,
+      "text" : "동사 ⑥ 가정법:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028644114176432312,
+        "width" : 0.31370789089283363,
+        "x" : 0.24316889571176376,
+        "y" : 0.84408059854754636
+      },
+      "confidence" : 1,
+      "observation_index" : 46,
+      "red_ink_fraction" : 0,
+      "text" : "실제로는 그렇지 않다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010174418131510432,
+        "width" : 0.013793102967252877,
+        "x" : 0.087356321941660917,
+        "y" : 0.93313953501854729
+      },
+      "confidence" : 1,
+      "observation_index" : 47,
+      "red_ink_fraction" : 1,
+      "text" : "8"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 7,
+  "pdf_page_number" : 8
+}

@@ -1,0 +1,70 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.076130079186480959,
+        "width" : 0.23006367111744092,
+        "x" : 0.15010685130670703,
+        "y" : 0.41680753718437358
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.10096976611523104,
+      "text" : "제 6잠"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.13546059717620074,
+        "width" : 0.50593650828631875,
+        "x" : 0.16929618914802083,
+        "y" : 0.41815575355769563
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.011304503857886236,
+      "text" : "동사 ⑤ 동사원형:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.15662171466221508,
+        "width" : 0.62769135769735107,
+        "x" : 0.18372240370483472,
+        "y" : 0.44668049421282185
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.32177427933198594,
+      "text" : "의미를 생각해 본 적이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.085464078129765864,
+        "width" : 0.23909721858746921,
+        "x" : 0.21353130128718459,
+        "y" : 0.5576435300824496
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.39460214053047932,
+      "text" : "있는가?"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    644
+  ],
+  "pdf_page_index" : 150,
+  "pdf_page_number" : 151
+}

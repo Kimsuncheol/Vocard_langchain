@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.50348025923925088,
+        "x" : 0.055684464242372958,
+        "y" : 0.076888888667007382
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.13725490196078433,
+      "text" : "예e He got his children = (ready for school)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014741601732042087,
+        "width" : 0.053364265387785353,
+        "x" : 0.1345707673931143,
+        "y" : 0.10444444438104361
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.63043478260869568,
+      "text" : "얻었다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014741601732042087,
+        "width" : 0.053364270798703484,
+        "x" : 0.41299303849275965,
+        "y" : 0.10444444452639245
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.64383561643835618,
+      "text" : "형용사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017552971733940992,
+        "width" : 0.41299304285793442,
+        "x" : 0.10440835086414962,
+        "y" : 0.12488888880397586
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "그는 자신의 아이들이 학교 갈 준비가 되게 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014670542399088493,
+        "width" : 0.48259861722905589,
+        "x" : 0.1067285335143396,
+        "y" : 0.14666666668232087
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.48192771084337349,
+      "text" : "* 그는 '아이들 = 학교 갈 준비가 되어 있는'이라는 상황을 얻었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020152482774522529,
+        "width" : 0.74259128435283672,
+        "x" : 0.055611607781487618,
+        "y" : 0.19014179876848758
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.17647058823529413,
+      "text" : "예문 We got the project = (started). 우리는 그 프로젝트를 시작되게 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014745477464463974,
+        "width" : 0.051044085347060647,
+        "x" : 0.13921113587085851,
+        "y" : 0.21947674436465303
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.29629629629629628,
+      "text" : "얻었다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014745477464463974,
+        "width" : 0.32482598487367015,
+        "x" : 0.40603248308520673,
+        "y" : 0.21947674439763643
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.83617747440273038,
+      "text" : "과거분사 프로젝트는 '시작되어지는 입장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488328721797,
+        "width" : 0.45475637016566939,
+        "x" : 0.10440835772272883,
+        "y" : 0.23982558160831868
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.6067415730337079,
+      "text" : "* 우리는 '그 프로젝트 = 시작되게 하다'라는 상황을 얻었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020463824801974839,
+        "width" : 0.47331785377881203,
+        "x" : 0.078886316611099613,
+        "y" : 0.28622222207900516
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장에서 get 대신 have를 사용해도 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025862236870659694,
+        "width" : 0.8100348722850178,
+        "x" : 0.078740869558742599,
+        "y" : 0.31042264944246101
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.027358490566037737,
+      "text" : "하지만 geI이 좀 더 '노력해서 ~하다'라는 느낌을 준다. get은 '얻다'라는 의미이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022695726182725751,
+        "width" : 0.58723083928967201,
+        "x" : 0.05559892342497421,
+        "y" : 0.33781108750161781
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "기 때문에 '얻기 위해서 노력하다'라는 느낌이 있는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021979328579372792,
+        "width" : 0.80974476049977839,
+        "x" : 0.078886320326694279,
+        "y" : 0.36755555523687433
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.068181818181818177,
+      "text" : "반면 have는 I have a pen.(나는 펜을 가지고 있다.)과 같이 '(이미) 가지고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023527157253689257,
+        "width" : 0.83078743143284572,
+        "x" : 0.057920512798776157,
+        "y" : 0.39234120670824724
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "있다'라는 것을 나타내기 때문에 그것을 얻으려는 노력은 드러나지 않고, 노력이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020527131822374201,
+        "width" : 0.58004639537621894,
+        "x" : 0.058004644485380522,
+        "y" : 0.4213333336619105
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "필요하지 않은 당연한 행위에 사용되는 것이 일반적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632713,
+        "width" : 0.80974476049977839,
+        "x" : 0.078886320313639333,
+        "y" : 0.47674418622008918
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "위 예문을 응용하면 We had the project started. 문장의 경우, 이제 프로젝트"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020528423733181422,
+        "width" : 0.83294660419437061,
+        "x" : 0.055684470408615128,
+        "y" : 0.50436046473884322
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "가 시작되는 것은 매우 당연한 일로, 상당히 원활하고 문제없이 시작되었다는 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020467700534396616,
+        "width" : 0.088167052573346089,
+        "x" : 0.055684455028582193,
+        "y" : 0.53197674377968163
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이 든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.80742455881538122,
+        "x" : 0.078886328334590333,
+        "y" : 0.55813953505518565
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "한편, get은 '드디어 얻게 되었다는 느낌'으로, '드디어 시작되었다'는 느낌을 준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024663293626573268,
+        "width" : 0.81221690076462771,
+        "x" : 0.076487369323755008,
+        "y" : 0.60919970287799541
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.04746835443037975,
+      "text" : "또한 ge의 '얻다'라는 '힘을 가하는 느낌'은 상대방에게 '힘차게 나아가는' 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023384999593098921,
+        "width" : 0.8308125380928636,
+        "x" : 0.057915232408915183,
+        "y" : 0.63810215683833083
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "을 주기 때문에 영어 원어민들은 거리를 좁히는 친근한 표현이라고 생각한다. 반대"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.83294660419437061,
+        "x" : 0.055684470467425411,
+        "y" : 0.66711111120312128
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.032228360957642727,
+      "text" : "로 have는 힘을 주는 느낌이 적기 때문에 약간 거리를 두는 차갑고 사무적인 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021903100755479632,
+        "width" : 0.68213457689217649,
+        "x" : 0.053364265751997583,
+        "y" : 0.69466666676791877
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "투로 느껴진다고 한다. 따라서 업무 등에서 have를 많이 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022547278510199664,
+        "width" : 0.68236469241744246,
+        "x" : 0.055542550453893821,
+        "y" : 0.74087632488146715
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.093064611736810909,
+      "text" : "예문 ㅣ got my boyiriend to buy me dinner for the celebration."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016000000000000014,
+        "width" : 0.48027841554465867,
+        "x" : 0.10208817030017646,
+        "y" : 0.76888888892432017
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "나는 남자친구에게 축하를 위한 저녁 식사를 얻어먹었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.65197217143173758,
+        "x" : 0.058004633416170862,
+        "y" : 0.81104651181646015
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.085299455535390201,
+      "text" : "예e Ihad my boyfriend buy me dinner for the celebration."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016124031066894529,
+        "width" : 0.77958239832668441,
+        "x" : 0.10672852230158732,
+        "y" : 0.83720930196826615
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.41562500000000002,
+      "text" : "- 약간 사무적인 느낌으로, 남자친구에게 명령하여 사게 만든 듯한 말투이다. 두 사람의 관계가 차갑다고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015348633660210442,
+        "width" : 0.11394706347309952,
+        "x" : 0.12516103904505121,
+        "y" : 0.85569777573457195
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.41791044776119401,
+      "text" : "생각될 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.4269141663896277,
+        "x" : 0.48491878676337036,
+        "y" : 0.9271111109989878
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.95238095238095233,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 193"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 186,
+  "pdf_page_number" : 187
+}

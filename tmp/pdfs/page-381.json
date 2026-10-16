@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.039142510656554497,
+        "width" : 0.13486469844807247,
+        "x" : 0.14158693395365624,
+        "y" : 0.090171738823085046
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99919126566922767,
+      "text" : "Must 90"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033430232951026539,
+        "width" : 0.52102804591513086,
+        "x" : 0.14953270587036047,
+        "y" : 0.13226744165452442
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.9994637494637495,
+      "text" : "어순의 2가지 주요 규칙으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03210523890857675,
+        "width" : 0.30862839744980852,
+        "x" : 0.14708748801379598,
+        "y" : 0.16491965981343926
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99940875049270794,
+      "text" : "도치 마스터하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026784729598580026,
+        "width" : 0.69225856857082446,
+        "x" : 0.14217002780273472,
+        "y" : 0.21203645436867902
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99960348929421095,
+      "text" : "• '하고 싶은 말부터 먼저 하기', '가벼운 정보를 먼저 말하기'로 도치 마스터"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025487765471844503,
+        "width" : 0.39767938597589475,
+        "x" : 0.11426423955893734,
+        "y" : 0.30911668035669093
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.99173553719008267,
+      "text" : "를 하고 싶은 말부터 먼저 하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02216435407937567,
+        "width" : 0.35790224428530093,
+        "x" : 0.19373030806725536,
+        "y" : 0.38606183016403106
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.97527200791295743,
+      "text" : "-what의 감탄문과 how의 감탄문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032538428361485572,
+        "width" : 0.82104405242832967,
+        "x" : 0.13035028787399597,
+        "y" : 0.41814356036193412
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "\"하고 싶은 말부터 먼저 하는' 규칙을 따르는 도치문은, 의문문 외에도 찾아볼 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020531649289667442,
+        "width" : 0.058411215105627343,
+        "x" : 0.11448598110892048,
+        "y" : 0.45039858307443703
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024946823491788339,
+        "width" : 0.3652833683198673,
+        "x" : 0.1351624441727034,
+        "y" : 0.47666564723721661
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "먼저 how의 감탄문부터 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029067976269920526,
+        "width" : 0.81382181977274737,
+        "x" : 0.1351473403072706,
+        "y" : 0.50207824422196656
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "how는 '모양이나 정도를 묻다'라는 의미를 바탕으로 한다. '어떤 식인지', '얼마"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024430483606032727,
+        "width" : 0.83432424170339226,
+        "x" : 0.11438544661964849,
+        "y" : 0.53192764937479631
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "나, 어느 정도인지'를 묻는 느낌이다. '얼마나'라는 의미로 인해, '얼마나 ~한지!\"라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025571532540874742,
+        "width" : 0.82521904839409732,
+        "x" : 0.1142722808937351,
+        "y" : 0.55881589745986326
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "감탄문에 how가 사용된다. 그리고 감탄문의 어순에서 중요한 점은 아래와 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019062712933765935,
+        "width" : 0.30607476737084893,
+        "x" : 0.17056074705293653,
+        "y" : 0.6306465896777329
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.00798175598631699,
+      "text" : "how는 very가 다시 태어난 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024429274830171877,
+        "width" : 0.5099218645666399,
+        "x" : 0.13293077831137401,
+        "y" : 0.69369180291783783
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 생각하면서 이제 예문을 통해 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01904340124003534,
+        "width" : 0.28971962779335825,
+        "x" : 0.15654205513494637,
+        "y" : 0.74844995539027526
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "That girl is very beautiful!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020050332649710789,
+        "width" : 0.22490435651904161,
+        "x" : 0.46465621057557049,
+        "y" : 0.74695336992676953
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "저 소녀는 매우 아름다워!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023472099202834329,
+        "width" : 0.81308409427305917,
+        "x" : 0.1308411302477348,
+        "y" : 0.8007085916686395
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장에서 very beautiful(매우 아름다운)을 '얼마나 아름다운지!라고 강조"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021821636980460468,
+        "width" : 0.43691590572694083,
+        "x" : 0.109813075052444,
+        "y" : 0.82848837181180846
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "하고 싶으면 very를 how로 바꾸면 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349426539809,
+        "width" : 0.31308411600922581,
+        "x" : 0.11915887641329408,
+        "y" : 0.85901162760064775
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "- That girl is how beautiful!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023424053952375123,
+        "width" : 0.81340318120103272,
+        "x" : 0.13067994194936502,
+        "y" : 0.88234506639876242
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 강조되는 것은 how뿐만 아니라 how beautiful이라는 한 덩어리로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013286093888396744,
+        "width" : 0.037383177341558993,
+        "x" : 0.079439252333893401,
+        "y" : 0.92426926470101944
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.97619047619047616,
+      "text" : "394"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    645
+  ],
+  "pdf_page_index" : 381,
+  "pdf_page_number" : 382
+}

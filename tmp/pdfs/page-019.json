@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021934460828648583,
+        "width" : 0.8009153216072683,
+        "x" : 0.10068650384167478,
+        "y" : 0.068181818415852136
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "학습 하다 보면, 이 '의문문의 어순'이 의문문 외에도 다양하게 쓰인다는 것을 알"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.08695652243796359,
+        "x" : 0.080091533098333223,
+        "y" : 0.095811051662199387
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021908551826409051,
+        "width" : 0.21739130341604851,
+        "x" : 0.10068649928202848,
+        "y" : 0.12344028553854813
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "그 예는 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.24713959854640316,
+        "x" : 0.077803198326295855,
+        "y" : 0.18003565023905221
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.98642533936651589,
+      "text" : "• 부정 도치 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018936802359188265,
+        "width" : 0.45080090640635972,
+        "x" : 0.080091537509041827,
+        "y" : 0.2194767445349548
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.14729950900163666,
+      "text" : "에E Never have | thought of such a thing."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018913121146951761,
+        "width" : 0.38928526974795907,
+        "x" : 0.11430273775858388,
+        "y" : 0.24567587155007309
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그러한 일을 한 번도 생각해 본 적이 없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025099599637662284,
+        "width" : 0.31430313024628032,
+        "x" : 0.082031122371068591,
+        "y" : 0.29900117549882999
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.97504990019960081,
+      "text" : "0 may를 사용한 기원문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017540313768301896,
+        "width" : 0.30663614594534538,
+        "x" : 0.077803208394355491,
+        "y" : 0.34001782556132931
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.20948180815876516,
+      "text" : "예문 May God bless America!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941124,
+        "width" : 0.5217391453432233,
+        "x" : 0.11441646840711117,
+        "y" : 0.36764705882013349
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "미국에 신의 은총이 있기를!(미합중국 대통령 연설의 끝맺음 말)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026318243268126817,
+        "width" : 0.2768878722458743,
+        "x" : 0.068649884410419706,
+        "y" : 0.41844919819520854
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.97806451612903222,
+      "text" : "•_가정법 도치 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.71853547685601726,
+        "x" : 0.077803199670153866,
+        "y" : 0.46075581430581924
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.10432432432432433,
+      "text" : "wle Had | seen him yesterday, | would have told him not to do so."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016084234982250867,
+        "width" : 0.56521739316790287,
+        "x" : 0.11670480444389772,
+        "y" : 0.4883720930594726
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "내가 어제 그를 만났다면, 나는 그에게 그렇게 하지 말라고 말했텐데."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027717323439218955,
+        "width" : 0.72082382373595499,
+        "x" : 0.064073211497501448,
+        "y" : 0.53779069803042789
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.96706124549665462,
+      "text" : "• ~도 그렇다, 그렇지 않다'라는 의미의 so, neither 도치 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021301036637522142,
+        "width" : 0.27534857760654408,
+        "x" : 0.07748230179404382,
+        "y" : 0.58019303734343186
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.34065934065934067,
+      "text" : "예e A:I'm hungry. 배고파."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020709768761075553,
+        "width" : 0.22076765339026294,
+        "x" : 0.5189310137357166,
+        "y" : 0.58126478447878771
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "B: So am i. 나도 그래."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023339502739183837,
+        "width" : 0.37630274054709445,
+        "x" : 0.11398008573123072,
+        "y" : 0.60621683600890319
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "A:I don't know him. 나는 그를 몰라.."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021052454032149948,
+        "width" : 0.2731825582097086,
+        "x" : 0.51448763638616957,
+        "y" : 0.60847353663584347
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "B: Neither do 1. 나도 몰라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023349086231088889,
+        "width" : 0.49656750111097703,
+        "x" : 0.098398171524680444,
+        "y" : 0.65106951843422356
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "위의 도치문은 의문문의 어순과 동일한 어순이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021882643674146607,
+        "width" : 0.8032036256254389,
+        "x" : 0.098398186992592881,
+        "y" : 0.67869875184688533
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 이는 단순한 우연이 아니라, 한 단계 더 깊은 곳에 이 어순의 진정한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.48512585243482265,
+        "x" : 0.077803206388466162,
+        "y" : 0.70632798611030978
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "정체가 숨어 있다고 생각하는 것이 맞을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023343903920654774,
+        "width" : 0.3386727665247542,
+        "x" : 0.075514875203630663,
+        "y" : 0.76453488369291656
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.98858773181169757,
+      "text" : "를 영어 어순의 2가지 규칙"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023868083103880333,
+        "width" : 0.48798173197199785,
+        "x" : 0.098151217359128726,
+        "y" : 0.81198747035145691
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "사실 영어 어순에는 기본 규칙이 2가지밖에 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333522,
+        "width" : 0.231121277541257,
+        "x" : 0.69107551672617984,
+        "y" : 0.92732558153671585
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.92307692307692313,
+      "text" : "1장 영어 세계의 3가지 법칙 21"
+    }
+  ],
+  "page_size_points" : [
+    407,
+    641
+  ],
+  "pdf_page_index" : 19,
+  "pdf_page_number" : 20
+}

@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028366014401047357,
+        "width" : 0.81461429595947266,
+        "x" : 0.14150926634333691,
+        "y" : 0.066940667579519775
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "'칼로리가 높다'를 '고칼로리이다'라고도 표현할 수 있지만, 영어로 high calorie"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029286828840741408,
+        "width" : 0.8331775665283202,
+        "x" : 0.12293891124934939,
+        "y" : 0.094724672174247848
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "라고 표현할 때는 high calorie diet(고칼로리의 식사), high fat and high"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024996729582521748,
+        "width" : 0.83756967024369677,
+        "x" : 0.12078152771337444,
+        "y" : 0.12332617535604373
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "calorie food(고지방과 고칼로리의 음식)처럼 뒤에 명사가 붙는 것이 일반적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02509349240808223,
+        "width" : 0.83507962660356005,
+        "x" : 0.12083583373008931,
+        "y" : 0.15104953676470667
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "즉, '고칼로리의 (명사)'처럼 한정적 용법의 형용사로 쓰이는 것이 high calorie"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.058139535513791168,
+        "x" : 0.12093023226248426,
+        "y" : 0.17877906982190639
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025274623677914665,
+        "width" : 0.80971249667080969,
+        "x" : 0.14396436133866108,
+        "y" : 0.20601829879347688
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "참고로 형용사에는 복수형이 없기 때문에 high calories food는 틀린 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026193481689019915,
+        "width" : 0.83292449604381225,
+        "x" : 0.12072985033916978,
+        "y" : 0.23331128751686503
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 이는 '다섯 살 남자아이'를 영어로 표현할 때, a five-years-old boy라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023389347485979872,
+        "width" : 0.68860253420743067,
+        "x" : 0.12314506777179721,
+        "y" : 0.26153176056827565
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "말하지 않고, a five-year-old boy로 말하는 것과 같은 구조이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023794370514159668,
+        "width" : 0.81180650537664234,
+        "x" : 0.14177137139935497,
+        "y" : 0.3165556127784086
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이제 4번 문장의 high in calories에서 in이 의미하는 것을 살펴보면, 여기에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026663307183171781,
+        "width" : 0.29190772229974921,
+        "x" : 0.12045263963364962,
+        "y" : 0.33983615485860785
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.43492063492063493,
+      "text" : "의 in은 '분야의 테두리'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025841563173173876,
+        "width" : 0.81420673023570667,
+        "x" : 0.14175518451117017,
+        "y" : 0.36809322096759667
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "'가벼운 정보를 먼저, 무거운 정보는 나중에' 두는 영어의 어순과 연관되어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026525287577401468,
+        "width" : 0.83296142924915673,
+        "x" : 0.12072702647753814,
+        "y" : 0.3960174036305335
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "간결하면서 결론을 나타내는 'high(높은)'를 앞에 먼저 두고, 길게 설명하는 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025270908832973116,
+        "width" : 0.8305994380604137,
+        "x" : 0.12074580367618491,
+        "y" : 0.42423469780398337
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "인 'in calories(칼로리라는 분야의 테두리 안에서)'를 뒤에 두는 것이다. 복수형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024342730707474836,
+        "width" : 0.83290316841819068,
+        "x" : 0.11843544784799255,
+        "y" : 0.45193062443584697
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "calories로 나타내는 것은 미터나 킬로그램을 각각 meters, kilograms의 복수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022744057764495063,
+        "width" : 0.30993489785627887,
+        "x" : 0.12063276092543372,
+        "y" : 0.47883701900180642
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "형으로 나타내는 방식과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.81162790818647901,
+        "x" : 0.13953488295097524,
+        "y" : 0.53633720967234266
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.40686274509803921,
+      "text" : "이처럼 '평가를 나타내는 형용사 +in+ 분야'는 하나의 세트로 된 문구라고 생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023556618745494085,
+        "width" : 0.11247482083060525,
+        "x" : 0.12050677550119318,
+        "y" : 0.56162285338793805
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "해도 좋다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024047731401228511,
+        "width" : 0.821068677035245,
+        "x" : 0.13479262109671034,
+        "y" : 0.58717983647060934
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "'A라는 분야에서 평가가 ~한'의 의미로, 이 패턴을 이용하여 '품질이 높은/낮은'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024925971517757439,
+        "width" : 0.83255811171098193,
+        "x" : 0.11860466263288122,
+        "y" : 0.61482558128783404
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "은 high/low in quality, '비타민 C가 풍부한/부족한'은 rich/poor in vitamin"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025953726104221864,
+        "width" : 0.83506289395419042,
+        "x" : 0.11619185803480833,
+        "y" : 0.64134272733614706
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "C.'나이가 비슷한'은 close in age, '지방이 많은/적은'은 high/ow in fat, 수가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02484729973319999,
+        "width" : 0.83023253354159254,
+        "x" : 0.11860466305478511,
+        "y" : 0.66992014182295823
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "많은/적은'은 high/low in number, '역사가 풍부한'은 rich in history와 같이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021935164240893701,
+        "width" : 0.10465115850622003,
+        "x" : 0.11860465322005637,
+        "y" : 0.69767441879887426
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "표현한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.20697673884305087,
+        "x" : 0.20930232773269733,
+        "y" : 0.75421472928092581
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.94475920679886682,
+      "text" : "'방향'을 나타내는 in"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020427509230010354,
+        "width" : 0.5558139627630061,
+        "x" : 0.13488371281907841,
+        "y" : 0.78924418580125622
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "\"해는 동쪽에서 떠서 서쪽으로 진다.\"는 영어로 The"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022371767682106802,
+        "width" : 0.57235236601396045,
+        "x" : 0.11613734598736949,
+        "y" : 0.81961077030906793
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.0079491255961844191,
+      "text" : "sun rises in the east and sets in the west.라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020529394987524374,
+        "width" : 0.058139535513791168,
+        "x" : 0.11860465071403464,
+        "y" : 0.84593023238919207
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019088802659204873,
+        "width" : 0.55116280642422755,
+        "x" : 0.13953487573561302,
+        "y" : 0.87354651199755629
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "대부분의 학습자들은 여기에서 in을 사용하는 이유를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.039534883065657181,
+        "x" : 0.086046511868334216,
+        "y" : 0.92280390434139303
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.99056603773584906,
+      "text" : "346"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 334,
+  "pdf_page_number" : 335
+}

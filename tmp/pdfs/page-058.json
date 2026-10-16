@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.3264367898975914,
+        "x" : 0.19999999573999525,
+        "y" : 0.078488372283061714
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.97505197505197505,
+      "text" : "'현재'란 자신이 있는 '현실 세계'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020507752312554306,
+        "width" : 0.8022988878724947,
+        "x" : 0.13563216514388013,
+        "y" : 0.11466666666372605
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.059539918809201627,
+      "text" : "앞 페이지의 그림에서 보면, 현재는 몇 초 전부터 몇 초 후까지를 가리키는 시간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022020065307617132,
+        "width" : 0.72892364201498772,
+        "x" : 0.11486013180698504,
+        "y" : 0.14080377359591867
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "의 범위가 아닌 단순히 자신이 존재하는 현실 세계라는 것을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023445222642686669,
+        "width" : 0.44630241125780146,
+        "x" : 0.13548231926885521,
+        "y" : 0.16701700516327744
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이 '현실 세계'는 '반복되는 일상'의 세계이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024808770073784681,
+        "width" : 0.80712152365726075,
+        "x" : 0.1308987498719115,
+        "y" : 0.19473230127259111
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "'해는 동쪽에서 뜬다.' '나는 매일 아침 조깅을 한다., '우리는 항상 저녁을 7시에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023297157287597736,
+        "width" : 0.61149423333662967,
+        "x" : 0.11494253455773884,
+        "y" : 0.220888888852804
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "먹는다. '와 같이 반복되는 일상을 나타내는 것이 '현재형'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021703824361165358,
+        "width" : 0.59788347933698138,
+        "x" : 0.19531315573030458,
+        "y" : 0.27883421802639641
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.97346278317152102,
+      "text" : "•과거란 '지금은 더 이상 현실이 아닌 곳'- '거리가 있는 곳'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020472868177625836,
+        "width" : 0.25747126969607065,
+        "x" : 0.13333333055097951,
+        "y" : 0.31686046473201945
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "과거에 대해 생각해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.8022988878724947,
+        "x" : 0.135632165192066,
+        "y" : 0.34302325598663519
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.022535211267605635,
+      "text" : "과거는 현재 자신이 존재하는 곳에서 뒤로 떨어진 곳이다. '과거에는 현실이었지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025696595933702215,
+        "width" : 0.42365836828905151,
+        "x" : 0.11465353115024551,
+        "y" : 0.36687794799927398
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "만 현재는 더 이상 현실이 아닌' 세계이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026674048529730987,
+        "width" : 0.80940944065356901,
+        "x" : 0.12864407409805959,
+        "y" : 0.39390393519704547
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "'과거의 영광', '그것은 이미 끝난 일이야. 등에서 '더 이상은 현실이 아니다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023571352640787691,
+        "width" : 0.47847609379120515,
+        "x" : 0.11480313440844601,
+        "y" : 0.42270830260250758
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "의미로 '과거'가 사용되는 것을 종종 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031110087076822834,
+        "width" : 0.80511792232550983,
+        "x" : 0.13306271495135918,
+        "y" : 0.44643257254546787
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "또한 '머나먼 과거'라는 표현에서 알 수 있듯이, 인간은 '과거'를 현재(즉, 현실)로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021897933112250523,
+        "width" : 0.35862068787908757,
+        "x" : 0.11264367897822808,
+        "y" : 0.47955555534793159
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "부터 멀어진 것으로 여기기도 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029887847900390674,
+        "width" : 0.80497387592299574,
+        "x" : 0.13311544560515021,
+        "y" : 0.53110176905522588
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "영어의 과거형은 '과거' '옛날'이라는 의미 외에 다른 의미로 독특하게 사용되기도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.052873560480259985,
+        "x" : 0.11264367941504241,
+        "y" : 0.56250000014156742
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021883721245659737,
+        "width" : 0.80229888787249459,
+        "x" : 0.13333331459304695,
+        "y" : 0.59011627896741137
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "그 예로 조동사의 과거형을 들 수 있다. It might rain.(비가 올지도 모른다.)의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024103583441840271,
+        "width" : 0.82318905000109888,
+        "x" : 0.11254867401428068,
+        "y" : 0.61608732761413176
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "might는 may의 과거형이만, 과거를 나타내지 않는다. It may rain.보다 '비가 올"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021882429334852516,
+        "width" : 0.33563217399157219,
+        "x" : 0.11264368305557117,
+        "y" : 0.64389534872704135
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "가능성'이 낮다는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962532043456995,
+        "width" : 0.80459770706970812,
+        "x" : 0.133333334511123,
+        "y" : 0.66844444461761399
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이는 '과거= 현실(현재)로부터 떨어져 있는 것'이 현실성이 떨어져 '실현 가능성이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021881137424045072,
+        "width" : 0.47126437373637486,
+        "x" : 0.11264367509345609,
+        "y" : 0.69767441850005751
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "낮음'이라는 의미로 다르게 사용되기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021820413377549919,
+        "width" : 0.80459770706970823,
+        "x" : 0.13333333028867536,
+        "y" : 0.75288888904259466
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "상대방에게 정중히 부탁할 때는 Will you ~?나 Can you ~?로 부탁하는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021881136576334614,
+        "width" : 0.6229885010109002,
+        "x" : 0.11264368483937746,
+        "y" : 0.78044444473589925
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "보다 Would you ~?나 Could you ~?를 사용하도록 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021821705288357252,
+        "width" : 0.80459770706970812,
+        "x" : 0.13333333038055997,
+        "y" : 0.806666666896249
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "윗사람에게 너무 섣불리 접근하면 예의가 없다고 혼이 날 수 있다. 상대방을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021882429334852516,
+        "width" : 0.82988506161546238,
+        "x" : 0.11264367605255224,
+        "y" : 0.83422222192121742
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "존중하거나 존경하는 것을 드러내고자 할 때는 거리를 두는 표현을 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026381120469834984,
+        "width" : 0.82562221521734347,
+        "x" : 0.11248880154082938,
+        "y" : 0.86005723636271092
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "Would you~?나 Could you ~?는 '(상대방과) 거리를 둠으로써 존중을 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020550387064615872,
+        "width" : 0.062068966035266127,
+        "x" : 0.11264367818926349,
+        "y" : 0.88933333322290231
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "낸다.'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013082687377929614,
+        "width" : 0.027586205934505767,
+        "x" : 0.082758621055735629,
+        "y" : 0.93313953475917155
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.9850746268656716,
+      "text" : "62"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 58,
+  "pdf_page_number" : 59
+}

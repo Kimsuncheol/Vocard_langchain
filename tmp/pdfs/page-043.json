@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032156073676215202,
+        "width" : 0.12759484185112846,
+        "x" : 0.13824487397023699,
+        "y" : 0.095053336820432488
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99830220713073003,
+      "text" : "Must 08"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030723514133029539,
+        "width" : 0.67586207222167283,
+        "x" : 0.14022988331988459,
+        "y" : 0.13372093093671955
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99833070574051752,
+      "text" : "4형식에서 3형식 문장으로 바꿔 쓰기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019157290988498277,
+        "width" : 0.34517235091969939,
+        "x" : 0.14237414115091046,
+        "y" : 0.21502893630438491
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99914261217490707,
+      "text" : "•to와 for의 이미지 차이를 파악하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.4597701060621045,
+        "x" : 0.11494253609866863,
+        "y" : 0.31104651190483845
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99323621227887615,
+      "text" : "를 어느 경우에 toL for를 사용할까"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020489664713541744,
+        "width" : 0.75402299797819972,
+        "x" : 0.13333332853336624,
+        "y" : 0.36177777751686846
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "4형식 문장은 tOL for와 같은 전치사를 사용해서 다르게 바꿔 쓸 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020321885850694499,
+        "width" : 0.30140561561208901,
+        "x" : 0.16078455614179796,
+        "y" : 0.41012673282146739
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.017817371937639197,
+      "text" : "I gave him] some money."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.24597700202180031,
+        "x" : 0.16091954484889273,
+        "y" : 0.43895348855988092
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그에게 돈을 좀 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02058972337510856,
+        "width" : 0.34050393406348883,
+        "x" : 0.48491805204045563,
+        "y" : 0.40959116716272337
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.026539278131634821,
+      "text" : "ㅣ gave some money to him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011639534844292476,
+        "width" : 0.029885057323257302,
+        "x" : 0.11724137928090009,
+        "y" : 0.48399999989257492
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.99408284023668636,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.28505746490006373,
+        "x" : 0.16091954330348024,
+        "y" : 0.48255813972327788
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.026785714285714284,
+      "text" : "I bought her some food."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021592540317111553,
+        "width" : 0.30876191859506852,
+        "x" : 0.16062844179706176,
+        "y" : 0.50761525280686681
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그녀에게 음식을 좀 사 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.3517241444433456,
+        "x" : 0.48505746790455878,
+        "y" : 0.48088888868331159
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.020597322348094749,
+      "text" : "- 1 bought some food for her."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024956771850585979,
+        "width" : 0.80254689148206759,
+        "x" : 0.13550282026280244,
+        "y" : 0.55508276718623639
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "위와 같이 바뀐 문장은 'S(주어)V(동사)O(목적어)+수식어(=전치사+명사)'이기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537246,
+        "width" : 0.82298851817972052,
+        "x" : 0.11724137299681772,
+        "y" : 0.58575581385134323
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "때문에 3형식으로 취급되는데, 이는 여기에서 그다지 중요하지 않다. 문제는 어느"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02488888888888896,
+        "width" : 0.82528733737693394,
+        "x" : 0.11494253809681762,
+        "y" : 0.6133333336057406
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "경우에 to를 쓰고, 어느 경우에 for를 사용하느냐이다. 특히 영어 학습자의 대다수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022036417643229167,
+        "width" : 0.77488122610100219,
+        "x" : 0.11487265537129843,
+        "y" : 0.63933171712289405
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "가 for를 '~을 위해서'로 해석해서 파악하기 때문에 잘못 사용할 확률이 높다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836263020864,
+        "width" : 0.027586205934505767,
+        "x" : 0.11954023021282374,
+        "y" : 0.6889534886756602
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 16,
+      "red_ink_fraction" : 1,
+      "text" : "X"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021580117119683107,
+        "width" : 0.48067451831157693,
+        "x" : 0.14471605764671544,
+        "y" : 0.69008825386288319
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.0042337002540220152,
+      "text" : "He showed the way to the station for me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020418645222981757,
+        "width" : 0.45998226975925194,
+        "x" : 0.15850911066287923,
+        "y" : 0.71748873832966042
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "He showed the way to the station to me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.33103449267509449,
+        "x" : 0.16321838574783859,
+        "y" : 0.7412790699566445
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그는 내 역까지 가는 길을 알려 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021866925557454508,
+        "width" : 0.80689652626692165,
+        "x" : 0.1356321965483506,
+        "y" : 0.78924418594326196
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "위에 제시된 예시는 '그는 나를 위해서 길을 가르쳐 주었다.라고 파악하여 for를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027965511745876692,
+        "width" : 0.82349843214332807,
+        "x" : 0.11697289815090474,
+        "y" : 0.81365479131549123
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "잘못 사용한 경우이다. 기존의 영어 교육에서도 for는 '~을 위해서'라고 가르치기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02450348239474831,
+        "width" : 0.82326201748747363,
+        "x" : 0.11711345886929829,
+        "y" : 0.84427120322179405
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "때문에 이 실수를 조장하고 있다. 여기에서는 어느 경우에 for를 사용하지 않아야"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030243150499131954,
+        "width" : 0.82355637691191985,
+        "x" : 0.11695067640967911,
+        "y" : 0.8667438828441888
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "하는지를 설명함으로써, for가 가지는 의미인, '~을 위해서' 외에 다른 중요한 이미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011638242933485254,
+        "width" : 0.027586205934505753,
+        "x" : 0.085057471640897594,
+        "y" : 0.93022222204122573
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 1,
+      "text" : "46"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 43,
+  "pdf_page_number" : 44
+}

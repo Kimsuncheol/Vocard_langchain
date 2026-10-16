@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030135019938151042,
+        "width" : 0.12778183957363695,
+        "x" : 0.13563915397407564,
+        "y" : 0.098979682167885663
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 1,
+      "text" : "Must 19"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032629028320312448,
+        "width" : 0.1812653994729333,
+        "x" : 0.13906567600416159,
+        "y" : 0.13484827647876796
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99934469200524245,
+      "text" : "진행형 ①"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032136951022677995,
+        "width" : 0.45243621176861704,
+        "x" : 0.139211128367045,
+        "y" : 0.1684444450252115
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99916874480465501,
+      "text" : "진행형에 관한 흔한 오해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017532299465603307,
+        "width" : 0.40603248109208778,
+        "x" : 0.14153132321027162,
+        "y" : 0.21802325572694625
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 1,
+      "text" : "•진행형=~하고 있다'로 이해하면 안 된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.80974476049977839,
+        "x" : 0.13457077539630724,
+        "y" : 0.3066666666164144
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "현재완료 등과 비교했을 때 현재 진행형에 대해서는 영어 학습자가 크게 어려움"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024242044236924887,
+        "width" : 0.7913597593916224,
+        "x" : 0.1135866763093584,
+        "y" : 0.33377714027302785
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "을 느끼지 않는다. 많은 학습자들이 진행형을 이해하기 쉽다고 느끼는 것 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0219431525336371,
+        "width" : 0.81206496218417556,
+        "x" : 0.13225058162788361,
+        "y" : 0.36177777778910647
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 실제로는 학습자가 영어로 진행형을 사용할 때, 실수하는 경우가 상당히"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020567182752821211,
+        "width" : 0.058004641701989143,
+        "x" : 0.11368909432446948,
+        "y" : 0.3909883725025739
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022522796630859321,
+        "width" : 0.81227499238142731,
+        "x" : 0.13215734618630814,
+        "y" : 0.41564276246061771
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서는 많은 학습자가 영어의 진행형에 대해 가지고 있던 잘못된 생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025717203776041808,
+        "width" : 0.65218280765181746,
+        "x" : 0.11355155677613875,
+        "y" : 0.44123220810632069
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "을 바로잡고, 진행형이 나타내는 진짜 '마음'을 알아보도록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027918166266547306,
+        "width" : 0.60123412220190597,
+        "x" : 0.11118892228006183,
+        "y" : 0.50007219887966492
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.99036697247706418,
+      "text" : "를 한국어의 '~하고 있다'와 영어 진행형의 차이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023402791341145757,
+        "width" : 0.81241576282690597,
+        "x" : 0.13439659006105162,
+        "y" : 0.55018479585266611
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "영어 학습자가 영어의 진행형을 잘못 학습하는 근본적인 원인은 '진행형=~하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024960591634114571,
+        "width" : 0.83320000831117025,
+        "x" : 0.11356848506607464,
+        "y" : 0.57770584362671096
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "고 있다'라고 배우는 데 있다. 또는 교사가 그렇게 가르치지 않으려 해도 학생 스"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.82598608571586885,
+        "x" : 0.11368909161409992,
+        "y" : 0.60444444451093116
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "스로가 이해하기 편하기 때문에 '진행형=~하고 있다'로 외우는 경우도 자주 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013791798909505215,
+        "width" : 0.081490672226493199,
+        "x" : 0.85368621857704508,
+        "y" : 0.6420866586106464
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "now playing"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.34570764852753766,
+        "x" : 0.11368909903944277,
+        "y" : 0.6568888885043741
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.16686114352392065,
+      "text" : "예e She is playing tennis now."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.27842227584081342,
+        "x" : 0.16241299199096976,
+        "y" : 0.6802325583211889
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 지금 테니스를 치고 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025821421305338599,
+        "width" : 0.81240078540558514,
+        "x" : 0.13439355523937366,
+        "y" : 0.73905422598858905
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "예문에서처럼 진행형을 '~하고 있다'로 해석했을 때 알맞게 들어맞는 경우가 많"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052196417914498,
+        "width" : 0.088167052573346061,
+        "x" : 0.1136890953993285,
+        "y" : 0.77325581354500394
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030963823106553878,
+        "width" : 0.81053761150820047,
+        "x" : 0.1365020497193673,
+        "y" : 0.79156428641588716
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 '~하고 있다'라는 표현이 진행형의 한국어 해석에 들어맞는 경우가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035623252020941854,
+        "width" : 0.60892970308344418,
+        "x" : 0.11547105164082908,
+        "y" : 0.81933031026988745
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "있다는 정도이지, 그 자체가 영어 진행형의 '의미'는 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020519380357530426,
+        "width" : 0.81438516386857263,
+        "x" : 0.13225057340214053,
+        "y" : 0.88081395311088706
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "'진행형=~하고 있다'라고 기계적으로 암기하는 영어 학습자들은 다음과 같은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.02784222812517316,
+        "x" : 0.085846867259919232,
+        "y" : 0.93155555576614724
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 1,
+      "text" : "92"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 88,
+  "pdf_page_number" : 89
+}

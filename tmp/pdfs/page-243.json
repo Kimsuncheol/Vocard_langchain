@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027726097954644091,
+        "width" : 0.47209302244702633,
+        "x" : 0.1046511609974171,
+        "y" : 0.0711111110518865
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.98330683624801274,
+      "text" : "•vil의 '예상과 be going to의 예상'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030334574381510437,
+        "width" : 0.81448807675614332,
+        "x" : 0.13460173375870638,
+        "y" : 0.10778451760111218
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.035555555555555556,
+      "text" : "will이 나타내는 '예상'은 '생각만 할 뿐이다'라는 느낌으로, '다급하지 않다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023965581258137969,
+        "width" : 0.13574289392541955,
+        "x" : 0.11352390174763673,
+        "y" : 0.1369997674897897
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013282282511393295,
+        "width" : 0.058255214636821706,
+        "x" : 0.75343053204916033,
+        "y" : 0.14960885867104912
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "흔들흔들~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019866566975911493,
+        "width" : 0.55138908016715638,
+        "x" : 0.11153032027184871,
+        "y" : 0.18725912206646911
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.12362637362637363,
+      "text" : "예e The storm will be turning more to the north."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016114987691243421,
+        "width" : 0.52558138159944789,
+        "x" : 0.16279070436568716,
+        "y" : 0.21366279033718916
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "폭풍은 더욱 북쪽으로 진로를 바꿀 것입니다. (라고 생각합니다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022132471720377689,
+        "width" : 0.81188382314480934,
+        "x" : 0.13475591764218106,
+        "y" : 0.26071773909764917
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "지금 단계에서는 어디까지나 마음속으로 그렇게 생각하고 있을 뿐이라는 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021987080044216567,
+        "width" : 0.83488373063568366,
+        "x" : 0.1116279006705302,
+        "y" : 0.28779069739416152
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이 든다. 여러 데이터를 참고해서 '진로를 바꾸다'라는 판단으로라 마음이 기울어진"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021574244181315039,
+        "width" : 0.10524837787334736,
+        "x" : 0.11132929931078746,
+        "y" : 0.31624776160202928
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "상황이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026395835028754311,
+        "width" : 0.81185061028200678,
+        "x" : 0.13477177745665017,
+        "y" : 0.36335590355794178
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.12358393408856849,
+      "text" : "한편, be going to가 나타내는 '예상'은 '그 코스를 나아가는' 느낌으로, '확실히"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020466408623589394,
+        "width" : 0.28372092396445425,
+        "x" : 0.11162790999777725,
+        "y" : 0.39377777778798317
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "~하게 된다'는 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.48837210717703888,
+        "x" : 0.11162789979064032,
+        "y" : 0.44311111096789202
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.12594268476621417,
+      "text" : "예E This storm is going to rapidly intensify."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019260991414388084,
+        "width" : 0.44682998874588226,
+        "x" : 0.16033306267342523,
+        "y" : 0.46627940650444077
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.025000000000000001,
+      "text" : "(확실히) 이 폭풍우는 급속히 세력이 강해질 것입니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011735142178005642,
+        "width" : 0.074418603185235299,
+        "x" : 0.86279069829940891,
+        "y" : 0.46355555538693494
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.42085661080074488,
+      "text" : "력이강하드"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020456072489420496,
+        "width" : 0.53255812598769148,
+        "x" : 0.13255814617200504,
+        "y" : 0.51598837171309864
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "폭풍이 세차게 몰아치는 상황을 향해 나아가고 있는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02494177585177948,
+        "width" : 0.55377914559127939,
+        "x" : 0.11146520542662144,
+        "y" : 0.54326752092822272
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "중을 나타내므로, will보다는 현실감이 있어 확실히 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021912144978841197,
+        "width" : 0.30930232730006901,
+        "x" : 0.11162790599740739,
+        "y" : 0.57111111092496236
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "렇게 될 것이라는 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021870801289876285,
+        "width" : 0.66976746127136755,
+        "x" : 0.19534882731430947,
+        "y" : 0.62790697663931383
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.97142857142857142,
+      "text" : "Everything's gonna be all right.와 Everythingil be all right."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.81395345399862007,
+        "x" : 0.1302325751300151,
+        "y" : 0.66266666680005737
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "누군가가 큰일을 당해서 힘들어하고 있을 때, 위로하고 용기를 북돋워 주기 위해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0205335922241211,
+        "width" : 0.39767443012987447,
+        "x" : 0.1093023197003513,
+        "y" : 0.69022222209765649
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "쓰는 표현으로 다음과 같은 말이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020534883287217864,
+        "width" : 0.35581394206424721,
+        "x" : 0.13255814410741126,
+        "y" : 0.74399999975708331
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "Everything's gonna be all right."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.2790697755297365,
+        "x" : 0.13255813536733374,
+        "y" : 0.77325581414211897
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "Everything'l| be all right."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021846253289116824,
+        "width" : 0.81627904995214573,
+        "x" : 0.12790698655856864,
+        "y" : 0.82844444448008769
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "(Everything)'s gonna는 (Everything) is going to의 축약형으로, 구어체에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537246,
+        "width" : 0.23488371324675036,
+        "x" : 0.10930232930306569,
+        "y" : 0.85465116268027752
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "서 사용하는 패턴이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025442294650607655,
+        "width" : 0.77004996188345798,
+        "x" : 0.13011397166833455,
+        "y" : 0.87867209662434265
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "두 문장 모두 직역하면, \"모든 것이 괜찮아질 거야.\"로 동일한 의미를 가진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394619411824,
+        "width" : 0.039534883961039047,
+        "x" : 0.079069767467154897,
+        "y" : 0.92877906996863713
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.95402298850574707,
+      "text" : "252"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 243,
+  "pdf_page_number" : 244
+}

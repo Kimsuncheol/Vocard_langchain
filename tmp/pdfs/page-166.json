@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0160142118665908,
+        "width" : 0.28770301764738476,
+        "x" : 0.051044082725207267,
+        "y" : 0.075555555922050321
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.22936893203883496,
+      "text" : "예문 The door was closed."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017740520901150192,
+        "width" : 0.18404761781083778,
+        "x" : 0.35470561152132585,
+        "y" : 0.073729998722106282
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "그 문은 닫혀 있었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.53596286638408697,
+        "x" : 0.10208817227334525,
+        "y" : 0.10029069788774692
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.42446043165467628,
+      "text" : "- 특별한 문맥이 없으면 '문이 닫혔다'라는 변화라기보다 '문이 닫혀 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018168264600965656,
+        "width" : 0.51769179756759753,
+        "x" : 0.12051526037886381,
+        "y" : 0.11830143582425556
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.40899795501022496,
+      "text" : "었다는 상태로 해석되는 경우가 많다. 만약 '닫혔다'라는 변화를 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014687338087293833,
+        "width" : 0.26914153403424201,
+        "x" : 0.12064965049817114,
+        "y" : 0.13953488393117963
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.44727272727272727,
+      "text" : "내고 싶다면 뒤에 흔히 by가 붙는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.4570765718500665,
+        "x" : 0.0533642661536637,
+        "y" : 0.18888888905939527
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.1380392156862745,
+      "text" : "WE The door was closed by the tall man."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017448320176866261,
+        "width" : 0.28538283760666,
+        "x" : 0.097447792295443633,
+        "y" : 0.21366279060635918
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그 키 큰 남자에 의해 문이 닫혔어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023495827568901895,
+        "width" : 0.75205528313386516,
+        "x" : 0.099640199559770173,
+        "y" : 0.23950496467908744
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.5402504472271914,
+      "text" : "+ 수동태의 by는'~하는 쪽을 표현하는 말이므로, ~하다'라는 동작의 변화, 즉 상태가 아니라 동작의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.25522041050254879,
+        "x" : 0.12064965541939061,
+        "y" : 0.26162790718674422
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.18716577540106952,
+      "text" : "의미가 수동태에 강하게 나타난다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021821705288357141,
+        "width" : 0.81206496218417545,
+        "x" : 0.071925755769861183,
+        "y" : 0.30666666688620392
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 수동태는 동작(변화)을 나타낼 수도 있지만, 상태(변화하지 않는 것)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021882429334852405,
+        "width" : 0.83294660419437061,
+        "x" : 0.051044099187758887,
+        "y" : 0.33422222192318574
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "를 나타내는 것이 근본적인 의미에 더욱 가깝다. 따라서 수동태는 상태를 나타내"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0219431525336371,
+        "width" : 0.27146171407496672,
+        "x" : 0.051044086756020055,
+        "y" : 0.36177777761580598
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "는 be동사가 잘 어울린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.23433874684868128,
+        "x" : 0.062645011570849174,
+        "y" : 0.41422222206649739
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.995225102319236,
+      "text" : "V valuable information"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019042397393120747,
+        "width" : 0.77275035668772163,
+        "x" : 0.085789974393551252,
+        "y" : 0.44619420667442145
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.031979695431472083,
+      "text" : "참고로, 아주 오래전에 사용되던 영어의 현재완료에서 | have finished my work.(난 벌써 내 일을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017550387912326326,
+        "width" : 0.39675171764184397,
+        "x" : 0.071925765805528077,
+        "y" : 0.46511627895602692
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.017241379310344827,
+      "text" : "끝냈어.)라는 문장의 경우, 아래와 같이 표현되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016120155334472641,
+        "width" : 0.23433874684868131,
+        "x" : 0.081206496524371091,
+        "y" : 0.48533333338406104
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.036057692307692304,
+      "text" : "l have my work finished."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018254897223578537,
+        "width" : 0.2859482352615248,
+        "x" : 0.083268930149106801,
+        "y" : 0.50205492955243913
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.10728744939271255,
+      "text" : "(-l have Imy work=finished."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.3619489520999557,
+        "x" : 0.11832946815515862,
+        "y" : 0.52177777779247991
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.021420518602029311,
+      "text" : "나는 내 일=끝난 상태를 지금 have하고 있다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017375350952148483,
+        "width" : 0.77507575285350172,
+        "x" : 0.083449460264197722,
+        "y" : 0.53922202873736469
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.0084241823587710603,
+      "text" : "~되어진 상태(=수동)를 가지고 있다(=have)'= '다 했다(완료)'와 같이 수동과 완료는 매우 밀접한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016025839911566919,
+        "width" : 0.078886310766774714,
+        "x" : 0.071925754000474462,
+        "y" : 0.55955555576251781
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "관계였다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017656338161892382,
+        "width" : 0.77742210009419321,
+        "x" : 0.083451417576455897,
+        "y" : 0.57685256686510122
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.010643959552953698,
+      "text" : "시대가 흐르면서 '동사 뒤에 명사(목적어)를 두는 'SVO 어순이 정착되면서 I have my work finished."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017567075941297805,
+        "width" : 0.78667702099955672,
+        "x" : 0.071861776133844021,
+        "y" : 0.59568969210143319
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.0037453183520599251,
+      "text" : "와 같은 문장이 I have finished my work.와 같은 형태로 바뀐 것으로 보인다. 수동이 '~되어진 후의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.57076567521332,
+        "x" : 0.071925746948365649,
+        "y" : 0.61466666638592027
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.019066403681788299,
+      "text" : "상태'라고 해석되기 쉬운 이유 중 하나로, 이러한 역사적 배경이 있을 법하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.42691416638962765,
+        "x" : 0.48027841493246493,
+        "y" : 0.92441860456866054
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.90645161290322585,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 173"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 166,
+  "pdf_page_number" : 167
+}

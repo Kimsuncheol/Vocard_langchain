@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020366087171766467,
+        "width" : 0.40351667525233603,
+        "x" : 0.059782695907263463,
+        "y" : 0.07853235921559365
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "예상하는 것이 will have arrived이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026951720343695751,
+        "width" : 0.29381200793095469,
+        "x" : 0.05941342679486853,
+        "y" : 0.13461970713110372
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99924585218702866,
+      "text" : "• 마감을 나타내는 by"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026152374267578216,
+        "width" : 0.80449518330174541,
+        "x" : 0.080489225502039047,
+        "y" : 0.18219710479074269
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "미래완료에는 ~까지' 또는 '~때쯤에는 이미'와 같은 의미를 가진 'by+시간'이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022735641479492252,
+        "width" : 0.15930244650255646,
+        "x" : 0.059749698287190935,
+        "y" : 0.21319613273033444
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "자주 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.80645157957951352,
+        "x" : 0.080645177913257315,
+        "y" : 0.23822222221436551
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 by는 '마감을 나타내는 by'라고도 할 수 있다. 마찬가지로 '~까지'로 해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.38709675475471617,
+        "x" : 0.059907843703444499,
+        "y" : 0.26888888890228357
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "석되는 until과 구별하기는 쉽지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023810246785481826,
+        "width" : 0.74917253889721436,
+        "x" : 0.080514093597329486,
+        "y" : 0.29311435051368839
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.070652173913043473,
+      "text" : "until은 '그 시점까지 하나의 상태나 행동이 계속되다'라는 것을 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.67050691720292666,
+        "x" : 0.099078338518760911,
+        "y" : 0.34444444434226551
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "Pll be with Kathy until seven. 나는 7시까지 캐시와 함께 있을 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014693798489040732,
+        "width" : 0.34101383440585331,
+        "x" : 0.11059907347116259,
+        "y" : 0.37063953509527248
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.38904109589041097,
+      "text" : "* 7시까지 '캐시와 있다' 라는 상태가 계속되다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021944444444444544,
+        "width" : 0.67511520062918728,
+        "x" : 0.082949311176275131,
+        "y" : 0.41555555561375179
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.059595959595959598,
+      "text" : "by+시간'은 '그 시점에는 이미 어떤 상태가 나타나다'를 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02742756483289932,
+        "width" : 0.24868206244765956,
+        "x" : 0.061146019305802761,
+        "y" : 0.46153877017983258
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.28205128205128205,
+      "text" : "예e Finish it by seven."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022644711812337293,
+        "width" : 0.24478102066621116,
+        "x" : 0.31535815207591117,
+        "y" : 0.46247892881463082
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "7시까지는 그것을 끝내라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.34331797611898357,
+        "x" : 0.10829492888733831,
+        "y" : 0.49111111112587014
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.39949748743718594,
+      "text" : "* 7시에는 이미 그것이 끝난 상태가 나타나다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014847944471571228,
+        "width" : 0.066448674383553508,
+        "x" : 0.58420919482963585,
+        "y" : 0.52948121540576798
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.81395348837209303,
+      "text" : "until 7"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.008720930311414854,
+        "width" : 0.034562211783211338,
+        "x" : 0.29032258060032978,
+        "y" : 0.55668604636318786
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.8936170212765957,
+      "text" : "nOW"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.043778800157296849,
+        "x" : 0.59677419447368862,
+        "y" : 0.67587209313629137
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.7384615384615385,
+      "text" : "by'7"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.008720930311414965,
+        "width" : 0.036866358876732785,
+        "x" : 0.30414746561539707,
+        "y" : 0.6874999999315019
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.9555555555555556,
+      "text" : "hOW"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011645994822184202,
+        "width" : 0.039170505970254066,
+        "x" : 0.6059907839388361,
+        "y" : 0.73546511627088451
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "~9"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.055299541005294661,
+        "x" : 0.60368663492257268,
+        "y" : 0.75422222209392087
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "tinish"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555663,
+        "width" : 0.80875576433577223,
+        "x" : 0.078341011717834891,
+        "y" : 0.83555555523176306
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 Tby+ 시간'은 '그때쯤에는 이미'라는 의미로, '그때는 이미 끝난 후의 상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02522555372450086,
+        "width" : 0.66179748449069986,
+        "x" : 0.059700993655481628,
+        "y" : 0.86150004017872683
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "태를 have하고 있을 것이다'라는 미래완료의 의미와 잘 어울린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015788633558485254,
+        "width" : 0.47257941801558095,
+        "x" : 0.43767958229009413,
+        "y" : 0.92392475433579402
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.90145985401459849,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 87"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 83,
+  "pdf_page_number" : 84
+}

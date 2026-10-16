@@ -1,0 +1,670 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.27064220557052099,
+        "x" : 0.077981649414763668,
+        "y" : 0.071111111216965117
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "44 가정법이란 무엇인가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.043577981798836374,
+        "x" : 0.43807339431337494,
+        "y" : 0.074127907153225703
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "200"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.49311927195345417,
+        "x" : 0.20642201524229475,
+        "y" : 0.092888888528370406
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "가정법에서 눈여겨보아야 할 것은 if가 아닌, 다른 것에 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.17889907922637593,
+        "x" : 0.077981652993682968,
+        "y" : 0.13066666650856584
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "45 가정법 과거"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016177001953124992,
+        "width" : 0.043577981798836374,
+        "x" : 0.35091743116807861,
+        "y" : 0.13226744223911746
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "204"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020512919955783415,
+        "width" : 0.40596329764033967,
+        "x" : 0.20412844262478422,
+        "y" : 0.14970930259523374
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "\"너는 좋은 사람이었어.\"라는 말이 나타내는 마음"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.44495413276586637,
+        "x" : 0.077981649043290094,
+        "y" : 0.19022222182006521
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "46 가정법 과거완료와 가정법의 관용 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01777777777777767,
+        "width" : 0.18807340471932063,
+        "x" : 0.20412843514033976,
+        "y" : 0.21199999996910512
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "후회를 말로 나타내다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014686046176486611,
+        "width" : 0.043577981798836429,
+        "x" : 0.61697247688218215,
+        "y" : 0.1933139536648536
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "208"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.45412843682792753,
+        "x" : 0.07798165304737309,
+        "y" : 0.25000000019151836
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "47 가정법 현재에서 볼 수 있는 영어의 역사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016102067735459968,
+        "width" : 0.041284403104460576,
+        "x" : 0.62614678916642408,
+        "y" : 0.25145348796394296
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "212"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022680406358506988,
+        "width" : 0.49369301956691092,
+        "x" : 0.20161548640600277,
+        "y" : 0.27025348178237263
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "Suggest that이나 demand that 뒤에 오는 'S+동사원형'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.19266055675035115,
+        "x" : 0.077981648205398837,
+        "y" : 0.31104651153009166
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "48 as if ~의 시제"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017518088446722979,
+        "width" : 0.041284403104460632,
+        "x" : 0.36926605540495616,
+        "y" : 0.30959302303160841
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "216"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019258049858940973,
+        "width" : 0.24130645494782524,
+        "x" : 0.20391094426594866,
+        "y" : 0.32982122245172507
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "가정법에서 시제 일치는 없다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021859173244900054,
+        "width" : 0.5389908351255267,
+        "x" : 0.077981646482627329,
+        "y" : 0.36622222219371681
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "49 '혹시라도/만에 하나 ~하면'을 뜻하는 if+ should"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023014691670735665,
+        "width" : 0.38799598779571193,
+        "x" : 0.20395745119173297,
+        "y" : 0.38596777185063269
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이 should는 '~해야 한다'라는 의미가 아니다!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.048165139187587802,
+        "x" : 0.70642201721813269,
+        "y" : 0.36918604651981646
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "220"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666828,
+        "width" : 0.061926605996121181,
+        "x" : 0.10550458679551739,
+        "y" : 0.45777777806160724
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.77973568281938321,
+      "text" : "제8 잠"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.23165137044499429,
+        "x" : 0.19954128618969164,
+        "y" : 0.4549418607420479
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "동사 ⑦ 조동사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03134436713324662,
+        "width" : 0.50490347187170825,
+        "x" : 0.19712544900672468,
+        "y" : 0.48394853601165044
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "사실을 말하는가, 생각을 말하는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01748837195502384,
+        "width" : 0.034403669700193942,
+        "x" : 0.077981651139964192,
+        "y" : 0.54651162768277106
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "50"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.2041284368279275,
+        "x" : 0.13302752457886149,
+        "y" : 0.54651162807989384
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "조동사란 무엇인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016034883287217916,
+        "width" : 0.043577981798836318,
+        "x" : 0.42889908259064302,
+        "y" : 0.5479651166386883
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "226"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017463823954264379,
+        "width" : 0.29357798715655725,
+        "x" : 0.20412843749878562,
+        "y" : 0.56831395340253854
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "영어를 사용할 때 누락하기 쉬운 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017450904846191384,
+        "width" : 0.032110091005818228,
+        "x" : 0.077981651515439523,
+        "y" : 0.60610465093858512
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "51"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.34174312634414505,
+        "x" : 0.13302751926043618,
+        "y" : 0.60610465135218861
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "판단 용법의 과거형이 나타내는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020459947374132037,
+        "width" : 0.37385319056135885,
+        "x" : 0.20183487348365542,
+        "y" : 0.62488888923484931
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "과거형이 나타내는 '현실과 마음' 사이의 거리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017444444444444485,
+        "width" : 0.045871557814351704,
+        "x" : 0.56880734025094615,
+        "y" : 0.60755555558311269
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "230"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.2889908351255267,
+        "x" : 0.077981646539944174,
+        "y" : 0.66569767460806561
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "52 will은 마음의 작용이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017481912400987398,
+        "width" : 0.043577981798836374,
+        "x" : 0.46100917412351755,
+        "y" : 0.66711111088238373
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "234"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.33486237686671566,
+        "x" : 0.20183486650548005,
+        "y" : 0.68749999991468336
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "will은 '미래를 나타내기도 하는 조동사'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042635599772148,
+        "width" : 0.041284403104460632,
+        "x" : 0.077981651291806398,
+        "y" : 0.72529069800738988
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "53"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.22247706638293316,
+        "x" : 0.13302752157977918,
+        "y" : 0.72383720947460517
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "타인의 마음은 모른다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016065891689724499,
+        "width" : 0.045871557814351649,
+        "x" : 0.44724770721667739,
+        "y" : 0.72666666676025382
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "238"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01923010762532551,
+        "width" : 0.3375045262025983,
+        "x" : 0.20165797863856458,
+        "y" : 0.74421120900160209
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "어떤 경우에 will이 '의지'를 나타내는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021881137424045183,
+        "width" : 0.51605503210860693,
+        "x" : 0.077981657497344453,
+        "y" : 0.78044444402949997
+      },
+      "confidence" : 0.5,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "54 예상'을 나타내는 will은 여러 의미로 확장된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022189769321017794,
+        "width" : 0.34930389918638072,
+        "x" : 0.19682535434380019,
+        "y" : 0.80220277505709781
+      },
+      "confidence" : 1,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0,
+      "text" : "\"현재에 대한 추측'과 '정중함'을 나타낸다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.034403669700193942,
+        "x" : 0.07568807330166144,
+        "y" : 0.84302325566242231
+      },
+      "confidence" : 0.5,
+      "observation_index" : 38,
+      "red_ink_fraction" : 0,
+      "text" : "55"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019145368787977457,
+        "width" : 0.16062364685401487,
+        "x" : 0.13299092875183649,
+        "y" : 0.84289824582443362
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 39,
+      "red_ink_fraction" : 0,
+      "text" : "기타 will의 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.045871557814351649,
+        "x" : 0.38761467988487308,
+        "y" : 0.84302325558974789
+      },
+      "confidence" : 1,
+      "observation_index" : 40,
+      "red_ink_fraction" : 0,
+      "text" : "246"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023238130357530418,
+        "width" : 0.45246094264341208,
+        "x" : 0.19691001946482575,
+        "y" : 0.86181740833817921
+      },
+      "confidence" : 0.5,
+      "observation_index" : 41,
+      "red_ink_fraction" : 0,
+      "text" : "\"현재의 습관•습성'을 나타내는 것은 '연상'하는 것이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.045871557814351593,
+        "x" : 0.68577981731606574,
+        "y" : 0.78488372079323621
+      },
+      "confidence" : 1,
+      "observation_index" : 42,
+      "red_ink_fraction" : 0,
+      "text" : "242"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015147443983289932,
+        "width" : 0.05544368336709693,
+        "x" : 0.8667735710344846,
+        "y" : 0.92701930123253762
+      },
+      "confidence" : 1,
+      "observation_index" : 43,
+      "red_ink_fraction" : 0.90666666666666662,
+      "text" : "목차 9"
+    }
+  ],
+  "page_size_points" : [
+    407,
+    643
+  ],
+  "pdf_page_index" : 8,
+  "pdf_page_number" : 9
+}

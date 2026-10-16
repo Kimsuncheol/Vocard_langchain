@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019202003479003915,
+        "width" : 0.16946004231770834,
+        "x" : 0.057961394054166004,
+        "y" : 0.076881555959983139
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "• 형용사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02209982045491532,
+        "width" : 0.4737286939688608,
+        "x" : 0.060151447221838884,
+        "y" : 0.10796859753687993
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.20175438596491227,
+      "text" : "때e We need to buy something to [drink."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01750516764322918,
+        "width" : 0.24361948865525265,
+        "x" : 0.10672853861666579,
+        "y" : 0.13511111149658606
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "우리는 마실 것 좀 사야겠어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01603229946560325,
+        "width" : 0.27610207415641624,
+        "x" : 0.11136891904708186,
+        "y" : 0.15552325614692475
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.64814814814814814,
+      "text" : "- '앞으로 마실' 것을 향하는 '무언가'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020461240980360285,
+        "width" : 0.38747099747894503,
+        "x" : 0.060324825970504266,
+        "y" : 0.17866666636210637
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.25071496663489035,
+      "text" : "에E Ihave nothing to [talk about]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016765872531466997,
+        "width" : 0.15825859773243567,
+        "x" : 0.44764366534752142,
+        "y" : 0.17900844011791039
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "난 할 말이 없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017520672268337645,
+        "width" : 0.36658931218140517,
+        "x" : 0.10904873567263841,
+        "y" : 0.20203488342405018
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.70974155069582501,
+      "text" : "> '앞으로 이야기할'것을 향하는 '무언가가 없음'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042635599772148,
+        "width" : 0.82830628740026602,
+        "x" : 0.062645000032691217,
+        "y" : 0.22529069731725926
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.7086991221069433,
+      "text" : "* 잠고로 to drink와 to talk about는 앞에 있는 something, nothing이라는 명사의 내용을 자세히 설명하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017528549194335996,
+        "width" : 0.3971067604443706,
+        "x" : 0.085677775846066243,
+        "y" : 0.24271094777034841
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.66206896551724137,
+      "text" : "말이기 때문에 이러한 부정사구는 형용사적 용법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026024169921875062,
+        "width" : 0.77987735829454785,
+        "x" : 0.081080250056869058,
+        "y" : 0.28215686003370588
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "분사의 형용사적 용법은 -ing이기 때문에 '~하고 있는 중'이라는 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.62877028444980054,
+        "x" : 0.060324834465688475,
+        "y" : 0.33284883740261928
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.17770700636942674,
+      "text" : "예로 We got closer to the man = [talking with Mr. Jones]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018041380140516594,
+        "width" : 0.46435538217531025,
+        "x" : 0.10658830375378447,
+        "y" : 0.35701960259653176
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "우리는 존스 씨와 이야기하고 있는 남성에게 다가갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122503,
+        "width" : 0.22737818508283469,
+        "x" : 0.10904872637888698,
+        "y" : 0.38081395342162394
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.5846645367412141,
+      "text" : "*존슨 씨와 이야기 중인 남성"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021092034233941015,
+        "width" : 0.14731167191309286,
+        "x" : 0.055111459287712099,
+        "y" : 0.42047735490184623
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "• 부사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018376159667968794,
+        "width" : 0.57331006205673751,
+        "x" : 0.057906656147688064,
+        "y" : 0.45116287600162508
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.16339410939691446,
+      "text" : "예문 | went to the movie theater to [see the movie]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017598748948838949,
+        "width" : 0.28347877881205674,
+        "x" : 0.10654156602088738,
+        "y" : 0.47665276671221712
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "난 그 영화를 보러 영화관에 갔어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016000000000000014,
+        "width" : 0.28770301764738471,
+        "x" : 0.10904872308428079,
+        "y" : 0.49999999963767328
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.74683544303797467,
+      "text" : "*'앞으로 영화를 볼 것을 향해 '갔다:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.47795821386026155,
+        "x" : 0.058004649775205655,
+        "y" : 0.54069767442679328
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.33423913043478259,
+      "text" : "예문 | am ready to [go]. 난갈 준비가 되어 있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017156116909450958,
+        "width" : 0.35535581331726507,
+        "x" : 0.099602597628688644,
+        "y" : 0.5657740911907907
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.62035225048923681,
+      "text" : "'앞으로 갈' 것을 향해 ready의 상태에 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018272113376193611,
+        "width" : 0.83081842517176419,
+        "x" : 0.060228069411310724,
+        "y" : 0.58542374119737217
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.67298187808896215,
+      "text" : "* to see the movie는 went라는 동사의 목적을 설명하고 있기 때문에 부사적 용법이다. to go는 be ready라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019305204603407122,
+        "width" : 0.70334169644835998,
+        "x" : 0.081064374470232625,
+        "y" : 0.60429981843857195
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.61329588014981273,
+      "text" : "는 동사구의 내용(무슨 준비가 되어 있는지)을 자세하게 설명하고 있기 때문에 부사적 용법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019970618353949643,
+        "width" : 0.14651620202030696,
+        "x" : 0.053192014883416697,
+        "y" : 0.64771817917877683
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "• 독립 부정사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.81438516386857263,
+        "x" : 0.078886304260942536,
+        "y" : 0.67587209264576242
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "독립 부정사는 문장 첫 부분에 오는 관용구이다. '(이제부터) 이렇게 해서(하면)'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022613186306423505,
+        "width" : 0.54787082536846188,
+        "x" : 0.05555965676402902,
+        "y" : 0.70128023355173097
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "라는 의미로, 일종의 '앞으로 향하다'라는 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021189737955729204,
+        "width" : 0.74506593528368803,
+        "x" : 0.057880099675346693,
+        "y" : 0.7496816856498506
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.12650287506534239,
+      "text" : "에로 To [be frank], I don't want to make friends with a guy like him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.20649652142896718,
+        "x" : 0.099767980470160056,
+        "y" : 0.78044444452555295
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.60396039603960394,
+      "text" : "(이제부터) 솔직하게 말하면,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020509351942274323,
+        "width" : 0.50378422297484493,
+        "x" : 0.10425801010214233,
+        "y" : 0.79915365582744358
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "솔직히 말해서, 난 그와 같은 남자와 친구가 되고 싶지 않아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.53828306806848403,
+        "x" : 0.055684451927400867,
+        "y" : 0.84577777795018017
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.16769336071184121,
+      "text" : "예E Needless to [say], your company pays for it."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.21345708319481382,
+        "x" : 0.099767978006828129,
+        "y" : 0.87500000020850277
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.5983379501385041,
+      "text" : "(지금부터) 말할 필요도 없이."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01754005177815765,
+        "width" : 0.55220419160017731,
+        "x" : 0.10208815929357813,
+        "y" : 0.89534883712640811
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "말할 필요도 없이, 그것에 대한 비용은 당신의 회사가 부담합니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.42923432478668,
+        "x" : 0.48491880011123933,
+        "y" : 0.93155555539622426
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.91614906832298137,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 167"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 160,
+  "pdf_page_number" : 161
+}

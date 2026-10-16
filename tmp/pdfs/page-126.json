@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027504580784605603,
+        "width" : 0.81005746827903369,
+        "x" : 0.087990518402863663,
+        "y" : 0.071246779590601772
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "3개 문장 모두 자연스럽게 해석된다. '~하고, ~하다.라는 의미를 그대로 영어로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020495862376933127,
+        "width" : 0.8329466041943705,
+        "x" : 0.067285398482861039,
+        "y" : 0.10159716099407379
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "하는 것이 분사구문을 만드는 방법이다. 이번에는 순서대로 만드는 방법을 알아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.058004641701989157,
+        "x" : 0.069605567653038131,
+        "y" : 0.13081395381728822
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021620225779441116,
+        "width" : 0.4575968424479166,
+        "x" : 0.064742558230294109,
+        "y" : 0.17915930330208274
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.23933649289099526,
+      "text" : "When/Beeause he saw me, he ran away."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.5893271588264628,
+        "x" : 0.067285376386304593,
+        "y" : 0.20629991118665014
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.60742407199100112,
+      "text" : "'시간'이든 '이유'든 큰 차이가 없으므로, 접속사(when 또는 because)는 지운다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.28074245588153812,
+        "x" : 0.064965198750874462,
+        "y" : 0.25581395384678918
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.091180866965620333,
+      "text" : "he saw me, he ran away."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016159902130912229,
+        "width" : 0.82830628740026591,
+        "x" : 0.067285371271624234,
+        "y" : 0.28197674384912064
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.64860557768924298,
+      "text" : "✓ he를 두 번 반복하는 것은 지루하고, 두 번 말하지 않아도 알 수 있는 것이므로 한쪽을 지운다. 어느 쪽을 지울"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017548938504128531,
+        "width" : 0.83077098224179957,
+        "x" : 0.064896982681028254,
+        "y" : 0.29998457437487236
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.71589205397301348,
+      "text" : "지 고민될 수 있으나, he ran away가 결국 더 중요한 정보이므로 뒤에 나오는 he를 남긴다.(*1) 설명에 해당하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.29234337772883423,
+        "x" : 0.067285387569734331,
+        "y" : 0.32120674373743752
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.70378151260504207,
+      "text" : "정보인 he saw me의 he는 지운다.(*2)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017459915926103298,
+        "width" : 0.24593966869597739,
+        "x" : 0.064965200068097931,
+        "y" : 0.36335403739724081
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "saw me, he ran away."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016088968901477707,
+        "width" : 0.82830628740026602,
+        "x" : 0.067285371221682724,
+        "y" : 0.38808139501093164
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.728581713462923,
+      "text" : "✓'~하고 라는 의미가 되도록 saw를 seeing으로 바꾼다. 그러면 'me를 see하는 중에 he는 run away했다.라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016148294721330836,
+        "width" : 0.48491877562610819,
+        "x" : 0.06728539165045988,
+        "y" : 0.40843023221967423
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.75826972010178118,
+      "text" : "의미, 즉 me를 see하고, he는 run away했다. 라는 문장이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024339488045557856,
+        "width" : 0.28210161357906693,
+        "x" : 0.068817771185333096,
+        "y" : 0.42849778559635432
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.69180018850141378,
+      "text" : "Seeing me, he ran away•"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020547450487869656,
+        "width" : 0.7053364205867686,
+        "x" : 0.064965200142650656,
+        "y" : 0.48255813940979153
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.9779208831646734,
+      "text" : "•O 중요한 포인트: 주어가 일치하지 않으면 지우지 않고 남긴다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023362549830033053,
+        "width" : 0.80761744722406903,
+        "x" : 0.088059860189841549,
+        "y" : 0.51849995920894987
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "앞뒤 절의 주어가 똑같은 경우, 두 번 말하지 않아도 알 수 있기 때문에 한쪽을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021811353282369939,
+        "width" : 0.82830628740026591,
+        "x" : 0.06728537125958875,
+        "y" : 0.54651162813991161
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "지우는 것이다. 반대로 말해서, 앞뒤 절의 주어가 같지 않으면 둘 다 써야 한다. 분"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.52436194453679075,
+        "x" : 0.064965199307202209,
+        "y" : 0.57409050538895223
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "사구문을 만들 때 가장 신경을 써야 하는 부분이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017499896627458322,
+        "width" : 0.48723897731050531,
+        "x" : 0.064965198000850585,
+        "y" : 0.63220940567418971
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.12611879576891782,
+      "text" : "Beeause It was sunny, we went to the park."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020237674730058886,
+        "width" : 0.30207231670406692,
+        "x" : 0.064753025277491202,
+        "y" : 0.65542492986007495
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "날씨가 맑아서, 우리는 공원에 갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.22041762331698805,
+        "x" : 0.067285387769845786,
+        "y" : 0.68456078041205337
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.63582089552238807,
+      "text" : "* 접속사 because를 지운다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020038856905756908,
+        "width" : 0.38773093798481822,
+        "x" : 0.062516485785657147,
+        "y" : 0.70593803570739988
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.0035587188612099642,
+      "text" : "It was sunny, we went to the park."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02382775419247074,
+        "width" : 0.80764852753767724,
+        "x" : 0.064836162366611674,
+        "y" : 0.72882255265506068
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.67947732513451187,
+      "text" : "* 앞뒤 절의 주어가 다르기 때문에 주어를 모두 남긴다. because가 있던 부사절의 동사인 was를 being으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062793,
+        "width" : 0.11136891250069259,
+        "x" : 0.083526680773187034,
+        "y" : 0.75000000010552337
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.68279569892473113,
+      "text" : "바꿔 완성한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02325839370145355,
+        "width" : 0.49419953907635195,
+        "x" : 0.067285381896901794,
+        "y" : 0.78197674388715033
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.5549658832448825,
+      "text" : "It being sunny, we went to the park"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421398,
+        "width" : 0.45939673024711875,
+        "x" : 0.064965207843241266,
+        "y" : 0.85755813933466718
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "\"l: he ran away 처럼 결론을 나타내는 'S+V 를 '주절이라고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014721889885104367,
+        "width" : 0.82830628740026602,
+        "x" : 0.0649651855946273,
+        "y" : 0.87045252855908506
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "\"2: he saw me와 같이 설명을 위한 'S+V'를 종속절'이라고 한다. 품사의 관점에서 보면 부사의 역할을 하는 'S+V'이기 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421509,
+        "width" : 0.24593966869597739,
+        "x" : 0.088167056485047232,
+        "y" : 0.88372093002947694
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "문에 '부사절이라고 말할 수도 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.41299304285793437,
+        "x" : 0.50348027659821204,
+        "y" : 0.92724046167330831
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.89621087314662273,
+      "text" : "4장 동사 ③ 현재분사: ing는 이것에서부터 생각하자 131"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 126,
+  "pdf_page_number" : 127
+}

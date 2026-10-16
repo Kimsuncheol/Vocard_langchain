@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029069768152202968,
+        "width" : 0.54712643737363742,
+        "x" : 0.064367815690849553,
+        "y" : 0.075581394986744543
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.22651356993736951,
+      "text" : "CB He threw me a ball. 그는나에게 공을던져 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101484,
+        "width" : 0.15172413800503803,
+        "x" : 0.12643678145725112,
+        "y" : 0.10755813934557645
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.50239234449760761,
+      "text" : "던졌다 + 건네주었다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030818177287688986,
+        "width" : 0.49491815795039995,
+        "x" : 0.064120570938529103,
+        "y" : 0.13151516750180536
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.24270833333333333,
+      "text" : "CB M buy you a drink. 내가네게한 잔 사 줄게."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01470040596252653,
+        "width" : 0.11954022929302918,
+        "x" : 0.11494252891904957,
+        "y" : 0.16279069748200148
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.39583333333333331,
+      "text" : "사다 + 건네주다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022014399864495382,
+        "width" : 0.66206898535018899,
+        "x" : 0.064367806060537588,
+        "y" : 0.20930232573527074
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.97430519140010485,
+      "text" : "• 4형식 문장에 넣으면 '건네주다'라는 의미가 생기는 동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023990334140872593,
+        "width" : 0.80716204207322428,
+        "x" : 0.084929586215834907,
+        "y" : 0.24581935731660487
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "make, get, find, leave, save 등의 4형식도 '건네주다'라는 의미를 동사에 더해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.23218391515031647,
+        "x" : 0.066666662994610631,
+        "y" : 0.2747093022357141
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "주면 해석이 쉽게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022687469088734202,
+        "width" : 0.46696100892229253,
+        "x" : 0.0619453460578374,
+        "y" : 0.32109587290033481
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.19808306709265175,
+      "text" : "CE My dad made me some sandwiches."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101484,
+        "width" : 0.17011493838453759,
+        "x" : 0.15862069161232892,
+        "y" : 0.35174418585883238
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.53386454183266929,
+      "text" : "만들었다 + 건네주었다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020758448970699561,
+        "width" : 0.33837839118539026,
+        "x" : 0.11243142191712933,
+        "y" : 0.37322374945657311
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "아빠가 내게 샌드위치를 만들어 주셨다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031139889645831031,
+        "width" : 0.35241300043677476,
+        "x" : 0.066291277673195745,
+        "y" : 0.42522339050781177
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.2335279399499583,
+      "text" : "CB She l get you some colffee."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491014,
+        "width" : 0.1563218407825411,
+        "x" : 0.11724137834436163,
+        "y" : 0.45774021317668101
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.62980769230769229,
+      "text" : "손에 넣다+ 건네주다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.35402298510158448,
+        "x" : 0.43448276020625387,
+        "y" : 0.42732558130945308
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "그녀가 네게 커피를 좀 가져다 줄 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.27356321868681871,
+        "x" : 0.11264367789694361,
+        "y" : 0.5129003555674746
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.011261261261261261,
+      "text" : "fil find him a girlfriend."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105572,
+        "width" : 0.11954022929302918,
+        "x" : 0.1310344829396923,
+        "y" : 0.5421511627874821
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.43448275862068964,
+      "text" : "찾다 + 건네주다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.34942528232408132,
+        "x" : 0.40459770354822489,
+        "y" : 0.51156583660762334
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그에게 여자친구를 찾아 줄 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.34022987676907523,
+        "x" : 0.11034483157276945,
+        "y" : 0.59593023223343389
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.22660550458715598,
+      "text" : "My parents left me a fortune."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.31724138434258525,
+        "x" : 0.44597700886498609,
+        "y" : 0.59593023223505082
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "부모님은 내게 재산을 남겨 주셨다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491014,
+        "width" : 0.22068964747604608,
+        "x" : 0.11954023362085309,
+        "y" : 0.62633451986085487
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.56554307116104874,
+      "text" : "(유산으로) 남기다 + 건네주다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017483240344770445,
+        "width" : 0.5057471338371351,
+        "x" : 0.064367812278453618,
+        "y" : 0.68313953517560266
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.25921521997621877,
+      "text" : "예문 TT save you a seat. 내가 네 자리를 맡아 줄게."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101484,
+        "width" : 0.20919540126280109,
+        "x" : 0.094252873881243177,
+        "y" : 0.71075581376136787
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.50387596899224807,
+      "text" : "마련하다/구하다 +건네주다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.54712643737363753,
+        "x" : 0.09195402258721723,
+        "y" : 0.73532028487169854
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.65363881401617252,
+      "text" : "(save의 기본 의미는 '내버려두면 흘러 사라져버릴 것을 그 전에 구하는' 것)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026317967214618321,
+        "width" : 0.74022991110671588,
+        "x" : 0.055172397799132473,
+        "y" : 0.7789145907961732
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.9800649049605934,
+      "text" : "•동사의 의미에 건네주다라는 이미지가 있으면 4형식으로 쓴다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02238266154116153,
+        "width" : 0.80706409395327894,
+        "x" : 0.082675593005459722,
+        "y" : 0.81787747868083449
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "4형식 구문 자체가 '건네주다'라는 의미를 가지고 있기 때문에 원래 '건네주다'의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021833360407276126,
+        "width" : 0.81839079394119207,
+        "x" : 0.064367821284437562,
+        "y" : 0.84738372108442828
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "이미지를 가지고 있는 동사와 잘 맞고, 이러한 동사는 기본적으로 4형식에 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325265687483,
+        "width" : 0.8022988878724947,
+        "x" : 0.085057452409061679,
+        "y" : 0.87500000015214652
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "물론 그 외의 문형에서도 쓸 수 있지만, 4형식에서 쓰는 것이 가장 자연스러운 형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.56091952424512126,
+        "x" : 0.35402299638366735,
+        "y" : 0.93016014234571365
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.90280065897858319,
+      "text" : "2장동사 ① 문장의 형식:동사를 단어로 이해하지 말고 문형으로 이해하라 43"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    642
+  ],
+  "pdf_page_index" : 40,
+  "pdf_page_number" : 41
+}

@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020508759404667343,
+        "width" : 0.29466357941323135,
+        "x" : 0.055684451474729266,
+        "y" : 0.075421473262997529
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "발생이라는 이미지가 생긴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021949350886780739,
+        "width" : 0.79350352185837758,
+        "x" : 0.076566104480710731,
+        "y" : 0.10159716049891954
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "동명사와 함께 쓰여 동시 발생을 나타내는 동사로는 다음과 같은 것들이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939033095352167,
+        "width" : 0.50812066260804523,
+        "x" : 0.074245933115371907,
+        "y" : 0.15552325604353712
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "•give up -ing ~하는 것을 포기하다, 그만두다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022663564098124644,
+        "width" : 0.53156673350232719,
+        "x" : 0.11125576550428599,
+        "y" : 0.18485365108710894
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.35663338088445079,
+      "text" : "ㅣ gave up smoking. 나는 흡연하는 것을 그만두었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016130239220985665,
+        "width" : 0.59860787898936163,
+        "x" : 0.081206501228769684,
+        "y" : 0.21206743552895513
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.4773413897280967,
+      "text" : "> finish -ing와 마찬가지로 지금까지 계속하고 있던 일을 포기하고 그만두다 라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016011586735072969,
+        "width" : 0.58004639537621905,
+        "x" : 0.10208817111839955,
+        "y" : 0.23110465082465925
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.5717884130982368,
+      "text" : "는 뜻이다. 예를 들어, I gave up trying to convince her(나는 그녀를 설득하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01473994538544976,
+        "width" : 0.5777262369791667,
+        "x" : 0.10208815749696713,
+        "y" : 0.25145348852657246
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.36943620178041542,
+      "text" : "는 것을 포기했다.)의 경우, 지금까지 설득을 계속하고 있던 중에 그 상태를 지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016264218192451718,
+        "width" : 0.24867997406222297,
+        "x" : 0.10187891711582243,
+        "y" : 0.27016004622073653
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.18439716312056736,
+      "text" : "속하다가 그만두었다는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014839615775297021,
+        "width" : 0.082130837947764324,
+        "x" : 0.72578064090211136,
+        "y" : 0.17476850938008448
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.91379310344827591,
+      "text" : "Smoking"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020486835049863594,
+        "width" : 0.35266821029338435,
+        "x" : 0.07424594116346428,
+        "y" : 0.30959302312953352
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "• avoid -ing ~하는 것을 피하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452794,
+        "width" : 0.73317862436281012,
+        "x" : 0.078886325691757977,
+        "y" : 0.34011627894490926
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.28854080791426218,
+      "text" : "에E Avoid using the same password. 동일한 비밀번호 사용을 피하세요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062904,
+        "width" : 0.52668214622118792,
+        "x" : 0.081206490583896951,
+        "y" : 0.36627906992149539
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.51428571428571423,
+      "text" : "- 예를 들어, 권투에서 상대가 아직 펀치를 날리지 않은 상태라면 피하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020430088466315888,
+        "width" : 0.50580046092364805,
+        "x" : 0.10208816854965988,
+        "y" : 0.38509316745716293
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.41989881956155145,
+      "text" : "는 사람도 없을 것이다. 상대의 펀치가 날아오는 '도중에, 피하는 동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020520656216747479,
+        "width" : 0.50621091152759312,
+        "x" : 0.10186202298238688,
+        "y" : 0.4026600185842697
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.43131462333825704,
+      "text" : "작을 할 것이다. 따라서 avoid는 'A가 오는 중에 그것을 피하다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421509,
+        "width" : 0.18329465609070256,
+        "x" : 0.10208817067702015,
+        "y" : 0.42587209281785754
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.39545454545454545,
+      "text" : "동시 발생의 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.36658931218140522,
+        "x" : 0.074245947041548049,
+        "y" : 0.46938775547035549
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "• put off -ing: ~하는 것을 미루다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022185389088018814,
+        "width" : 0.56872151692708339,
+        "x" : 0.076443233723538617,
+        "y" : 0.49663001307809118
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.39890710382513661,
+      "text" : "때E | put off buying a house. 나는 집 사는 것을 미뤘다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.7795823983266843,
+        "x" : 0.081206480550027993,
+        "y" : 0.52307009795551862
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.40736342042755347,
+      "text" : "* off는 '떨어져 있는 상태에서' 라는 의미이므로, put off는 '일단 옆에 놓아두다'='미루다, 연기하다'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.75638046805740244,
+        "x" : 0.10208818812871442,
+        "y" : 0.54347826098495711
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.38273045507584597,
+      "text" : "는 의미이다. 사는 것을 그만두는 것이 아니고 미루고 있을 뿐이므로. 사려는 상태의 도중에 계속 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017392599381698237,
+        "width" : 0.63124731618461882,
+        "x" : 0.099681204332189549,
+        "y" : 0.56112853725399292
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.48284313725490197,
+      "text" : "put off와 마찬가지로 '연기하다'라는 의미인 postpone의 목적어에도 동명사가 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.33410672668024155,
+        "x" : 0.076566126139556129,
+        "y" : 0.60603371745230716
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "• stop -ing: ~하는 것을 멈추다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021879707275498927,
+        "width" : 0.58236659706061622,
+        "x" : 0.078886306929282918,
+        "y" : 0.63517441883599945
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.49450549450549453,
+      "text" : "에B |stopped smoking. 나는 흡연하는 것을 (일단) 멈췄다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016125079902168271,
+        "width" : 0.78190251343639172,
+        "x" : 0.078886330182516742,
+        "y" : 0.66133720896519188
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.46187363834422657,
+      "text" : "-stop은 일단 중단하다'라는 이미지가 강하나. stop -ing는 '하고 있는 중인 것을 일단 중단하다'라는 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016096706610394418,
+        "width" : 0.74013922941600163,
+        "x" : 0.099767972181842038,
+        "y" : 0.68012422395416439
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.4349775784753363,
+      "text" : "미이다. 만약 '담배(피는 습관)를 끊다, 금연하다'라는 의미라면, I quit smoking.이 가장 많이 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029725959053479634,
+        "width" : 0.81034108696254437,
+        "x" : 0.073964279241594086,
+        "y" : 0.72500680288056008
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "이상으로 이른바 'MEGAFEPS' 중에 enjoy. give up, avoid, finish, put"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.8329466041943705,
+        "x" : 0.053364282222226937,
+        "y" : 0.75421472935332334
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "off(postpone), stop은 '동시 발생'이라는 이미지에 의해 목적어에 동명사가 온다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02047393802212949,
+        "width" : 0.22273782500138517,
+        "x" : 0.055684451645772445,
+        "y" : 0.78343023242836951
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "는 것을 알 수 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023628789974507125,
+        "width" : 0.5826077941461657,
+        "x" : 0.048607919074514637,
+        "y" : 0.84727908558697806
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.96284007962840079,
+      "text" : "•②'머리에 떠오르는 영상'은 반드시 -ing가 된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020893239086459126,
+        "width" : 0.80990120096409579,
+        "x" : 0.074170782890672096,
+        "y" : 0.88502680834908087
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "앞에 언급된 동사 외에 동명사를 목적어로 하는 동사에는 다음과 같은 특징이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.41763340293938384,
+        "x" : 0.49187935409875355,
+        "y" : 0.92724046131956073
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.89776357827476039,
+      "text" : "4장 동사 ③ 현재분사: ing는 이것에서부터 생각하자 123"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 118,
+  "pdf_page_number" : 119
+}

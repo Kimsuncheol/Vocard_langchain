@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022936933729383657,
+        "width" : 0.51792266152121813,
+        "x" : 0.1319940552443222,
+        "y" : 0.07256394990594639
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "을 써서 My dad bought some meat.라고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025596917046440959,
+        "width" : 0.81003336472944776,
+        "x" : 0.15296725574491993,
+        "y" : 0.099574745881254034
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "물론 some을 쓰지 않고 My dad bought meat.라고 해도 틀린 말은 아니지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025130646599663686,
+        "width" : 0.83096929029984912,
+        "x" : 0.13207027528241239,
+        "y" : 0.12569099465953648
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "만, 느낌이 달라진다. some이 붙지 않는 meat의 경우, 'meat란 무엇인가'라는 지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026758592393663183,
+        "width" : 0.83097128434614709,
+        "x" : 0.13207490152645721,
+        "y" : 0.1512282495992503
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "식의 이야기가 된다. 즉, 위의 문장은 \"아빠가 사 온 것은 (야채, 쌀, 생선 등이 아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027489802042643285,
+        "width" : 0.83101645382967859,
+        "x" : 0.12974257246695764,
+        "y" : 0.17816888993178293
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "닌) 고기이다.\"라는 의미가 되어, 듣는 사람에게 '고기라는 지식'을 머리에 떠올리게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021928940667046426,
+        "width" : 0.060324826023795408,
+        "x" : 0.12993039426256658,
+        "y" : 0.20784883704660684
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022740670945909258,
+        "width" : 0.81227467276833265,
+        "x" : 0.14839087470899714,
+        "y" : 0.26272667950898021
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이를 구분하여 사용할 수 있도록 나는 학생들에게 '무엇을 가지고 있다'라고 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033090688069661423,
+        "width" : 0.8336282209916549,
+        "x" : 0.12726337670033375,
+        "y" : 0.28609038630021266
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.044386422976501305,
+      "text" : "하거나, 무엇이 있다'라는 의미로, '존재'를 나타낼 때는 some을 붙이지만, 'A나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027816536797417468,
+        "width" : 0.83544878526167432,
+        "x" : 0.12520402356585086,
+        "y" : 0.31403879248227318
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.1206896551724138,
+      "text" : "B가 아니고, C이다. 라는 '종류의 대립'을 나타낼 때는 아무것도 붙이지 않는다고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021834625244140593,
+        "width" : 0.10440835085782138,
+        "x" : 0.12761020963373432,
+        "y" : 0.34444444457826762
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "설명한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027021803114149257,
+        "width" : 0.76840955560857604,
+        "x" : 0.15058407768229334,
+        "y" : 0.39087977201049984
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "목이 말라서 물이 필요한 상황으로, 물이 있었으면 좋겠다고 말하고자 할 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020649726019965287,
+        "width" : 0.51307010650634766,
+        "x" : 0.15297802559667739,
+        "y" : 0.41915403561975451
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.16436781609195403,
+      "text" : "• I need (wrater / some water). 물의 존재를 상기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021885013156466959,
+        "width" : 0.52900231968272815,
+        "x" : 0.1508120644291836,
+        "y" : 0.44177777760674464
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "차, 커피, 물 중 어느 것이 필요한지에 대해 답할 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019692528618706628,
+        "width" : 0.34866950728676538,
+        "x" : 0.15979613302094017,
+        "y" : 0.46889672075805811
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.44473007712082263,
+      "text" : "- I need (water / some water)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018596446567111569,
+        "width" : 0.10719651525670826,
+        "x" : 0.52180777473499473,
+        "y" : 0.4688994506922024
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.23512747875354106,
+      "text" : "종류의 대립"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.38979118520563294,
+        "x" : 0.14385151078465441,
+        "y" : 0.60029069788075207
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "\"난 빵집에 가서 빵을 조금 사 왔어.\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017510336134168858,
+        "width" : 0.77262184836647718,
+        "x" : 0.1484918599035647,
+        "y" : 0.63226744177827976
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.164967562557924,
+      "text" : "- l went to the bakery and bought (bread / some bread). 빵의 존재를 상기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023307493421766523,
+        "width" : 0.4338746937838468,
+        "x" : 0.14385151956205958,
+        "y" : 0.65111111085817008
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "\"난 아침 식사로 쌀이 아니라 빵을 먹어.\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02023386637369784,
+        "width" : 0.74959442832253187,
+        "x" : 0.14839776304991573,
+        "y" : 0.67981827832104647
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.1990909090909091,
+      "text" : "-*I eat (bread/some bread) for breaktast, not (rice/some rice). 종류의 대립"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024899542914496586,
+        "width" : 0.45531441948630591,
+        "x" : 0.12274012467497165,
+        "y" : 0.72529175119792366
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.9825454545454545,
+      "text" : "• 총칭 용법:'~라고 불리는 것'의 전체"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026991711934407525,
+        "width" : 0.81496888940984547,
+        "x" : 0.13888962015313197,
+        "y" : 0.76311698072848255
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "'종류의 대립'을 통해 '개념• 지식을 나타내는 명사'를 볼 수 있는데, 사실상 이는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027204688178168346,
+        "width" : 0.83100804415616114,
+        "x" : 0.12275830307875085,
+        "y" : 0.79206115825175649
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.060457516339869281,
+      "text" : "명사에서 총칭 용법을 말한다. 그 형태로는 가산 명사의 경우, 아무것도 붙이지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026841775682237445,
+        "width" : 0.83325732838023781,
+        "x" : 0.12047937819175375,
+        "y" : 0.81969647716815153
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "은 복수형을 사용하고, 불가산 명사의 경우, 아무것도 붙이지 않은 단수형을 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024447555541992183,
+        "width" : 0.085091336206956331,
+        "x" : 0.12126798242041223,
+        "y" : 0.84548010700914755
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029929050021701431,
+        "width" : 0.81015959652987379,
+        "x" : 0.14363058112472815,
+        "y" : 0.87143448759218789
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.0051948051948051948,
+      "text" : "예를 들어, 애견가가 \"저는 개를 아주 좋아해요. \"라고 말할 때, I love a dog, 라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039443154226649901,
+        "x" : 0.090487239468751618,
+        "y" : 0.92577777792418336
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.97115384615384615,
+      "text" : "290"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 280,
+  "pdf_page_number" : 281
+}

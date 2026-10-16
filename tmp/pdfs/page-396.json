@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029443891469418948,
+        "width" : 0.83301795612681995,
+        "x" : 0.12070516683563119,
+        "y" : 0.064844845472094792
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "생각하면 무엇이 연상되는가? '월드컵' '리오넬 메시 선수', '손흥민 선수' 등, 여러"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.13488371805711227,
+        "x" : 0.1209302338713015,
+        "y" : 0.095829636139218133
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "가지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.30697675184770062,
+        "x" : 0.13488371690611045,
+        "y" : 0.14534883757093764
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "A: What sports do you like?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.17441860112276944,
+        "x" : 0.13488372241148347,
+        "y" : 0.17296511626967925
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "B: I like soccer."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020828492470092219,
+        "width" : 0.095608711242675781,
+        "x" : 0.13475378375205951,
+        "y" : 0.19888807930919739
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "A:Why?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022305937921884511,
+        "width" : 0.28019378402016382,
+        "x" : 0.13434245271077441,
+        "y" : 0.22593494702459016
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "B: I like Son Heung-min."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.25116278908469458,
+        "x" : 0.47674418673672248,
+        "y" : 0.14680232559268902
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "넌 무슨 스포츠를 좋아하니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.18372093547474255,
+        "x" : 0.47674418330914037,
+        "y" : 0.17296511664037795
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "축구를 좋아해. 의견"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017490868454182573,
+        "width" : 0.039534883065657167,
+        "x" : 0.47441860487082593,
+        "y" : 0.20053238727779932
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "왜?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02050746978651441,
+        "width" : 0.26279070160605694,
+        "x" : 0.47674418396441337,
+        "y" : 0.22803904195013347
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "손흥민 선수를 좋아해서. 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023618423949328782,
+        "width" : 0.28894883936101734,
+        "x" : 0.13925942145693007,
+        "y" : 0.27880860164682686
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "생각의 순서는 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025020819378829939,
+        "width" : 0.54700834100896656,
+        "x" : 0.14160724020875123,
+        "y" : 0.33083883423959248
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "① '축구'와 관련된 것을 떠올린다. (예: 손흥민 선수)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024822275725316478,
+        "width" : 0.78415055708451697,
+        "x" : 0.14162929246861378,
+        "y" : 0.35940373770767897
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "② 떠올린 명사를 사용하여 문장을 만들기 위해 동사를 생각해 낸다. 새로운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025081904461242033,
+        "width" : 0.75852194699374098,
+        "x" : 0.17191065880371401,
+        "y" : 0.38778516353267856
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "동사를 생각해 내는 것이 번거로우면, 앞에서 언급한 동사를 활용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024009112245547692,
+        "width" : 0.75389732014049182,
+        "x" : 0.17190343847858811,
+        "y" : 0.41842186870102172
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서는 What sports do you like?, I like soccer.라고 했으므로,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.51395346901633521,
+        "x" : 0.16976745121013695,
+        "y" : 0.44764862441469733
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "like를 사용한다. (예: like Son Heung-min.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022039604694735426,
+        "width" : 0.24941069429570981,
+        "x" : 0.1904178226002898,
+        "y" : 0.49808755206894451
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.97026604068857591,
+      "text" : "- 게임으로 익히는 '연상'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024218345174984113,
+        "width" : 0.8143470937555487,
+        "x" : 0.13467823612709298,
+        "y" : 0.53507661996838263
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이유를 생각해 내는 훈련으로 내가 하고 있는 것은 Comparison Game(비교"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020415901820429072,
+        "width" : 0.10697674751281738,
+        "x" : 0.11627906797614945,
+        "y" : 0.56388642385360543
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "게임)이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.68372093547474255,
+        "x" : 0.13488371816287073,
+        "y" : 0.59139307898546534
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "2명이 짝을 지어, A vs B라는 주제를 제시한다. 가위바위보를 하여"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024169370148598657,
+        "width" : 0.70491209897128027,
+        "x" : 0.11381600791794871,
+        "y" : 0.61743765708575171
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이긴 쪽이 A와 B 중에서 좋아하는 주제를 고른다. 그리고 약 2분 동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02358904874948875,
+        "width" : 0.48407402905550867,
+        "x" : 0.11379162318309997,
+        "y" : 0.64362191111869116
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "안 계속해서 서로에게 이유를 말하는 게임이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022654371760858383,
+        "width" : 0.48645700107921253,
+        "x" : 0.13470003540395822,
+        "y" : 0.67074692377244982
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "말하기 형식은 'A/B is better because ~'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022794946062956289,
+        "width" : 0.6793096715753727,
+        "x" : 0.13475741127488347,
+        "y" : 0.7002505312956302
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어서 ice cream vs cake의 경우, 다음과 같이 말할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021825539928256865,
+        "width" : 0.058139535513791168,
+        "x" : 0.11395348804044661,
+        "y" : 0.72529069775483823
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.43720930272882635,
+        "x" : 0.11162790665566562,
+        "y" : 0.77595385987874277
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "A: Ice cream is better because it’s cold."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019738589120101624,
+        "width" : 0.4072989983992143,
+        "x" : 0.11148476145764868,
+        "y" : 0.80153617174121261
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "B: Cake is better because it's sweet."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019092672359869334,
+        "width" : 0.69302324815229943,
+        "x" : 0.10930232924987041,
+        "y" : 0.83139534920665803
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.0011594202898550724,
+      "text" : "A: Ice cream is better because you can finish eating it quickly."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020839854479893782,
+        "width" : 0.49339918656782666,
+        "x" : 0.11145216449895333,
+        "y" : 0.85620502471976501
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "B: Cake is better because it's a special food."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021622801630922117,
+        "width" : 0.45867222005670721,
+        "x" : 0.10909614502789183,
+        "y" : 0.8826255844628802
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "A: Ice cream is better because it's cheap."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.039534883065657181,
+        "x" : 0.081395349310194653,
+        "y" : 0.92147293688656773
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 1,
+      "text" : "410"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 396,
+  "pdf_page_number" : 397
+}

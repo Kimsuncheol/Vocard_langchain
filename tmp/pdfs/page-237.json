@@ -1,0 +1,310 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032000000000000028,
+        "width" : 0.12558139898838142,
+        "x" : 0.13953488192229976,
+        "y" : 0.091555555640594699
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 1,
+      "text" : "Must 55"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032219204372829879,
+        "width" : 0.291067226659878,
+        "x" : 0.13936769368126506,
+        "y" : 0.12880054959121867
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99936561640938892,
+      "text" : "기타 wil의 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019460838317871154,
+        "width" : 0.52813877203525639,
+        "x" : 0.13941801931224485,
+        "y" : 0.21205185530027082
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99913509773395603,
+      "text" : ">'현재의 습관 • 습성'을 나타내는 것은 '연상'하는 것이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011636950598822748,
+        "width" : 0.03255813957279563,
+        "x" : 0.11162790684150917,
+        "y" : 0.37644444461285098
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.3697674525769008,
+        "x" : 0.19534883172381842,
+        "y" : 0.30666666661922692
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.96208017334777896,
+      "text" : "~하려고 하지 않다: 의인화된 '의지'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021085172865125901,
+        "width" : 0.55849067709724443,
+        "x" : 0.15797514620699687,
+        "y" : 0.34525275359332053
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "This door won't open. 이 문은 열리려고 하지를 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02082851409912112,
+        "width" : 0.62819060844573538,
+        "x" : 0.15800507095295246,
+        "y" : 0.37310263478234185
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "She wouldn't listen to me. 그녀는 내 말을 들으려 하지 않았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015088026258680554,
+        "width" : 0.08320886117440679,
+        "x" : 0.48723844978727954,
+        "y" : 0.42068556675704671
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "listen!/"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021944444444444433,
+        "width" : 0.81395345399861996,
+        "x" : 0.13023257517532796,
+        "y" : 0.56249999989731547
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이 경우는 보통 부정문에서 사용된다. '결코 ~하려 하지 않다'라는 완강한 거절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022969373914930591,
+        "width" : 0.18174746912768763,
+        "x" : 0.11145184670884471,
+        "y" : 0.58953275488663592
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "의사를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021822997199164473,
+        "width" : 0.81395345399862007,
+        "x" : 0.13255815657563477,
+        "y" : 0.61773255803698546
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "첫 번째 예문처럼 무생물이 주어가 되는 경우가 많다. 이는 마치 문에 의지가 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.30465115712918445,
+        "x" : 0.10930232829305968,
+        "y" : 0.64533333304912932
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "는 것처럼 의인화된 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027556454128689234,
+        "width" : 0.56096029689169336,
+        "x" : 0.10671152010720361,
+        "y" : 0.69747936527595822
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.95791726105563479,
+      "text" : "• ~란 보통~하기 마련이다, ~하는 법이다: 연상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.36511626066984953,
+        "x" : 0.10930233468028096,
+        "y" : 0.73982558158522338
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.15966386554621848,
+      "text" : "예e Dogs will bark. It's their job."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021780741373697898,
+        "width" : 0.39833055805956197,
+        "x" : 0.12995044710018477,
+        "y" : 0.76175012835702516
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "개는 짖기 마련이야. 그것이 개가 할 일이야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.40697672699930998,
+        "x" : 0.10930233408394718,
+        "y" : 0.78779069729242235
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.14419475655430711,
+      "text" : "예요 Babies will cry. We Can't help it."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016148579067654101,
+        "width" : 0.30697675308271011,
+        "x" : 0.13953487916019539,
+        "y" : 0.81540697638266868
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "아기는 우는 법이다. 어쩔 수 없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019114986843532966,
+        "width" : 0.60930231425836889,
+        "x" : 0.10930233114590576,
+        "y" : 0.83866279088976425
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.1015576323987539,
+      "text" : "예문 Justin broke the window? Well, boys will be boys."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014729973687065967,
+        "width" : 0.46279068210525731,
+        "x" : 0.15581396115667367,
+        "y" : 0.86482558160847811
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "저스틴이 장문을 깼다고? 음, 남자애들이 다 그렇지 뭐."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.037209301592617636,
+        "x" : 0.079069767482760941,
+        "y" : 0.92441860446120616
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 1,
+      "text" : "246"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 237,
+  "pdf_page_number" : 238
+}

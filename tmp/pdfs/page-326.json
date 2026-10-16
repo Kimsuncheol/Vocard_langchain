@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022572629542397138,
+        "width" : 0.58299762552434753,
+        "x" : 0.088463873339490143,
+        "y" : 0.081038104368769792
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.0013029315960912053,
+      "text" : "The hotel (that/which) l'm staying in is a good one."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018942905463126825,
+        "width" : 0.37093643708662555,
+        "x" : 0.097763562118663216,
+        "y" : 0.10466091509272468
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "내가 지금 묵고 있는 호텔은 좋은 호텔이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01961314288205962,
+        "width" : 0.59015360745516687,
+        "x" : 0.10003259532551891,
+        "y" : 0.12562337508851806
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.51428571428571423,
+      "text" : "* '명사 + 관계 대명사 + S + V ~'에서 관계 대명사를 생략하는 것이 일반적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021056621291803967,
+        "width" : 0.76507446982643823,
+        "x" : 0.11627814635116884,
+        "y" : 0.14331449768841042
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.53072128227960824,
+      "text" : "(참고로 the hotel to stay in으로 바꾸면 목적, 기능을 나타낸다.(예: We must find a better hotel to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020217086022981667,
+        "width" : 0.45514258471402247,
+        "x" : 0.118575034547582,
+        "y" : 0.16472231532241055
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.52321981424148611,
+      "text" : "stay in. 우리는 숙박을 위한 좀 더 나은 호텔을 찾아야 한다.))"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024772444201401123,
+        "width" : 0.80927779457785864,
+        "x" : 0.074372583027025291,
+        "y" : 0.20998017329975227
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "반대로 관계 대명사 앞에 오는 명사가 의미상 주어의 역할을 하는 경우, 분사의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022374970210958134,
+        "width" : 0.47344888340343122,
+        "x" : 0.053464866480409642,
+        "y" : 0.23948534492573992
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "형용사적 용법과 의미상 차이는 거의 없어진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025844965225610972,
+        "width" : 0.79298392209139745,
+        "x" : 0.05569662166956571,
+        "y" : 0.28573795588144013
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.08859609268514311,
+      "text" : "예e The factory producing a lot of pollution is going to be closed soon."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025704757393618549,
+        "width" : 0.82800778475674719,
+        "x" : 0.055707092070151454,
+        "y" : 0.31275426678771334
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.084926634059582035,
+      "text" : "에e The factory that/which is producing a lot of pollution is going to be"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017224538653008659,
+        "width" : 0.14718871766870673,
+        "x" : 0.10006531461455256,
+        "y" : 0.34385866077102878
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "closed soon."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022707821098078007,
+        "width" : 0.50647393139925867,
+        "x" : 0.09993296500406211,
+        "y" : 0.36466126436894375
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "많은 오염 물질을 만들어 내고 있는 그 공장은 곧 폐쇄될 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019079123209473581,
+        "width" : 0.05361305583607065,
+        "x" : 0.10023309897761806,
+        "y" : 0.39080459778284204
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013838663868520396,
+        "width" : 0.067968699065121707,
+        "x" : 0.73641192115188792,
+        "y" : 0.386249272393832
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.84440227703984816,
+      "text" : "(CLOSEI"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025887176486689034,
+        "width" : 0.81151710857044568,
+        "x" : 0.076765699180271305,
+        "y" : 0.47904930006842261
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 이는 어디까지나 '관계 대명사 +be동사 +-ing/과거분사'인 경우에만 해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031270385526324884,
+        "width" : 0.83301171389493078,
+        "x" : 0.057827532549954146,
+        "y" : 0.50375702985926785
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "당되는 것으로, 관계 대명사절의 동사가 진행형이 아니면 이러한 이치는 통하지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02043751127207627,
+        "width" : 0.060606062412261956,
+        "x" : 0.055944054903837491,
+        "y" : 0.53924418637885441
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027775048577184713,
+        "width" : 0.78604914925315172,
+        "x" : 0.10229675865566526,
+        "y" : 0.58067143878463445
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.0023912003825920613,
+      "text" : "A woman who just got off the train dropped her wallet in front of me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020677839729450809,
+        "width" : 0.51533690365878015,
+        "x" : 0.10477908779583962,
+        "y" : 0.60880423776221149
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "방금 열차에서 내린 한 여자가 내 앞에서 지갑을 떨어뜨렸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021530766912944421,
+        "width" : 0.78132213245738646,
+        "x" : 0.10933704716509479,
+        "y" : 0.62939485186424615
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.55785512699905926,
+      "text" : "*a woman getting off the train으로 바꾸면, '지금 열차에서 내리는 중인 여자'라는 말이 되어 의미가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911826095783431,
+        "width" : 0.54338619925759057,
+        "x" : 0.12805062921352856,
+        "y" : 0.65062657996542295
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.50644329896907214,
+      "text" : "달라진다. 이러한 경우에는 -ing를 쓰지 않고, 관계 대명사절을 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016286290081911292,
+        "width" : 0.31970461932095606,
+        "x" : 0.5988892785607951,
+        "y" : 0.92429448943062498
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.91484184914841848,
+      "text" : "10장 형용사와 부사: '수식하다'의 진실 337"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    646
+  ],
+  "pdf_page_index" : 326,
+  "pdf_page_number" : 327
+}

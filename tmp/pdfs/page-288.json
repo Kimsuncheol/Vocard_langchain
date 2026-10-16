@@ -1,0 +1,520 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02277412872721718,
+        "width" : 0.80759369243275037,
+        "x" : 0.12522130667887554,
+        "y" : 0.068830041112457274
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.2155425219941349,
+      "text" : "영어 학습자가 익혀 두어야 할 the의 사용법에는 '그룹을 나타내는 the'가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957202,
+        "width" : 0.81206495111638843,
+        "x" : 0.12529003012626044,
+        "y" : 0.098754448277245555
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이는, 한데 모인 그룹이나 하나의 정리된 시스템•체계에 the를 붙이는 것을 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218986,
+        "width" : 0.058004639365456315,
+        "x" : 0.1067285388052842,
+        "y" : 0.12500000020083624
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.5150811888954856,
+        "x" : 0.12529003190449037,
+        "y" : 0.18016014243946432
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "오른쪽 그림과 같이, the는 기본적으로 '다른 것이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026021640071665186,
+        "width" : 0.16985771872780542,
+        "x" : 0.77013714338940042,
+        "y" : 0.18762934641993367
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.27102803738317754,
+      "text" : "tne: 답를 적잊 아닌."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022394039452712344,
+        "width" : 0.47128859433260828,
+        "x" : 0.10427686133191326,
+        "y" : 0.20585604039869865
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "아닌 바로 그것'이라고 지정하는 기능을 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020493668593545844,
+        "width" : 0.51972159472378809,
+        "x" : 0.12529001458545802,
+        "y" : 0.23532028496906454
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "다른 각도에서 보면, 지정된 것들을 하나의 그룹으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021983364722906851,
+        "width" : 0.53596288507634948,
+        "x" : 0.10440834853673567,
+        "y" : 0.26290035604435391
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "로 묶어 놓는 작용을 한다는 것을 알 수 있다. 따라서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.034718652636979375,
+        "width" : 0.15751244805075904,
+        "x" : 0.74857658087842471,
+        "y" : 0.24524292188109187
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.75683890577507595,
+      "text" : "BB&"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027957044038059875,
+        "width" : 0.53893102299083362,
+        "x" : 0.10177778329014328,
+        "y" : 0.28548081380982526
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "the는 '그룹을 하나로 묶는' 기능을 한다. 이 기능을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01470040596252653,
+        "width" : 0.27842226895419031,
+        "x" : 0.64269141761415183,
+        "y" : 0.28779069749040165
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.64305177111716616,
+      "text" : "① 지정한 물건을 한데 모으고, 그 외의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.13225057992068201,
+        "x" : 0.66821345702341783,
+        "y" : 0.30232558139332255
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.60209424083769636,
+      "text" : "것을 배제하는 기능"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026092868682752735,
+        "width" : 0.51328385959972034,
+        "x" : 0.10421070889491647,
+        "y" : 0.3141334875201266
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.31218274111675126,
+      "text" : "나타내는 전형적인 형태는 the+ 복수형 명사'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011762393326946063,
+        "width" : 0.27146172523498535,
+        "x" : 0.64965196789194801,
+        "y" : 0.31672597856374785
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.66057441253263705,
+      "text" : "(②) 함께 모인 것들을 하나의 그룹으로 묶"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014731441104115173,
+        "width" : 0.060324826023795408,
+        "x" : 0.66125289971045342,
+        "y" : 0.32829181476629998
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.60416666666666663,
+      "text" : "는 기능"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021947157340541867,
+        "width" : 0.8097447482022373,
+        "x" : 0.12529003843988465,
+        "y" : 0.36773255825979856
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "•the Beatles: 4명의 멤버가 모여, 비틀즈라는 하나의 그룹을 이룬다. 옛날 밴드"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026769400491408968,
+        "width" : 0.34892197088761767,
+        "x" : 0.14117015672009939,
+        "y" : 0.39052605106180871
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이름은 the+복수형' 패턴이 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025449832563298469,
+        "width" : 0.80999400398947974,
+        "x" : 0.12516407306481075,
+        "y" : 0.42058748094460496
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "•the Simpsons: '심슨 일가'를 뜻한다. 가족의 여러 구성원이 모여서 한 가족이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022451355788207117,
+        "width" : 0.21130531484430487,
+        "x" : 0.14144711211550015,
+        "y" : 0.44880339123586577
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "라는 그룹을 이룬다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814012683507,
+        "width" : 0.8097447482022373,
+        "x" : 0.12529003771525532,
+        "y" : 0.47674418627503345
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "•the Alps, the Philippines: '알프스 산맥, 필리핀 (제도)'을 뜻한다. 여러 산"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021885086208900173,
+        "width" : 0.36658932945945039,
+        "x" : 0.14153132123081608,
+        "y" : 0.50436046526681666
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "과 섬이 모여 하나의 그룹을 이룬다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022254742761523727,
+        "width" : 0.80763079903342505,
+        "x" : 0.12517538278176668,
+        "y" : 0.53412517170221352
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "•the United States of America, the United Nations, the Unitec"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023310026664326577,
+        "width" : 0.79365903680974781,
+        "x" : 0.13913277995450474,
+        "y" : 0.55967715242412897
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "Kingdom of Great Britain and Northern Ireland 등: '미합중국, 국제"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02182301592572311,
+        "width" : 0.79350350119850854,
+        "x" : 0.14153131193294091,
+        "y" : 0.5871886118200661
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "연합, 그레이트 브리튼 및 북아일랜드 연합 왕국'을 뜻한다. 여러 주와 국가, 왕"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021859223308088094,
+        "width" : 0.33642690831964667,
+        "x" : 0.14153132533746982,
+        "y" : 0.61476868350042013
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "국이 모여 하나의 그룹을 이룬다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021931638921282914,
+        "width" : 0.81438515403053968,
+        "x" : 0.12296983583684265,
+        "y" : 0.66992882603330384
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "복수 명사가 아니더라도, 한 그룹을 뜻할 때는 the가 붙는다. the music"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024494239019753672,
+        "width" : 0.46198931607333099,
+        "x" : 0.099629543447367463,
+        "y" : 0.69538277178467178
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "industry(음악 산업) 등이 그러한 경우이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.81206495111638843,
+        "x" : 0.12296984779834096,
+        "y" : 0.72238372113106886
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "또한 하나로 정리된 시스템에도 the를 붙인다. 예를 들어, '경제'라는 것은 언뜻"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020467805692733876,
+        "width" : 0.83062648773193359,
+        "x" : 0.10440833374693986,
+        "y" : 0.75133451996463074
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "보기에 개인이 따로 돈을 벌거나 쓰는 것으로 보이나, 전체적으로 보면 각각 유기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023292021395048601,
+        "width" : 0.82830628481778223,
+        "x" : 0.1044083424014472,
+        "y" : 0.77758007122816419
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "적으로 연결되어 하나의 시스템을 만든다. 그래서 막연하게 '경제'라고 할 때, 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02199371005292472,
+        "width" : 0.83294660394841979,
+        "x" : 0.10440836851428627,
+        "y" : 0.80649466187687469
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "로는 보통 the economy라고 하여 the를 붙인다. 환경, 태양계 등도 마찬가지로,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02191094910971203,
+        "width" : 0.83294660394841968,
+        "x" : 0.10208818493607624,
+        "y" : 0.83274021334144577
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "모두 개별적인 요소들이 제각각 모여 있는 것이 아니라, 유기적으로 연결되어 하나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021978192482130288,
+        "width" : 0.83294660394841968,
+        "x" : 0.10208818284424109,
+        "y" : 0.86191860480551152
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "의 시스템을 만든다. 따라서 각각 the environment, the solar system과 같이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.037122967568310808,
+        "x" : 0.071925755368976829,
+        "y" : 0.92732558124169728
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 1,
+      "text" : "298"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 288,
+  "pdf_page_number" : 289
+}

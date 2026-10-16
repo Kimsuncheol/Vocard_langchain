@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031976745524233019,
+        "width" : 0.12790697271173651,
+        "x" : 0.14186046716157363,
+        "y" : 0.094476743437011401
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99774138904573684,
+      "text" : "Must 86"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033558115244123221,
+        "width" : 0.20586902445012872,
+        "x" : 0.14303455137276766,
+        "y" : 0.13314899997604235
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99864056552474167,
+      "text" : "up과 down"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.50930231267755677,
+        "x" : 0.14186047157826095,
+        "y" : 0.21511627943458822
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99944102850754613,
+      "text" : "•영어 화자가 인식하는 '위'와 '아래'는 어떤 세계일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894346,
+        "width" : 0.49534884366122156,
+        "x" : 0.11395348183217999,
+        "y" : 0.31100266196457871
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.98205246203405427,
+      "text" : "를 방향성을 통해 마음속을 볼 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894346,
+        "width" : 0.80930233001708984,
+        "x" : 0.13953488114244939,
+        "y" : 0.35891747993887035
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "알다시피 up은 '위', down은 '아래'를 나타낸다. 그러한 의미에서 한국어와 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020525526133065908,
+        "width" : 0.59302325682206591,
+        "x" : 0.11860465054792152,
+        "y" : 0.38808139522641394
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "의 위, 아래를 나타내는 이미지가 겹치는 부분도 많이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.80930233001708984,
+        "x" : 0.13953488141038503,
+        "y" : 0.41569767465094354
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "동시에 영어 화자는 다른 언어를 사용하는 화자에게는 없는 감각으로 Up과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021904211712814425,
+        "width" : 0.83255811171098182,
+        "x" : 0.11627908357506757,
+        "y" : 0.44321206711740646
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "down을 파악하기도 한다. 단순히 방향을 나타낼 뿐인 것으로 보이는 이 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023066048507893511,
+        "width" : 0.83042630282315333,
+        "x" : 0.11850930508181477,
+        "y" : 0.468356553120719
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "들은, 인간이 추상적 개념을 어떻게 이해하고 있는지를 보여 주는 거울이 되기도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.058139535513791155,
+        "x" : 0.11860465086713544,
+        "y" : 0.49689441026786163
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021874547956681645,
+        "width" : 0.5930232568220658,
+        "x" : 0.13720930184352395,
+        "y" : 0.52470930255191106
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "up과 down을 통해서 영어 화자의 마음속을 들여다보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.45581397143277258,
+        "x" : 0.10697673483293212,
+        "y" : 0.5798580299320697
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.96498371335504884,
+      "text" : "•동작이나 감정의 방향을 나타낸다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025222448299919042,
+        "width" : 0.81180381774902355,
+        "x" : 0.13710586256548873,
+        "y" : 0.61292705074022658
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "up과 down은 기본적으로 동사에 붙어서 '동작의 방향'을 나타내는 데 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021953219741239094,
+        "width" : 0.58837210048328747,
+        "x" : 0.11860464732045418,
+        "y" : 0.64374445443657624
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "된다. 동작의 모습을 설명하기 때문에 부사의 역할을 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.56744185360995203,
+        "x" : 0.11627907308834594,
+        "y" : 0.69331395385794348
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.23119015047879618,
+      "text" : "예e He picked up a coin. 그는 동전 한 닢을 들어 올렸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.74651163274591625,
+        "x" : 0.11627906724274775,
+        "y" : 0.7194767445566248
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.12911184210526316,
+      "text" : "예e Jeff walked down to the basement. 제프는 지하실로 걸어 내려갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017567115858157512,
+        "width" : 0.36538431861183862,
+        "x" : 0.1672834769289423,
+        "y" : 0.74436960152221676
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.328125,
+      "text" : "-pick, walk라는 동작의 방향을 나타내고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022500046609034041,
+        "width" : 0.81183728304776281,
+        "x" : 0.13710686004889691,
+        "y" : 0.78993581226307674
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이처럼 물리적인 동작의 방향을 나타내는 것 외에, 인간의 감정 상태도 방향으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028100667004048008,
+        "width" : 0.83299472115256579,
+        "x" : 0.11606676305120889,
+        "y" : 0.81409916630149359
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "나타낸다. 건강하거나 기분이 좋으면 '위'를 사용하고, 아프거나 우울하면 '아래'를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.1069767475128174,
+        "x" : 0.11627906797553746,
+        "y" : 0.84738243116722967
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.80930233001708984,
+        "x" : 0.1395348814183591,
+        "y" : 0.87354651186000498
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "본래 인간의 정서에 물리적인 방향성은 없기 마련인데, 인간이 감정을 '방향'으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.041860463944348433,
+        "x" : 0.086046512089841307,
+        "y" : 0.92724046127963067
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.98701298701298701,
+      "text" : "376"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 364,
+  "pdf_page_number" : 365
+}

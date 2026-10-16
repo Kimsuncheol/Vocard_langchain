@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523254394531296,
+        "width" : 0.12529002536426889,
+        "x" : 0.14385150706053587,
+        "y" : 0.090116279710107494
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99889135254988914,
+      "text" : "Must 73"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035111111111111093,
+        "width" : 0.59164732152765453,
+        "x" : 0.14849188603947266,
+        "y" : 0.1248888885373769
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99880514705882351,
+      "text" : "'단순히 모습을 설명하는' 형용사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022926162719726584,
+        "width" : 0.62436138499866833,
+        "x" : 0.14372189320930431,
+        "y" : 0.21069773246044576
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99861548143486467,
+      "text" : "• 서술적 용법을 이해하면, 관계 대명사의 계속적 용법을 알 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024867813958062035,
+        "width" : 0.80999937924471777,
+        "x" : 0.13907584614441368,
+        "y" : 0.30629893401087971
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.048746518105849582,
+      "text" : "형용사는 명사의 모습을 설명하는데, 이 형용사에는 한정적 용법외에 서술적 용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022151983473036152,
+        "width" : 0.10757283730940387,
+        "x" : 0.11790731671812296,
+        "y" : 0.33340075200171393
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.17647058823529413,
+      "text" : "법이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024301172892252643,
+        "width" : 0.55247584256258875,
+        "x" : 0.13677883378120281,
+        "y" : 0.35801089306486245
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "서술을 다르게 말하면 '설명하는 것'이라고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.80742463198575098,
+        "x" : 0.13921111751652857,
+        "y" : 0.38800000033320781
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "한정적 용법에서 말했던 '수식'도 '모습을 설명하는 것'이라고 했기 때문에 헷갈려"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022648390875922408,
+        "width" : 0.31840564987876196,
+        "x" : 0.11578903145575731,
+        "y" : 0.41496449044910921
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "하는 학습자들이 있을 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022092748853895339,
+        "width" : 0.35543292218988592,
+        "x" : 0.13669628657211275,
+        "y" : 0.44310179047307874
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "구체적인 예를 들어 설명해 보겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023592497083875896,
+        "width" : 0.62917913090098998,
+        "x" : 0.13441168961060707,
+        "y" : 0.46920637647522601
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "서술적 용법의 전형적인 형태는 보어 자리에 오는 형용사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.032482596960934723,
+        "x" : 0.11600928146649983,
+        "y" : 0.52034883732233805
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 1,
+      "text" : "여몬"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.48027840527621191,
+        "x" : 0.14849188773119029,
+        "y" : 0.52034883740119564
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "Ibought an old paint. 난 오래된 그림을 샀어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016266162448459243,
+        "width" : 0.65211009979248047,
+        "x" : 0.26907198825177098,
+        "y" : 0.54502077398488502
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.22318125770653513,
+      "text" : "한정적 용법 세상에 여러 가지 그림이 있지만, 여기에서는 '오래된' 그림을 샀다고 정보를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.13225057992068207,
+        "x" : 0.37122969831817215,
+        "y" : 0.5653333329445136
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.52631578947368418,
+      "text" : "좁혀 구체화한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01753488413492843,
+        "width" : 0.5429234504699707,
+        "x" : 0.11600927233765855,
+        "y" : 0.61046511619606014
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.23758389261744967,
+      "text" : "예e This paint is very old. 이 그림은 아주 오래되었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.4361948966979981,
+        "x" : 0.32714617092274684,
+        "y" : 0.63511111094598183
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.20819112627986347,
+      "text" : "서술적 용법'이 그림'이 어떤 것인지 정보를 설명하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025182208591037369,
+        "width" : 0.81229313937100489,
+        "x" : 0.13444962072552274,
+        "y" : 0.67949581462160835
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "서술적 용법과 다른 점을 알아보기 위해, 한정적 용법의 특징을 다시 확인해 보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021928940667046426,
+        "width" : 0.42459396882490674,
+        "x" : 0.11600927997004576,
+        "y" : 0.70784883710450208
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "자. 한정적 용법의 요점은 아래 2가지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016114987691243421,
+        "width" : 0.18329466472972525,
+        "x" : 0.17169373480451097,
+        "y" : 0.77022222195555579
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "한정적 용법의 특징"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.31090487133372913,
+        "x" : 0.1716937359053374,
+        "y" : 0.79777777753370926
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.0068493150684931503,
+      "text" : "① 세상에 CC라는 것은 많이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017529715643988752,
+        "width" : 0.63573087345470081,
+        "x" : 0.17169372788939086,
+        "y" : 0.82558139526676233
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "② CC라는 것들 중에서, 여기에서 말하는 것은 '~라는 성질'을 가진 것으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022100847032335169,
+        "width" : 0.49467914754694164,
+        "x" : 0.19237048105977872,
+        "y" : 0.85009177615378551
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.016317016317016316,
+      "text" : "그 외의 성질을 가진 것을 제외하여 정보의 범위를 좁힌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.039443154226649887,
+        "x" : 0.083526682683014317,
+        "y" : 0.92296511641517642
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.97727272727272729,
+      "text" : "322"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 311,
+  "pdf_page_number" : 312
+}

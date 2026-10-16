@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032189922756618916,
+        "width" : 0.12413793207053225,
+        "x" : 0.13333333283620724,
+        "y" : 0.094476743403660968
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99884459849797802,
+      "text" : "Must 03"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.039905609130859387,
+        "width" : 0.37194120297116728,
+        "x" : 0.13731774243959138,
+        "y" : 0.12777908892405532
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.9994783515910276,
+      "text" : "가벼운 정보를 먼저,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.034443016899956547,
+        "width" : 0.71537842998692425,
+        "x" : 0.13771224758497244,
+        "y" : 0.16364643351708075
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99864897083366444,
+      "text" : "무거운 정보를 나중에 말하는 것이 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021800823635525157,
+        "width" : 0.57054286264669041,
+        "x" : 0.13772536489452875,
+        "y" : 0.21412595507779209
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99942146369684692,
+      "text" : "• Plays he baseball?이 아닌, Does he play baseball?인 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022808063083224916,
+        "width" : 0.71968982122450775,
+        "x" : 0.13323709749437451,
+        "y" : 0.30863538221388942
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "다음으로 영어 어순의 2가지 규칙 중 나머지 하나에 대해 이야기해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011655038621690594,
+        "width" : 0.036781608806883748,
+        "x" : 0.82528735640881856,
+        "y" : 0.35901162795693098
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "나중에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010249353620741197,
+        "width" : 0.048275863068013236,
+        "x" : 0.81839080396971209,
+        "y" : 0.37063953509036651
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "하지 뭐~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.25977011035430952,
+        "x" : 0.14942529142054634,
+        "y" : 0.3808139532350967
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.4103139013452915,
+      "text" : "규칙 2 가벼운 정보를 먼저,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017467700534396724,
+        "width" : 0.25057470479930333,
+        "x" : 0.23908046359802368,
+        "y" : 0.40697674409739093
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.46538871139510118,
+      "text" : "무거운 정보는 나중에 말하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021861757066514831,
+        "width" : 0.45977010606210444,
+        "x" : 0.13563218863835116,
+        "y" : 0.473777777889822
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "말을 주고받는 것은 캐치볼에 비유할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021922481113009984,
+        "width" : 0.47356323585563909,
+        "x" : 0.13333332483080118,
+        "y" : 0.50133333291680215
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "받아들이는 사람의 기분이 되어 상상해 보아라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.57931033535513365,
+        "x" : 0.13333334259063229,
+        "y" : 0.52616279068130378
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "아래의 경우 어느 쪽이 던진 공을 편하게 받을 수 있을까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.66436780454740241,
+        "x" : 0.13563219024066656,
+        "y" : 0.58844444408205021
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "① 먼저 무거운 공을 던진 다음에 가볍고 받기 쉬운 공을 던진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03058563910590284,
+        "width" : 0.77773683014130623,
+        "x" : 0.13531991281472841,
+        "y" : 0.61471682782449755
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "② 먼저 가벼운 공을 던지고, 상대방이 어느 정도 감을 잡게 되면 그 다음에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021966408623589451,
+        "width" : 0.21379310404030413,
+        "x" : 0.1678160925919169,
+        "y" : 0.64825581371865293
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "무거운 공을 던진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024188520643446232,
+        "width" : 0.63933527821729952,
+        "x" : 0.13776765951041306,
+        "y" : 0.71791627441752326
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "단순하게 생각해 보면, ②의 방법으로 던져진 공이 더 받기 쉽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024543857150607584,
+        "width" : 0.79111202792611635,
+        "x" : 0.13542905953051715,
+        "y" : 0.74376439711117226
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "커뮤니케이션의 중요한 목적 중 하나는 '쉽게 이해하고 쉽게 전달하는 것'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022888971964518223,
+        "width" : 0.44177297600210974,
+        "x" : 0.13545409848447409,
+        "y" : 0.77421738710120835
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그래서 영어는 ②의 전략을 이용해 어순을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02054522026909722,
+        "width" : 0.080459771780022074,
+        "x" : 0.11724137835054725,
+        "y" : 0.8052325577286279
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "만든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.008720930311414965,
+        "width" : 0.085057469192268864,
+        "x" : 0.63218390896708387,
+        "y" : 0.78924418599462476
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그래, 느낌은 파악"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0089056850009494593,
+        "width" : 0.096551726136026472,
+        "x" : 0.62528735520784884,
+        "y" : 0.8008720929734453
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "했어. 그 다음 무거운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01056035317314985,
+        "width" : 0.087466887783903546,
+        "x" : 0.62982977438095866,
+        "y" : 0.81230703248955216
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "정보도 받아 주지!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010373384687635601,
+        "width" : 0.068965514836264452,
+        "x" : 0.82988505861332584,
+        "y" : 0.7817777778397168
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "우선은 가벼운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0089511316087510506,
+        "width" : 0.050672957665809593,
+        "x" : 0.83673248662624566,
+        "y" : 0.79348955020852407
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "정보부터..."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028840328640407975,
+        "width" : 0.44232898824828593,
+        "x" : 0.13743323961805901,
+        "y" : 0.85328472101096098
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들면, 한국어로 \"이 일을 하루 만에 끝"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030109985351562507,
+        "width" : 0.46317652878043691,
+        "x" : 0.11668511917062462,
+        "y" : 0.88023535704435985
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "내는 것은 어렵다.\"라는 문장을 영어로는 \"그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.027586205934505753,
+        "x" : 0.087356322194711594,
+        "y" : 0.9287790696488385
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.98412698412698407,
+      "text" : "24"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 22,
+  "pdf_page_number" : 23
+}

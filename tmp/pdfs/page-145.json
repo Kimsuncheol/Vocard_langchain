@@ -1,0 +1,175 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026423829820421019,
+        "width" : 0.81009331020057629,
+        "x" : 0.083348152975261824,
+        "y" : 0.069312292990146296
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "한국어의 '~했다, ~이었다'\"라는 의미의 과거형은 항상 과거를 나타내기 위해 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02783632405598957,
+        "width" : 0.8333116896609043,
+        "x" : 0.06243806662718495,
+        "y" : 0.095262141705941827
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "용되는 것은 아니다. 근본적인 의미는 '이미 현실이 되어 있다'라는 것이다.(Must"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537246,
+        "width" : 0.32482598487367026,
+        "x" : 0.060324828352027959,
+        "y" : 0.12354651131131278
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "12 내용'현재형과 과거형' 참조)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028120785183376795,
+        "width" : 0.81944251094304088,
+        "x" : 0.078629195888438988,
+        "y" : 0.14938982809980361
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "\"과거'는 '이미 한 번 현실이 되었다'는 것을 의미하기 때문에, 한국어의 '~했다.~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02636975775824657,
+        "width" : 0.8333115165115248,
+        "x" : 0.060136816784249619,
+        "y" : 0.17843677441280081
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이었다'는 표현은 과거를 나타내는 말로도 사용되지만, 또한 한국어의 과거형은 과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021975451999240447,
+        "width" : 0.8329466041943705,
+        "x" : 0.060324841605938831,
+        "y" : 0.20622222250948463
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "거를 나타내는 동시에 '현재, 이미 끝난 상태에 있다'라는 뜻으로영어의 현재완료의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.82830628740026602,
+        "x" : 0.06264500003503809,
+        "y" : 0.23688888862973023
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "의미로도 사용될 수 있다. 이 때문에 한국인이 영어 과거형과 현재완료를 구별하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632713,
+        "width" : 0.83294660419437061,
+        "x" : 0.060324841644069725,
+        "y" : 0.26308139552182697
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "어려운 것이다. 여기에서 The salt is all gone 이 말하고자 하는 것은 '현재 소금"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021833333333333371,
+        "width" : 0.55916475336602389,
+        "x" : 0.062645001474760667,
+        "y" : 0.29066666675070274
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "은 모두 '가버린 후(gone)'의 상태이다(is)'라는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023569532606336763,
+        "width" : 0.68252394655917537,
+        "x" : 0.081038147892453186,
+        "y" : 0.31663185099534008
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "그러므로 과거형 was가 아닌 현재형 is를 사용하는 것이 적절하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.36426915378435287,
+        "x" : 0.54756379533520194,
+        "y" : 0.92577777783424853
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.89726027397260277,
+      "text" : "5장 동사 ④ 과거분사: 이미지부터 이해하자 151"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 145,
+  "pdf_page_number" : 146
+}

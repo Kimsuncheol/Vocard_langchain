@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028200856526692686,
+        "width" : 0.12722799963984932,
+        "x" : 0.1334315399419066,
+        "y" : 0.090457849357698183
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 1,
+      "text" : "Must 12"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035670274522569434,
+        "width" : 0.37213450763242462,
+        "x" : 0.13644296410553855,
+        "y" : 0.1265626859432285
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99939713639788996,
+      "text" : "현재형: 항상 그렇다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032000000000000028,
+        "width" : 0.41531324454233154,
+        "x" : 0.13457075580308012,
+        "y" : 0.16133333285084261
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99970326409495547,
+      "text" : "과거형: 지금은 다르다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017531007554795974,
+        "width" : 0.49883989915780141,
+        "x" : 0.13225058388977678,
+        "y" : 0.21066666693652392
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99977272727272726,
+      "text" : "• 과거의 일을 말한다고 해서 반드시 과거형은 아니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023275193956163176,
+        "width" : 0.29930393949468087,
+        "x" : 0.10672854048601672,
+        "y" : 0.30666666630916395
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.98965791567223549,
+      "text" : "를 현재형: 항상 그렇다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022740085177951341,
+        "width" : 0.81227966741467217,
+        "x" : 0.12749047323593982,
+        "y" : 0.35599911045188282
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "영어 학습자에게 영어의 현재형은 상당히 어려운 시제이다. 그 원인은 많은 학습"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026581665039062563,
+        "width" : 0.83112663106715423,
+        "x" : 0.10651008921297481,
+        "y" : 0.3804697188079792
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "자가 현재형이 '지금 이 순간이라는 의미로 현재를 나타낸다'고 오해하기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025123096042209081,
+        "width" : 0.81004785848847516,
+        "x" : 0.12744953955161273,
+        "y" : 0.40997317383329746
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "명칭 때문에 혼란스러울 수 있어 현재형 시제를 잘 이해하기 어렵다. 자신 있게 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021935400221082757,
+        "width" : 0.83062648908466308,
+        "x" : 0.10672851866092599,
+        "y" : 0.43895348826986402
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "해하지 못하기 때문에, 쓰기와 말하기에도 현재형 시제를 잘 사용하지 못하거나 일"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023918086581759979,
+        "width" : 0.45751260527482274,
+        "x" : 0.10421028137259,
+        "y" : 0.46453942378441793
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "부러 쓰지 않으려는 경우를 종종 볼 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024999751620822463,
+        "width" : 0.81233412289450357,
+        "x" : 0.12517064029103414,
+        "y" : 0.48991083413038949
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "현재형 시제는 지금 이 순간이라는 의미의 '현재'를 나타내지 않는다. 다음 예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023127383761935683,
+        "width" : 0.13741336037926641,
+        "x" : 0.10414714803125791,
+        "y" : 0.51968630809039418
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "을 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022633468627929587,
+        "width" : 0.32797734686668878,
+        "x" : 0.10402179464252428,
+        "y" : 0.56836975682538271
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.1707920792079208,
+      "text" : "예문 l usually get up at seven."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020454780578613274,
+        "width" : 0.24593966869597733,
+        "x" : 0.44083526994435479,
+        "y" : 0.56976744147551328
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "나는 보통 7시에 일어난다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023477084689670136,
+        "width" : 0.81226806640624993,
+        "x" : 0.12518226781779418,
+        "y" : 0.62079857436782304
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "우선, 만일 현재형이 현재를 표현하기 위해 사용된다면, 화자는 이 문장을 말하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026162790934244784,
+        "width" : 0.83526680587876767,
+        "x" : 0.10208817465906725,
+        "y" : 0.64825581383078379
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "고 있는 지금 이 순간에 침대에서 일어나야 한다. 물론 이 문장은 그러한 의미를 담"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022050270928276827,
+        "width" : 0.1416281192860705,
+        "x" : 0.10203976857900117,
+        "y" : 0.67574812032270959
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "고 있지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026690973069932733,
+        "width" : 0.81473821545323588,
+        "x" : 0.12278655005565066,
+        "y" : 0.70006532770393415
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 \"보통 7시에 일어난다.\"는 말은 오늘뿐만 아니라 어제도, 그제도, 그 전날"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024056966993543871,
+        "width" : 0.83311204842641851,
+        "x" : 0.10200418568018023,
+        "y" : 0.72949283038338197
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "도, 내일도, 모레도 7시에 일어난다는 것을 의미한다. 즉, 시간으로 말하면 현재형은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027953408135308111,
+        "width" : 0.43203116342531034,
+        "x" : 0.10178337465129828,
+        "y" : 0.75445260678774484
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "과거, 현재, 미래를 모두 나타내는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024794950697157092,
+        "width" : 0.81230624584441491,
+        "x" : 0.12284400196980728,
+        "y" : 0.7841042278018524
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "지금 이 순간이라는 의미가 현재를 나타내지 않는다면, 현재형은 무엇을 나타내"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020879899766710008,
+        "width" : 0.1162437817729111,
+        "x" : 0.10197091645828336,
+        "y" : 0.81223446868179683
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "는 것일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022984180874294657,
+        "width" : 0.44351204946531475,
+        "x" : 0.1251224445530992,
+        "y" : 0.83768226243389377
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "현재형이 나타내는 것은 '항상 그렇다'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021979328579372792,
+        "width" : 0.37122971555019946,
+        "x" : 0.12529001449562929,
+        "y" : 0.86755555523295658
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.03125,
+      "text" : "현재형은 습관을 나타내는 시제이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316468,
+        "width" : 0.027842228125173146,
+        "x" : 0.071925753570824105,
+        "y" : 0.9244186046817372
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 1,
+      "text" : "64"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 60,
+  "pdf_page_number" : 61
+}

@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.8097447482022373,
+        "x" : 0.085846883517135986,
+        "y" : 0.075581395734094614
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "주어가 I, we처럼 1인칭인 경우에는 '반드시 ~하자, '반드시 ~해야 한다'라는 '강"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325265687594,
+        "width" : 0.28770301558754663,
+        "x" : 0.064965197422644033,
+        "y" : 0.10319767456706097
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "한 의지나 결의'를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023286849154272038,
+        "width" : 0.81206495111638854,
+        "x" : 0.083526689050467826,
+        "y" : 0.1307829178890777
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "또한, 주어가 he, she, they처럼 3인칭인 경우에는 그 3인칭의 사람들이 가지는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.2598607973618941,
+        "x" : 0.062645007232147401,
+        "y" : 0.15836298909691626
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "의무를 나타내기도 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.68445474451238453,
+        "x" : 0.064965203041081498,
+        "y" : 0.20774021328261028
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.18694362017804153,
+      "text" : "에E She must submit it tomorrow. 그녀는 그것을 내일 제출해야 햇"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027964666644873626,
+        "width" : 0.81480945240367542,
+        "x" : 0.081018819316722362,
+        "y" : 0.2554380286074176
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "must에 공통되는 느낌은 '말하는 사람이 나타내는 의견', 즉 '반드시 ~해야 한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024708166665454057,
+        "width" : 0.34601558338512073,
+        "x" : 0.06245825065402031,
+        "y" : 0.28503630011390135
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "고, 나는 생각하다'라는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.81438515403053979,
+        "x" : 0.081206494809492172,
+        "y" : 0.31539145885462649
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "have to에 비해 must가 주관적인 표현이라고 말하기도 하는데, 이는 must가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025310151517603297,
+        "width" : 0.83777366984974255,
+        "x" : 0.057891304030812663,
+        "y" : 0.33863019576136055
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "'의견을 표명'하는 측면을 강하게 가지고 있기 때문이다. 원래 조동사는 '생각만 하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828188166499563,
+        "width" : 0.83294660394841968,
+        "x" : 0.062645027323830385,
+        "y" : 0.36918604666461519
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "고 있을 뿐, 실제로 실행하고 있는 것은 아니다'를 나타내는 말이기 때문에, muist"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024984152715825547,
+        "width" : 0.66865002025257458,
+        "x" : 0.062471404831791914,
+        "y" : 0.39369757449905618
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "가 '생각하는 것'='의견'을 나타내는 것은 아주 자연스러운 일이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183853349651721,
+        "width" : 0.50116010145707568,
+        "x" : 0.14617168724516671,
+        "y" : 0.45058139532500507
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.97517241379310349,
+      "text" : "have to의 ~하지 않으면 방법이 없다라는 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019958665786688923,
+        "width" : 0.36243982748551806,
+        "x" : 0.062433105882422388,
+        "y" : 0.49088997934894141
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.19868995633187772,
+      "text" : "예e You have to do it right now."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024268201237471532,
+        "width" : 0.34425908868963068,
+        "x" : 0.099358607907123198,
+        "y" : 0.51320053329757509
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "넌 지금 당장 그것을 하지 않으면 안 돼."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021568533364564102,
+        "width" : 0.59186046773737133,
+        "x" : 0.060215174157487811,
+        "y" : 0.5405225667409338
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.24625,
+      "text" : "예e You have to buy one. 넌 그것을 1개 사지 않으면 안 돼."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011684804624510048,
+        "width" : 0.034802783619273803,
+        "x" : 0.8375870073318944,
+        "y" : 0.4897686834339865
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "do it"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024993994906279515,
+        "width" : 0.81228230216286401,
+        "x" : 0.083424580274073346,
+        "y" : 0.59245356753910539
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.14911463187325255,
+      "text" : "위 예문이 must를 사용한 문장과 다른 점은, have to에 '~하지 않으면 (달리)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890259298141257,
+        "width" : 0.38747098229148169,
+        "x" : 0.062645019175413985,
+        "y" : 0.62055160100222162
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "방법이 없다'라는 느낌이 있는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.81438515403053979,
+        "x" : 0.078886309175494773,
+        "y" : 0.64813167292985385
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "have는 '가지고 있다'\"라는 의미이지만, 의무나 부담을 '지고 있다'라는 이미지도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024024384725984671,
+        "width" : 0.83312676169655531,
+        "x" : 0.060236081130163169,
+        "y" : 0.67523857552279698
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "있다. have to (do ~)는 '(~하다)라는 것을 향해 (의무· 부담을) 지고 있어, 하지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026199525785615907,
+        "width" : 0.31171412901444873,
+        "x" : 0.060008947363860331,
+        "y" : 0.69779065555349662
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "않으면 안 된다'라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030168034427955015,
+        "width" : 0.81494686820290319,
+        "x" : 0.078603533688440225,
+        "y" : 0.72484475765727552
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "have to를 muIst와 비교해 보자. must는 '너는 ~하지 않으면 안 된다, 반드시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026194600448065319,
+        "width" : 0.8354407223788175,
+        "x" : 0.057920840576016014,
+        "y" : 0.75415218021650332
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "~해야 한다'라고 자신의 의견을 상대방에게 강요한다. 그리고 have to는 '네가 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.83294660394841968,
+        "x" : 0.060324841711903415,
+        "y" : 0.78469750877373678
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "러한 상황을 겪고 있으니, ~하지 않으면 달리 방법이 없다'\"라는 것을 나타낸다. 따"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022019572953736688,
+        "width" : 0.59628768400712451,
+        "x" : 0.060324835372764458,
+        "y" : 0.81250000015347579
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "라서 두 표현은 비슷한 것처럼 보이나, 느낌이 매우 다르다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023977303420097296,
+        "width" : 0.72872855446555396,
+        "x" : 0.078805030257039471,
+        "y" : 0.83656966256140497
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "상대방을 설득할 때 '편하게' 사용할 수 있는 표현은 둘 중 어느 것일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01614872162028147,
+        "width" : 0.4477958245710893,
+        "x" : 0.46867749363153294,
+        "y" : 0.93313953493875235
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.95833333333333337,
+      "text" : "8장 동사 ② 조동사: 사실을 말하는가, 생각을 말하는가? 263"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 254,
+  "pdf_page_number" : 255
+}

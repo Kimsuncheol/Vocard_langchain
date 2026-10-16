@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02221091871159786,
+        "width" : 0.3751747785908931,
+        "x" : 0.068754096428121081,
+        "y" : 0.070880466325283331
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "는다'라는 의미를 나타내는 문형이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895347771695437,
+        "width" : 0.13333332689502569,
+        "x" : 0.14252873835325341,
+        "y" : 0.12790697711948174
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.95341614906832295,
+      "text" : "-3형식 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021900603779694383,
+        "width" : 0.80229888787249481,
+        "x" : 0.089655153577849311,
+        "y" : 0.16414590768521664
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "다음으로 타동사가 들어 있는 문장을 살펴보자. 이는 3형식이라 불리는 형태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483324111992829,
+        "width" : 0.057471263257763056,
+        "x" : 0.066666667093228008,
+        "y" : 0.19172597823266602
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101484,
+        "width" : 0.2229885095953103,
+        "x" : 0.11954022776665794,
+        "y" : 0.25436046492139008
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "(S=주어, V=동사, O=목적어)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020723499013011626,
+        "width" : 0.42578069201333946,
+        "x" : 0.096345668938883439,
+        "y" : 0.28023005949715452
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.13587406793703397,
+      "text" : "세E He moved the sofa into the room."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01308139532910535,
+        "width" : 0.025287354545754231,
+        "x" : 0.20459770192252519,
+        "y" : 0.30813953476277289
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.52941176470588236,
+      "text" : "V"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.050574714456764813,
+        "x" : 0.4045977001279395,
+        "y" : 0.30959302323297633
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.56451612903225812,
+      "text" : "수식어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022646742783407392,
+        "width" : 0.26766684487902165,
+        "x" : 0.13524464186040691,
+        "y" : 0.33652739141850008
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "그는 방 안으로 소파를 옮겼다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022545557429357821,
+        "width" : 0.80477171306368667,
+        "x" : 0.087271601799907991,
+        "y" : 0.41125203498313123
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "주어 He(그)에서 나온 동사 move(움직이다, 옮기다)의 힘이 목적어 the"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024507884877432273,
+        "width" : 0.82783115564016341,
+        "x" : 0.064248133417483866,
+        "y" : 0.43726827060130824
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "sofa(소파)에 부딪쳐 소파를 움직여서 힘을 가한다. He는 the room(방)을 움"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218643963973294,
+        "width" : 0.82298851817972052,
+        "x" : 0.068965510674309422,
+        "y" : 0.46656976759031665
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "직이려고 하는 것이 아니다. 동사 move의 힘이 the sofa에는 미치고 into the"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828188166499563,
+        "width" : 0.63448276868517051,
+        "x" : 0.064367810956694624,
+        "y" : 0.49418604666495847
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "room에는 미치지 않는 것이다. into the room은 수식어이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026748830313360061,
+        "width" : 0.80498752513515304,
+        "x" : 0.084864450260338703,
+        "y" : 0.54315043598252521
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "3형식은 '주어 +타동사+목적어'로 된 문장으로, 여기에 위 문장과 같이 수식어가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021967847152112641,
+        "width" : 0.82298851817972041,
+        "x" : 0.066666660315802803,
+        "y" : 0.57250889686278594
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.1823321554770318,
+      "text" : "오는 것이 자연스러운 형태이다. 3형식 문장은 '자신에게서 나온 힘을 다른 것에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022533703529113547,
+        "width" : 0.48771429263086763,
+        "x" : 0.064199551040121747,
+        "y" : 0.59966944215295404
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "부딪치게 하다'라는 의미를 나타내는 문형이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026244642047271172,
+        "width" : 0.8026984921655238,
+        "x" : 0.087143288054886414,
+        "y" : 0.62526033934127956
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "문형을 배울 때 선생님이 '여기에서 문장이 끝난다'고 설명하실 때가 있다. 이는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029121633102036859,
+        "width" : 0.83056597702949186,
+        "x" : 0.059406344170658924,
+        "y" : 0.65161425288900565
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "'동사의 힘이 거기에서 끝난다'는 의미라고 생각하면 된다. 예를 들어 He walked"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020478151022751523,
+        "width" : 0.82528733737693383,
+        "x" : 0.064367825449139326,
+        "y" : 0.68459302317401283
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "along the river.라는 문장의 경우, He walked에서 한 번 문장이 끝난다고 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020560911965964102,
+        "width" : 0.82068961313840549,
+        "x" : 0.06666668748379545,
+        "y" : 0.71075581386954945
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "을 하는 선생님이 있다. 이는 He walked 뒤에 나오는 말에 walk의 힘이 전달되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.28275862424182485,
+        "x" : 0.064367814197901857,
+        "y" : 0.73691860456331093
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "지 않는다는 것을 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02199371005292472,
+        "width" : 0.67126434798314427,
+        "x" : 0.064367825797577896,
+        "y" : 0.79651162805788722
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.99411548363368885,
+      "text" : "를 동사의 힘이 미치는 목적어 • 내용을 나타내는 보어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895347771695548,
+        "width" : 0.20689653914353678,
+        "x" : 0.062068970658116673,
+        "y" : 0.87354651204256795
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.98536585365853657,
+      "text" : "• 2형식 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015771542579678055,
+        "width" : 0.55884668964541584,
+        "x" : 0.35391147254660893,
+        "y" : 0.92801178623652858
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.88775510204081631,
+      "text" : "2장 동사 ① 문장의 형식: 동사를 단어로 이해하지 말고 문형으로 이해하라 39"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    642
+  ],
+  "pdf_page_index" : 36,
+  "pdf_page_number" : 37
+}

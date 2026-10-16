@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.76976739171563391,
+        "x" : 0.11162792861062162,
+        "y" : 0.069767441871779967
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "그럴 경우는....\" 처럼 적어도 50%는 '실현된다'고 생각하여 말하기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022524493747287377,
+        "width" : 0.76761907593816781,
+        "x" : 0.13247841652843609,
+        "y" : 0.098142110955250716
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 점이 '실제로는 그렇지 않다'를 전제로 하는 가정법과는 다른 점이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.58139533670539534,
+        "x" : 0.11162791293523647,
+        "y" : 0.14970930251848669
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.1202223766504517,
+      "text" : "예문 If it rains tomorrow, the game will be canceled."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017461240132649714,
+        "width" : 0.3744186010116185,
+        "x" : 0.15813953658573274,
+        "y" : 0.17587209293884432
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "만약 내일 비가 온다면, 경기는 취소될 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024888888888888849,
+        "width" : 0.51162789282296117,
+        "x" : 0.10232558645673653,
+        "y" : 0.22222222225726618
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.97991967871485941,
+      "text" : "•가정법 과거: 동사의 과거형을 사용한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.55116280667122952,
+        "x" : 0.10697673610784346,
+        "y" : 0.2599999997939817
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "[지금 그런 건 아니지만, 만일 지금 그런 상태라면 •··."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.59534882548188217,
+        "x" : 0.10930233133205637,
+        "y" : 0.311046511820675
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.12542372881355932,
+      "text" : "예운 IFl were(was) you, I wouldn't make the decision."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.40465117451811794,
+        "x" : 0.15813952890029156,
+        "y" : 0.33555555525425218
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "만약 내가 너라면, 그 결정을 내리지 않을 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.78372096743678776,
+        "x" : 0.16046509755649591,
+        "y" : 0.35901162812145793
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.53481481481481485,
+      "text" : "* 주어가 |임에도 불구하고 동사가 were인 이유는 원래 가정법에서 be동사의 과거형 형태가 모두 Were"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.46279068210525726,
+        "x" : 0.1813953565037128,
+        "y" : 0.37777777739946194
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.46993318485523383,
+      "text" : "이기 때문이다. 이 점이 직설법의 과거형 활용과는 다른 점이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02180361768934469,
+        "width" : 0.81395345399861996,
+        "x" : 0.13255815660534104,
+        "y" : 0.42441860454942282
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 지금은 가정법이 잘 쓰이지 않게 되어, 직설법의 과거형이 많이 쓰인다. 특"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.75348839393028844,
+        "x" : 0.11162789594073208,
+        "y" : 0.45200000005593299
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "히 구어체에서는 주어가 단수면 were가 아니라 was를 쓰는 경우가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537357,
+        "width" : 0.81162785804509441,
+        "x" : 0.13255816757951999,
+        "y" : 0.47819767419890957
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "귀결절(1F가 붙지 않은 'S+V ~ 절)의 조동사에도 주목할 필요가 있다. '실제로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02186175706651472,
+        "width" : 0.83255813468215822,
+        "x" : 0.11162791428682786,
+        "y" : 0.50436046483602215
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "는 그렇게 되지 않을 것이다(will not)'라는 말을 하는 것이 아니라 '어디까지나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024888888888888849,
+        "width" : 0.83488373063568377,
+        "x" : 0.10930232065673048,
+        "y" : 0.53333333291452789
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그 가정의 이야기 속에서 상상하면, 그렇게 되지 않을 것이다'라는 의미에서 과거형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023199133978949682,
+        "width" : 0.2450413934865229,
+        "x" : 0.10899454068243228,
+        "y" : 0.55986056927217109
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "wouldnt를 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.48837210717703883,
+        "x" : 0.19534883002289927,
+        "y" : 0.61627906995958504
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.97370109044259145,
+      "text" : "가정법 과거완료: 과거완료의 형태를 사용한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024275697496202286,
+        "width" : 0.66780629388966795,
+        "x" : 0.10680280274320524,
+        "y" : 0.65148789460215872
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "[그때 실제로는 그렇지 않았는데, 만일 그때 그런 상태였다면 ...]"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022108684963650149,
+        "width" : 0.6025061539435318,
+        "x" : 0.11153244237489919,
+        "y" : 0.70190172177517518
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.11835106382978723,
+      "text" : "Me It you had stayed there, you could have seen her."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016186047024197125,
+        "width" : 0.51627908473001249,
+        "x" : 0.15813952740026221,
+        "y" : 0.72799999983481511
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "만약 네가 (그때) 거기 머물러 있었다면, 넌 그녀를 봤을 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488328721797,
+        "width" : 0.54883721071770386,
+        "x" : 0.16046511552777598,
+        "y" : 0.75000000021180935
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.51111111111111107,
+      "text" : "~ 과거완료를 사용함에 따라. \"그때 실제로는 거기에 없었지만, 만일 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.53023257350649933,
+        "x" : 0.17906975964636629,
+        "y" : 0.77022222253431571
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.46228239845261121,
+      "text" : "었다면 .... 이라고 과거의 일을 상상하여 말하고 있다. 귀결절에는 '조동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016089147779676738,
+        "width" : 0.29999998695829994,
+        "x" : 0.17906977490263293,
+        "y" : 0.78924418562503773
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.41379310344827586,
+      "text" : "사의 과거형 + have + 과거분사'를 쓴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.20930233164730236,
+        "x" : 0.12093022941027495,
+        "y" : 0.84156976705532083
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.98763082778306377,
+      "text" : "헐 귀결절과 if절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039534883961039047,
+        "x" : 0.081395348600875841,
+        "y" : 0.92711111095907839
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.967741935483871,
+      "text" : "202"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 194,
+  "pdf_page_number" : 195
+}

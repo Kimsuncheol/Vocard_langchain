@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029730594211154537,
+        "width" : 0.12678387941863542,
+        "x" : 0.13458158363308317,
+        "y" : 0.096335806767344212
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99884792626728114,
+      "text" : "Must 14"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030772135416666568,
+        "width" : 0.2189812061648779,
+        "x" : 0.13820524923460656,
+        "y" : 0.13359649039703947
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99969761112791045,
+      "text" : "현재완료 ②"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033693572998046983,
+        "width" : 0.38766785098400036,
+        "x" : 0.13793963610853446,
+        "y" : 0.16577533092653018
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99923838537699927,
+      "text" : "상태동사의 현재완료"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021894743177625853,
+        "width" : 0.45205628216182558,
+        "x" : 0.13572140681013545,
+        "y" : 0.21497630703603587
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99961861174675815,
+      "text" : "• 상태동사가 현재완료가 되면 '기간'을 나타낸다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023888732062445794,
+        "width" : 0.80439713105496291,
+        "x" : 0.13351853880436443,
+        "y" : 0.31040704650850337
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "지난 학습에서는 동작동사의 현재완료를 설명했다. 이번 학습에서는 상태동사의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020465116712782172,
+        "width" : 0.30184331767481709,
+        "x" : 0.11290322583722356,
+        "y" : 0.33999999993265217
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "현재완료에 대해 공부해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02232594638400609,
+        "width" : 0.80437853642343971,
+        "x" : 0.13351769030224206,
+        "y" : 0.36572265353958155
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "상태동사와 동작동사의 가장 큰 차이점은 상(aspect: 진행, 완료 등을 나타내는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026804367065429657,
+        "width" : 0.82744775941577053,
+        "x" : 0.1150368762964679,
+        "y" : 0.38983958537121355
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "동사의 형태)의 유무이다. 동작동사에는 한 동작에 '~하기 시작, '~하고 있는 중;"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024590160793728333,
+        "width" : 0.69612446557651619,
+        "x" : 0.10815223510207103,
+        "y" : 0.41965094737685837
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "'~ 하고 난 후'라는 3가지 상이 있다. 상태동사에는 이러한 상이 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537357,
+        "width" : 0.34331797611898363,
+        "x" : 0.20046082753529451,
+        "y" : 0.47819767430934623
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.93291139240506327,
+      "text" : "상태동사에는 상(aspect)이 없다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017550387912326326,
+        "width" : 0.35714284791932965,
+        "x" : 0.15668203221074301,
+        "y" : 0.51733333308738561
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "Ilive in London. 나는 런던에 산다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017311186048719618,
+        "width" : 0.61545144149715714,
+        "x" : 0.16347623311882667,
+        "y" : 0.54113568567857284
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.40441176470588236,
+      "text" : ">'언제 살기 시작'해서 '언제 사는 것이 끝난다'라는 것을 생각하면서 말하지 않는다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017180898030598968,
+        "width" : 0.44261967883627906,
+        "x" : 0.17731624062052317,
+        "y" : 0.56335718411492886
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.57857142857142863,
+      "text" : "막연히 매일 그곳에 계속 거주하고 있다는 것만 말하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.062211982285858725,
+        "x" : 0.47004608261283104,
+        "y" : 0.61333333338980422
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.92207792207792205,
+      "text" : "London"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013826914469400986,
+        "width" : 0.11311512504545351,
+        "x" : 0.46763598640590864,
+        "y" : 0.73654584499385778
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.096153846153846159,
+      "text" : "변하지 않는 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.8064515795795133,
+        "x" : 0.13364056970143698,
+        "y" : 0.77761627866702154
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "위의 그림처럼 동작의 명확한 시작과 끝은 생각하지 않고, 막연한 상태가 계속"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.40783411625914584,
+        "x" : 0.11520736577340822,
+        "y" : 0.80666666661823438
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.21981004070556309,
+      "text" : "되는 것을 나타내는 것이 상태동사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021817829555935253,
+        "width" : 0.8064515795795133,
+        "x" : 0.13594471717334428,
+        "y" : 0.83284883710300006
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "동작동사의 과거분사는 상(aspect)에 따라서 '다 하고 난 후의 상태', 즉 완료를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03062934027777775,
+        "width" : 0.82786097344962084,
+        "x" : 0.11485839398808095,
+        "y" : 0.85551218021313113
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "나타낸다. 그렇다면 상(aspect)이 없는 상태동사가 현재완료로 사용되면 어떻게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.064516129379380061,
+        "x" : 0.115207372983121,
+        "y" : 0.89098837225079996
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "될까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013091730753580721,
+        "width" : 0.027649767812451792,
+        "x" : 0.085253457165202662,
+        "y" : 0.93022222220656114
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.97727272727272729,
+      "text" : "72"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 68,
+  "pdf_page_number" : 69
+}

@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032000000000000028,
+        "width" : 0.12761020660400388,
+        "x" : 0.13225058117912017,
+        "y" : 0.091555555640594699
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99945770065075923,
+      "text" : "Must 70"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030670542399088507,
+        "width" : 0.18561484596946023,
+        "x" : 0.13689095276769628,
+        "y" : 0.13066666617203071
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99931318681318682,
+      "text" : "존재문 ①:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.037499999999999978,
+        "width" : 0.51999998092651367,
+        "x" : 0.12666667513674321,
+        "y" : 0.16249999962500006
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99941389078831688,
+      "text" : "there is 구문의 의미상 주어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.37354989485307177,
+        "x" : 0.13225057333083903,
+        "y" : 0.21200000018880116
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99947437582128773,
+      "text" : "• '새로운 정보'의 존재를 나타내는 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023230275472005069,
+        "width" : 0.47126054763793945,
+        "x" : 0.13213456979641916,
+        "y" : 0.30838196620054226
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.99106078665077468,
+      "text" : "l there is 구문을 어순으로 생각하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024624105665418838,
+        "width" : 0.81473653966730297,
+        "x" : 0.12508812007458908,
+        "y" : 0.35604515308393458
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "'~이 있다'라는 존재를 의미하는 there is/are 구문은 어순이 독특하다는 특징"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021936692979600769,
+        "width" : 0.83294660394841979,
+        "x" : 0.10672855403378181,
+        "y" : 0.3851744185020427
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이 있고, 의미상의 주어에 a나 some이 붙은 명사가 오는 점, 즉 '어느 것이든 상관"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021875968933105394,
+        "width" : 0.83062648773193348,
+        "x" : 0.10904870497361176,
+        "y" : 0.41279069757275955
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "없는 1개의 것, '어느 것이든 상관없는 몇 개의/약간의 것'을 나타내는 명사가 오는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020481912400987401,
+        "width" : 0.55684453790838073,
+        "x" : 0.10904872860761464,
+        "y" : 0.44040697636523074
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "점(이에 대해서는 나중에 설명할 예정이다.)이 특징이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.600928089835427,
+        "x" : 0.12761020090410363,
+        "y" : 0.46800000019308841
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "사실 이 구문은 새로운 정보의 존재를 나타내는 문장이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.80974474820223719,
+        "x" : 0.12993041000527461,
+        "y" : 0.49555555578939536
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 이것만으로는 무슨 의미인지 알 수 없기 때문에, 새로운 정보와 이미 알려"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023836958143446219,
+        "width" : 0.42271900177001953,
+        "x" : 0.10885345280215653,
+        "y" : 0.51984036392565514
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "진 정보의 '어순'에 대해 잠시 생각해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.29002319682728162,
+        "x" : 0.12761021122279048,
+        "y" : 0.54933333306745025
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "아래 예시 문장을 읽어 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020519380357530315,
+        "width" : 0.44315546209161927,
+        "x" : 0.13225057509952984,
+        "y" : 0.59866666652313771
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "옛날에 숲 근처에 오래된 저택이 있었어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.70765660025856714,
+        "x" : 0.12761021483630036,
+        "y" : 0.65822222239650086
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장 뒤에, 아래 문장 중 어느 것이 이어지는 것이 더 자연스러운가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025037405225965759,
+        "width" : 0.59678402813998133,
+        "x" : 0.13204544980173114,
+        "y" : 0.70906617211777512
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "① 그 저택에는 늙은 신사가 하인과 함께 살고 있었어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023472037421332415,
+        "width" : 0.57105684280395508,
+        "x" : 0.13213012352301001,
+        "y" : 0.7382099454749812
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "② 늙은 신사가 하인과 함께 그 저택에 살고 있었어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020497416178385408,
+        "width" : 0.81206495111638843,
+        "x" : 0.12761021576176887,
+        "y" : 0.79505813915682955
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "개인차나 취향이 있을 수 있고 정답이 있는 것도 아니지만, ①을 선택하는 사람"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021810077243381132,
+        "width" : 0.3271461616862904,
+        "x" : 0.10672854319081383,
+        "y" : 0.82266666703132629
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이 대다수일 것이라고 생각된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021870801289876285,
+        "width" : 0.40139211307872424,
+        "x" : 0.12761020785177626,
+        "y" : 0.85022222205747566
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "포인트는 '저택'이라는 단어의 위치이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039443154226649887,
+        "x" : 0.076566125838466753,
+        "y" : 0.92577777789238824
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.98245614035087714,
+      "text" : "308"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 298,
+  "pdf_page_number" : 299
+}

@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025282813178168495,
+        "width" : 0.81230226340868805,
+        "x" : 0.085719933817947,
+        "y" : 0.069748457615509851
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "have 뒤에 오는 목적어가 '~하는 입장'인지 '~당하는 입장'인지에 따라 보어의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022138991461859714,
+        "width" : 0.21122479810782357,
+        "x" : 0.067241429133601774,
+        "y" : 0.10157585266910085
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "동사 형태가 바뀐다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028358440823025188,
+        "width" : 0.81231074772828016,
+        "x" : 0.088038349875635385,
+        "y" : 0.12306218761562693
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "목적어가 '~하는 입장'인 경우, 보어 자리에 동사원형이 오고, '~당하는 입장'인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021810077243381132,
+        "width" : 0.36426915378435282,
+        "x" : 0.069605562200599658,
+        "y" : 0.15552325570801684
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "경우, 보어 자리에 과거분사가 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011706718444824182,
+        "width" : 0.030162413576815983,
+        "x" : 0.069605568049179015,
+        "y" : 0.20784883723987668
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.28306263592226288,
+        "x" : 0.11600928517654016,
+        "y" : 0.20488888891948764
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.078668683812405452,
+      "text" : "I had my car =(stolen)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.15313225063026373,
+        "x" : 0.1856148493020375,
+        "y" : 0.23244444467366532
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.42622950819672129,
+      "text" : "have된 상황의 내용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01727113003200953,
+        "width" : 0.17936240121827901,
+        "x" : 0.44047380056189395,
+        "y" : 0.20402197356426843
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.44680851063829785,
+      "text" : "my car는 사람에 의해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015818478054470453,
+        "width" : 0.13962000853626438,
+        "x" : 0.44062944434573287,
+        "y" : 0.21952626114614782
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.30612244897959184,
+      "text" : "'도난당하는' 입장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016006460401747025,
+        "width" : 0.071925754411846232,
+        "x" : 0.36194895558410012,
+        "y" : 0.23110465076796416
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 1,
+      "text" : "과거분사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.6566125315131871,
+        "x" : 0.088167048777712087,
+        "y" : 0.27599999977474443
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "직역하면 \"나는 '내 차=도난당했다'라는 상황을 가졌다.\"가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029030765109592016,
+        "width" : 0.81242164990580668,
+        "x" : 0.087983917242175844,
+        "y" : 0.30188610702751295
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이를 have의 '~시키다, ~하게 하다'라는 의미로 해석하면, \"나는 내 차가 도난당"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029153544108072915,
+        "width" : 0.83109226091533683,
+        "x" : 0.069364042719475369,
+        "y" : 0.32909445192501308
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "하도록 시켰다.\"라고 말할 수 있기는 하나. (말장난 수준으로 그러한 농담을 하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.83062648908466319,
+        "x" : 0.069605548849888274,
+        "y" : 0.36177777809044243
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "도 한다.) 상식적으로 자신이 의뢰해서 도난당하도록 시킨다는 것은 일반적이지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02403285217285156,
+        "width" : 0.59188838444703007,
+        "x" : 0.069501521984989031,
+        "y" : 0.38589237263362419
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "은 상황이기 때문에 보통은 '피해'를 당한 의미로 해석한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024926356845431874,
+        "width" : 0.80974476049977828,
+        "x" : 0.090487248249084981,
+        "y" : 0.44040697633969161
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "참고로 \"나는 내 차를 도난당했다.\"라는 문장을 I was stolen my car.로 해서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.31322506302637415,
+        "x" : 0.069605565815880524,
+        "y" : 0.47093023217562102
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "는 안 되는 이유를 설명하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.49187933739195477,
+        "x" : 0.090487249053442534,
+        "y" : 0.4968888892000578
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "능동태 문장으로는 아래와 같이 표현할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021416939629448795,
+        "width" : 0.30722809920074245,
+        "x" : 0.069190150201297304,
+        "y" : 0.54495766371793231
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.42330677290836655,
+      "text" : "예문 Someone stole my Car."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022531743367512957,
+        "width" : 0.23996281184203239,
+        "x" : 0.38015385570106897,
+        "y" : 0.54310302986409809
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "누군가가 내 차를 훔쳤다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.81206496218417568,
+        "x" : 0.08816705468552069,
+        "y" : 0.59733333348345408
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "steal은 주어에 '홈치는 쪽'이 오고, 목적어에 '훔치는 것을 당하는 쪽'이 오는 구"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.63573084621564713,
+        "x" : 0.069605576428139332,
+        "y" : 0.62354651157277663
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "문 형태를 취한다. 이 문장에는 피해자인 '나'는 나오지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020488372802734411,
+        "width" : 0.50812066260804523,
+        "x" : 0.088167046918103301,
+        "y" : 0.67151162752122617
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "그래서 이를 수동태로 해도 아래와 같이 표현된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.72621810588430846,
+        "x" : 0.067285378503636639,
+        "y" : 0.72088888906302484
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.35598455598455597,
+      "text" : "예e My car was stolen (by someone). 내차가 (누군가에게) 도난당했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021975451999240447,
+        "width" : 0.45011601008421986,
+        "x" : 0.088167052844639965,
+        "y" : 0.77180232547693195
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "역시 피해자인 '나'는 문장에 나오지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025108674791124108,
+        "width" : 0.80999747201906025,
+        "x" : 0.088048203426559515,
+        "y" : 0.7960975756632076
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "영어에서는 '~하는 쪽과 ~당하는 쪽의 관계'를 설명한다. '훔치는 쪽(도둑)과 훔"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024066571553548188,
+        "width" : 0.56403882182236253,
+        "x" : 0.067195907584708489,
+        "y" : 0.82336078931034895
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "치는 것을 당하는 쪽(내 차)'의 관계만을 말하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.80974476049977828,
+        "x" : 0.088167062789553968,
+        "y" : 0.85465116296475507
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "한국어에서는 My car was stolen.(내 차가 도난당했다.)과 같은 수동태 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.83062648908466319,
+        "x" : 0.067285363142404325,
+        "y" : 0.87936046470327589
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "에 '피해의 영향을 받은 사람'을 추가해서,\"나는 내 차를 도난당했다.\"라고 말할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.42459396470523042,
+        "x" : 0.49651972286780238,
+        "y" : 0.9271111109990694
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.87542662116040959,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 191"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 184,
+  "pdf_page_number" : 185
+}

@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.80930233001708995,
+        "x" : 0.074418602322989275,
+        "y" : 0.069653948433571422
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "with를 '~와 함께'라고 해석할 수 있지만, 잘 생각해 보면 각 예문의 Jeff와 me"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026263387624204104,
+        "width" : 0.82790695537220338,
+        "x" : 0.055813964099229209,
+        "y" : 0.095829636020162812
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "는 대전 상대이다. 즉, '대립'의 관계에 있다. 상대라는 것은 대립 관계이든, 우호 관"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0246984639205865,
+        "width" : 0.4189003164117987,
+        "x" : 0.055629933201324366,
+        "y" : 0.12388559071795069
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "계이든, 함께 있기 때문에 '상대'인 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028284314044725645,
+        "width" : 0.80524479259144177,
+        "x" : 0.078782229808374377,
+        "y" : 0.17169198225205795
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "현재에서도, with에는 against의 의미와 together의 의미가 혼재된 경우가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026041384597954353,
+        "width" : 0.62128652225841174,
+        "x" : 0.055592367438621941,
+        "y" : 0.20099068001355569
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "있다. fight with라는 표현은 때때로 2가지 해석이 가능하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02392305900485725,
+        "width" : 0.46802512082186615,
+        "x" : 0.099659393839391097,
+        "y" : 0.24913017567720452
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "Japan fought with the US in World War Il."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016083809582660313,
+        "width" : 0.46279070594094024,
+        "x" : 0.10232557716863684,
+        "y" : 0.27761627873031647
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "제2차 세계 대전에서 일본은 미국과 (대립하여) 싸웠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02357764866041101,
+        "width" : 0.50730839642611414,
+        "x" : 0.10213433472967104,
+        "y" : 0.29863372884868611
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "Britain fought with France against Germany."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.39767443050037732,
+        "x" : 0.10465116002888107,
+        "y" : 0.32412790665518054
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "영국은 독일에 대항하여 프랑스와 함께 싸웠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017691865259287454,
+        "width" : 0.77692907506769349,
+        "x" : 0.10689245739096895,
+        "y" : 0.34689701335678924
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.43217054263565891,
+      "text" : "* 위 예문은 '지니어스 영일대사전'에서 발췌했다. 첫 번째 예문에서 대립의 의미를 명확히 하고 싶다면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016816381236146594,
+        "width" : 0.32586973363702948,
+        "x" : 0.12541995413523599,
+        "y" : 0.3675417708624602
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.48057259713701433,
+      "text" : "with보다는 against를 사용하는 것이 좋다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021069853307932318,
+        "width" : 0.3840793696316806,
+        "x" : 0.055640605797157038,
+        "y" : 0.41511434099723488
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.96819787985865724,
+      "text" : "•_ '함께 있다'를 나타내는 with"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035322722440920939,
+        "width" : 0.80787086486816395,
+        "x" : 0.078666545815064784,
+        "y" : 0.44379271807828102
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "현대 영어의 With에서는 '함께, 같이'가 기본 의미이다. with는 '감정의 대상이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.83255811171098182,
+        "x" : 0.058139548864577908,
+        "y" : 0.47819767463456786
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "나 '상황의 좋고 나쁨'을 나타낼 때도 사용된다. 예를 들어, Im angry with him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021815222136828405,
+        "width" : 0.83023253354159265,
+        "x" : 0.055813964475050847,
+        "y" : 0.50436046519669875
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "(나는 그에게 화가 나 있다.)은 I'm with him.(나는 그와 함께 있다.)이라는 정보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026643318101803426,
+        "width" : 0.83043488589200098,
+        "x" : 0.058035695674342816,
+        "y" : 0.53144577663736814
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.0011299435028248588,
+      "text" : "에 angry를 넣으며, '어떤 심정으로 그와 함께 있는지'를 나타내는 정보를 더하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.36511629278009589,
+        "x" : 0.060465109496579975,
+        "y" : 0.56104651149166296
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "형태로 발전된 구문이라 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024308329043181143,
+        "width" : 0.52352124994451343,
+        "x" : 0.095197359863780071,
+        "y" : 0.58690505537601645
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "비슷한 패턴으로는, 아래와 같은 예시를 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021694632685068105,
+        "width" : 0.54916160756891419,
+        "x" : 0.058013847145639487,
+        "y" : 0.63572073715977206
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.1146051712089448,
+      "text" : "예e Are you with the way you're doing your job?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019210141849602347,
+        "width" : 0.37241831692782312,
+        "x" : 0.10450585590561384,
+        "y" : 0.65982280944222149
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "당신은 자신의 일하는 방식과 함께 있나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022319006729464408,
+        "width" : 0.59341864152388135,
+        "x" : 0.088215506439974334,
+        "y" : 0.68445764241328111
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "+ Are you happy with the way you're doing yourjob?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017377633379959012,
+        "width" : 0.49323866584084247,
+        "x" : 0.1068741337628934,
+        "y" : 0.71071309966464047
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "당신은 행복한 상태로 자신의 일하는 방식과 함께 있나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.26046512343666767,
+        "x" : 0.10465115959133563,
+        "y" : 0.73247559901505177
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.3524229074889868,
+      "text" : "= 당신은 자신의 일에 만족하나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906386367792,
+        "width" : 0.032558137720281426,
+        "x" : 0.060465117244510432,
+        "y" : 0.75726744201030449
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.99375000000000002,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.3953488523309881,
+        "x" : 0.099999992625203593,
+        "y" : 0.75421472930965561
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "l am with that. 나는 그것과 함께 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021148352466437648,
+        "width" : 0.34221326221119275,
+        "x" : 0.088179716713630091,
+        "y" : 0.78070834903417263
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "* have no problem with that."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019844867533672761,
+        "width" : 0.6328032233498313,
+        "x" : 0.10685503851071942,
+        "y" : 0.80685728506989152
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.19252873563218389,
+      "text" : "나는 문제가 없는 상태로 그것과 함께 있다. =그 일에 관해서, 나는 문제가 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021793277473077355,
+        "width" : 0.74206829071044922,
+        "x" : 0.062678428111149376,
+        "y" : 0.82978066597655553
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.14046822742474915,
+      "text" : "에e There is a situation with my ears. 어떤 상황이 내 귀와 함께 존재한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.44252278588034888,
+        "x" : 0.088372094290606024,
+        "y" : 0.85891748022501724
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.00094786729857819908,
+      "text" : "• There is nothing wrong with my ears.듏"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01940510943598095,
+        "width" : 0.53747601942582557,
+        "x" : 0.10916360619824013,
+        "y" : 0.88251789161717387
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.18863049095607234,
+      "text" : "문제가 없다는 상황이 나의 귀와 함께 있다. =내 귀는 문제가 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015053262515943855,
+        "width" : 0.43510384993119672,
+        "x" : 0.4836120810168158,
+        "y" : 0.92138418280506962
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.82304526748971196,
+      "text" : "11장 전치사:전치사를 파악하면 숙어를 공략할 수 있다 357"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 345,
+  "pdf_page_number" : 346
+}

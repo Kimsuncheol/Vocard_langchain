@@ -1,0 +1,520 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011773901621500715,
+        "width" : 0.034802783619273789,
+        "x" : 0.11600928091033456,
+        "y" : 0.076888888942737155
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 1,
+      "text" : "예운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.52900231968272815,
+        "x" : 0.16009280723906905,
+        "y" : 0.074127907158139994
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "They don't know two things about economics."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020519380357530315,
+        "width" : 0.35730858282609423,
+        "x" : 0.16241299384982832,
+        "y" : 0.098666666521745938
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "그들은 경제에 대해 2가지를 알지 못한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488328721797,
+        "width" : 0.43619489669799805,
+        "x" : 0.16473317794123865,
+        "y" : 0.12209302346656303
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.28925619834710742,
+      "text" : "✓ 경제를 둘러싼 여러 이야기 중 2가지를 모른다는 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023917750888400646,
+        "width" : 0.78458057750355115,
+        "x" : 0.15989817658737868,
+        "y" : 0.14105256360937291
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "Wherever people talk about economics and economic policy, Karl"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.37819025733254175,
+        "x" : 0.16009280625029174,
+        "y" : 0.1700581397259695
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "Brunner is known and respected."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028093883938259623,
+        "width" : 0.55066173726862133,
+        "x" : 0.15967406585570493,
+        "y" : 0.18966906088481017
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "사람들이 경제와 경제 정책에 대해 이야기하는 곳마다, 칼 브루 ("
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.34338747371326794,
+        "x" : 0.16009280594917941,
+        "y" : 0.21644444465473978
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "너는 명성이 알려져 있고 존경도 받는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.039443154226649901,
+        "x" : 0.77494199586479917,
+        "y" : 0.2164444446291045
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "경제"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017861221313476672,
+        "width" : 0.45272358981045813,
+        "x" : 0.15996344695415535,
+        "y" : 0.23834160324492493
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.26050420168067229,
+      "text" : "* '경제나 경제 정책에 관한 여러 가지 이야기'라는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316468,
+        "width" : 0.044083527543328005,
+        "x" : 0.88631090432578385,
+        "y" : 0.22529069773253274
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "경제에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011657622443305038,
+        "width" : 0.03712297027761291,
+        "x" : 0.88863109016014052,
+        "y" : 0.23688888905116534
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "관한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011729974110921249,
+        "width" : 0.046403711492365107,
+        "x" : 0.88631090515868971,
+        "y" : 0.24844444437594626
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "다양한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088953488667806724,
+        "width" : 0.044083527543328116,
+        "x" : 0.888631089940633,
+        "y" : 0.25999999998420731
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이야기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026737614949544186,
+        "width" : 0.81490126523104589,
+        "x" : 0.13432567788255467,
+        "y" : 0.28294468796048
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 '그 주제를 둘러싼 여러 가지 이야기'라는 느낌이 about이기 때문에,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.83526680686257093,
+        "x" : 0.10904873098728443,
+        "y" : 0.31377777767487303
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "about 가 사용될 때는 그 주제 전체라기보다 부분적인 이야기를 따로 다루는 느"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021918604532877528,
+        "width" : 0.10904872417449951,
+        "x" : 0.1113689092525087,
+        "y" : 0.34000000018890453
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.38979118520563305,
+        "x" : 0.20185614737516147,
+        "y" : 0.39680232577053087
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.95948827292110872,
+      "text" : "'마음이 초조하고 불안할 때'는 about"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021051868014865471,
+        "width" : 0.61052534796974878,
+        "x" : 0.12975905155140988,
+        "y" : 0.43551208569551947
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "be worried about, be concerned about, be anxious"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024640452067057228,
+        "width" : 0.63370826027610083,
+        "x" : 0.10888739902913371,
+        "y" : 0.45872975139046712
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "about, feel uneasy about라는 표현은 모두 '~에 대해 걱정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022065002441406301,
+        "width" : 0.18389638987454504,
+        "x" : 0.11117091486660259,
+        "y" : 0.4858097006448634
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "하다'라는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02313054317898211,
+        "width" : 0.610504150390625,
+        "x" : 0.12977766080821257,
+        "y" : 0.51366120310394869
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이 표현들에 about가 붙는 것은 우연이 아니다. about는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025440799289279448,
+        "width" : 0.63615348122336657,
+        "x" : 0.10416904422544752,
+        "y" : 0.54062559243374486
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "'주변'을 뜻하며, around에 가깝게 사용되기도 한다는 것을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.63109046762639831,
+        "x" : 0.11136892207012862,
+        "y" : 0.56666666663855314
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 소개했다. '마음이 걱정거리 주변을 맴도는' 느낌이 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.19489559260281647,
+        "x" : 0.10904872329642622,
+        "y" : 0.59733333347748097
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "어.about를 쓴다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025769298977322053,
+        "width" : 0.81255817413330078,
+        "x" : 0.12968396285190736,
+        "y" : 0.64916762076868384
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.061413673232908458,
+      "text" : "이는 think about와 think of의 차이를 생각할 때에도 도움이 된다. think"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033713958740234418,
+        "width" : 0.8359942869706587,
+        "x" : 0.10640208784086341,
+        "y" : 0.67206263162367919
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.028178243774574049,
+      "text" : "albout는 '이러지도 저러지도 못하는' 상태로, 주변을 맴돌며 여러 생각을 하거나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023725842793782537,
+        "width" : 0.57343361594460229,
+        "x" : 0.10889205318335259,
+        "y" : 0.70432643673805173
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "고민하는 느낌을 준다. 실제로 사용된 아래 예문을 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020487080891927079,
+        "width" : 0.78654289245605469,
+        "x" : 0.15313226579793479,
+        "y" : 0.75422222179945297
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "Law schools would probably be wise to think about being two years"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021300392150878866,
+        "width" : 0.27954444018277258,
+        "x" : 0.15258803618526057,
+        "y" : 0.77964613503148072
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "instead of three years .•••"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016127907647026873,
+        "width" : 0.71461716565218847,
+        "x" : 0.15777262355090074,
+        "y" : 0.80799999968188119
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "로스쿨을 3년제가 아닌 2년제로 하는 것에 대해 생각하는 편이 아마 현명할 것이다....."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016152454800075988,
+        "width" : 0.71925752813165833,
+        "x" : 0.15777262793264477,
+        "y" : 0.82977777811023645
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.26865671641791045,
+      "text" : "* 3년제가 아닌, 2년제로 하면 어떻게 될지, 다양하게 시뮬레이션을 해 보면서 검토하는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888888888888847,
+        "width" : 0.81438515403053968,
+        "x" : 0.12529001824768449,
+        "y" : 0.87499999971974307
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "'~하면 어떻게 될지'를 시뮬레이션하면서 생각하는 think about의 느낌은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012000000000000011,
+        "width" : 0.039443154226649887,
+        "x" : 0.076566125794157655,
+        "y" : 0.92711111111420219
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 1,
+      "text" : "354"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 342,
+  "pdf_page_number" : 343
+}

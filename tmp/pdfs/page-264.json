@@ -1,0 +1,280 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021992248535156356,
+        "width" : 0.83062648773193359,
+        "x" : 0.05568443578078193,
+        "y" : 0.072674418500372706
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "연한 흐름'이라는 근본적인 의미가 '만약 '그만두었다'라는 흐름으로 말하면'이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.51044082641601551,
+        "x" : 0.055684459064140164,
+        "y" : 0.10311111092890657
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "추측의 느낌 정도로 약화되어 사용되었을 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021281618754068976,
+        "width" : 0.15845947915857492,
+        "x" : 0.14350807918127259,
+        "y" : 0.15723709713683487
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.98405466970387245,
+      "text" : "감정의 should"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027131361219618122,
+        "width" : 0.81234394420276979,
+        "x" : 0.076433872462206884,
+        "y" : 0.19050562513729885
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "또 하나의 용법으로는 '감정의 should'가 있다. 'It is 감정 that+S+should"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023297157287597625,
+        "width" : 0.77030164545232593,
+        "x" : 0.048723887020031255,
+        "y" : 0.22088888903951232
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "+동사원형 ~'의 구문에서 사용된다. '(의외로) ~하다니'라고 자주 해석된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.68445474451238464,
+        "x" : 0.099767987254037571,
+        "y" : 0.27180232577510188
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "It's surprising that many people should love a novel ike this."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.47563804279674177,
+        "x" : 0.10208817102756167,
+        "y" : 0.29505813945043657
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "사람들이 (의외로) 이런 소설을 아주 좋아한다니 놀라워."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016080103556315062,
+        "width" : 0.55684453790838062,
+        "x" : 0.10440835735480097,
+        "y" : 0.3182222223758151
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.45294117647058824,
+      "text" : "* '의외다, '말도 안 된다'라는 감정이 강한 것을 나타낸다. 좀 더 담담하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014670542399088493,
+        "width" : 0.53596288507634948,
+        "x" : 0.12761020467760256,
+        "y" : 0.33866279091135709
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.58206429780033841,
+      "text" : "냉정하게, \"사람들이 이런 소설을 아주 좋아한다는 사실에 놀랐다. \"와 같"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.2691415223208341,
+        "x" : 0.12761021320050531,
+        "y" : 0.35901162811740162
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.54037267080745344,
+      "text" : "이 말한다면 Should를 쓰지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316357,
+        "width" : 0.011600927873091305,
+        "x" : 0.80278422275138939,
+        "y" : 0.29505813947824877
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.8097447482022373,
+        "x" : 0.076566140863743387,
+        "y" : 0.41555555594710891
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이 should는 that 이하의 내용을 현실적으로 받아들일 수 없는 마음이 강하게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02188501315646707,
+        "width" : 0.2575405944477428,
+        "x" : 0.055684459037283342,
+        "y" : 0.44177777762929649
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "작용하는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023328165690104208,
+        "width" : 0.80974474820223719,
+        "x" : 0.076566147778231605,
+        "y" : 0.46511627901463704
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 현실로 받아들이기 전에 그 일을 '자신에게는 뜻밖이고 믿기 어려운' 다른"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.57076566869562328,
+        "x" : 0.055684450918034915,
+        "y" : 0.4968888885294529
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "세계의 일로 파악하고 있다는 것을 should가 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02506525505913626,
+        "width" : 0.8124289079145951,
+        "x" : 0.074071959023300285,
+        "y" : 0.54856525179146232
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "should 부분은 '조동사= 생각만 하고 있는 세계'이므로 현실이 아닌 세계를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025273624844021292,
+        "width" : 0.7565976056185636,
+        "x" : 0.055589160931744951,
+        "y" : 0.57505701299478718
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "타내고, 화자가 느끼는 '현실로 받아들일 수 없는 마음'을 나타내는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016109819200303854,
+        "width" : 0.4477958245710893,
+        "x" : 0.46171693678638109,
+        "y" : 0.92877906940840083
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.91851851851851851,
+      "text" : "8장 동사 ② 조동사: 사실을 말하는가, 생각을 말하는가? 273"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 264,
+  "pdf_page_number" : 265
+}

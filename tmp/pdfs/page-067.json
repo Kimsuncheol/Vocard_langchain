@@ -1,0 +1,220 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026656722683075174,
+        "width" : 0.80681116187522051,
+        "x" : 0.085081913202102663,
+        "y" : 0.072452649728466989
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "eaten이라는 과거분사는 상(aspect: 동사의 형태)의 일종으로 동작동사의 '~하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026112337553628406,
+        "width" : 0.82968815425555364,
+        "x" : 0.064413418152251309,
+        "y" : 0.099083718361434703
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "기 시작, ~하고 있는 중, ~하고 난 후' 중에서 '끝난 후'의 상태를 의미한다. 동작동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024826227982273297,
+        "width" : 0.82984526167467387,
+        "x" : 0.064337378236500598,
+        "y" : 0.12662479255365366
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "사의 'have+과거분사'는 '현재는 ~하고 난 후의 상태를 갖고 있다'는 것을 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02051435925358136,
+        "width" : 0.057603688098816011,
+        "x" : 0.066820275631851583,
+        "y" : 0.15697674405059503
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469782,
+        "width" : 0.8041474809095116,
+        "x" : 0.087557593397010747,
+        "y" : 0.18149466214989551
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "한편, 일반적인 과거형은 '현재가 아닌, 과거의 언제 그것을 했는가'에 의미상 초"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021707453337428406,
+        "width" : 0.11120807771454072,
+        "x" : 0.064211629221112732,
+        "y" : 0.21152999423823049
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "점을 둔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016014234875444844,
+        "width" : 0.23502303582152462,
+        "x" : 0.073732721541362636,
+        "y" : 0.27179715338712485
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.99338842975206609,
+      "text" : "⑦ valuable information"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018884665601194173,
+        "width" : 0.59020049144922426,
+        "x" : 0.18645057739340087,
+        "y" : 0.30227292171134679
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.68932874354561102,
+      "text" : "'do(~하다)가 have done으로 바뀌면 '이미 끝났다'라는 의미가 되는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021302218114778171,
+        "width" : 0.63384755811166693,
+        "x" : 0.098972598106151985,
+        "y" : 0.32255237401861803
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.93848226313426131,
+      "text" : "현재완료를 처음으로 학교에서 배웠을 때, 다음 문장과 같은 표현을 배운 적이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016138376290263712,
+        "width" : 0.34562211783211388,
+        "x" : 0.096774194488519538,
+        "y" : 0.35174418609192371
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.99678800856531047,
+      "text" : "I have done it. 나는 (이미) 그것을 끝냈다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019544925553942938,
+        "width" : 0.77223625236909377,
+        "x" : 0.094275205341753585,
+        "y" : 0.37930346853369989
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.95540540540540542,
+      "text" : "'~하다'라는 뜻의 do가 '끝나다'라는 뜻으로 쓰이는 이유를 생각해 본 적이 있는가? have done이l"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019969565164152048,
+        "width" : 0.7767061951802714,
+        "x" : 0.087446620569905986,
+        "y" : 0.39942495655497057
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.9297385620915033,
+      "text" : "다 하고 난 후의 상태를 안고 있다'라는 의미라는 것을 알게 되면, 이것이 매우 자연스러운 표현이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016014234875444844,
+        "width" : 0.18433178900327268,
+        "x" : 0.085253460213975063,
+        "y" : 0.41859430588101731
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.88729874776386408,
+      "text" : "것을 알 수 있을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016635360242633235,
+        "width" : 0.47270062746551039,
+        "x" : 0.43530881444144703,
+        "y" : 0.92990116505451592
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.96145610278372595,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 71"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    642
+  ],
+  "pdf_page_index" : 67,
+  "pdf_page_number" : 68
+}

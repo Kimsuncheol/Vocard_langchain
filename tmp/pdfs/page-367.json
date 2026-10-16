@@ -1,0 +1,490 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020508759404667343,
+        "width" : 0.55452434999722955,
+        "x" : 0.099767989572150814,
+        "y" : 0.075421473068059131
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "It's hard to live up to one's parents' expectations."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017476682654501863,
+        "width" : 0.33642690672096626,
+        "x" : 0.099767985036919568,
+        "y" : 0.10319767443200978
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "부모님의 기대에 부응하는 것은 힘들다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.034869051021924613,
+        "width" : 0.63485384460882099,
+        "x" : 0.10391773041379841,
+        "y" : 0.11452021596281425
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.3125845737483085,
+      "text" : "INe up to ~의 뜻은 '~의 기대에 부응하도록 열심히 살다'이다. Iive up은 •위에 UP"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016139266548055198,
+        "width" : 0.58468675545766846,
+        "x" : 0.12064966164078533,
+        "y" : 0.14374445471235553
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.27179487179487177,
+      "text" : "계속 있을 수 있도록 열심히 살다'란 이미지이다. to는 '도착하다. 도달하다'의 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.071925754411846177,
+        "x" : 0.12064965178811071,
+        "y" : 0.1641526173397434
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.092307692307692313,
+      "text" : "미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02831155426648202,
+        "width" : 0.81010534408244672,
+        "x" : 0.074073103765850162,
+        "y" : 0.20548317183819509
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "한편으로 down은 '떠내려가서 아래로 가는' 느낌이 있어, '동네, 자신이 사는 지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030458929270056334,
+        "width" : 0.82866297512189724,
+        "x" : 0.055471425576457373,
+        "y" : 0.23388467977662364
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "역' 또는 '시내, 번화가'처럼 편안한 이미지의 이완, 휴식을 나타내는 의미로 사용되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022008104671285444,
+        "width" : 0.16480265948789338,
+        "x" : 0.053329528668124578,
+        "y" : 0.26443199372500104
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "는 경우가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022048713257594166,
+        "width" : 0.48772708541112586,
+        "x" : 0.099572490738037783,
+        "y" : 0.31097002930539608
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "We went downtown to do some shopping."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016139266548055087,
+        "width" : 0.30162411953540558,
+        "x" : 0.10208817213393601,
+        "y" : 0.34011627872892625
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "우리는 쇼핑을 좀 하러 시내에 갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.63341064453124996,
+        "x" : 0.055684473886733789,
+        "y" : 0.36191860486760663
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.18075117370892019,
+      "text" : "에 She is an uptown girl. 그녀는 부유층 지역에 사는 아가씨야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017105776119147542,
+        "width" : 0.48513711699357276,
+        "x" : 0.055591042834448948,
+        "y" : 0.38992209483035611
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.12044374009508717,
+      "text" : "예문 We had dinner down at the restaurant."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019221858419775417,
+        "width" : 0.3599905027565381,
+        "x" : 0.099636810282501737,
+        "y" : 0.41397823483543394
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "우리는 근처 동네 식당에서 저녁을 먹었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016043829727511394,
+        "width" : 0.50348025923925088,
+        "x" : 0.10440836228841534,
+        "y" : 0.4374445426914626
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.20068027210884354,
+      "text" : "- down at the restaurant는 '동네 식당, 근처 식당'이라는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023721566322956189,
+        "width" : 0.21022905931405145,
+        "x" : 0.14322577777254053,
+        "y" : 0.48264089344431971
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.96672828096118302,
+      "text" : "출현을 나타내는 Up"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.52436194453679075,
+        "x" : 0.074245938520467791,
+        "y" : 0.52034883726376679
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "up은 '떠오르다'라는 뜻으로 출현의 의미를 지닌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010211819764672891,
+        "width" : 0.034802784480101677,
+        "x" : 0.055684454493841719,
+        "y" : 0.57409050583662768
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.99099099099099097,
+      "text" : "내문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020931276052317482,
+        "width" : 0.60342004654255321,
+        "x" : 0.088065244138493926,
+        "y" : 0.56854065335654058
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "I came up with a great idea. 나에게 멋진 생각이 떠올랐어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241273,
+        "width" : 0.77958239832668441,
+        "x" : 0.10440833671508358,
+        "y" : 0.59582963657342758
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.31347962382445144,
+      "text" : "- come up with ~는 '~을 생각해 내다'라는 뜻이다. 바다 밑에서 아이디어를 주워, 그것을 가지고(With)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017489209043947906,
+        "width" : 0.33670872897966536,
+        "x" : 0.12513619834999834,
+        "y" : 0.61454971499533462
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.36249999999999999,
+      "text" : "해수면 위로 떠오르는(come up) 이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011751718191097771,
+        "width" : 0.032482599028458833,
+        "x" : 0.055684454406884284,
+        "y" : 0.63953488353487586
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.9850746268656716,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021097803496637479,
+        "width" : 0.54770295704510197,
+        "x" : 0.099695437624917282,
+        "y" : 0.63656350894318359
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "He showed up at the party. 그는 그 파티에 나타났다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014671591392320771,
+        "width" : 0.47563805546320925,
+        "x" : 0.1044083503700224,
+        "y" : 0.66279069782733835
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.1638655462184874,
+      "text" : "> show up은 '(장소에) 나타나다, 모습을 보이다'라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.24825987038037456,
+        "x" : 0.099767976527865523,
+        "y" : 0.68456078062819636
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "Whatsup? 요즘어때?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014743814239908115,
+        "width" : 0.7795823983266843,
+        "x" : 0.10440833668675799,
+        "y" : 0.70930232573657903
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.34241245136186771,
+      "text" : "* 직역하면. \"무엇이 출현하고 있어?(무슨 일이 있어?)'라는 말이다. 이는 요즘 어때?\"라는 친근한 인사로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014693516593330624,
+        "width" : 0.51044082100509747,
+        "x" : 0.12529003022067003,
+        "y" : 0.72803904138522546
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.32876712328767121,
+      "text" : "도 사용된다. 전형적인 대답으로는 Not much.(별일 없어.) 등이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.80974476049977828,
+        "x" : 0.074245949060656555,
+        "y" : 0.77462289257141215
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "마지막으로, 인터넷에 사용되는 upload, download라는 표현에서 up은 추상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.83062648908466297,
+        "x" : 0.053364249537802923,
+        "y" : 0.80212954782220069
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "적인 세계, down은 구체적인 세계라는 것을 알 수 있다. 이는 '하늘=천국'이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023561289803370356,
+        "width" : 0.83542004307956552,
+        "x" : 0.05330472196534361,
+        "y" : 0.82821178863463696
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "up의 세계와 '하게= 현실'이라는 down의 세계가 그 토대가 되었다고 생각된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019105569387603438,
+        "width" : 0.83062648908466308,
+        "x" : 0.0533642495408665,
+        "y" : 0.85755813990611229
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "인간은 위아래라는 방향을 이용해서, 다양한 추상적 개념을 이해하고 있다는 것을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02261382494759745,
+        "width" : 0.11870614991965869,
+        "x" : 0.055496113605434029,
+        "y" : 0.88331518033575007
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.43387472815547434,
+        "x" : 0.47563804183873604,
+        "y" : 0.92724046131969973
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.94930875576036866,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 379"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 367,
+  "pdf_page_number" : 368
+}

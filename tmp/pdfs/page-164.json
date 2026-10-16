@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026127249134676456,
+        "width" : 0.55015120269558959,
+        "x" : 0.057821362137951436,
+        "y" : 0.068949860718457545
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.0082987551867219917,
+      "text" : "변함없이 학생인 상태가 계속되다'라는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011738820740260558,
+        "width" : 0.044083526286673044,
+        "x" : 0.1229698380457586,
+        "y" : 0.11337209317309516
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.94999999999999996,
+      "text" : "Toky!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02487954187943231,
+        "width" : 0.559164753366024,
+        "x" : 0.32714616133599145,
+        "y" : 0.12063953497035063
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.0048543689320388345,
+      "text" : "'도쿄에 있다'에서 '있다'는 'in Tokyo라는 상태로 존재"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941337,
+        "width" : 0.25986079222767072,
+        "x" : 0.3109048705858421,
+        "y" : 0.14951197912417391
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.023178807947019868,
+      "text" : "하다라는 것을 의미한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021825539928256754,
+        "width" : 0.80742455881538122,
+        "x" : 0.078886325597281232,
+        "y" : 0.22529069775483834
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그러므로 be동사의 '~한 상태로 존재하다'라는 의미에서 I am a student.(2형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023279028438104366,
+        "width" : 0.82830628740026591,
+        "x" : 0.058004626883228008,
+        "y" : 0.25288376234928678
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "식)의 경우, be동사가 지닌 '상태'의 의미가 부각되고 I am in Tokyo.(1형식)의 경"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024359229188528175,
+        "width" : 0.52920692389738466,
+        "x" : 0.055567892154284093,
+        "y" : 0.27952937361253039
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "우, be동사가 지닌 '존재'의 의미가 부각되는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.48491877562610819,
+        "x" : 0.12993040327466479,
+        "y" : 0.33717834931983282
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.98053691275167787,
+      "text" : "- 보어 자리의 형용사 앞에 be동사가 오는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020542292015258479,
+        "width" : 0.75870066974179973,
+        "x" : 0.076566136378133504,
+        "y" : 0.37209302296816504
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "2형식 문장에서는 보어에 '학생'과 같은 명사뿐 아니라 형용사도 올 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025516239223801751,
+        "width" : 0.1901292083956671,
+        "x" : 0.057071568057159135,
+        "y" : 0.41863472310234839
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.34854014598540145,
+      "text" : "에e He is happy"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01614442586687248,
+        "width" : 0.31090486134197692,
+        "x" : 0.055684460183261703,
+        "y" : 0.45058139500702321
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.21493212669683259,
+      "text" : "예문 This flower is beautiful."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020547450487869656,
+        "width" : 0.66589325167608593,
+        "x" : 0.078886320680435634,
+        "y" : 0.49689441009168822
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "형용사는 명사의 모습을 설명하는 말로, 아래와 같은 특징이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020510049022820054,
+        "width" : 0.54060322646553627,
+        "x" : 0.081206507305799452,
+        "y" : 0.55668604638875341
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "① 변함없이 어떤 상태가 지속되고 있음을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.75638046805740244,
+        "x" : 0.10904874499364928,
+        "y" : 0.58284883730325421
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, '아름다운'의 경우 '아름다워지다'라는 변화와 달리, '아름다운'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021919687976854063,
+        "width" : 0.35266821029338435,
+        "x" : 0.10904872536131491,
+        "y" : 0.61180124201193031
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "상태가 계속되고 있음을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.68213457689217649,
+        "x" : 0.078886307729870639,
+        "y" : 0.63953488359911437
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "② 현재나 과거처럼 언제를 말하는 것인지 시간을 나타낼 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023756440170274562,
+        "width" : 0.81005850717531025,
+        "x" : 0.076418524423966211,
+        "y" : 0.71257049707615261
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 형용사는 '상태'를 의미하는 be동사와 매우 잘 맞고, be동사는 형용사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020477806876587845,
+        "width" : 0.40139212101063826,
+        "x" : 0.055684449815970011,
+        "y" : 0.7412790696431627
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "가 나타낼 수 없는 시간을 나타내 준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.44547565000277045,
+        "x" : 0.055684448678429234,
+        "y" : 0.79636202325933159
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.97196916608269091,
+      "text" : "• 진행형에 be동사가 사용되는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028967270939986967,
+        "width" : 0.81473683025820054,
+        "x" : 0.076429927983390489,
+        "y" : 0.83133595162391138
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "진행형에 사용되는 be동사의 역할은 -ing만으로는 나타낼 수 없는 '현재, '과거'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023794089573722199,
+        "width" : 0.34415711747839101,
+        "x" : 0.053065603627049228,
+        "y" : 0.8585979118280006
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "와 같은 시간을 나타내는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015410488436681136,
+        "width" : 0.42482169942652925,
+        "x" : 0.48479559138511374,
+        "y" : 0.92416710962598492
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.91055456171735238,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 171"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 164,
+  "pdf_page_number" : 165
+}

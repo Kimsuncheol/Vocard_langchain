@@ -1,0 +1,265 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021839726574143903,
+        "width" : 0.80974476049977839,
+        "x" : 0.085846877169123578,
+        "y" : 0.074090505744099033
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 눈여겨 볼 부분은, 같은 he is difficult라도 자연스러운 경우와 부자연"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021949350886780628,
+        "width" : 0.83294660419437061,
+        "x" : 0.064965212645151968,
+        "y" : 0.10159716049541334
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "스러운 경우가 있다는 것이다. 그리고 difficult는 kind나 nice, mean(심술국은)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024682313230255604,
+        "width" : 0.8332387071974735,
+        "x" : 0.06249442692151843,
+        "y" : 0.12672765577105238
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "arrogant(오만한) 등과 비교하면 사람의 성질이나 성격을 나타낸다고 말하기 어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020485545431710883,
+        "width" : 0.82134568234707439,
+        "x" : 0.064965209752155584,
+        "y" : 0.15697674406498752
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "려운 표현이다. 3번 문장에서 he is difficult라고 말할 수 있는 이유는 무엇일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02182167107379851,
+        "width" : 0.39907191932624114,
+        "x" : 0.088167056459339976,
+        "y" : 0.21073646821828762
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "영어에는 tough 구문이라는 것이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021931295386435457,
+        "width" : 0.37587007563164893,
+        "x" : 0.083526679008699575,
+        "y" : 0.23824312297459871
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "3번 문장은 tough 구문의 일종이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021918397512495136,
+        "width" : 0.80974476049977839,
+        "x" : 0.083526693899376017,
+        "y" : 0.26441881137199386
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "tough 구문이란, 일반적으로 사람이나 물건에 대해 '~하기 쉽거나 ~하기 어려"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025089877415464867,
+        "width" : 0.39054946358322251,
+        "x" : 0.064645670781274728,
+        "y" : 0.28897260574908801
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "운' 난이도 평가를 나타내는 구문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147795,
+        "width" : 0.81670536555296991,
+        "x" : 0.083526667643486721,
+        "y" : 0.31976744159562154
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "tough 구문이라는 명칭이 생긴 이유는, tough가 '힘든, (고기가) 질긴'과 같이'~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026228272608136871,
+        "width" : 0.82872331768062946,
+        "x" : 0.064755071699776845,
+        "y" : 0.34384938611916205
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "하기 어려운' 이미지의 형용사로 이 구문의 예문에서 전형적으로 사용되다 보니 어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020459751376242674,
+        "width" : 0.38283063739749557,
+        "x" : 0.06496519163081331,
+        "y" : 0.37488908594421355
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "느새 tough 구문으로 불리게 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027751973379789963,
+        "width" : 0.81020100911458337,
+        "x" : 0.083277519908232067,
+        "y" : 0.39817178963249522
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "3번 문장은 dlifficult가 사용된 것으로 알 수 있듯이, '~하기 어려움'을 나타내고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.82830628740026602,
+        "x" : 0.064965185631071592,
+        "y" : 0.42857142829208206
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "있다. 앞에서 언급된 This computer is easy to use. 문장도 '쉬움'을 나타내는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021484809949954498,
+        "width" : 0.18592540118711215,
+        "x" : 0.060169550879107664,
+        "y" : 0.45582736231605958
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "tough 구문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.80742455881538111,
+        "x" : 0.08584688516775206,
+        "y" : 0.48401162764655092
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "다음 학습에서는 tough 구문의 형태적 특징, 의미의 특징, 나아가 가주어 ic를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023359477255549543,
+        "width" : 0.56184778957502213,
+        "x" : 0.062484213986856871,
+        "y" : 0.50867782661757244
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "사용하는 문장과 어떤 차이가 있는지 살펴보도록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015667066599482804,
+        "width" : 0.42712584150598404,
+        "x" : 0.48713547046265365,
+        "y" : 0.9257792383222293
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.88821138211382111,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 185"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 178,
+  "pdf_page_number" : 179
+}

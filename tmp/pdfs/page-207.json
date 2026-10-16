@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.80555549783909586,
+        "x" : 0.085648177932303962,
+        "y" : 0.071174377237759989
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "학교에서 미래의 일을 말하는 것이라도 if 뒤에 will을 붙이지 않고 동사를 현재"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.43749999999999994,
+        "x" : 0.064814814687362207,
+        "y" : 0.098754448037781661
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "형으로 사용하라고 배운 적이 있지 않은가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020309919140092836,
+        "width" : 0.45176664311835113,
+        "x" : 0.069280410110419216,
+        "y" : 0.12905493782500088
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.16611842105263158,
+      "text" : "에로 If it rains tomorrow, | will not go out."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020504013923563491,
+        "width" : 0.40509258297318257,
+        "x" : 0.10879630098957978,
+        "y" : 0.15391459080054126
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "만약 내일 비가 오면, 난 밖에 나가지 않을 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02054539439516978,
+        "width" : 0.8055555844137855,
+        "x" : 0.083333318791942931,
+        "y" : 0.2032918149830365
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "셰익스피어가 살던 시대 정도의 옛날 영어에서는 현재형이 아니라 가정법 현재,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469671,
+        "width" : 0.82870366522606376,
+        "x" : 0.062500016152400223,
+        "y" : 0.22953736628293664
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "즉 동사원형이 쓰였다.'지금은 비가 오지 않지만, 만약 앞으로 비가 온다면'이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021973019392889204,
+        "width" : 0.42129629148659131,
+        "x" : 0.062500002287104714,
+        "y" : 0.25872093038411081
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "의미로 가정법 현재가 사용되었던 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020590454658155455,
+        "width" : 0.21897546213569374,
+        "x" : 0.080355544691659245,
+        "y" : 0.30671113673402517
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "If it rain tomorrow,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.80787033189273061,
+        "x" : 0.083333352459867505,
+        "y" : 0.36032028473415223
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 현대 영어에서는 이러한 가정법 현재가 사라지면서 직설법 현재형이 되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052987682437557,
+        "width" : 0.057870369769157243,
+        "x" : 0.062500000165575692,
+        "y" : 0.38790035575616644
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024984412346021889,
+        "width" : 0.80815775986258864,
+        "x" : 0.083199001050170182,
+        "y" : 0.41226302565665884
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "가정법 현재는 '지금은 실제로 그렇지 않지만, 앞으로 만일 그렇게 된다면'이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.82870366522606387,
+        "x" : 0.062500019094028761,
+        "y" : 0.4417259787614447
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "의미뿐만 아니라 '지금은 그렇지 않지만, 앞으로 그렇게 하라'는 명령이나 부탁의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.22222222943677966,
+        "x" : 0.062499996271836486,
+        "y" : 0.47093023246790766
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "의미로도 사용되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026976115338743001,
+        "width" : 0.80812832446808525,
+        "x" : 0.083202379269038965,
+        "y" : 0.49404017079624152
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "그래서 suggest, demand, recommend와 같이 '~하라, ~하자'라고 제안/요"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02326098625346007,
+        "width" : 0.83101849927969873,
+        "x" : 0.060185192779132202,
+        "y" : 0.52179715269299043
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "구/권유하는 동사 뒤에 오는 '~하라'의 내용을 나타내는 that 절에, 가정법 현재인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962674911336189,
+        "width" : 0.83101849927969862,
+        "x" : 0.062500009476743376,
+        "y" : 0.55232558154941758
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "동사원형이 쓰이는 것이다. 명령문이 동사원형을 쓰는 것과 비슷한 느낌이라고 생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021160764626336648,
+        "width" : 0.1349499208707336,
+        "x" : 0.062184290812440951,
+        "y" : 0.57864299319613832
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "각하면 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022696644385938547,
+        "width" : 0.81035701670545213,
+        "x" : 0.080927295620410331,
+        "y" : 0.63350245527596871
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이 구문은 문법 문제로 자주 다루어질 뿐만 아니라, 현대 미국 영어에서 일반적으"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022473107877575282,
+        "width" : 0.19000817697944372,
+        "x" : 0.060088504004621193,
+        "y" : 0.66100181813610615
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "로 사용되고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020566085055205297,
+        "width" : 0.8125,
+        "x" : 0.081018518248717378,
+        "y" : 0.68895348828629144
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이 구문에서 동사원형을 쓰는 것이 서툰 학습자들은 반드시 명령문에서 동사원"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052987682437557,
+        "width" : 0.83101849927969862,
+        "x" : 0.060185194630493571,
+        "y" : 0.71656976735862232
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "형을 쓰는 것과 같은 느낌으로 사용해 보기를 바란다. 이를 통해 이 구문을 더욱"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021947157340541867,
+        "width" : 0.36805554112644062,
+        "x" : 0.060185192281687137,
+        "y" : 0.7427325582901213
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "능숙하게 사용할 수 있게 될 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01472626886333861,
+        "width" : 0.3472222077931072,
+        "x" : 0.56944445485344641,
+        "y" : 0.92877906944450739
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.97747747747747749,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지 않다 215"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 207,
+  "pdf_page_number" : 208
+}

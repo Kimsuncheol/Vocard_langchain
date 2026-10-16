@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033444444444444388,
+        "width" : 0.12761020525127439,
+        "x" : 0.14153132431613721,
+        "y" : 0.091555555909672126
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99946921443736725,
+      "text" : "Mus 99"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032124031914605,
+        "width" : 0.39907191932624109,
+        "x" : 0.14617169676821304,
+        "y" : 0.1306666664542977
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99938987187309336,
+      "text" : "에세이 글쓰기의 형식"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03154453870985241,
+        "width" : 0.26752228432513303,
+        "x" : 0.15047226601592964,
+        "y" : 0.16466535248627356
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99908883826879269,
+      "text" : "② 본론과 결론"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021892764621310734,
+        "width" : 0.38283063739749557,
+        "x" : 0.14153131682909451,
+        "y" : 0.21366279058725435
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99979604323883342,
+      "text" : "• 일단 쓸 줄 알면, 말하는 것도 가능하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021208140055338554,
+        "width" : 0.10251629335660459,
+        "x" : 0.20396227141545856,
+        "y" : 0.30770988328723026
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.98575498575498577,
+      "text" : "본론이란"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020501292758517753,
+        "width" : 0.81206496218417545,
+        "x" : 0.13689095262396919,
+        "y" : 0.34577777737947235
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "본론은 보통 3개의 단락으로 구성된다. 도입부에서 언급한 자신의 의견을 뒷받"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02255753411187067,
+        "width" : 0.53169650896221188,
+        "x" : 0.11583307004593896,
+        "y" : 0.37141424594340466
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "침하는 3가지 이유를 깊이 있게 제시하는 파트이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023396485222710428,
+        "width" : 0.61512615663785453,
+        "x" : 0.1367559404666514,
+        "y" : 0.39921257156255119
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "다시 한 번 택배에 비유하면, 도입부에서 상자에 모아 읽는 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.63573084621564724,
+        "x" : 0.11600928668686697,
+        "y" : 0.42711111138077196
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "에게 전달했던 정보를, 본론에서는 상자에서 하나하나 꺼내듯"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021947028266058988,
+        "width" : 0.63573084621564724,
+        "x" : 0.11600928653328815,
+        "y" : 0.45494186035494832
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이 구체적으로 펼친다. 도입부의 마지막에 작성한 내용을 다시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021886305067274292,
+        "width" : 0.06264501260527483,
+        "x" : 0.11368909449009265,
+        "y" : 0.48255813937575076
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.784222715120789,
+        "x" : 0.13689096250921107,
+        "y" : 0.53633720949663888
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "Considering that 이유 ① S+V ~, 이유② S+V ~, and 이유 ③ S+V ~, 자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020490956624348966,
+        "width" : 0.39675176092918885,
+        "x" : 0.13689094076083363,
+        "y" : 0.5639534879912812
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "신의 의견(의견 A 또는 B 중 어느 쪽인지)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021877260843912838,
+        "width" : 0.80974476049977839,
+        "x" : 0.13689096067515147,
+        "y" : 0.61911111134382935
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "본론에서는 이유 ①, ② ③에 관해서 각 하나씩 단락을 만들어, 총 3개의 단락을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020962509155273423,
+        "width" : 0.10566331579330121,
+        "x" : 0.11545675664461427,
+        "y" : 0.64492348468937577
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "작성한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026023459540473137,
+        "width" : 0.81243965744126767,
+        "x" : 0.134379901778339,
+        "y" : 0.69802092170639296
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "에세이 글쓰기에서는 보통 300 words 이상의 분량이 요구된다. 그렇게 되면, 본"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.8329466041943705,
+        "x" : 0.11368911073334918,
+        "y" : 0.72800000039053481
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "론에서 단락을 하나만 쓰는 것으로는 그 분량을 채우기 힘들고, 하나의 이유를 가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024282726711697067,
+        "width" : 0.75662036652260645,
+        "x" : 0.11357367547402412,
+        "y" : 0.75389206688270027
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "지고 한 단락을 길게 쓰면 쓸 내용이 고갈될 수 있으며, 내용이 지루해진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024714157104492207,
+        "width" : 0.81223811156360803,
+        "x" : 0.13446970823876747,
+        "y" : 0.78168509586298651
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그래서 3가지 이유를 들어, 3개의 단락에서 각기 다른 논의를 하는 것을 권"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962532043456995,
+        "width" : 0.058004641701989143,
+        "x" : 0.11368909432446948,
+        "y" : 0.80959302308911063
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021841085645887492,
+        "width" : 0.3433874684868129,
+        "x" : 0.13457076679736249,
+        "y" : 0.86482558128899134
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "본론의 단락 형태는 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.039443155383387357,
+        "x" : 0.081206496446523099,
+        "y" : 0.92577777791834337
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 1,
+      "text" : "428"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 414,
+  "pdf_page_number" : 415
+}

@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030693950177935969,
+        "width" : 0.12064965204759076,
+        "x" : 0.1368909512585611,
+        "y" : 0.088523131527316057
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99688084840923263,
+      "text" : "Musi 81"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.036401134368787891,
+        "width" : 0.75214568051424902,
+        "x" : 0.13902683724555037,
+        "y" : 0.12361151286454386
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99787895927601811,
+      "text" : "with: 항상 사이좋은 '함께'를 나타내지는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030709468597194922,
+        "width" : 0.13457076116041702,
+        "x" : 0.13689095293358369,
+        "y" : 0.15969750809580796
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99857752489331442,
+      "text" : "않는다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.30162412470037292,
+        "x" : 0.13921113942224403,
+        "y" : 0.21218861232893271
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99646954986760816,
+      "text" : "• with에는 '갈등'의 의미도 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025798592278965859,
+        "width" : 0.39256104555996973,
+        "x" : 0.13436394914090719,
+        "y" : 0.29892679815534917
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.98857868020304573,
+      "text" : "I with의 어원을 통해 파악하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023338574107431453,
+        "width" : 0.81206495111638843,
+        "x" : 0.12993040134960224,
+        "y" : 0.34875444874578343
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "with는 with you가 '당신과 함께'라는 뜻인 것처럼, '함께'라는 의미가 대표적"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021921294439729788,
+        "width" : 0.058004639365456329,
+        "x" : 0.10904872442013339,
+        "y" : 0.37633451917421867
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.80974474820223719,
+        "x" : 0.13225059561523686,
+        "y" : 0.40552325573175507
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 약 8~12세기에 사용되던 고대 영어에서는 against에 가까운 의미로 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025994904949147468,
+        "width" : 0.83313638513738453,
+        "x" : 0.11126767839129169,
+        "y" : 0.42772717101755342
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "용되었고, 약 12~16세기가 되어 '함께'라는 의미로 전환되었다고 한다.(출처:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02538418515297014,
+        "width" : 0.83334549990567286,
+        "x" : 0.10886511815568162,
+        "y" : 0.45651132206959422
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "ONLINE ETYMOLOGY DICTIONARY) with가 가지고 있던 against의 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021978192482130399,
+        "width" : 0.56844546578147193,
+        "x" : 0.10904872870921313,
+        "y" : 0.48691860480441707
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "미는 현대 영어에서도 다음 표현과 같이 찾아볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021936812010524109,
+        "width" : 0.5081206668506969,
+        "x" : 0.12993038576490676,
+        "y" : 0.53633720945291208
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "withstand (열과 충격 등에) 견뎌 내다, 버티다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013096912899899671,
+        "width" : 0.22969837622209027,
+        "x" : 0.1299303941543733,
+        "y" : 0.56539145917565226
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.36263736263736263,
+      "text" : "with(반대하여) + stand(서다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.45475638996471057,
+        "x" : 0.1322505753076679,
+        "y" : 0.58430232549229399
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "withhold 보류하다. 알리지 않고 숨기다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01474178643413282,
+        "width" : 0.24129930409518158,
+        "x" : 0.12993039425042419,
+        "y" : 0.61337209283759531
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.30882352941176472,
+      "text" : "with(반대 측에) + hold(가지다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021952329581318319,
+        "width" : 0.54756381294944068,
+        "x" : 0.13225057597768403,
+        "y" : 0.63211743768775519
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "withdraw 철회하다, 철수하다, (예금을) 인출하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.2691415223208341,
+        "x" : 0.12761021321128971,
+        "y" : 0.66133720930607864
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.38783269961977185,
+      "text" : "With(반대로)+draw(당기다, 끌다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023473522417061687,
+        "width" : 0.81689331748268812,
+        "x" : 0.12518428107762125,
+        "y" : 0.70200175632554951
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "\"함께'라는 의미와 '반대하여'라는 의미처럼 반대되는 의미가 전환되어 사용되는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890259298141368,
+        "width" : 0.60092808983542711,
+        "x" : 0.10904871598576675,
+        "y" : 0.73255813968837702
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "과정은, 스포츠나 게임의 예를 생각하면 이해하기 쉬워진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012010676156583577,
+        "width" : 0.037122970277612868,
+        "x" : 0.10904872354255475,
+        "y" : 0.78469750895687218
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.97350993377483441,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020687166057871798,
+        "width" : 0.28806348280473193,
+        "x" : 0.14366392292984384,
+        "y" : 0.78064793063646054
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "ㅣ played tennis with Jeff."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.28306265310807666,
+        "x" : 0.15545243202762213,
+        "y" : 0.80649466224893229
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "나는 제프와 함께 테니스를 쳤다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.33410672707991168,
+        "x" : 0.10904872450872073,
+        "y" : 0.83139534851186103
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.18630751964085299,
+      "text" : "예문 He played cards with me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019280319960516046,
+        "width" : 0.29049008542841132,
+        "x" : 0.15526803969886915,
+        "y" : 0.85580865925097704
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "그는 나와 함께 카드 게임을 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014736613344891625,
+        "width" : 0.039443154226649901,
+        "x" : 0.83990719307228978,
+        "y" : 0.88517441837861599
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "대립"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01312277580071175,
+        "width" : 0.037122970277612855,
+        "x" : 0.078886310576584143,
+        "y" : 0.9243772241458178
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.9550561797752809,
+      "text" : "356"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 344,
+  "pdf_page_number" : 345
+}

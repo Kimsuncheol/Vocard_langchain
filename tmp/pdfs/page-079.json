@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027113005864216388,
+        "width" : 0.83185403161015059,
+        "x" : 0.07138292887473642,
+        "y" : 0.067733206164059312
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "되는 무엇을 하고 있는 중인 상황'을 나타내고, My dad has been reading a"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021586557548101348,
+        "width" : 0.83156980690381199,
+        "x" : 0.069205299377945867,
+        "y" : 0.097829185939361185
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "newspaper for three hours.는 '3시간 전부터 현재까지'로 시간을 잘라서 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020919969800109239,
+        "width" : 0.18491518277648494,
+        "x" : 0.071514694865652276,
+        "y" : 0.12616792206198735
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "내는 차이가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.41570438899046991,
+        "x" : 0.15473441054340423,
+        "y" : 0.1844919784812411
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.98014888337468986,
+      "text" : "-have studied English for 10 years와"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.46189376073526156,
+        "x" : 0.15935335046128582,
+        "y" : 0.21212121205459167
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.97320724980299445,
+      "text" : "have been studying English for 10 years"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.39627371713624776,
+        "x" : 0.092378763065368172,
+        "y" : 0.26737967903688287
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "Ihave studied English for 10 years.듏"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022009553756305866,
+        "width" : 0.40490380686225624,
+        "x" : 0.14285313284303028,
+        "y" : 0.2892198235940171
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "나는 (현재까지) 영어를 10년 동안 공부해 왔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.47113162642675094,
+        "x" : 0.092378759399704038,
+        "y" : 0.33556149763671295
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "Ihave been studying English for 10 years."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941124,
+        "width" : 0.39260968147440156,
+        "x" : 0.14318707600507349,
+        "y" : 0.36185383202263677
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "나는 (현재까지) 영어를 10년째 공부하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183600713012479,
+        "width" : 0.80831411375221629,
+        "x" : 0.092378739705014618,
+        "y" : 0.41131907315775262
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "위의 문장 중 어느 쪽이 옳은지, 그리고 두 문장의 의미 차이는 무엇인지에 대해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183600713012479,
+        "width" : 0.82909931155806738,
+        "x" : 0.071593531150380169,
+        "y" : 0.43894830673007568
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "질문을 받을 때가 있다. 학습자가 영어로 자기소개를 할 때 사용하기 쉬운 문장이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020945090023591573,
+        "width" : 0.13187071888159352,
+        "x" : 0.069168566533756179,
+        "y" : 0.46627164101296348
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027009501601710451,
+        "width" : 0.81334635416666679,
+        "x" : 0.087545718511450002,
+        "y" : 0.48938294372170832
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "\"두 문장 중 어느 것을 사용해도 상관없다.\"가 질문에 대한 답변이지만, 아래 좀"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020532790777304966,
+        "width" : 0.33718244403812059,
+        "x" : 0.069284066546576817,
+        "y" : 0.52180232523803827
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "더 자세히 설명해 보도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021895597325289229,
+        "width" : 0.81293304659796095,
+        "x" : 0.087759804538725575,
+        "y" : 0.57703488353964261
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "I study English.(나는 (평소에) 영어를 공부한다.)와 같이 study를 사용하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813993022234,
+        "width" : 0.83140877798093971,
+        "x" : 0.069284063542339722,
+        "y" : 0.60465116276744935
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "경우, I eat breakfast every day.(나는 매일 아침을 먹는다.)와 같은 동작동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028587422906396265,
+        "width" : 0.77426567348182618,
+        "x" : 0.069025025027586132,
+        "y" : 0.62730637467523676
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "의 '반복'의 이미지는 없으며, 상태동사가 가지고 있는 계속의 이미지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325937199662,
+        "width" : 0.81062358017508851,
+        "x" : 0.090069272142836082,
+        "y" : 0.65843023237680931
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.048316251830161056,
+      "text" : "따라서 I have studied ~는 '10년 전부터 현재까지 계속해 왔다'라는 '계속'의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022019960026052554,
+        "width" : 0.83140877798093982,
+        "x" : 0.069284063488227285,
+        "y" : 0.68582887735645315
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이미지가 있다. 다만, 앞으로도 계속 공부를 할 것인지에 대한 정보는 이 문장에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020686498087782668,
+        "width" : 0.18946790762826909,
+        "x" : 0.069238332439968589,
+        "y" : 0.71349396024465428
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "나타나 있지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020540562967990561,
+        "width" : 0.8083141137522164,
+        "x" : 0.09006927091178292,
+        "y" : 0.74108734434080104
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "한편 I have been studying ~이라고 하면 -ing는 '~하고 있는 중이고 아직"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032601599599800912,
+        "width" : 0.83202622866799636,
+        "x" : 0.068923423102067852,
+        "y" : 0.7625083723855296
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "끝나지 않았다'라는 것을 나타내기 때문에 '현재도 공부하고 있는 중이고 앞으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027430133173597437,
+        "width" : 0.59428022668716762,
+        "x" : 0.068965310481105005,
+        "y" : 0.79099442663202446
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "도 공부를 계속할 것이다'라는 의미를 명확하게 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941124,
+        "width" : 0.47806002569536798,
+        "x" : 0.44803695838018376,
+        "y" : 0.92869875264074653
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.88068181818181823,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 83"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    641
+  ],
+  "pdf_page_index" : 79,
+  "pdf_page_number" : 80
+}

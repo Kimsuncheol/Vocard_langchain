@@ -1,0 +1,490 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020591963026258653,
+        "width" : 0.15553307499445923,
+        "x" : 0.062604692079404473,
+        "y" : 0.076913320795304219
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "하는 경우이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011655038621690594,
+        "width" : 0.03480278448010167,
+        "x" : 0.064965196942083733,
+        "y" : 0.12933333333416919
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372802734463,
+        "width" : 0.47563805546320925,
+        "x" : 0.10440835032673146,
+        "y" : 0.12645348801266931
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "He told me that his car had broken down."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021861022949218767,
+        "width" : 0.37167180920323578,
+        "x" : 0.10883265085146719,
+        "y" : 0.14929592665535907
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "그는 자신의 차가 고장 났다고 내게 말했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316357,
+        "width" : 0.33410672668024166,
+        "x" : 0.52900232099862632,
+        "y" : 0.14970930241002034
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.93893129770992367,
+      "text" : "car nad broken down ne told me"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988371107313437,
+        "width" : 0.023201854516428422,
+        "x" : 0.80510440907589254,
+        "y" : 0.16424418637948279
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 5,
+      "red_ink_fraction" : 1,
+      "text" : "-"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394619411824,
+        "width" : 0.018561484965872288,
+        "x" : 0.87238979104374603,
+        "y" : 0.1656976746197999
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "〉"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02324355231391062,
+        "width" : 0.81226797983156029,
+        "x" : 0.081109332222306513,
+        "y" : 0.19833792478737511
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "여기서는 과거형의 시점, 즉 he told me의 시점이 '이야기의 배경이 되는 시점'이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021999999999999909,
+        "width" : 0.83526680587876767,
+        "x" : 0.060324833602832223,
+        "y" : 0.22800000009524746
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "고 이 시점에서 이미 일어난 후의 상태가 his car had broken down이다. 이 문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024517613728841092,
+        "width" : 0.51561924278313387,
+        "x" : 0.060107603286001086,
+        "y" : 0.25172705793784622
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "장을 다음과 같이 과거형만으로도 나타낼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010222222222222244,
+        "width" : 0.030162413576815983,
+        "x" : 0.062645011193030523,
+        "y" : 0.30666666677539078
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022775385538736925,
+        "width" : 0.42047513055463215,
+        "x" : 0.099523945381786882,
+        "y" : 0.30075962118159194
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "\"My car broke down,” he said to me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024966842651367283,
+        "width" : 0.39530869071365249,
+        "x" : 0.10396980697437877,
+        "y" : 0.32254564991018608
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "\"내 차는 고장 났어.\"라고 그가 나에게 말했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023187239752875399,
+        "width" : 0.38345419160017735,
+        "x" : 0.080932047196873066,
+        "y" : 0.37520356861079596
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "대과거는 후치 수식에도 많이 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022630908542209283,
+        "width" : 0.61522112907247339,
+        "x" : 0.060139484483317948,
+        "y" : 0.42467722678249864
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.10365488316357101,
+      "text" : "예e |lost my camera that Ihad bought the day before."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.32018562479222074,
+        "x" : 0.10672853319202152,
+        "y" : 0.45058139553882193
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "나는 전날에 산 카메라를 잃어버렸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014274303860134507,
+        "width" : 0.1145054377562611,
+        "x" : 0.57724581609587333,
+        "y" : 0.44884546150571625
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.95959595959595956,
+      "text" : "l.had bought"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011640826755099809,
+        "width" : 0.04872389989541781,
+        "x" : 0.78886310795313364,
+        "y" : 0.4505813954069513
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.78947368421052633,
+      "text" : "Ilost"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02358648003472219,
+        "width" : 0.81457216519835995,
+        "x" : 0.07878574236163409,
+        "y" : 0.49956618916280471
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "여기서는 과거형의 시점, 즉 lost의 시점이 이야기의 배경이 되는 시점이고, 이 시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02470905812581381,
+        "width" : 0.83316736965314708,
+        "x" : 0.06021394434473068,
+        "y" : 0.52536033602048482
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "점에서 이미 일어난 일, 즉 이 시점의 전날에 일어난 '(카메라를) 산' 행위가 had"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020470284356011281,
+        "width" : 0.22505800504210996,
+        "x" : 0.058004640049137163,
+        "y" : 0.55511111135596369
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "bought로 나타난다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02767312622070317,
+        "width" : 0.60092808067375891,
+        "x" : 0.051044077470545186,
+        "y" : 0.60610465118242285
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.98614810868407032,
+      "text" : "•부정어와 함께 쓰여 ~하자마자'를 의미하는 패턴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02460183631049262,
+        "width" : 0.81455303219193276,
+        "x" : 0.078788407946674133,
+        "y" : 0.6465536253945191
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "다음 예문에 사용되는 barely라는 부정어는 '간신히, '가까스로'라는 의미를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02187855275472006,
+        "width" : 0.83062648908466297,
+        "x" : 0.060324805546698702,
+        "y" : 0.6728888891789645
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "타낸다. '아슬아슬한 상태로 완전히 ~했다고는 할 수 없다'라는 의미로, 일종의 부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019150828043619783,
+        "width" : 0.10042496268630874,
+        "x" : 0.057818767435936863,
+        "y" : 0.70113906238462009
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "정어이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021093437194824149,
+        "width" : 0.55946200756316489,
+        "x" : 0.057880573352418384,
+        "y" : 0.74789269439383976
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.11772400261608895,
+      "text" : "예문 lhad barely sat on the sofa when I fell asleep."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019057800292968774,
+        "width" : 0.68941845183676853,
+        "x" : 0.10659335111507308,
+        "y" : 0.77313674828509416
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.49616648411829134,
+      "text" : "✓ 내가 잠에 빠지기 전의 시점에서, 나는 간신히 이제 막 소파에 앉은 상태를 had하고 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019824386596679733,
+        "width" : 0.32309139603418657,
+        "x" : 0.10882521219988796,
+        "y" : 0.79279187424147068
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "•나는 소파에 앉자마자 잠이 들었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021029078165690107,
+        "width" : 0.74731436655031025,
+        "x" : 0.057909296059788111,
+        "y" : 0.84528089031211073
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.09145427286356822,
+      "text" : "예문 He had barely left home when he was involved in an accident."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017117916531033006,
+        "width" : 0.6893078959580009,
+        "x" : 0.10663778796786223,
+        "y" : 0.87109150269159685
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.4809081527347781,
+      "text" : "* 그가 사고에 연루되었을 때, 그는 간신히 이제 막 집을 나섰을 때의 상태를 had하고 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.38051043571309839,
+        "x" : 0.10672854073366181,
+        "y" : 0.8924418603803268
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "• 그는 집을 떠나자마자 사고에 연루되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.47331785377881203,
+        "x" : 0.43851508691512125,
+        "y" : 0.93155555540444501
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.88216560509554143,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 91"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 87,
+  "pdf_page_number" : 88
+}

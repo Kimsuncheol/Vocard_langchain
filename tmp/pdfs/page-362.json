@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017551679823133659,
+        "width" : 0.069605567238547605,
+        "x" : 0.18097447850064319,
+        "y" : 0.071111110907497888
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.98399999999999999,
+      "text" : "- 회전"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020562015957302449,
+        "width" : 0.69605567238547583,
+        "x" : 0.12993040030642158,
+        "y" : 0.1061046507821285
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "over'의 '넘어서'라는 움직임을 '반회전의 이동'으로 파악하면 '회전'이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.058004639365456329,
+        "x" : 0.11136890988030354,
+        "y" : 0.13511111115315755
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.58004639365456323,
+        "x" : 0.10904872880731381,
+        "y" : 0.1844444443812816
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.10419485791610285,
+      "text" : "예e She tried to persuade Ben over and over again."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018635908338758722,
+        "width" : 0.36008360169150611,
+        "x" : 0.15757624796694311,
+        "y" : 0.20819461484855362
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 벤을 설득하려고 여러 번 시도했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.23665894161571163,
+        "x" : 0.16009280285803754,
+        "y" : 0.23244444453647473
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.42307692307692307,
+      "text" : "*반복적으로 빙빙 도는 이미지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.5429234504699707,
+        "x" : 0.10904871548325454,
+        "y" : 0.25422222210011203
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.10486891385767791,
+      "text" : "예문 ㅣ saw a plastic bag rolling over the sidewalk."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020515326605902828,
+        "width" : 0.40426861156116833,
+        "x" : 0.1552476735351549,
+        "y" : 0.27612672109880565
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "나는 비닐봉지가 보도를 굴러가는 것을 보았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014683462354871946,
+        "width" : 0.28538283434781164,
+        "x" : 0.16009280546367216,
+        "y" : 0.30087209323305619
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.41176470588235292,
+      "text" : "* roll over + 장소:(장소)를 굴러가다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021953440348307263,
+        "width" : 0.71960960734974255,
+        "x" : 0.10887364028881405,
+        "y" : 0.32105957957380893
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.09244186046511628,
+      "text" : "예문 You can roll over the remaining amount to the next month."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021604524400499092,
+        "width" : 0.32574146444147289,
+        "x" : 0.15505828231214427,
+        "y" : 0.34482370857051692
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "잔액은 다음 달로 이월할 수 있습니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014693798489040732,
+        "width" : 0.46403711492365052,
+        "x" : 0.15777262572498107,
+        "y" : 0.37063953509664871
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.37888198757763975,
+      "text" : "roll over A to B: A를 B까지 굴려 이동하게 하다 = 이월하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019113694932725633,
+        "width" : 0.6310904676263982,
+        "x" : 0.10904873358775523,
+        "y" : 0.39244186065869313
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.19298245614035087,
+      "text" : "예e OK. Now turn over a Card. 좋아. 이제 카드 한 장을 뒤집어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.31322505257346411,
+        "x" : 0.13689095471094778,
+        "y" : 0.4171511628622051
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.40540540540540543,
+      "text" : "• 뒤집다(turn) +회전하게 하다(over)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.63805103302001953,
+        "x" : 0.10672854371468916,
+        "y" : 0.43895348856361127
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.098554533508541389,
+      "text" : "예e He turned the issue over and over again in his mind."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01851134575737845,
+        "width" : 0.44803853468461463,
+        "x" : 0.15536164999064814,
+        "y" : 0.46262596708412218
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "그는 머릿속으로 그 문제를 여러 번 곰곰이 생각했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016192506578233568,
+        "width" : 0.63805103302001953,
+        "x" : 0.15777262718620549,
+        "y" : 0.48691860429207745
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.33611111111111114,
+      "text" : "* 고기나 생선을 구울 때 여러 번 뒤집는 이미지로, 문제를 여러 번 뒤집어 생각해 보다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024540479871961729,
+        "width" : 0.37155758250843396,
+        "x" : 0.10426608804970551,
+        "y" : 0.53333162951585356
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.97089639115250292,
+      "text" : "• 문제: ~을 둘러싼, ~에 대한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.81206495111638866,
+        "x" : 0.12761021587229776,
+        "y" : 0.56831395308254173
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.017278617710583154,
+      "text" : "over는 다툼의 이미지를 가지고 있으며, '~을 둘러싼, ~에 대한'이라는 의미가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.058004639365456315,
+        "x" : 0.10672853864818831,
+        "y" : 0.59733333342745676
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01172678756713863,
+        "width" : 0.067328940738331233,
+        "x" : 0.35960699123168216,
+        "y" : 0.63221800133197781
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "구석구석을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010126666598849865,
+        "width" : 0.058464180339466432,
+        "x" : 0.36414191964139009,
+        "y" : 0.64586657704844441
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "바라보다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.067285380580208498,
+        "x" : 0.34570765762587191,
+        "y" : 0.70044444424365715
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "구석구석을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015280202229817741,
+        "width" : 0.077855912121859439,
+        "x" : 0.34051319599280416,
+        "y" : 0.71325878609847693
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "돌아다니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.069605567238547605,
+        "x" : 0.60324826042330848,
+        "y" : 0.70203488389503688
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "~을 둘러싼"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021917312622070306,
+        "width" : 0.81206495111638854,
+        "x" : 0.12761021201224002,
+        "y" : 0.78622222220449067
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "그림에서처럼 '돌아다니다'라는 말은 어떤 공간 안을 구석구석 빠짐없이 이동하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026488864474826346,
+        "width" : 0.8331457484852185,
+        "x" : 0.10661687279388386,
+        "y" : 0.81272808261355933
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "는 이미지가 있는데, 영어의 over도 '덮어서'라는 의미에서 공간을 전부 커버하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022412573920355894,
+        "width" : 0.15335165370594372,
+        "x" : 0.10661883660029782,
+        "y" : 0.84271813162519982
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "이미지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024675252278645865,
+        "width" : 0.80999088287353516,
+        "x" : 0.12749123713819574,
+        "y" : 0.86865210911034874
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서는 어떤 '문제'를 공간으로 보고 판단하여, 그 공간 안의 여러 지점(=별"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.039443154226649887,
+        "x" : 0.076566126018925637,
+        "y" : 0.92441860446120616
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.98684210526315785,
+      "text" : "374"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 362,
+  "pdf_page_number" : 363
+}

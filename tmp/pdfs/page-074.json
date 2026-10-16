@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.80645157957951341,
+        "x" : 0.13594471706508202,
+        "y" : 0.072674418225371018
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "참고로 다른 학습에서 설명할 예정이나 some이 존재에 대한 의문문이나 부정문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021931524488661092,
+        "width" : 0.82718889804081452,
+        "x" : 0.11520739422148481,
+        "y" : 0.10029069757173392
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "에 사용되지 않는 것과, will이 때나 조건을 나타내는 부사절에서 사용될 수 없는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020537467956542987,
+        "width" : 0.20737327069926836,
+        "x" : 0.11520737375032604,
+        "y" : 0.12790697635705528
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "것도 같은 이유이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025370951334635405,
+        "width" : 0.80670312362261987,
+        "x" : 0.13581774226483892,
+        "y" : 0.17320993406333285
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "참고로 ever의 어원을 알면, ever에 '항상'이라는 뜻이 있다는 것도 쉽게 이해할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020521964179144869,
+        "width" : 0.087557605694984664,
+        "x" : 0.11520737214530719,
+        "y" : 0.20622222221014141
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316468,
+        "width" : 0.03225806468969003,
+        "x" : 0.11751152052486594,
+        "y" : 0.25726744189632489
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 5,
+      "red_ink_fraction" : 1,
+      "text" : "예운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021054761250813847,
+        "width" : 0.47254644697912995,
+        "x" : 0.16117431494930548,
+        "y" : 0.25271241856728066
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "We are living in an ever-changing society."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.40552997454601558,
+        "x" : 0.1635944596425766,
+        "y" : 0.27761627925975207
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "우리는 끊임없이 변화하는 사회 속에 살고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027615826076931471,
+        "width" : 0.80909365289470203,
+        "x" : 0.13346035399311737,
+        "y" : 0.32219589058357423
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "ing는 '동작을 하고 있는 중'을 뜻하기 때문에 ever-changing은 '어느 시점에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025503228081597218,
+        "width" : 0.82979335166167123,
+        "x" : 0.11506898005970288,
+        "y" : 0.35262320639754874
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "서 봐도 변화의 도중에 있는'이라는 의미이다. 따라서 '늘 변화하는' '끊임없이 변화"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.25576037580438998,
+        "x" : 0.11751151706761276,
+        "y" : 0.38222222205281386
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "하는'이라는 해석이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02635658942328567,
+        "width" : 0.80645157957951341,
+        "x" : 0.1382488645578058,
+        "y" : 0.40697674406087636
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.15756490599820949,
+      "text" : "그리고 never는 'not+ever'이다. '어느 때나 not, '언제든 not'이기 때문에 '한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023302324930826845,
+        "width" : 0.4193548248247973,
+        "x" : 0.11751152791018199,
+        "y" : 0.43600000027934227
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "번도 없다. 결코 아니다'라는 의미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019041358100043371,
+        "width" : 0.37819156189395275,
+        "x" : 0.11509123111444926,
+        "y" : 0.48555959987230479
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.19345238095238096,
+      "text" : "에문 I have never seen such a guy."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021425469292534749,
+        "width" : 0.5810884333127645,
+        "x" : 0.16569385802996331,
+        "y" : 0.50912971214437674
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.48998822143698467,
+      "text" : ">어느 시점을 떠올려 봐도, 그런 남자를 보았다는 경험은 have하고 있지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014689921908908388,
+        "width" : 0.17972350557701205,
+        "x" : 0.18894009041268078,
+        "y" : 0.53197674439294729
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.52123552123552119,
+      "text" : "한 번도 없다 • 결코 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.33640552945802848,
+        "x" : 0.1635944723348435,
+        "y" : 0.55066666655141405
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "-> 나는 그런 남자를 결코 본 적이 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019553819444444454,
+        "width" : 0.35066657880129359,
+        "x" : 0.11732882596687036,
+        "y" : 0.59270923535073394
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.20294426919032596,
+      "text" : "예문 I have not seen such a guy."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016837471008300686,
+        "width" : 0.42879896069783585,
+        "x" : 0.16579107255680267,
+        "y" : 0.61863877414149226
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.48780487804878048,
+      "text" : "* 그런 남자를 봤다는 경험은 지금까지 have하지 않았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.37327190447593445,
+        "x" : 0.1682027573703278,
+        "y" : 0.63953488363414523
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "-* 나는 지금까지 그런 남자를 본 적이 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026026687622070277,
+        "width" : 0.80682493567634872,
+        "x" : 0.13805855330840652,
+        "y" : 0.68214170950498465
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "위 문장의 해석에서 never는 단순히 'not의 강한 표현'으로밖에는 보이지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029307925754123221,
+        "width" : 0.83019107016925242,
+        "x" : 0.11724414538280414,
+        "y" : 0.70919974052830792
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "는다. 읽기나 듣기에서는 상관이 없지만, 스스로 never를 사용할 때 '표현의 느낌'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021952196756998665,
+        "width" : 0.82949308279707334,
+        "x" : 0.11751152316844253,
+        "y" : 0.73982558128925979
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "을 제대로 파악하지 못하면 큰 문제가 될 수 있다. 단순히 경험이 없음을 담담하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02516617499457463,
+        "width" : 0.82754908294032081,
+        "x" : 0.11733417236507247,
+        "y" : 0.7667306102874516
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.066585956416464892,
+      "text" : "게 나타내는 have not과, 어느 때든 기억에서 찾아봐도 그런 사실이 단 한 번도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022613603379991298,
+        "width" : 0.82510431932629591,
+        "x" : 0.1197057590192418,
+        "y" : 0.7946262334378541
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.11433597185576078,
+      "text" : "없다는 것을 나타내는 have never의 차이를 의식적으로 구분하여 사용하는 것이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024151053534613665,
+        "width" : 0.12769633993947793,
+        "x" : 0.1193315534386057,
+        "y" : 0.82295354296722611
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "바람직하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020183101230197509,
+        "width" : 0.14786807169194616,
+        "x" : 0.209476102147652,
+        "y" : 0.88017007683079584
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.97169811320754718,
+      "text" : "의문문 + ever"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011665374755859381,
+        "width" : 0.027649770502647331,
+        "x" : 0.087557603123205013,
+        "y" : 0.9287790698033016
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 1,
+      "text" : "78"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 74,
+  "pdf_page_number" : 75
+}

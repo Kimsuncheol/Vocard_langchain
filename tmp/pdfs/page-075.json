@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026950200398763058,
+        "width" : 0.80472684141947282,
+        "x" : 0.082687688428750378,
+        "y" : 0.072210832362091582
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.8485273492286115,
+      "text" : "whatever, however, whenever, wherever, whoever와 같은 '의문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029393256293402836,
+        "width" : 0.83232885019062941,
+        "x" : 0.061987953903457509,
+        "y" : 0.097267162262697826
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "사+ever에서 ever는 '시간, 때'의 의미가 희미해지고, 어느 하나를 선택해 봐도'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023375529819064655,
+        "width" : 0.38289806973950985,
+        "x" : 0.064348925467330842,
+        "y" : 0.12760140647361906
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "라는 '랜덤 검색'의 이미지가 강해진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023284237331814173,
+        "width" : 0.80875576433577234,
+        "x" : 0.085253454140280127,
+        "y" : 0.18311111132405222
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, '무엇이든지'라는 뜻의 whatever는 '어느 하나의 what이든'이며,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026039299858940934,
+        "width" : 0.82976683709449928,
+        "x" : 0.062091856709996965,
+        "y" : 0.20735837635334309
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "'누구든지'라는 뜻의 whoever나 '어디든지'라는 뜻의 wherever 등도 마찬가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026312661912706092,
+        "width" : 0.47004607164304912,
+        "x" : 0.064516134709965436,
+        "y" : 0.23546511614334276
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "지이다. 상황을 물으며 '어떤 식으로', '어떻"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020559432135687894,
+        "width" : 0.46774192992991886,
+        "x" : 0.066820279163664786,
+        "y" : 0.26577777753590826
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "게'라는 뜻을 나타내는 how에 ever가 붙"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033493103027343762,
+        "width" : 0.10012895936522059,
+        "x" : 0.53210947290089106,
+        "y" : 0.2427551891949119
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "however"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020707233005099801,
+        "width" : 0.041846494580525806,
+        "x" : 0.6651918956614945,
+        "y" : 0.24022379648839653
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "No!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888889461,
+        "width" : 0.057603688098816108,
+        "x" : 0.80414746460116293,
+        "y" : 0.26888888880093065
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "사 주세요!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.46774192992991892,
+        "x" : 0.066820279391624812,
+        "y" : 0.29360465077280518
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "은 however는 뒤에 형용사나 부사를 넣어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02222539435492632,
+        "width" : 0.47036101821447451,
+        "x" : 0.064363254456083124,
+        "y" : 0.3221740928106992
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "however hard you may tty(네가 아무리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021949612935384,
+        "width" : 0.47004607164304912,
+        "x" : 0.066820282320604968,
+        "y" : 0.34738372081253677
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "열심히 시도해봐도)와 같이 쓰인다. '어느 하나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888888888888847,
+        "width" : 0.45852536307739772,
+        "x" : 0.066820267892818849,
+        "y" : 0.37499999988355825
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "든 아무리 열심히 시도해 봐도'라는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.039170505970254121,
+        "x" : 0.066820276919415403,
+        "y" : 0.43313953468027944
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 1,
+      "text" : "\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019575069851345495,
+        "width" : 0.1476813506004,
+        "x" : 0.15426992353107077,
+        "y" : 0.43134618596842778
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.98044009779951102,
+      "text" : "최삼급 +ever"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021874677022298172,
+        "width" : 0.80645157957951341,
+        "x" : 0.087557620319399398,
+        "y" : 0.46656976733778388
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "현재완료와는 직접적인 관련이 없지만, 단순하면서 사용하기 쉽고, 게다가 매우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023267441643608944,
+        "width" : 0.64976955569849704,
+        "x" : 0.066820289826854271,
+        "y" : 0.49273255815084971
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.18412162162162163,
+      "text" : "자주 사용되는 표현인 「최상급+ever」를 소개해 보도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316468,
+        "width" : 0.03456221178321138,
+        "x" : 0.069124423918302147,
+        "y" : 0.54796511631933409
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016037467956542928,
+        "width" : 0.65437788216788617,
+        "x" : 0.10829492987290089,
+        "y" : 0.54355555564872504
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "This musical is the best ever! 이 뮤지컬은 본 것 중에 가장 최고야!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011649870978461374,
+        "width" : 0.027649767812451792,
+        "x" : 0.069124424849534474,
+        "y" : 0.57412790694917903
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020458656311035162,
+        "width" : 0.44930875318174801,
+        "x" : 0.10368663712104041,
+        "y" : 0.57111111149551708
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.0018181818181818182,
+      "text" : "This year's sales were the highest ever."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.2857142826397765,
+        "x" : 0.56682027791877487,
+        "y" : 0.56976744177427985
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "올해 매출은 이제껏 가장 높았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024333919949001803,
+        "width" : 0.4178499079221395,
+        "x" : 0.068729244708776935,
+        "y" : 0.59670222373301574
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.1736420302760463,
+      "text" : "에e That was the nicest present ever."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.33640552945802848,
+        "x" : 0.11290322593835971,
+        "y" : 0.62354651154277618
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "그것은 이제껏 없던 최고의 선물이었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023275193956163176,
+        "width" : 0.80875576433577212,
+        "x" : 0.08525345106944103,
+        "y" : 0.67005813951851301
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "「최상급+ever」이든 「최상급+명사+ever」이든 마찬가지이다. ever가 '어느 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02359022352430562,
+        "width" : 0.82519118035966144,
+        "x" : 0.068970679477344796,
+        "y" : 0.69745436120587589
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "든, 어느 시점을 떠올려 봐도'라는 뜻이기 때문에 최상급과 함께 사용해야 '가장 최"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.26958524760473601,
+        "x" : 0.066820279421264728,
+        "y" : 0.72666666676575475
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "고'라는 의미가 되기 쉽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023333333333333317,
+        "width" : 0.80645157957951341,
+        "x" : 0.087557616628939766,
+        "y" : 0.75000000001131473
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "전형적으로는 「주어+동사+보어」의 2형식 문장에서 쓰이는데, 이때 시제는 현재"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023911909315321167,
+        "width" : 0.65462899577970735,
+        "x" : 0.068970863056757731,
+        "y" : 0.77944667971686332
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "형이나 과거형을 사용한다. 현재완료와 함께 사용할 필요는 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014858663770887626,
+        "width" : 0.47024695392388044,
+        "x" : 0.44920937541111844,
+        "y" : 0.92583263939044425
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.88909426987061002,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 79"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 75,
+  "pdf_page_number" : 76
+}

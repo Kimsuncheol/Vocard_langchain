@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523256050734249,
+        "width" : 0.12731481240996231,
+        "x" : 0.12500000121689384,
+        "y" : 0.090116278887786949
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99893446989877466,
+      "text" : "Must 17"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032900876421945391,
+        "width" : 0.2207169553066822,
+        "x" : 0.12922485551951798,
+        "y" : 0.12671816556923554
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99829205807002563,
+      "text" : "현재완료 ⑤"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03052325605073436,
+        "width" : 0.39120370851340858,
+        "x" : 0.12731481229494498,
+        "y" : 0.16133720917439665
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99947089947089951,
+      "text" : "미래완료를 파헤치다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017447032962405462,
+        "width" : 0.39120370851340869,
+        "x" : 0.12499999755815819,
+        "y" : 0.21075581424047374
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.9994414967886065,
+      "text" : "• 미래보다는 예상 •상상이라고 생각하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957202,
+        "width" : 0.8078703318927305,
+        "x" : 0.12268520434580192,
+        "y" : 0.30516014244348488
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "영문법의 시제에는 학습자를 혼란에 빠지게 하는 개념이 있는데, 그러한 것들에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957202,
+        "width" : 0.83564816738696801,
+        "x" : 0.099537027303558914,
+        "y" : 0.3327402132834103
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "는 '과거의 미래를 표현하는 것'처럼 과거인지 앞날을 말하는 것인지 알 수 없는 것."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469782,
+        "width" : 0.82638891774711876,
+        "x" : 0.09953702247091277,
+        "y" : 0.35898576478383593
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "'미래완료'처럼 끝난 것인지, 앞으로의 일을 말하는 것인지 알 수 없는 것들이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021656467397017765,
+        "width" : 0.8080429618240248,
+        "x" : 0.12259836785977229,
+        "y" : 0.38659148449600489
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 영어도 사람이 하는 말이기 때문에 결코 터무니없는 규칙을 문법에 넣"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022846960936576899,
+        "width" : 0.13698937165821695,
+        "x" : 0.10164420303056027,
+        "y" : 0.41517535627617996
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "지는 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.8078703318927305,
+        "x" : 0.12268520311778823,
+        "y" : 0.43895348860061478
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서 설명할 '미래완료' 시제도 인간이 가진 아주 자연스러운 관념을 문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156092,
+        "width" : 0.20833333333333331,
+        "x" : 0.10185185180844906,
+        "y" : 0.47093023245801602
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "법으로 만든 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023644155454805249,
+        "width" : 0.57670080306682181,
+        "x" : 0.11094550057561811,
+        "y" : 0.52792207339891228
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.99068033550792167,
+      "text" : "를 wil은 '미래'보다는 '의지'와 '예상'에 가깝다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024403543234719938,
+        "width" : 0.52113357435726959,
+        "x" : 0.11789606693514913,
+        "y" : 0.57699416374916768
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "'미래완료'에서, 우선은 '미래'부터 살펴보도록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024916205117710977,
+        "width" : 0.81018516594636525,
+        "x" : 0.12268519804533576,
+        "y" : 0.60319767399564461
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "wil은 영어 교육에서 여러 가지 혼란을 일으키는 말이다. 'will은 미래형에 쓰"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021833360407276126,
+        "width" : 0.83101849927969862,
+        "x" : 0.10185185404070644,
+        "y" : 0.63078291828661415
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "인다' 또는 '시간상 미래 시점을 나타낼 때는 will을 사용한다'라는 가르침이 그 혼"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021493373816547923,
+        "width" : 0.15546485413896277,
+        "x" : 0.10166572095727662,
+        "y" : 0.66076494098026251
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "란의 원인이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.055555557359194929,
+        "x" : 0.65046296191968234,
+        "y" : 0.67571174377536825
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "흔들흔들~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022922466658188312,
+        "width" : 0.44947821434507973,
+        "x" : 0.12480372486141098,
+        "y" : 0.6866902562526368
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "조동사 will을 학습하는 부분에서 다시 자세"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988371974632876,
+        "width" : 0.025462963564175989,
+        "x" : 0.81481481441293513,
+        "y" : 0.69186046507554688
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "휙"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101484,
+        "width" : 0.0254629635641761,
+        "x" : 0.79861111072369917,
+        "y" : 0.70930232522212366
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "//"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02331788429586068,
+        "width" : 0.46990741702681738,
+        "x" : 0.10416666181122539,
+        "y" : 0.71511627945502487
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "히 설명할 예정이나, 정확히 말하면 will은 '미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021978192482130399,
+        "width" : 0.474537041846742,
+        "x" : 0.10416666775332646,
+        "y" : 0.74110320252716688
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "래를 나타내는 것도 가능하다'라고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024909757634498875,
+        "width" : 0.47275304050310279,
+        "x" : 0.10389137607397542,
+        "y" : 0.76889591909265298
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "즉, will의 근본적인 의미는 미래가 아닌, 다른"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011767565991954831,
+        "width" : 0.0625,
+        "x" : 0.86111111099091875,
+        "y" : 0.77470930250053738
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "결심했어!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022374541734036968,
+        "width" : 0.10677644986632867,
+        "x" : 0.10401918289613035,
+        "y" : 0.79767900801878588
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "것에 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957501822094883,
+        "width" : 0.81018516594636514,
+        "x" : 0.1226851949193295,
+        "y" : 0.82412790712511885
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.032000000000000001,
+      "text" : "will의 근본적인 의미는 '마음이 흔들려서 기울다'이다. 여기에서 크게 2가지 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023731471804961601,
+        "width" : 0.13908984678011413,
+        "x" : 0.10406618761663625,
+        "y" : 0.85295984503992328
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "미가 나온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.027777775974138413,
+        "x" : 0.07175925992959746,
+        "y" : 0.92571174364818798
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 1,
+      "text" : "84"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 80,
+  "pdf_page_number" : 81
+}

@@ -1,0 +1,40 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.073415568033854184,
+        "width" : 0.22494590416383209,
+        "x" : 0.17014460064829579,
+        "y" : 0.41574954326625502
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.085820895522388058,
+      "text" : "제1장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.16167084418402777,
+        "width" : 0.65629414762004035,
+        "x" : 0.18342246071179713,
+        "y" : 0.38990986084358148
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.30191280372221263,
+      "text" : "영어 세계의 3가지 법칙"
+    }
+  ],
+  "page_size_points" : [
+    407,
+    643
+  ],
+  "pdf_page_index" : 13,
+  "pdf_page_number" : 14
+}

@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.50116010084219864,
+        "x" : 0.20417632997388208,
+        "y" : 0.071111111224918755
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.97798165137614679,
+      "text" : "함께 사용하는 표현: 배경이 되는 과거의 한 시점"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.81206496218417556,
+        "x" : 0.13689095266661297,
+        "y" : 0.10755555533575878
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "과거완료에서 주의해야 할 것은 과거완료뿐만이 아니다. 과거완료와 결합이 되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021865632798936607,
+        "width" : 0.8329466041943705,
+        "x" : 0.11600929639436625,
+        "y" : 0.13511111148260146
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "어 어떤 표현이 따라오는지를 주의해야 한다. 이는 이야기의 배경이 되는 시점을 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024319651285807264,
+        "width" : 0.83310867201351957,
+        "x" : 0.11592597594735377,
+        "y" : 0.15964630349804121
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "타내는 과거 시간의 한 시점을 말한다. '그때는 이미 ~한 상태였다'의 '그때'를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021866925557454397,
+        "width" : 0.83294660419437061,
+        "x" : 0.11600929631753701,
+        "y" : 0.18888888848946284
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "타내는 부분이다. 아래 제시되는 과거완료 문장과 일반적인 과거형 문장이 나타내"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021927648756239204,
+        "width" : 0.31090486134197698,
+        "x" : 0.11600928614757305,
+        "y" : 0.21644444435686672
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "는 의미를 비교해서 읽어 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021327818128797804,
+        "width" : 0.40444162788120563,
+        "x" : 0.11570120797725095,
+        "y" : 0.26393890338188153
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.16989843028624191,
+      "text" : "예e He had arrived 10 minutes ago."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.44779580839982269,
+        "x" : 0.16241300055709293,
+        "y" : 0.29066666648376871
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "(지금으로부터) 10분 전에, 그는 이미 도착해 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014710594177246072,
+        "width" : 0.48955917899490253,
+        "x" : 0.16705335702871529,
+        "y" : 0.31377777769525061
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.55926544240400666,
+      "text" : "* 10분 전의 시점에서, 이미 '도착한 후의 상태'를 had하고 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020019092135959204,
+        "width" : 0.35558744389960106,
+        "x" : 0.11576666527763653,
+        "y" : 0.36116602008323617
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.20663811563169165,
+      "text" : "예문 He arrived 10 minutes ago."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016069767422146275,
+        "width" : 0.21577726323553861,
+        "x" : 0.1624129924265352,
+        "y" : 0.38800000035553606
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그는 10분 전에 도착했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666828,
+        "width" : 0.48259861722905584,
+        "x" : 0.16705335955674394,
+        "y" : 0.40977777767320056
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.51179941002949858,
+      "text" : "* 10분 전에 '도착하지 않았다'에서 '도착했다'로 변화가 일어났다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014702794392903673,
+        "width" : 0.095192626520251511,
+        "x" : 0.30159162173130999,
+        "y" : 0.46067185858714399
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.9910714285714286,
+      "text" : "arrived"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.17865428518741688,
+        "x" : 0.44083527176824044,
+        "y" : 0.45639534858393394
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.91075514874141872,
+      "text" : "have arrived"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394619411935,
+        "width" : 0.10904872163813167,
+        "x" : 0.19953596496399678,
+        "y" : 0.51598837229421846
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "도착하지 않았다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011687338511149004,
+        "width" : 0.04872389989541781,
+        "x" : 0.36658932604417049,
+        "y" : 0.51453488378057444
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.83870967741935487,
+      "text" : "10분 천"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019321029663085909,
+        "width" : 0.11438625687403037,
+        "x" : 0.354639818640759,
+        "y" : 0.53103715945510055
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "도착하다(변화)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011642118665907142,
+        "width" : 0.030162413576815983,
+        "x" : 0.11600928035565444,
+        "y" : 0.59155555561112949
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 1,
+      "text" : "에몬"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019113694932725744,
+        "width" : 0.46635729201296544,
+        "x" : 0.14849188749261683,
+        "y" : 0.58844444439840926
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "Ihad already finished it when | saw you."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.4106728411735372,
+        "x" : 0.16241299925081842,
+        "y" : 0.61333333334758644
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.014705882352941176,
+      "text" : "너를 만났을 때 나는 이미 그것을 끝낸 상태였다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014718345642089847,
+        "width" : 0.47099769538175978,
+        "x" : 0.16705335637430402,
+        "y" : 0.63644444483492346
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.56151419558359617,
+      "text" : "- 너를 만난 시점에서, 이미 '끝난 후의 상태'를 had하고 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.68909509537067815,
+        "x" : 0.11368911772069333,
+        "y" : 0.68311111115872802
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.17224880382775121,
+      "text" : "예트 I finished it when | saw you. 나는 너를 만났을 때 그것을 끝냈다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014697674221462731,
+        "width" : 0.49187933739195477,
+        "x" : 0.16473318544871782,
+        "y" : 0.70930232578173458
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.49798115746971738,
+      "text" : "+ 너를 만났을 때, \"끝내지 않았다'에서 '끝냈다'로 변화가 일어났다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020487079196506053,
+        "width" : 0.80974476049977828,
+        "x" : 0.13689095983131747,
+        "y" : 0.75422222248636095
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "위 예문을 통해 과거완료가 가진 '(과거의) 그 시점에는 이미 끝난 후였다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020569767422146334,
+        "width" : 0.34570764852753766,
+        "x" : 0.11600928476484673,
+        "y" : 0.78343023217000374
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "느낌을 잘 파악할 수 있을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.41995360462378106,
+        "x" : 0.11368909084487276,
+        "y" : 0.83999999965952099
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.9688359303391384,
+      "text" : "• 주로 시제 일치로 나타나는 '대과거'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888888888888847,
+        "width" : 0.81438516386857274,
+        "x" : 0.13225057757847455,
+        "y" : 0.87499999968340569
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "'과거완료가 과거보다 더 앞선 과거'를 나타내는 경우도 있다. 이는 시제가 일치"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.02784222812517316,
+        "x" : 0.085846867259919232,
+        "y" : 0.92577777789965576
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 1,
+      "text" : "90"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 86,
+  "pdf_page_number" : 87
+}

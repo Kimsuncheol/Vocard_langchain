@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021912144978841086,
+        "width" : 0.55452434999722955,
+        "x" : 0.051044089603869816,
+        "y" : 0.071111110919884424
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "불문하고 압도적으로 동사 표현이 대부분을 차지한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021852712843153155,
+        "width" : 0.77494199495789018,
+        "x" : 0.071925754625794813,
+        "y" : 0.09733333374974229
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "외국어를 습득하고자 할 때, 우리가 마스터할 수 있는 내용에는 한계가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023283270941840239,
+        "width" : 0.81230460092531043,
+        "x" : 0.071806557053747971,
+        "y" : 0.12434258163347633
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "적은 시간과 노력으로 가능한 한 자유자재로 외국어를 구사하기 위해서는, 파티"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021974160088433115,
+        "width" : 0.83062648908466308,
+        "x" : 0.05336424956565966,
+        "y" : 0.15244444465759277
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "드레스와 같이 '보기에는 좋아도 특정 상황에만 사용할 수 있는 표현'보다, 심플하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02637233140733497,
+        "width" : 0.83108161222850174,
+        "x" : 0.053141430655723722,
+        "y" : 0.17684349690160905
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "고 편한 옷과 같이 '캐주얼하지만 다양한 상황에서 사용할 수 있는 표현'을 마스"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020475452846950959,
+        "width" : 0.34106728844608825,
+        "x" : 0.053364267541732138,
+        "y" : 0.20930232519633651
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "터하는 것이 훨씬 더 효율적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025233235677083354,
+        "width" : 0.81240173772717206,
+        "x" : 0.071777134690592229,
+        "y" : 0.26114047982760946
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "사람은 다양한 상황에서 말을 한다. 그래서 일상 회화는 적은 어휘나 표현으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021866925557454397,
+        "width" : 0.58700695714206563,
+        "x" : 0.053364271206821787,
+        "y" : 0.28924418592474677
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "어떤 상황에서도 사용할 수 있도록 체계가 갖추어져 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025016282823350777,
+        "width" : 0.8123880589261967,
+        "x" : 0.074088999439728478,
+        "y" : 0.31570535361431806
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "한편 글에서 쓰는 문어체 표현은 연구나 보고 등, 전문적인 분야에서 사용되는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02408774820963544,
+        "width" : 0.83311724290780143,
+        "x" : 0.053257330070007741,
+        "y" : 0.34277834105589111
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "것이 대다수여서, 필연적으로 특정 상황이나 분야에 특화된 표현을 많이 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027094154357910072,
+        "width" : 0.81017546958111697,
+        "x" : 0.074024422049229197,
+        "y" : 0.36748881164921554
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 전자의 일상 회화 표현은 '주어+동사' 형태를 취하는 동사 표현이 많이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024160585191514761,
+        "width" : 0.83324294935726961,
+        "x" : 0.053225551987487241,
+        "y" : 0.39806449889867701
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "쓰이고, 후자의 문어체 표현은 명사 표현이 많이 쓰인다. 그리고 중학교 영어와 비"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020563307868109892,
+        "width" : 0.58468675545766835,
+        "x" : 0.055684464656445457,
+        "y" : 0.42711111109697997
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "교하면 고등학교 영어 쪽이 압도적으로 명사 표현이 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011687338511149115,
+        "width" : 0.037122969931744576,
+        "x" : 0.70997679813544246,
+        "y" : 0.47377777758230755
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "화려"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020552971733940995,
+        "width" : 0.4106728411735372,
+        "x" : 0.076566131613313257,
+        "y" : 0.48255813914834411
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 언급한 표현을 영어로 바꿔 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011675710466172884,
+        "width" : 0.037122969931744576,
+        "x" : 0.61020881654224834,
+        "y" : 0.48977777777567799
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "화려"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.032482599028458847,
+        "x" : 0.84454756349814486,
+        "y" : 0.52470930221193302
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "심플"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.48027841554465861,
+        "x" : 0.060324829226037935,
+        "y" : 0.53633720949446873
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.10808646917534027,
+      "text" : "명사 표현 : The biggest issue Is job creation."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016145995246039435,
+        "width" : 0.28074245588153812,
+        "x" : 0.17169373725433745,
+        "y" : 0.56088888881521137
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "가장 큰 문제는 일자리 창출이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022345586140950502,
+        "width" : 0.62206299693871903,
+        "x" : 0.060189193659928378,
+        "y" : 0.58315863820798974
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.047110552763819098,
+      "text" : "동사 표현 : The biggest issue is how to create more jobs."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020517739189995665,
+        "width" : 0.61043393831726511,
+        "x" : 0.17157910645823016,
+        "y" : 0.60650470227872233
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "가장 큰 문제는 어떻게 하면 더 많은 일자리를 만들어 낼 수 있는가이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025647031148274713,
+        "width" : 0.81472990428302305,
+        "x" : 0.074049489209428249,
+        "y" : 0.65463617952618269
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "job creation은 일자리 문제로만 쓰이는 말인데 반해, '~하는 방식'을 뜻하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026144356621636278,
+        "width" : 0.83323965951906032,
+        "x" : 0.055568726132875605,
+        "y" : 0.68265819266378613
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "'how to+동사원형'은 어느 상황에나 쓸 수 있는 표현이다. 게다가 'create + 목"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022535595364040817,
+        "width" : 0.83085400736923765,
+        "x" : 0.057904864326576606,
+        "y" : 0.71228338412790049
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "적어'는 create a new system(새로운 체계를 만들어 내다). create a good"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024174240112304735,
+        "width" : 0.71024408002271722,
+        "x" : 0.053211760087460695,
+        "y" : 0.73768954845010959
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "impression(좋은 인상을 주다) 등 다양한 표현으로 활용할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020559432135687894,
+        "width" : 0.80974476049977828,
+        "x" : 0.081206506024232239,
+        "y" : 0.76577777753624432
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "몇몇 사람들은 직장에서 영어를 쓸 때, 쉽고 간단한 표현만 쓸 수는 없다고 생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021950904846191444,
+        "width" : 0.37819023402870122,
+        "x" : 0.060324839230815594,
+        "y" : 0.79360465088253362
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "할 수도 있다. 이는 물론 일리가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024731641981336816,
+        "width" : 0.81244173523382091,
+        "x" : 0.07870391404794759,
+        "y" : 0.81877571461128273
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 나는 그동안 글쓰기를 지도해 왔던 경험을 통해서 다음과 같이 말할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.055684456250346299,
+        "x" : 0.058004639508237525,
+        "y" : 0.85022222230773448
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016172434488932241,
+        "width" : 0.49445826753656913,
+        "x" : 0.42215018748816741,
+        "y" : 0.92335574712667789
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.91390728476821192,
+      "text" : "13장 설득을 위한 영어: '형식'을 만들어 영어로 사고하는 훈련 433"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 419,
+  "pdf_page_number" : 420
+}

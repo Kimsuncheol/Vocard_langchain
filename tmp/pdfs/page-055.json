@@ -1,0 +1,70 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.077321438259548625,
+        "width" : 0.23070846965376671,
+        "x" : 0.15297725341780746,
+        "y" : 0.41611044580497036
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.11383537653239929,
+      "text" : "제 3잠"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.11753112792968745,
+        "width" : 0.39085360284260717,
+        "x" : 0.17025074606014354,
+        "y" : 0.43836445092751974
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "동사 ② 시제:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.18784877522786458,
+        "width" : 0.79474743978551343,
+        "x" : 0.19307151009639048,
+        "y" : 0.41469368420572605
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.53177536663884584,
+      "text" : "실제로 우리는 시간을 이렇게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.1102063734266493,
+        "width" : 0.40321343659348635,
+        "x" : 0.21557099268500063,
+        "y" : 0.53425758179115856
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.60136491368928147,
+      "text" : "파악하고 있다"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 55,
+  "pdf_page_number" : 56
+}

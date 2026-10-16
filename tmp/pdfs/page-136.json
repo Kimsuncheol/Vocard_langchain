@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011773901621500604,
+        "width" : 0.030162413576815983,
+        "x" : 0.12296983727578381,
+        "y" : 0.076888888890560669
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99401197604790414,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021465933905707502,
+        "width" : 0.68231270431626756,
+        "x" : 0.15305483698494432,
+        "y" : 0.07306500332945487
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.0021287919105907396,
+      "text" : "Japanese people don't look others in the eye when talking."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020435340033637117,
+        "width" : 0.4249571022412455,
+        "x" : 0.16688711515562513,
+        "y" : 0.097345345748861334
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "일본인들은 말할 때 상대방의 눈을 보지 않습니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.44547565000277034,
+        "x" : 0.14153131989420639,
+        "y" : 0.14088888901051755
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 말하고 나니 좀 불안하지는 않은가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026993043687608576,
+        "width" : 0.81241723459663118,
+        "x" : 0.1413848791995227,
+        "y" : 0.16638730520996747
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "듣는 사람으로부터 \"정말로 그런가요?\", \"조사는 해 봤나요?\", \"증거는 있나요?\"'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021903100755479521,
+        "width" : 0.78886311848958335,
+        "x" : 0.11600927491994159,
+        "y" : 0.19466666664868737
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "\"저는 그렇게 생각하지 않아요.\" 등의 말을 듣게 되면 불아하고 걱정될 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.49651974076074912,
+        "x" : 0.1392111271898431,
+        "y" : 0.22529069786681299
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 평범한 말투로 의견을 말하면 화자의 개"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.027842228125173119,
+        "x" : 0.67749419904646224,
+        "y" : 0.22800000007259247
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "책임"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010372092776828379,
+        "width" : 0.069605568960203312,
+        "x" : 0.84686774962662692,
+        "y" : 0.22799999990811293
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "lt is said"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.008906976911756681,
+        "width" : 0.041763340835030194,
+        "x" : 0.85846867747774502,
+        "y" : 0.2470930231852394
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "that."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.51508122437389192,
+        "x" : 0.12064964291746241,
+        "y" : 0.25288888849027114
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "인적인 주장이라는 느낌을 줄 수 있기 때문에 경우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632713,
+        "width" : 0.51740138277094416,
+        "x" : 0.11832947402442731,
+        "y" : 0.27906976742548983
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "에 따라서 발언에 책임을 져야 할 수도 있다. 이를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.030162413576816038,
+        "x" : 0.67053364234980872,
+        "y" : 0.27906976728927935
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "의견"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026691277398003477,
+        "width" : 0.51777741993572701,
+        "x" : 0.11813134997755076,
+        "y" : 0.30433165995834577
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "피하기 위해서는 '~라고 하다', '~라고 생각되다/여"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021882429334852405,
+        "width" : 0.36890951386580229,
+        "x" : 0.11832946569384512,
+        "y" : 0.33422222191877793
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "겨지다'와 같은 말을 덧붙이면 좋다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0219431525336371,
+        "width" : 0.49883989915780141,
+        "x" : 0.14153132641010774,
+        "y" : 0.36177777779198639
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 상황에서 수동태를 사용하게 되는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022234981960720379,
+        "width" : 0.78678601853390973,
+        "x" : 0.16230658280148108,
+        "y" : 0.40860825146640778
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "It is said that Japanese people don't look others in the eye when talking."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023028533935546824,
+        "width" : 0.4900481528424202,
+        "x" : 0.16683170686153048,
+        "y" : 0.43241988351578042
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "일본인들은 말할 때 상대방의 눈을 보지 않는다고 합니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021981912400987347,
+        "width" : 0.76334107311059396,
+        "x" : 0.13921113394838724,
+        "y" : 0.47511111094740799
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 바꾸면, 객관적으로 그러한 사실이 있다는 것을 말하는 느낌이 든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.80974476049977839,
+        "x" : 0.14153133182676678,
+        "y" : 0.50133333320603424
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "참고로 it은 '상황'을 의미하는 가주어로, '추상적이고 가벼운 정보부터 먼저 말하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027363961113823776,
+        "width" : 0.83081885804521272,
+        "x" : 0.12055523430123349,
+        "y" : 0.526691876584931
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "고, 구체적이고 무거운 정보는 뒤에 말하는' 영어의 어순 원칙에 따라서, it의 구체적"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023933424207899345,
+        "width" : 0.83088326961436187,
+        "x" : 0.12052698340746741,
+        "y" : 0.55709842558860601
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "인 내용(that Japanese people ..)은 뒤에 온다.(Must 3, 41 내용 참조) 정보의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632713,
+        "width" : 0.83294660419437061,
+        "x" : 0.11832948203878536,
+        "y" : 0.5843023257540183
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "흐름에 따라서 보면, '상황(it)은 / 말해지고 있다(is said) / 상황의 내용은 '일본인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.7935035218583778,
+        "x" : 0.11832944546369596,
+        "y" : 0.61333333362565479
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "은 ~ 보지 않는다'라는 것이다(that Japanese people ..)로 나타낼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024888888888888849,
+        "width" : 0.39675176092918879,
+        "x" : 0.10904871339045058,
+        "y" : 0.66711111145843338
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.96449026345933564,
+      "text" : "•itis thought that S +V ~'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023739805433485195,
+        "width" : 0.81474825811724294,
+        "x" : 0.13670796598047252,
+        "y" : 0.70312256810891227
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "it is said that 외에 it is thought that 'S+V ~'(S가 V하는 것으로 생각되다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462532891167506,
+        "width" : 0.088167052573346075,
+        "x" : 0.11832946662902687,
+        "y" : 0.73244444419367349
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.62180972268395385,
+        "x" : 0.12064966335286816,
+        "y" : 0.78044444434504923
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.10699588477366255,
+      "text" : "예e The older we get, the more easily we forget things."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020592037624783011,
+        "width" : 0.36693478848071809,
+        "x" : 0.16684549924663555,
+        "y" : 0.80579474766558223
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "나이가 들수록, 우리는 더 쉽게 잊어버린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02195478057861322,
+        "width" : 0.41995360462378106,
+        "x" : 0.14153132080710185,
+        "y" : 0.84577777750376182
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 아래와 같이 문장을 바꿔 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039443155383387371,
+        "x" : 0.090487238897633479,
+        "y" : 0.92711111095907839
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.9882352941176471,
+      "text" : "142"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 136,
+  "pdf_page_number" : 137
+}

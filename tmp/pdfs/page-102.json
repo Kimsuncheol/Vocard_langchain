@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021839726574143792,
+        "width" : 0.29002319768810947,
+        "x" : 0.10904872586688878,
+        "y" : 0.074090505738760859
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9833479404031551,
+      "text" : "를 상태 동사의 진행형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.81206496218417556,
+        "x" : 0.12993039371732557,
+        "y" : 0.11918604643352892
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "\"be동사+being+ 형용사' 외에도 일시적인 상태를 나타내는 진행형이 있다. 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941559,
+        "width" : 0.43851508823692376,
+        "x" : 0.11136890588495017,
+        "y" : 0.1495119782848493
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "동사가 진행형이 되었을 때 주로 발생한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.032482599028458833,
+        "x" : 0.11136890918646665,
+        "y" : 0.20186335417576995
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.9916666666666667,
+      "text" : "여문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.56148491176307624,
+        "x" : 0.15545243632263822,
+        "y" : 0.19609583001369979
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "1'm living in London. 나는 일시적으로 런던에 살고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029137092664798137,
+        "width" : 0.8126415496176862,
+        "x" : 0.12965164142879915,
+        "y" : 0.24683299628299316
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "I live in London.와 비교했을 때, 어떤 사정이 있어 일시적으로 런던에 살고 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021851333983725074,
+        "width" : 0.83526680587876767,
+        "x" : 0.11136891715247008,
+        "y" : 0.2776162793021848
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "는 것으로, 언젠가 런던을 떠난다는 의미가 들어 있다. I live in London.의 경우,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025039447760730082,
+        "width" : 0.83314529310726948,
+        "x" : 0.10894708542673373,
+        "y" : 0.30105388080777051
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "live는 상태 동사이기 때문에 '언제 살기 시작하고 언제까지 살 것인지'를 생각하지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024725591596926666,
+        "width" : 0.8308313248005319,
+        "x" : 0.11127220496775041,
+        "y" : 0.32898210604790523
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "않으며 '내가 계속 살고 있는 곳은 런던'이라는 것을 의미한다. 그러나 이것을 진행"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021896473157691609,
+        "width" : 0.82830628740026591,
+        "x" : 0.11368908359334548,
+        "y" : 0.35891748009060875
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "형으로 바꾸면 시작과 끝이 강제적으로 생기게 된다. 그래서 일시적으로 살고 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021856492456336252,
+        "width" : 0.23665892688940598,
+        "x" : 0.11368909792173824,
+        "y" : 0.38808139557339083
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "는 의미를 가지게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062904,
+        "width" : 0.062645012605274775,
+        "x" : 0.49651972092290908,
+        "y" : 0.42441860477034676
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.875,
+      "text" : "London"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013715568853884363,
+        "width" : 0.1069231182125443,
+        "x" : 0.34096999530187022,
+        "y" : 0.53892709928045979
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.79069767441860461,
+      "text" : "런던에 살기 시작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013293907297535434,
+        "width" : 0.092883603792664027,
+        "x" : 0.59392942768593482,
+        "y" : 0.53768444147157146
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.87037037037037035,
+      "text" : "런던에 살기 끝"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011057208889654002,
+        "width" : 0.058385602802249525,
+        "x" : 0.48936868340735101,
+        "y" : 0.55624465134623824
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 1,
+      "text" : "지금 여기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306034,
+        "width" : 0.61716936260250432,
+        "x" : 0.13457077102823373,
+        "y" : 0.5900621116001572
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "영어 학습자들이 자주 잘못 쓰는 동사 중 하나는 stand이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.80974476049977839,
+        "x" : 0.13225058691948441,
+        "y" : 0.61482558097340612
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "stand는 일반적으로 '서 있는 상태가 지속되다'를 나타내는 상태 동사로 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02680851277145746,
+        "width" : 0.83087755568484045,
+        "x" : 0.1135556616809939,
+        "y" : 0.64028439551795924
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "된다. '일어서다'\"라는 동작 동사는 stand up이다. 한국어 '~하고 있다'는 진행형이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.82830628740026602,
+        "x" : 0.11368908369555075,
+        "y" : 0.66715116252563944
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "나 상태 동사 모두를 나타낼 때 쓰는 말로, \"언덕 위에 그 집이 서 있다.\"라는 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.82830628740026602,
+        "x" : 0.1136890836274629,
+        "y" : 0.69912790671579195
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "의 경우, 상당수의 학습자가 X The house is standing on a hil로 직역하여"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.32714616491439497,
+        "x" : 0.11600928405979451,
+        "y" : 0.72965116315348777
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "바꾸기도 한다. 올바른 분장은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01613410807544402,
+        "width" : 0.39443155924479162,
+        "x" : 0.44315545123607286,
+        "y" : 0.72965116239465733
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "The house stands on a hill.이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183843695599097,
+        "width" : 0.80742455881538122,
+        "x" : 0.13225059757695615,
+        "y" : 0.75145348860302774
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "stand를 진행형으로 사용하면 '일시적으로 어떤 장소에 서 있다'라는 뜻이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088731144631765124,
+        "width" : 0.025522042673530296,
+        "x" : 0.11832946578620467,
+        "y" : 0.80656610480086455
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 23,
+      "red_ink_fraction" : 1,
+      "text" : "메문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021908904772050208,
+        "width" : 0.47821343604554523,
+        "x" : 0.15763269587314385,
+        "y" : 0.80039451443322052
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "The man was standing in front of your Car."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014718020184439906,
+        "width" : 0.26682135399351725,
+        "x" : 0.16009280317737251,
+        "y" : 0.82830523546473911
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "그 남자는 네 차 앞에 서 있었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021866810247764823,
+        "width" : 0.80974476049977828,
+        "x" : 0.13225058968920594,
+        "y" : 0.86912156160002363
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "'그 남자'가 차 앞에 멈춰 서는 것이 stand의 시작이다. 그 뒤에 도중을 나타내는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.037122969931744507,
+        "x" : 0.085846867578597982,
+        "y" : 0.92724046127963067
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.98666666666666669,
+      "text" : "106"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 102,
+  "pdf_page_number" : 103
+}

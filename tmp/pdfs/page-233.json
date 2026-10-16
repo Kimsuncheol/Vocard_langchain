@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.036465837266710155,
+        "width" : 0.13299091045673075,
+        "x" : 0.13674595525692876,
+        "y" : 0.09355062795106095
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99955752212389382,
+      "text" : "Must 54"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.037123755560980909,
+        "width" : 0.43334482741831371,
+        "x" : 0.13676371743557977,
+        "y" : 0.13070504989966802
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99964289965480302,
+      "text" : "'예상'을 나타내는 wil은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0320167948404948,
+        "width" : 0.40465117451811788,
+        "x" : 0.1441860382641969,
+        "y" : 0.16711111095068487
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99873777216787629,
+      "text" : "여러 의미로 확장된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016198966979980467,
+        "width" : 0.40465117451811794,
+        "x" : 0.14186045913990111,
+        "y" : 0.21802325545413259
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99852550869949863,
+      "text" : "• '현재에 대한 추측'과 '정중함'을 나타낸다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.42325581172932247,
+        "x" : 0.18837209403197955,
+        "y" : 0.31244444463541143
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.98751040799333889,
+      "text" : "-will이 '예상'하는 것은 '미래'만이아니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025825822618272487,
+        "width" : 0.64690588274572647,
+        "x" : 0.13241885527514294,
+        "y" : 0.34488955507929786
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "will은 '의지'와 '예상'이라는 의미를 기본으로 하는 조동사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026913535224066809,
+        "width" : 0.49360617613181096,
+        "x" : 0.13465389956085011,
+        "y" : 0.3714423690680233
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "가장 많이 접하는 will의 의미는 '예상'일 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023798724704318541,
+        "width" : 0.64209197389434203,
+        "x" : 0.13478690857589692,
+        "y" : 0.40066375839386725
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "기존 영어 교육에서 '단순 미래'라고 불리는 will의 용법이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023060430738661042,
+        "width" : 0.48867145766559833,
+        "x" : 0.13475599597707438,
+        "y" : 0.42757158220161151
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.043209876543209874,
+      "text" : "사실상 이러한 용법이 나타내는 것은 '예상'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.81162794498976143,
+        "x" : 0.13720928319932268,
+        "y" : 0.45777777749874171
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "단순 미래라고 말하면, 사람의 감정이나 마음이 들어가지 않은 기계적인 느낌이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021934108310275646,
+        "width" : 0.83488373063568377,
+        "x" : 0.11395348340341681,
+        "y" : 0.4853333336456811
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "들지만, 실제로 사람은 앞으로 미래에 일어날 일에 대해서는 마음속으로 생각해서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022968817816840348,
+        "width" : 0.22621206951956463,
+        "x" : 0.10897263702562321,
+        "y" : 0.51033531967444212
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "'예상'할 수밖에 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.81627904995214573,
+        "x" : 0.13023257104718292,
+        "y" : 0.53633720924719519
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "'~일 것이다'라고 마음속으로 미래를 상상하다.혹은 '~일 것이다'라고 마음이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.6720930137525597,
+        "x" : 0.11395349526657728,
+        "y" : 0.5639534886490245
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "'기울어' 판단하다. 이러한 것이 will이 가진 '예상'이라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018700796339246928,
+        "width" : 0.43282550692218658,
+        "x" : 0.15801801860480522,
+        "y" : 0.61507078606960619
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "You won't be in time for the last train."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.43023255611756595,
+        "x" : 0.15813953611951173,
+        "y" : 0.64088888922759457
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.29999999999999999,
+      "text" : "(마음이 기울어 (시간에 맞추지 못하고) 늦을 것이라 판단)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017449612087673705,
+        "width" : 0.22558139464114804,
+        "x" : 0.16046511653064474,
+        "y" : 0.65988372084086855
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "넌 막차 시간에 늦을 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011696382310655395,
+        "width" : 0.058139534757347899,
+        "x" : 0.72325581387591609,
+        "y" : 0.6380813954069513
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "흔들흔들~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013843132866753427,
+        "width" : 0.070125688514818152,
+        "x" : 0.86726273704029178,
+        "y" : 0.64060750330787719
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "막차를 놓침"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018767178853352884,
+        "width" : 0.54439020836115559,
+        "x" : 0.1138712087771489,
+        "y" : 0.70510204457786874
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.11804613297150611,
+      "text" : "예문 I think he will win the tournament this time."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.26976743518796742,
+        "x" : 0.15813953810264317,
+        "y" : 0.73244444453712287
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.44578313253012047,
+      "text" : "(마음이 기울어 우승할 것이라 판단)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.35116279362952951,
+        "x" : 0.16046511795267704,
+        "y" : 0.75145348811881763
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "난 이번에 그가 시합에서 우승할 것 같아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011705426110161565,
+        "width" : 0.051162790369104427,
+        "x" : 0.69069767446661057,
+        "y" : 0.72666666679208058
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "흔들흔들•"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022571821424696159,
+        "width" : 0.058311022244966981,
+        "x" : 0.70490741479371322,
+        "y" : 0.73666210549668087
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.8375634517766497,
+      "text" : "50"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.82093024185919694,
+        "x" : 0.13023255337305742,
+        "y" : 0.79777777751818979
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "'그래, 하겠어!라는 의지는 미래의 행위를 나타내는 경우가 많고, '이렇게 되겠지.'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02321281433105471,
+        "width" : 0.83505683746772619,
+        "x" : 0.11386932822947519,
+        "y" : 0.82679189072442461
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "라는 예상은 미래에 대한 상상을 나타내는 경우가 많다. 그래서 will은 '미래'를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537246,
+        "width" : 0.34418604924128604,
+        "x" : 0.11395348715122852,
+        "y" : 0.85465116266617158
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "타내는 조동사로 사용할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394619411824,
+        "width" : 0.039534883961039047,
+        "x" : 0.083720930257852558,
+        "y" : 0.92877906996863713
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.96341463414634143,
+      "text" : "242"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 233,
+  "pdf_page_number" : 234
+}

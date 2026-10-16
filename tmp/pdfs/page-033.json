@@ -1,0 +1,625 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022852749557968899,
+        "width" : 0.15704090316922686,
+        "x" : 0.10581134645988015,
+        "y" : 0.070695718068008562
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "부딪치고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027425219342046447,
+        "width" : 0.80459547512306617,
+        "x" : 0.12652818090875678,
+        "y" : 0.095179796049776888
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 '내 힘에 의해 접시가 깨지는' 느낌이 든다. 자신에게서 나온 힘이 다른 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021813932518675583,
+        "width" : 0.82488481438444972,
+        "x" : 0.10599077241607011,
+        "y" : 0.12644188119556532
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "에 부딪쳐 작용하기 때문에 이 broke는 '타동사'의 기능을 한다. 그리고 동사의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023089265865674613,
+        "width" : 0.3990028263312016,
+        "x" : 0.10582916405904991,
+        "y" : 0.15286580554566942
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "힘과 부딪치는 the dish가 목적어이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.3410138265660711,
+        "x" : 0.17281105887202003,
+        "y" : 0.20053238683699648
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "The door opened. 문이 열렸어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011743980059077952,
+        "width" : 0.034562211499435502,
+        "x" : 0.20276497707615451,
+        "y" : 0.22383720913288241
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.91666666666666663,
+      "text" : "수에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011743980059077952,
+        "width" : 0.034562211499435502,
+        "x" : 0.31566820290855946,
+        "y" : 0.22383720912968796
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.8571428571428571,
+      "text" : "농사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062904,
+        "width" : 0.052995389356224165,
+        "x" : 0.58525345728041323,
+        "y" : 0.19767441872747793
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.69767441860465118,
+      "text" : "열리다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014743814239908115,
+        "width" : 0.034562211499435502,
+        "x" : 0.69585253454982132,
+        "y" : 0.20930232559348028
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "끼익"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014723179503257189,
+        "width" : 0.036866358396205556,
+        "x" : 0.86866359499544565,
+        "y" : 0.26744186044086393
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.84848484848484851,
+      "text" : "열다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.24193548317867664,
+        "x" : 0.1612903228787877,
+        "y" : 0.28039041667760833
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.0017241379310344827,
+      "text" : "| opened the door."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014730917212174011,
+        "width" : 0.043778801769143921,
+        "x" : 0.20737327176519763,
+        "y" : 0.30212954760132249
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.76470588235294112,
+      "text" : "동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.048387095562684057,
+        "x" : 0.3087557609123836,
+        "y" : 0.30212954734213238
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.73684210526315785,
+      "text" : "목적어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019290312265228593,
+        "width" : 0.1614054211751989,
+        "x" : 0.41929728929196636,
+        "y" : 0.2788722852899177
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "나는 문을 열었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020529394987524263,
+        "width" : 0.80645159628823837,
+        "x" : 0.12672811878310991,
+        "y" : 0.34593023243689469
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "위의 문장에서는 주어 The door에서 나온 동사 opened의 힘이 주어인 The"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02656017665643029,
+        "width" : 0.82746185431500541,
+        "x" : 0.10355729141030406,
+        "y" : 0.36839063424939922
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "door 자신에게 부딪치고 있다. 그래서 '문이 저절로 열리는' 느낌이 든다. 자신에게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02861588384159508,
+        "width" : 0.82536150668073138,
+        "x" : 0.10575230658177101,
+        "y" : 0.39629566634007451
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.050000000000000003,
+      "text" : "서 나온 힘이 스스로에게 부딪쳐 작용하기 때문에 이 opened는 '자동사'의 기능"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021887444984415749,
+        "width" : 0.089861750435057897,
+        "x" : 0.10599078405666457,
+        "y" : 0.4272404615744918
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "을 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023770113169036211,
+        "width" : 0.80667848224881333,
+        "x" : 0.12432210813017695,
+        "y" : 0.45415730629889661
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "아래 문장에서는 주어 I에서 나온 동사 opened의 힘이 the door라는 다른 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02624006025962522,
+        "width" : 0.82744133757471872,
+        "x" : 0.10585733981996684,
+        "y" : 0.47867060478081946
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "에 부딪치고 있다. 따라서 '내 힘에 의해 문이 열리는' 느낌이 든다. 자신에게서 나온"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021891314685080321,
+        "width" : 0.82488481438444983,
+        "x" : 0.10599077289166971,
+        "y" : 0.50872093044075695
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.044901777362020577,
+      "text" : "힘이 다른 것에 부딪쳐 작용하기 때문에 이 opened는 '타동사'의 기능을 한다. 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.52995392575377998,
+        "x" : 0.10599077958924602,
+        "y" : 0.53633720950544228
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "리고 동사의 힘과 부딪치는 the door가 목적어이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.1589861734339289,
+        "x" : 0.12672811132451023,
+        "y" : 0.58562555469764621
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.60465116279069764,
+      "text" : "자동사: 자신에게서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421509,
+        "width" : 0.17511520707657569,
+        "x" : 0.12903225809765689,
+        "y" : 0.60465116258506679
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "나온 힘이 스스로에게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016082519964507491,
+        "width" : 0.082949309744747735,
+        "x" : 0.12903225744366598,
+        "y" : 0.62499999963966568
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "돌아온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.062211982308560787,
+        "x" : 0.32258064468442932,
+        "y" : 0.58720930252572967
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.54705882352941182,
+      "text" : "Jwalk"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.15668203190241514,
+        "x" : 0.52764976734372337,
+        "y" : 0.58562555469749833
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.72727272727272729,
+      "text" : "타동사: 자신에게서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062904,
+        "width" : 0.16129032569595536,
+        "x" : 0.52764976798727581,
+        "y" : 0.60319767455786966
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "나온 힘이 다른 것에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016574581217321471,
+        "width" : 0.083228517685258407,
+        "x" : 0.52751016499041836,
+        "y" : 0.62325340661508499
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "부딪친다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.066820276102100951,
+        "x" : 0.73502304128362694,
+        "y" : 0.58866279084222661
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.54679802955665024,
+      "text" : "T kick"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0075421472937000633,
+        "width" : 0.03917050529297561,
+        "x" : 0.81566820348419022,
+        "y" : 0.59006211177528711
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.033333333333333333,
+      "text" : "can"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0075421472937001743,
+        "width" : 0.034562211499435502,
+        "x" : 0.86866359464710774,
+        "y" : 0.62777284845567882
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 1,
+      "text" : "can"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.064516129205330897,
+        "x" : 0.32027649718140305,
+        "y" : 0.63797692956242458
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0.47560975609756095,
+      "text" : "①sleep"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014689646892666164,
+        "width" : 0.059907835411790789,
+        "x" : 0.32258064404525666,
+        "y" : 0.68589174817761334
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0.66839378238341973,
+      "text" : "Dswin"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0072674417030313965,
+        "width" : 0.029953917705895394,
+        "x" : 0.8225806447394276,
+        "y" : 0.69912790702242722
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0.98305084745762716,
+      "text" : "ck"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022066901612302958,
+        "width" : 0.80660096502505274,
+        "x" : 0.12664945229059407,
+        "y" : 0.75267824696304997
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 동사를 '힘의 방향'으로 파악하면 '동사가 나타내는 마음'을 알 수 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.30875575928077759,
+        "x" : 0.10599078383610895,
+        "y" : 0.78197674405983164
+      },
+      "confidence" : 1,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "게 되어 의미 파악이 쉬어진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026140258707826658,
+        "width" : 0.80894373640229444,
+        "x" : 0.12204038868049995,
+        "y" : 0.80473701689740196
+      },
+      "confidence" : 1,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0,
+      "text" : "'뒤에 목적어가 없으므로 자동사이다. 그래서 '깨다'가 아닌 '깨지다'라는 자동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021830698400868043,
+        "width" : 0.82718895591596331,
+        "x" : 0.10599077541494203,
+        "y" : 0.83575581418571776
+      },
+      "confidence" : 0.5,
+      "observation_index" : 38,
+      "red_ink_fraction" : 0,
+      "text" : "의 뜻으로 해석한다.'와 같이 기존 방식을 사용하여 분석할 수 있으나 영어를 직감"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021820381455645688,
+        "width" : 0.4124424071922248,
+        "x" : 0.10829492540407756,
+        "y" : 0.86335403690161661
+      },
+      "confidence" : 1,
+      "observation_index" : 39,
+      "red_ink_fraction" : 0,
+      "text" : "적으로 이해해서 사용하기는 어려워진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.027649768126497123,
+        "x" : 0.076036866984091192,
+        "y" : 0.92587209319010588
+      },
+      "confidence" : 1,
+      "observation_index" : 40,
+      "red_ink_fraction" : 1,
+      "text" : "36"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    644
+  ],
+  "pdf_page_index" : 33,
+  "pdf_page_number" : 34
+}

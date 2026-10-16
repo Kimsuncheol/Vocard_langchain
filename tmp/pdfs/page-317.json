@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.82830628481778235,
+        "x" : 0.11600927047533348,
+        "y" : 0.076957295543927384
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.073610415623435149,
+      "text" : "여문 The hotel is surrounded by some of the most beautiful scenery in the"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017555656806429898,
+        "width" : 0.600928089835427,
+        "x" : 0.16009279953625821,
+        "y" : 0.10453736614919495
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "area. 그 호텔은 그 지역에서 가장 아름다운 경치에 둘러싸여 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013112430470693992,
+        "width" : 0.2482598694888028,
+        "x" : 0.31090486792265187,
+        "y" : 0.1307829183501088
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.25423728813559321,
+      "text" : "(얼마나 아름다운지에 대한 설명)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.2923433780670166,
+        "x" : 0.11368909967140634,
+        "y" : 0.17732558130486009
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.97264021887824892,
+      "text" : "• 부사적 용법의 기능"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023228142185143241,
+        "width" : 0.80994120511141698,
+        "x" : 0.13448288099562769,
+        "y" : 0.2132058699418693
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "부정사의 부사적 용법이나 분사구문 등, 문법에서 많은 부사적 용법들이 동사의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02197819248213051,
+        "width" : 0.31322505257346411,
+        "x" : 0.11368909780613984,
+        "y" : 0.24110320269371233
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "모습을 설명한다고 보면 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164267,
+        "width" : 0.24593966657465152,
+        "x" : 0.10904872808271007,
+        "y" : 0.29796511656657887
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "• 부정사의 부사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.75174010883678088,
+        "x" : 0.11136892459848288,
+        "y" : 0.32695729554786479
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.12788778877887788,
+      "text" : "여문 My daughter grew up to be a doctor. 우리 딸은 커서 의사가 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017358857965978358,
+        "width" : 0.44332395900379529,
+        "x" : 0.16464375285457386,
+        "y" : 0.35194261610694544
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.35276967930029157,
+      "text" : "- grew up해서 어떻게 되었는지 '동작의 결과'를 설명한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164267,
+        "width" : 0.57540603117509337,
+        "x" : 0.15777262235803449,
+        "y" : 0.37500000029201197
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "lam happy to hear the news. 난그 소식을 들으니 기뻐."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988371974632876,
+        "width" : 0.60092808983542711,
+        "x" : 0.16473317075883151,
+        "y" : 0.39970930238114288
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.2423469387755102,
+      "text" : "* 무엇을 한 결과, (기쁘다는) 상태가 되었는지 '상태(be동사)의 원인'을 설명한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.3503480174324729,
+        "x" : 0.11136891464297882,
+        "y" : 0.44617437719511344
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "• 분사구문(=분사의 부사적 용법)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021921294439729788,
+        "width" : 0.74477958679199219,
+        "x" : 0.16009280511118112,
+        "y" : 0.47674418620037251
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "Hearing her voice, | was relieved. 그녀의 목소리를 듣고서, 나는 안심했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988371974632876,
+        "width" : 0.48723897066983313,
+        "x" : 0.16473318276665339,
+        "y" : 0.50290697679932328
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.3532934131736527,
+      "text" : "- 어떤 일을 하고. was relieved했는지 '동작의 원인'을 설명한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021874740878882304,
+        "width" : 0.80974474820223707,
+        "x" : 0.13457078131925479,
+        "y" : 0.54796511643144574
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "다만, 형용사나 부사의 정도를 나타내는 부정사의 부사적 용법도 있다. 대표적인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469782,
+        "width" : 0.51276102933016687,
+        "x" : 0.11368909106577506,
+        "y" : 0.5725088971025486
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "표현이 't00 ~to 구문'과, 'enough to 구문'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.45939675244418055,
+        "x" : 0.16009280703423975,
+        "y" : 0.62499999967607689
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "He was too afraid to go there by himself."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02047297878197496,
+        "width" : 0.4013921130787243,
+        "x" : 0.16009280645155516,
+        "y" : 0.64813167245353875
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그는 너무 두려워서 그곳에 혼자 갈 수 없었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021279674407850391,
+        "width" : 0.72648343172940333,
+        "x" : 0.16461601099868178,
+        "y" : 0.668216070353299
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.35185185185185186,
+      "text" : "* 직역하면 \"그는 그곳에 혼자 가는 것이 너무 두려웠다.\"이다. 얼마나 두려웠는지 정도를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021372942737837297,
+        "width" : 0.44581300562078302,
+        "x" : 0.11352420111379664,
+        "y" : 0.69234117585627941
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.13636363636363635,
+      "text" : "예e You're smart enough to know that."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019004389060349736,
+        "width" : 0.28347373008728027,
+        "x" : 0.15991988512326635,
+        "y" : 0.71798264036080295
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "너는 그것을 알 만큼 똑똑하잖아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014710750444079657,
+        "width" : 0.67981438203291455,
+        "x" : 0.16473318011440122,
+        "y" : 0.74110320321897116
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.296875,
+      "text" : "- 직역하면 \"너는 그것을 알 정도로 충분히 똑똑해.\"이다. 얼마나 똑똑한지 정도를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017793594306049876,
+        "width" : 0.23897912285544659,
+        "x" : 0.11600927836464377,
+        "y" : 0.79048042701763266
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.86159169550173009,
+      "text" : "• 부사절의 기능"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024558536522753305,
+        "width" : 0.8099492679942738,
+        "x" : 0.13446914129530765,
+        "y" : 0.81756704584389861
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "부사의 기능을 하는 'S+V~' 덩어리를 부사절이라고 한다. 대부분의 경우, 주절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021833360407276126,
+        "width" : 0.56612530621615331,
+        "x" : 0.11368908698970265,
+        "y" : 0.84738372108029991
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "에 있는 동사의 동작 원인과 조건, 결과 등을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.039443154226649887,
+        "x" : 0.083526682950480158,
+        "y" : 0.93149466199497144
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.9885057471264368,
+      "text" : "328"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 317,
+  "pdf_page_number" : 318
+}

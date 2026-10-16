@@ -1,0 +1,550 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.32325579903342511,
+        "x" : 0.12093023923328751,
+        "y" : 0.072674418742364355
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.18223234624145787,
+      "text" : "예문 a girl who speaks French"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014694806211483336,
+        "width" : 0.27441861412741925,
+        "x" : 0.46511627421433116,
+        "y" : 0.075421472694419012
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "프랑스어를 말하는 한 여자아이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215404,
+        "width" : 0.037209302186965942,
+        "x" : 0.18604651158093563,
+        "y" : 0.09883720948191721
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.3235294117647059,
+      "text" : "명사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014738655767296827,
+        "width" : 0.0720930207859386,
+        "x" : 0.28604651274656556,
+        "y" : 0.098837209434699203
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.52941176470588236,
+      "text" : "형용사절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0072674417030313965,
+        "width" : 0.025581395084207759,
+        "x" : 0.71860465117882633,
+        "y" : 0.10901162795265984
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "0.9가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016128949602832732,
+        "width" : 0.52558140321211388,
+        "x" : 0.16976743770353611,
+        "y" : 0.11918604616875406
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.28599221789883267,
+      "text" : "~ a gin만 있는 경우, 세상에 존재하는 모든 여자아이들 중 '어떤 한 여"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013372092513564193,
+        "width" : 0.065227140079844981,
+        "x" : 0.71255637624589585,
+        "y" : 0.1159660105658834
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "who speaks"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016674238067870606,
+        "width" : 0.50487930124456226,
+        "x" : 0.19056905206965588,
+        "y" : 0.13774743332775974
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.18546845124282982,
+      "text" : "자아이'라는 아주 막연한 의미가 된다. 그러나 여기에 프랑스어를 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017554265371760969,
+        "width" : 0.50497085397893737,
+        "x" : 0.19052083972578482,
+        "y" : 0.15756269861024319
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.38992537313432835,
+      "text" : "한다는 수식어를 붙임으로써. 프랑스어를 하지 못하는 여자아이들"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014654825510128311,
+        "width" : 0.16744185577739371,
+        "x" : 0.19069767663934692,
+        "y" : 0.17877906991418813
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.41447368421052633,
+      "text" : "은 후보에서 제외된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209302128788968,
+        "width" : 0.034883721308274773,
+        "x" : 0.87906976717884366,
+        "y" : 0.18313953485391998
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "girls"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026406329611073365,
+        "width" : 0.80972879583185364,
+        "x" : 0.13931231673231803,
+        "y" : 0.22306291936617795
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "한정적 용법의 수식에 의해서, 정보를 좀 더 구체적으로 나타낼 수 있다는 것을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022099323154236128,
+        "width" : 0.12168123505332254,
+        "x" : 0.11593751575383954,
+        "y" : 0.25051989287678089
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02630078824304749,
+        "width" : 0.68604651364413172,
+        "x" : 0.10697674061085007,
+        "y" : 0.30377907011943761
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.94041297935103241,
+      "text" : "• 셀 수 있는 것으로 나타내어 구체적인 파악이 가능해진다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025902784494773901,
+        "width" : 0.81432169133966603,
+        "x" : 0.13469087381674114,
+        "y" : 0.34240393768739619
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "이 한정적 용법의 수식은 의외의 문법적 효과를 발휘하는 경우가 있다. 아래와 같"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024433147833214042,
+        "width" : 0.27530648491599341,
+        "x" : 0.11580285250355429,
+        "y" : 0.36822344291270626
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "은 규칙을 본 적이 있는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02536234479090127,
+        "width" : 0.66774875467473815,
+        "x" : 0.13706801789173265,
+        "y" : 0.42527027390341388
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "규칙: lunch, breakfast, dinner는 원칙적으로 불가산 명사이나,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02253410471363626,
+        "width" : 0.47716075723821472,
+        "x" : 0.19747790995224304,
+        "y" : 0.45429487547976022
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "형용사와 함께 사용될 때는 가산 명사가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010233744965682745,
+        "width" : 0.03023255684159018,
+        "x" : 0.11395348891447621,
+        "y" : 0.51017441850322021
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.26046512343666772,
+        "x" : 0.15813953118310584,
+        "y" : 0.50709849124667605
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "Fve already had lunch."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014690936510818875,
+        "width" : 0.14186046340248804,
+        "x" : 0.33953488453463637,
+        "y" : 0.53327417959005308
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.25190839694656486,
+      "text" : "^ lunch는 불가산"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022188562361032615,
+        "width" : 0.27278050509366125,
+        "x" : 0.15316674349880985,
+        "y" : 0.55327605766193488
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "Ihad a big lunch today."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016863568228964509,
+        "width" : 0.16813966360959143,
+        "x" : 0.26249393577887814,
+        "y" : 0.57977789042014327
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.29878048780487804,
+      "text" : "r a big lunch는 가산"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020517787577943092,
+        "width" : 0.20465116067366163,
+        "x" : 0.44186046605568197,
+        "y" : 0.50709849159749176
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "난이미 점심을 먹었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020562980062895919,
+        "width" : 0.32136698202653363,
+        "x" : 0.43701999034960631,
+        "y" : 0.55363640560162941
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "난 오늘 푸짐한 점심 한 끼를 먹었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022133643582740947,
+        "width" : 0.54683481563221326,
+        "x" : 0.13007792058264689,
+        "y" : 0.62617488638431296
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "breakfast, lunch, dinner는 모두 불가산 명사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025770063831833667,
+        "width" : 0.81186173178932897,
+        "x" : 0.13244872044587222,
+        "y" : 0.65097893738053403
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "한편, '식사'를 의미하는 meal은 가산 명사이다. a meal은 '한 끼 식사'라는 하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027246431217007427,
+        "width" : 0.8330029574307527,
+        "x" : 0.11139642493882858,
+        "y" : 0.676772180993923
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "나의 '형태'이고, 다르게 말하면 하나씩 '구분되어 나뉘는 것'이기 때문에 가산 명사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021897762775844209,
+        "width" : 0.093023256822065872,
+        "x" : 0.10930232494980728,
+        "y" : 0.70629991137144488
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026025037587799615,
+        "width" : 0.81196299466219812,
+        "x" : 0.13006084597530529,
+        "y" : 0.73371711453558874
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 breakfast, lunch, dinner는 그 meal을 아침용, 점심용, 저녁용 중에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.83255811171098193,
+        "x" : 0.10930233933830748,
+        "y" : 0.76162790671650982
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "어느 용도로 먹는지를 나타내는 말이다. 즉, 형태가 아니라 '용도·기능'을 말하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024512606589478958,
+        "width" : 0.8304800553755326,
+        "x" : 0.11149535267541631,
+        "y" : 0.7885055637851458
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "것이다. 이처럼 형태를 설명하는 말이 아니기 때문에 breakfast, lunch, dinner는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022471235828687375,
+        "width" : 0.17965726418928668,
+        "x" : 0.11133415848223228,
+        "y" : 0.81579926579061446
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "불가산 명사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024324261412328685,
+        "width" : 0.81437440352006385,
+        "x" : 0.13005074407434211,
+        "y" : 0.84368615394573643
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "그런데 여기에 형용사가 붙으면 breakfast, lunch, dinner가 실체를 가진 것."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024896308607830875,
+        "width" : 0.83488368988037109,
+        "x" : 0.10930234094788735,
+        "y" : 0.87045252849585042
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "즉 meal의 이미지로 구체화된다. 기능으로서 '점심용'이라는 용도가, '낮에 먹은 푸"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.039534883065657181,
+        "x" : 0.076744186265136516,
+        "y" : 0.92280390404092805
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0.9438202247191011,
+      "text" : "320"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 309,
+  "pdf_page_number" : 310
+}

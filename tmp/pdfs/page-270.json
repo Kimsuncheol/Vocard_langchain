@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032087659455022677,
+        "width" : 0.12558139454234732,
+        "x" : 0.14186046552963524,
+        "y" : 0.09302325507534559
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9972098214285714,
+      "text" : "Must 63"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.042029640583623906,
+        "width" : 0.38749430396340112,
+        "x" : 0.14349229992567739,
+        "y" : 0.12906561907635472
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99754500818330605,
+      "text" : "가산, 불가산을 알면,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033350637346215239,
+        "width" : 0.38197803497314453,
+        "x" : 0.14154742855352043,
+        "y" : 0.16362200582800868
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99845869297163992,
+      "text" : "관사 'o'를 알 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.34651162407614966,
+        "x" : 0.14186046691461709,
+        "y" : 0.21511627908347342
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99847234952642838,
+      "text" : "• llike dog.라는 문장이 어색한 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029051984636362604,
+        "width" : 0.8144683837890625,
+        "x" : 0.13462035061957034,
+        "y" : 0.30558510465229338
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이전 학습에서 '형태를 무너뜨리면, 더는 그것이라고 부를 수 없는 것'을 셀 수 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024763879039801595,
+        "width" : 0.33079433441162109,
+        "x" : 0.11371605367308568,
+        "y" : 0.33433066652742449
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "는 명사, 즉 가산 명사라고 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02528010286265181,
+        "width" : 0.80955488031560729,
+        "x" : 0.13707445321240544,
+        "y" : 0.36210686085603194
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "즉, 영어의 세계에서 말하는 '1개'의 정체는 '형태'이다. 이 개념을 시작으로 관사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022997895911825106,
+        "width" : 0.28653374585238367,
+        "x" : 0.11374775594303879,
+        "y" : 0.38989558147025116
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "의 a란 무엇인지 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023444614901199978,
+        "width" : 0.37952119653875183,
+        "x" : 0.13238325317573907,
+        "y" : 0.44465435920810603
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "a fish라는 표현에 대해 생각해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023317919225955164,
+        "width" : 0.314449592070146,
+        "x" : 0.13468500347678461,
+        "y" : 0.47095583110650208
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "해석하면 '1마리의 물고기'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029239072351193385,
+        "width" : 0.60067506269975135,
+        "x" : 0.13455370618763277,
+        "y" : 0.49596713515826962
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.013100436681222707,
+      "text" : "그러나 a는 '영어 세계의 1'을 나타낸다. 즉, '더는 무너뜨릴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014870179048553367,
+        "width" : 0.1187088923020797,
+        "x" : 0.78134322814358914,
+        "y" : 0.50709979418120521
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.94444444444444442,
+      "text" : "I ate a fish."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021911949421731136,
+        "width" : 0.62093023820356896,
+        "x" : 0.11395348538842369,
+        "y" : 0.52750665498754368
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "수 없는 형태가 1개 있다'라는 것을 의미한다. 단순한 '1이 아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025132928152685086,
+        "width" : 0.56329306689175695,
+        "x" : 0.11373397345876315,
+        "y" : 0.55198917620130106
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "니라 '1개의 형태가 갖추어져 있다'라는 것을 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023588231314360386,
+        "width" : 0.81413225694136193,
+        "x" : 0.13480861556196214,
+        "y" : 0.58136551200132924
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.07901907356948229,
+      "text" : "따라서 a fish는 '머리부터 꼬리까지 통째로 갖추어져 있는 물고기 1마리의 전체'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020413322584123428,
+        "width" : 0.2069767388430509,
+        "x" : 0.11395349094416379,
+        "y" : 0.61046511614624888
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "를 의미하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026981905486166968,
+        "width" : 0.59352493286132812,
+        "x" : 0.13466676502649688,
+        "y" : 0.65917619226211965
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 슈퍼마켓에서 파는 '생선 토막'은 어떻게 부를까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015326671718810636,
+        "width" : 0.15365414185957482,
+        "x" : 0.76261719015478069,
+        "y" : 0.66448011977395238
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.96666666666666667,
+      "text" : "I ate somefish."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.60232556949962268,
+        "x" : 0.13488372908739796,
+        "y" : 0.690328305383892
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "생선 토막이 1개면 a fish일까? 그렇지 않다. '1개'이기 때문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.62558139454234729,
+        "x" : 0.11162790690841297,
+        "y" : 0.71783496028560223
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "에 a'가 아니라, '1개의 모양이 통째로 갖추어져 있기' 때문에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0261967141964633,
+        "width" : 0.62838103554465552,
+        "x" : 0.10903033792407756,
+        "y" : 0.74402528709671223
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "\"2이다. 생선 토막은 통째로 된 생선 1마리가 아니다. 따라서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022246449630452969,
+        "width" : 0.4701193462718618,
+        "x" : 0.11379384597703304,
+        "y" : 0.77288569014953368
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.20594965675057209,
+      "text" : "생선 토막은 a fish가 아닌, (some) fish이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.49534884366122162,
+        "x" : 0.13255813618836482,
+        "y" : 0.8007985800794184
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 이 (some) fish는 무엇을 의미하는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02623759272252979,
+        "width" : 0.81162790818647901,
+        "x" : 0.13255814077110151,
+        "y" : 0.8255813955834358
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "통째로 된 1마리의 생선을 손질해서 토막을 내면, '생선'이 가지는 형태는 무너"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02055905789745105,
+        "width" : 0.058139535513791168,
+        "x" : 0.11162790653175012,
+        "y" : 0.85610465098486588
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.037209302186965942,
+        "x" : 0.081395348790237965,
+        "y" : 0.92587209320868735
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.97959183673469385,
+      "text" : "280"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 270,
+  "pdf_page_number" : 271
+}

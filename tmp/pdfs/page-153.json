@@ -1,0 +1,490 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025702717670213926,
+        "width" : 0.62005485372340419,
+        "x" : 0.10648045555550853,
+        "y" : 0.07012010495590415
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "것은 지금부터)'을 나타내는 의미로 이어지기 쉽기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021826829546409687,
+        "width" : 0.32946636659879214,
+        "x" : 0.12761020407304505,
+        "y" : 0.10026619346360666
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "조동사 뒤에도 동사원형이 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018684162116198832,
+        "width" : 0.14652982671210105,
+        "x" : 0.15065983511206635,
+        "y" : 0.14855930461638667
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "Yes, we can!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019092672359869334,
+        "width" : 0.5777262369791667,
+        "x" : 0.29466356353194018,
+        "y" : 0.14951197842499608
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "오바마 대통령: 그래요, 우리는 할 수 있습니다(라고 생각합니다)!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.26218097226839537,
+        "x" : 0.15545243640060513,
+        "y" : 0.17435669957075162
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.31833910034602075,
+      "text" : "- can 뒤에 do it가 생략되어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021185388370436042,
+        "width" : 0.35088687112145395,
+        "x" : 0.15054908860022859,
+        "y" : 0.19543142767438348
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "The meeting will start at eight."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016100576311058989,
+        "width" : 0.38051043571309845,
+        "x" : 0.15313225302293249,
+        "y" : 0.22227151704171566
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "회의는 8시에 시작될 것이다(라고 생각한다)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014647086955005273,
+        "width" : 0.23665892688940601,
+        "x" : 0.11600928352850939,
+        "y" : 0.26308139549801246
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.99729364005412724,
+      "text" : "⑦ valuable information"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016137976929902376,
+        "width" : 0.77030159158909584,
+        "x" : 0.14153133865985587,
+        "y" : 0.2963620234022144
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.0090618336886993597,
+      "text" : "조동사 뒤에 동사원형이 오는 것도 위와 같은 이유인 것으로 보인다. 조동사는 현실의 이야기가 아니"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017457336689797653,
+        "width" : 0.78422271512078912,
+        "x" : 0.12761022004399439,
+        "y" : 0.31395348838885551
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.0045546558704453437,
+      "text" : "라 생각만 하고 있다는 것을 나타내는 말이며, '현실에서 항상 그렇다(현재형)' 또는 '과거의 현실로서 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353025,
+        "width" : 0.784222715120789,
+        "x" : 0.12761022005229763,
+        "y" : 0.33274179214998334
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.012309207287050714,
+      "text" : "랬다(과거형) 처럼 사실을 나타내는 말이 아니다. 따라서 동작의 개념만을 나타내는 동사의 원형도 '머릿"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.52900230461824027,
+        "x" : 0.12761021646321383,
+        "y" : 0.35174418605982516
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.0031274433150899139,
+      "text" : "속으로만 생각할 뿐'이라는 의미로, 조동사와 잘 쓰인다고 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014721889885104478,
+        "width" : 0.33642690672096631,
+        "x" : 0.1415313261390197,
+        "y" : 0.37045252855519162
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.11528822055137844,
+      "text" : "에 will = (아마) ~일 것이다(라고 생각하다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.30858468130125216,
+        "x" : 0.16241299569684695,
+        "y" : 0.38952972455164725
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "may = ~일지도 모르다(라고 생각하다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016142950083369634,
+        "width" : 0.29730830632203009,
+        "x" : 0.16224097411352859,
+        "y" : 0.40688163393787469
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "should =~해야 한다(라고 생각하다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.52900230461824027,
+        "x" : 0.17633411434049528,
+        "y" : 0.47238372129669859
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.96760563380281694,
+      "text" : "- 시간 개념이 이미 나타나 있으면 동사원형을 쓴다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.80742455881538122,
+        "x" : 0.12761022627676422,
+        "y" : 0.51017441883765113
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "한편으로 의문문이나 부정문의 do, does도 넓은 의미에서 조동사인데, 이것은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.83062648908466308,
+        "x" : 0.10440833306668945,
+        "y" : 0.5363372095347555
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "will이나 can과 같은 법조동사와는 달리 do, does, did가 인칭이나 시간을 이미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020415901820429072,
+        "width" : 0.48723897731050531,
+        "x" : 0.10672853906925099,
+        "y" : 0.56388642387402954
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "나타내기 때문에 동사원형을 쓴다고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018832708526313469,
+        "width" : 0.29039774143949471,
+        "x" : 0.15067292852602027,
+        "y" : 0.61060228956430607
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "He swam across the river."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020363502197807248,
+        "width" : 0.24417280914090206,
+        "x" : 0.48235656371994823,
+        "y" : 0.60910293478515154
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그는 강을 헤엄쳐 건넜어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.25290023046182408,
+        "x" : 0.49651972389736099,
+        "y" : 0.66415261747315835
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "그가 강을 헤엄쳐 건넜나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.02552204267353031,
+        "x" : 0.11136890894165713,
+        "y" : 0.66992014216106166
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 22,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018262455287821666,
+        "width" : 0.33207187517314934,
+        "x" : 0.15067053587742646,
+        "y" : 0.66536952434113183
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "Did he swim across the river?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014736076530991404,
+        "width" : 0.21113688151041665,
+        "x" : 0.27610209277018477,
+        "y" : 0.69165927214070921
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.2556053811659193,
+      "text" : "-시간을 나타낼 필요가 없음"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.15313225063026376,
+        "x" : 0.10208816670342961,
+        "y" : 0.71073646884707509
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.128,
+      "text" : "시간을 나타냄(과거)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.25522041050254873,
+        "x" : 0.12529002839141698,
+        "y" : 0.75726744191492956
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "마지막으로 정리해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.80974476049977839,
+        "x" : 0.12529003270342964,
+        "y" : 0.78482697422308001
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "동사원형은 현재나 과거라는 시간으로부터 해방된 동사의 '개념'만을 나타내는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02608972666214926,
+        "width" : 0.83092395971852828,
+        "x" : 0.10425577752387996,
+        "y" : 0.80852020959417992
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "것이다. 이에 따라 '사물의 개념'을 나타내는 명사처럼 '동작의 개념'을 나타내는 명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021906790949119959,
+        "width" : 0.63573084621564702,
+        "x" : 0.10440835878619853,
+        "y" : 0.84011627929790245
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "사적 용법으로 쓰이게 된 것이다. 이것이 to 부정사의 기원이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024849878969505634,
+        "width" : 0.80974476049977839,
+        "x" : 0.12529003125436464,
+        "y" : 0.86468500444711771
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 동사의 용법에서 보면, '개념'을 나타내는 동사원형은 '머릿속에 떠올라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.039443155383387357,
+        "x" : 0.074245939600939739,
+        "y" : 0.92587209320868735
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 1,
+      "text" : "160"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 153,
+  "pdf_page_number" : 154
+}

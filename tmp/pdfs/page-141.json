@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.21345708319481385,
+        "x" : 0.0626450083280157,
+        "y" : 0.069767442023865422
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "• from: 떨어져 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.81206496218417556,
+        "x" : 0.08120649815718281,
+        "y" : 0.094476743779530192
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.069330199764982378,
+      "text" : "be made from의 경우, from의 근본적인 이미지는 '거리'이다. 예를 들어, '집에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020453488667805941,
+        "width" : 0.83294660419437061,
+        "x" : 0.062645027642404427,
+        "y" : 0.12354651123994986
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "서 5분 거리'라고 하면 집에서 멀어지는 이미지는 있어도 집에 가까워지는 이미지는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.8329466041943705,
+        "x" : 0.06264503119747819,
+        "y" : 0.14825581415982192
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.070642201834862389,
+      "text" : "없다. '~로부터'로 해석되는 from은 '기점에서 멀어져 가는' 이미지가 있다. 예를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021914728800455752,
+        "width" : 0.66821345336048321,
+        "x" : 0.062645013460663132,
+        "y" : 0.17866666663899544
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "들어, keep A from B(A를 B로부터 멀리하다)라는 숙어가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316357,
+        "width" : 0.02784222812517316,
+        "x" : 0.064965196715730228,
+        "y" : 0.23110465119865053
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.99371069182389937,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.37122971555019946,
+        "x" : 0.10904871517695543,
+        "y" : 0.22800000038738788
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "Keep this product from Children."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016006460401746914,
+        "width" : 0.46867749369736261,
+        "x" : 0.10904872403240624,
+        "y" : 0.25288888878630078
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이 제품을 어린이들의 손이 닿지 않는 곳에 보관하세요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537357,
+        "width" : 0.81206496218417556,
+        "x" : 0.083526683539269869,
+        "y" : 0.30087209292076356
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장에서 '손이 닿지 않다'라는 의미는 keep에 나와 있지 않다. keep은 '유지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023299741109212291,
+        "width" : 0.8329466041943705,
+        "x" : 0.062645027256075098,
+        "y" : 0.32844444475500634
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "하다, 보관하다'라는 의미를 가지고 있을 뿐이다. from이 가지는 '거리'라는 의미가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024977986653645812,
+        "width" : 0.40683048329454785,
+        "x" : 0.057605456097029939,
+        "y" : 0.35307230283678726
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "'손이 닿지 않는 곳'이라는 뜻을 만든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023301033020019402,
+        "width" : 0.81438516386857285,
+        "x" : 0.081206489798354681,
+        "y" : 0.38222222260941607
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "from의 '거리', '떨어져 있다'라는 이미지가, '(생김새)가 가깝지 않다. 닮지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021996124267578132,
+        "width" : 0.30858468130125222,
+        "x" : 0.062645014219001594,
+        "y" : 0.41133720919510286
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "았다'라는 뜻으로도 발전한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022368197123209588,
+        "width" : 0.58497621793273502,
+        "x" : 0.062512727879126692,
+        "y" : 0.4576800289744446
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.19298245614035087,
+      "text" : "Ce Paper is made from wood. 종이는 나무로 되어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025889837476942179,
+        "width" : 0.61743566634807179,
+        "x" : 0.081085862412631909,
+        "y" : 0.50963710142233953
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 말할 때, 나무와 종이의 생김새가 '떨어져 있다'는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021935400221082979,
+        "width" : 0.15777262153354943,
+        "x" : 0.062645011615282506,
+        "y" : 0.53911111148722635
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011639534844292476,
+        "width" : 0.051044085347060619,
+        "x" : 0.71693735374675471,
+        "y" : 0.50436046512193655
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.81818181818181823,
+      "text" : "trom"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316357,
+        "width" : 0.055684456250346237,
+        "x" : 0.82366589240846955,
+        "y" : 0.47819767448089157
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 1,
+      "text" : "겉보기에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.053364270798703428,
+        "x" : 0.8236658921383514,
+        "y" : 0.48977777758759089
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.971830985915493,
+      "text" : "공통점이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01175968975490993,
+        "width" : 0.062645012605274886,
+        "x" : 0.82366589266255985,
+        "y" : 0.50290697680964414
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.92063492063492058,
+      "text" : "거의 없다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021034242418077276,
+        "width" : 0.1605842319786126,
+        "x" : 0.060150626771075008,
+        "y" : 0.58880292420673008
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "• by: ~하는 쪽"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024485866970486048,
+        "width" : 0.43190052221852832,
+        "x" : 0.083387684042481799,
+        "y" : 0.61594975486145775
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "참고로 be made by ~는 어떤 의미일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024888888888888849,
+        "width" : 0.8167053655529698,
+        "x" : 0.081206481864521979,
+        "y" : 0.64088888862837334
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "수동태 by는 '~하는 쪽'이다. 따라서 '만들어지는 쪽'이 '책상'이라면, '만드는 쪽'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0204883728027343,
+        "width" : 0.33642690672096631,
+        "x" : 0.062645015198442761,
+        "y" : 0.67151162752492588
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "은 사람이나 제조사 이름이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020523256089952202,
+        "width" : 0.67749421681072697,
+        "x" : 0.062645002795902627,
+        "y" : 0.71947674380559556
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.17864476386036962,
+      "text" : "에e This desk is made by my son. 이 책상은 우리 아들이 만들었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462532891167506,
+        "width" : 0.54988398991578014,
+        "x" : 0.060324826198363574,
+        "y" : 0.74709302287392454
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.11846689895470383,
+      "text" : "에e This desk is made by an American company."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016197675069173134,
+        "width" : 0.33874710840536348,
+        "x" : 0.10672853375677613,
+        "y" : 0.77180232521251491
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "이 책상은 미국 회사에 의해 만들어졌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.3619489520999557,
+        "x" : 0.55684454936857353,
+        "y" : 0.92296511621522159
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.86842105263157898,
+      "text" : "5장 동사 ④ 과거분사: 이미지부터 이해하자 147"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 141,
+  "pdf_page_number" : 142
+}

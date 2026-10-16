@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011696260802599889,
+        "width" : 0.030162413576815983,
+        "x" : 0.053364268830308176,
+        "y" : 0.077034883919219199
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.97777777777777775,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018499970964975021,
+        "width" : 0.20476697556515955,
+        "x" : 0.097160779767729966,
+        "y" : 0.073177224219291737
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "She smiled at me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.26450115230912008,
+        "x" : 0.31786543301837578,
+        "y" : 0.072674418969013055
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 나에게 미소를 지었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021896473157691498,
+        "width" : 0.81438516386857285,
+        "x" : 0.06728537609048782,
+        "y" : 0.1191860467387692
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "'점을 가리키다'- 대상을 향해 조준하다'라는 at의 이미지는 be surprised at"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021877128039193394,
+        "width" : 0.52436194453679075,
+        "x" : 0.051044085641948712,
+        "y" : 0.1481810112537103
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "에도 있다. 예를 들어, 방에서 멍하니 있을 때, 갑자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0097019928371154807,
+        "width" : 0.060729228351133147,
+        "x" : 0.75620715366783697,
+        "y" : 0.15101555690136326
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.67241379310344829,
+      "text" : "look at"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019079775332135229,
+        "width" : 0.52436194453679075,
+        "x" : 0.051044085644958992,
+        "y" : 0.17568766614926212
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "기 큰 소리가 나면 깜짝 놀라 소리가 나는 쪽을 향"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906386367903,
+        "width" : 0.018561484965872288,
+        "x" : 0.83294663559130966,
+        "y" : 0.17151162810526566
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "꿏"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888735448774677,
+        "width" : 0.52668214622118792,
+        "x" : 0.051044077563213344,
+        "y" : 0.20348837231424066
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "해 의식을 조준할 것이다. 이것이 be surprised at"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020448143966661281,
+        "width" : 0.25290023046182403,
+        "x" : 0.051044084203542769,
+        "y" : 0.23110465103315359
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "에 있는 at의 이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010269856389476306,
+        "width" : 0.027842228125173146,
+        "x" : 0.05568445425633349,
+        "y" : 0.28343023245285459
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.98013245033112584,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021046673183221065,
+        "width" : 0.40866422179742912,
+        "x" : 0.09727231431948126,
+        "y" : 0.27813819984778898
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "My mom was surprised at the news."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018894811594708294,
+        "width" : 0.23023629695811171,
+        "x" : 0.099535969020955253,
+        "y" : 0.30387649484338364
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "엄마는 그 소식에 놀랐다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.30858468130125222,
+        "x" : 0.048723897887657019,
+        "y" : 0.35314995551994488
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.98254620123203285,
+      "text" : "'상황'을 나타내는 ot"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023268551559922135,
+        "width" : 0.81454229693040781,
+        "x" : 0.071864109705284909,
+        "y" : 0.38810284462628331
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "사람은 하루 종일 계속해서 여러 가지 활동을 한다. 회사에 가고, 거래처에 가고,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02191710874054853,
+        "width" : 0.82830628740026602,
+        "x" : 0.053364257709662723,
+        "y" : 0.41703637938874694
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "회의하러 가는 등, 이는 마치 장소를 이동하는 느낌이며, 하루 동안 시간의 눈금 위"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021958379060056377,
+        "width" : 0.82830628740026591,
+        "x" : 0.053364257656070752,
+        "y" : 0.44476744209142471
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "에 여러 스케줄이 기록되어 있는 것 같기도 하다. 여기에서 사용될 수 있는 표현이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022097050244552108,
+        "width" : 0.16870745936184064,
+        "x" : 0.047898141101248272,
+        "y" : 0.47148541702045899
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "'상황'의 at이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.57772623697916659,
+        "x" : 0.05336425966332644,
+        "y" : 0.52173913042831166
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.21888888888888888,
+      "text" : "에e He is at the meeting now. 그는 지금 회의 중이에요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.57772619369182177,
+        "x" : 0.051044100625086665,
+        "y" : 0.54791481797123764
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.21451440768409819,
+      "text" : "예트 | was at school at that time. 난 그때 학교에 있었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241273,
+        "width" : 0.77958239832668452,
+        "x" : 0.10208815115987074,
+        "y" : 0.574090505665242
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.5038535645472062,
+      "text" : "* 여기에서 school에 the나 a가 붙지 않는 이유는, 이 문장의 school이 학교라는 건물이 아닌. 수업이라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015993531234727687,
+        "width" : 0.55916475336602389,
+        "x" : 0.09976797123340031,
+        "y" : 0.59447674384799365
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.55526315789473679,
+      "text" : "는 학교의 '기능'을 나타내기 때문이다. 기능을 나타내므로, 불가산 명사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020225235499844896,
+        "width" : 0.65676230572639627,
+        "x" : 0.053276961515967766,
+        "y" : 0.61532540972103067
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.22488584474885845,
+      "text" : "예문 | Can't go out. 'm at work. '나는 밖에 못 나가. 일하는 중이야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016065754082315031,
+        "width" : 0.7795823983266843,
+        "x" : 0.10208815120758229,
+        "y" : 0.64098837175321732
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.59962928637627433,
+      "text" : "7 work는 불가산 명사이다. Work와 대립되는 말은 play로, work는 '이것은 놀이가 아니라, 일'이라는 '하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062793,
+        "width" : 0.78190251343639183,
+        "x" : 0.099768000706745325,
+        "y" : 0.66133720945758345
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.59204440333024977,
+      "text" : "고 있는 일의 성질'을 나타낸 것이다. 참고로 구체적인 '하나의 일로 잘라 나타낸 것이 a job인데, 이는 가산"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.071925754411846177,
+        "x" : 0.099767981146745122,
+        "y" : 0.68168604671371402
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.40000000000000002,
+      "text" : "명사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024879680657238668,
+        "width" : 0.80764844096298749,
+        "x" : 0.076452225997996504,
+        "y" : 0.72331280885139093
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "위 예문들은 모두 '하루의 스케줄 속에서, 지금 이러한 행사 상황 중에 있다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020756556486385302,
+        "width" : 0.13472728323429189,
+        "x" : 0.053286011011080138,
+        "y" : 0.75270311693407999
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "느낌을 준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.43387468486812947,
+        "x" : 0.47331787954002663,
+        "y" : 0.92280390402730161
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.91712707182320441,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 343"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 331,
+  "pdf_page_number" : 332
+}

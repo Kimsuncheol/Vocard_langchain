@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.39675176092918885,
+        "x" : 0.064965186703372951,
+        "y" : 0.071220930108316538
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "하다'를 나타내는 be동사와 잘 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025498836994594321,
+        "width" : 0.80999322985926414,
+        "x" : 0.083391689922016635,
+        "y" : 0.092605290207045998
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 이 '빨간' 상태는 초록색이었던 나무 열매가 '빨개지다'라는 변화(동사)를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024303266191863293,
+        "width" : 0.74033393589317376,
+        "x" : 0.064851492947269454,
+        "y" : 0.12347401430222804
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "일으킨 후에 게속되고 있는 상태이다. 따라서 아래와 같이 설명할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013187014115205731,
+        "width" : 0.090526223689951807,
+        "x" : 0.18559535670621588,
+        "y" : 0.19762160920237704
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.61052631578947369,
+      "text" : "빨갛지 않다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.034802784480101656,
+        "x" : 0.60324825975530882,
+        "y" : 0.18313953497921798
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.68292682926829273,
+      "text" : "빨간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421398,
+        "width" : 0.18329465609070261,
+        "x" : 0.60324826348898442,
+        "y" : 0.19767441839936462
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.65217391304347827,
+      "text" : "(형용사: 쭉 계속되는 상태)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.064965198056917695,
+        "x" : 0.40139211082803333,
+        "y" : 0.24709302345790007
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.51282051282051277,
+      "text" : "빨개지다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013274445402590596,
+        "width" : 0.081285647128490734,
+        "x" : 0.40135253643122432,
+        "y" : 0.26007789325633834
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.60344827586206895,
+      "text" : "(동사: 변화)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019503687373705447,
+        "width" : 0.38076557132369238,
+        "x" : 0.088006536746464831,
+        "y" : 0.31350214457930015
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "형용사 = 동작이 완료된 후 지속되는 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026871602516208237,
+        "width" : 0.81016646581338658,
+        "x" : 0.08562522521796824,
+        "y" : 0.36506635767014928
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서부터 동작 동사가 '동작의 시작'-'동작의 도중'-'동작의 종료'라는 3"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022166945179056707,
+        "width" : 0.82849060491467186,
+        "x" : 0.064884313670443741,
+        "y" : 0.39626924405694763
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "단계를 거쳐 완료를 나타내는 과거분사가 되었을 때, 그 과거분사가 형용사의 기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021899052393997032,
+        "width" : 0.40139212101063831,
+        "x" : 0.064965194831107742,
+        "y" : 0.42441860473158244
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "능을 할 수 있다는 것을 깨닫게 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025989000207043089,
+        "width" : 0.80992977061170213,
+        "x" : 0.085748770572188646,
+        "y" : 0.4501530485001819
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "그러면 done을 '~한 후에 이어지는 상태=끝난 상태라는 형용사로 생각할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027225509616476185,
+        "width" : 0.83100049174423762,
+        "x" : 0.064788905791472146,
+        "y" : 0.47575917623483255
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "있다. 형용사이기 때문에 I'm happy.라고 말하는 것처럼 Im done,이라고 말할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020880688157035032,
+        "width" : 0.088478088378906236,
+        "x" : 0.064809679580994664,
+        "y" : 0.50700151635074275
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020504890550208876,
+        "width" : 0.80974476049977828,
+        "x" : 0.085846877252982859,
+        "y" : 0.53327417933036914
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "게다가 이 경우의 done은 형용사이기 때문에 타동사와 달리 목적어를 취할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021917108740548419,
+        "width" : 0.83062648908466308,
+        "x" : 0.064965177619511608,
+        "y" : 0.56104651186087007
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "없다. 타동사는 다른 것(목적어)에 힘을 부딪치는 작용을 하지만, 형용사는 단지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020476517258435134,
+        "width" : 0.40371227940769061,
+        "x" : 0.064965205954253993,
+        "y" : 0.58866279056972115
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "상태를 설명하는 역할을 하기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020512629105331914,
+        "width" : 0.47331785377881208,
+        "x" : 0.088167059086706981,
+        "y" : 0.61756876635475222
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.22222222222222221,
+      "text" : "따라서 X〈Im done it.라고 말할 수 없다. ©"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017459915926103187,
+        "width" : 0.28770301764738471,
+        "x" : 0.55452436253858794,
+        "y" : 0.61918604640672237
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.12213740458015267,
+      "text" : "Im done with it.이나 C"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014675460246779126,
+        "width" : 0.053364270798703428,
+        "x" : 0.83990719156451976,
+        "y" : 0.62063953493733415
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.20754716981132076,
+      "text" : ") Im"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020499732077597699,
+        "width" : 0.25522041050254879,
+        "x" : 0.06496520078120821,
+        "y" : 0.64374445406622505
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "done.으로 말하면 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.80510444370567369,
+        "x" : 0.088167035637442853,
+        "y" : 0.70053238684379737
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.091032608695652176,
+      "text" : "반면에 X〈 I have done.이라고는 말할 수 없다. have done은 타동사 do를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021825539928256865,
+        "width" : 0.83062648908466308,
+        "x" : 0.067285363404304049,
+        "y" : 0.72529069789818146
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.065934065934065936,
+      "text" : "현재완료로 사용하기 때문에 목적어가 필요하다. 그렇기 때문에 O I have done"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024724081118972174,
+        "width" : 0.18648504162511084,
+        "x" : 0.062053781837526162,
+        "y" : 0.75092978994036219
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "it.가 되어야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011719475198659457,
+        "width" : 0.027842228125173174,
+        "x" : 0.22273781845868179,
+        "y" : 0.82412790717503315
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.92500000000000004,
+      "text" : "do"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.11832946344470296,
+        "x" : 0.45707656745801772,
+        "y" : 0.8442768413144659
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.86792452830188682,
+      "text" : "done 했다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.048723894484499708,
+        "x" : 0.36658932841900299,
+        "y" : 0.88642413479441917
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.84615384615384615,
+      "text" : "fnish"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.35962877205923094,
+        "x" : 0.56148491782653298,
+        "y" : 0.92147293704485278
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.8571428571428571,
+      "text" : "5장 동사 ④ 과거분사:이미지부터 이해하자 149"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 143,
+  "pdf_page_number" : 144
+}

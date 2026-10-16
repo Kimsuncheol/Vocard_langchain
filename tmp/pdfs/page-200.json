@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03009891764322925,
+        "width" : 0.13038404850538637,
+        "x" : 0.13839894446408235,
+        "y" : 0.094795786156985695
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99823736780258521,
+      "text" : "Must 46"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523254394531185,
+        "width" : 0.35116279362952946,
+        "x" : 0.14418604492777198,
+        "y" : 0.13226744255935241
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99904342835278359,
+      "text" : "가정법 과거완료와"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032080103556315187,
+        "width" : 0.35813953801777287,
+        "x" : 0.14418604482752093,
+        "y" : 0.16569767369786703
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99931082012405237,
+      "text" : "가정법의 관용 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.23023256481203258,
+        "x" : 0.13953487900386746,
+        "y" : 0.21366279077672046
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99958965941731637,
+      "text" : "> 후회를 말로 나타내다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032657033284505199,
+        "width" : 0.81477429859998218,
+        "x" : 0.13446175744422931,
+        "y" : 0.30462931534525484
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "가정법 과거완료는 '그때 실제로 그렇지 않았지만, 만일 그랬다면 이렇게 했을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025474982367621468,
+        "width" : 0.61459572294838416,
+        "x" : 0.11367852639243951,
+        "y" : 0.33511008475273241
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "텐데'라는 의미를 기본으로 하여 아래와 같은 형태를 취한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023939581976996527,
+        "width" : 0.63755594019876249,
+        "x" : 0.13471313226495249,
+        "y" : 0.39035580006721893
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "If+S+had+과거분사~, S+조동사의 과거형+have+과거분사~."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015534364488389851,
+        "width" : 0.093412676428118319,
+        "x" : 0.20910761515415696,
+        "y" : 0.41374444564330859
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.38157894736842107,
+      "text" : "가정절(if절)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.053488370020505105,
+        "x" : 0.54186046603625915,
+        "y" : 0.41555555566240876
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.44736842105263158,
+      "text" : "귀결절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218347388373481,
+        "width" : 0.78626627256388004,
+        "x" : 0.15803185879470588,
+        "y" : 0.47351140940330305
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "If you had attended the meeting, they would have taken your plan"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.17906976900888641,
+        "x" : 0.15813953412256934,
+        "y" : 0.50133333292522153
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "more seriously."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022641026814778642,
+        "width" : 0.78403744602475078,
+        "x" : 0.16030133227763324,
+        "y" : 0.52416950051732147
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "만약 당신이 그 회의에 참석했더라면, 그들은 당신의 계획을 더 진지하게 받아들였을 것입니"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017527131822374087,
+        "width" : 0.025581395184552241,
+        "x" : 0.15813953486411922,
+        "y" : 0.54933333326375011
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025161505805121553,
+        "width" : 0.81427680121527768,
+        "x" : 0.1300629376259439,
+        "y" : 0.59580854398260696
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "if절에서 과거에 실제로는 그렇지 않았다는 것을 과거완료로 나타낸다. 귀결절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021913436889648419,
+        "width" : 0.83488373063568366,
+        "x" : 0.11162790197763896,
+        "y" : 0.62488888878645232
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "에서는 조동사의 과거형 뒤에 'have+과거분사'를 붙임으로써, '그때 이렇게 하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021846253289116713,
+        "width" : 0.83720932658920932,
+        "x" : 0.1093023132184075,
+        "y" : 0.6497093022205217
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.0090395480225988704,
+      "text" : "있었을 것이다(실제로는 하지 않았지만)'라고 과거를 되돌아보며 비현실적인 생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021914728800455752,
+        "width" : 0.65581397249488071,
+        "x" : 0.10697673455764042,
+        "y" : 0.67866666664257447
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "(예문의 경우, 비현실적인 예상을 나타내는 Would)을 표현한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462532891167506,
+        "width" : 0.81627904995214573,
+        "x" : 0.13023256747888953,
+        "y" : 0.73244444421325816
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 배웠던 가정법 과거와 마찬가지로 가정법 과거완료도 구어체에서는 뒷부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021976743910047669,
+        "width" : 0.52790697755297367,
+        "x" : 0.10930232505912227,
+        "y" : 0.76000000036956916
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "분의 귀결절만을 사용하는 경우를 자주 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02515437655978725,
+        "width" : 0.81425958617120731,
+        "x" : 0.13008204851630223,
+        "y" : 0.78490342016238723
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.14661654135338345,
+      "text" : "그 예시로, 후회를 나타낼 때 매우 자주 쓰이는 표현인 'should have+과거분"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02488888888888896,
+        "width" : 0.73255811729322473,
+        "x" : 0.10930233267896912,
+        "y" : 0.81244444465077792
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.0034662045060658577,
+      "text" : "사' 패턴이 있다. ~했어야 했다(실제로는 하지 않았지만)라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013504271613226981,
+        "width" : 0.037588095053648338,
+        "x" : 0.078880370970593167,
+        "y" : 0.92711414321831687
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 1,
+      "text" : "208"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 200,
+  "pdf_page_number" : 201
+}

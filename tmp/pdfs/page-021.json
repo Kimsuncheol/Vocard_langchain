@@ -1,0 +1,220 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.82068961313840549,
+        "x" : 0.071264383936544454,
+        "y" : 0.068313953433241759
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "으로, 이 어순은 '의문'을 나타내는 것 외에도 동사를 강조하기 위해서 사용될 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020519379509819968,
+        "width" : 0.059770114646514605,
+        "x" : 0.068965517256295017,
+        "y" : 0.098666666475117681
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0241528667873806,
+        "width" : 0.80252371357463081,
+        "x" : 0.089530743040667465,
+        "y" : 0.12494023513899877
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "사실 매우 자주 쓰이는 형태라고는 할 수 없지만, 의문문에서 물음표(?)를 없애"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025697246975368904,
+        "width" : 0.43068050164545968,
+        "x" : 0.068624547695486038,
+        "y" : 0.15031883968350657
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "고 대신 '느낌표(!)'를 붙이는 방식이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.43218388939708596,
+        "x" : 0.071264376289962711,
+        "y" : 0.2020348838708339
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.25302826379542398,
+      "text" : "예룸 God, is it tough! 세상에나, 정말 힘들어!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019640472412109311,
+        "width" : 0.18639271839426202,
+        "x" : 0.11484961767481221,
+        "y" : 0.22927860098815378
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "Ha, ha, is he hot!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022567446390787782,
+        "width" : 0.17265214665194267,
+        "x" : 0.31482335186845301,
+        "y" : 0.22781511357084494
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "하하, 그는 잘나가!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024739508734809013,
+        "width" : 0.66248726073531994,
+        "x" : 0.089461485671169599,
+        "y" : 0.27184319432845194
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "위의 문장을 말할 때는 의문문처럼 문장 끝을 올리지 않고 내린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026350129021538549,
+        "width" : 0.80229880202839321,
+        "x" : 0.087356346135228816,
+        "y" : 0.29777777781186288
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "'(tough)이다'. (hor)이다'의 '이다(=is)' 부분을 문장 맨 앞으로 가져와서 강조"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027596954345703195,
+        "width" : 0.57092190727738223,
+        "x" : 0.068617081579047362,
+        "y" : 0.32429439727953402
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "하고 있으므로 '정말 그렇구나!라고 강조하는 말이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023990493774413979,
+        "width" : 0.80266252348694633,
+        "x" : 0.087192482117001938,
+        "y" : 0.35357153107718564
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "위의 어순은 물음표가 오는 경우(말할 때 문장 끝을 올린다)에만 의문문으로 인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023326015048556803,
+        "width" : 0.82100654956157704,
+        "x" : 0.068798414157068652,
+        "y" : 0.38095500049267028
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "식될 뿐이지 어순 자체가 순수하게 의문을 나타내는 것은 아니라는 것을 이를 통"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020454780578613274,
+        "width" : 0.14712643522753494,
+        "x" : 0.06896551789339124,
+        "y" : 0.40977777791764147
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "해 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.23218391515031644,
+        "x" : 0.67586206530324444,
+        "y" : 0.92711111099579813
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.84279475982532748,
+      "text" : "1장 영어 세계의 3가지 법칙 23"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 21,
+  "pdf_page_number" : 22
+}

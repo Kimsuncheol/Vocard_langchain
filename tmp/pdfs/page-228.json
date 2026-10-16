@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028696333143446107,
+        "width" : 0.81472899697043688,
+        "x" : 0.064818574972640472,
+        "y" : 0.069271269384975631
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "'예상'의 의미로 생각하면, \"'넌 돌아올 것인데, 그 후에 나를 보러 와 줘.\"라는 뜻이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025906216091579837,
+        "width" : 0.76591214266690344,
+        "x" : 0.048564212351090479,
+        "y" : 0.099311253254732779
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "되어, 마찬가지로 '돌아온다는 상황이 성립된 후에'라는 의미가 되지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.4570765495300293,
+        "x" : 0.090487247131926671,
+        "y" : 0.15406976763282754
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "After you come back, come and see me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02440931277804903,
+        "width" : 0.81233102625066589,
+        "x" : 0.069487216853447151,
+        "y" : 0.20106099963010771
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "한편, if절에 will을 사용할 수 있는 경우도 있다. '만약 ~할 생각이 있다면'이라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020450904846191387,
+        "width" : 0.38283061981201172,
+        "x" : 0.048723901123737659,
+        "y" : 0.23110465078115539
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "는 의지를 나타내는 문장인 경우이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.60556845231489698,
+        "x" : 0.092807421042722105,
+        "y" : 0.28177777739897136
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "If you will come back, I'll tell the manager to hire you."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.67981438203291455,
+        "x" : 0.09744779726910012,
+        "y" : 0.30377906938922539
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "만약 당신이 돌아올 생각이 있다면, 나는 매니저에게 당신을 고용하라고 할 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0072674416436089295,
+        "width" : 0.041763340884988953,
+        "x" : 0.29466357306098578,
+        "y" : 0.34302325589967086
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "goht"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02317548794216584,
+        "width" : 0.16153054887598212,
+        "x" : 0.43974369559686138,
+        "y" : 0.33888710632475438
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "정)(Zf yoa will"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012227798885769414,
+        "width" : 0.097626436840404063,
+        "x" : 0.53123318614583137,
+        "y" : 0.35871168155198951
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "come baek…"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029544342041015637,
+        "width" : 0.71497249603271495,
+        "x" : 0.069387454688450312,
+        "y" : 0.51200764991560832
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장의 경우, will의 '의지'를 나타내는 의미가 자연스럽게 적용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021912144978841197,
+        "width" : 0.81206495111638866,
+        "x" : 0.069605575469316616,
+        "y" : 0.57111111092719447
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "만약 if절에 will을 사용하지 않으면, '돌아온다는 상황이 성립되면'이라는 '조건"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022054563734266397,
+        "width" : 0.24424871531399814,
+        "x" : 0.05074208507649234,
+        "y" : 0.59871117670045759
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "의 실현'을 말하게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.57772623408924451,
+        "x" : 0.076566117162114367,
+        "y" : 0.64970930251806935
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.0048985304408677398,
+      "text" : ") If you come back, I'll tell the manager to hire you."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017518087599012522,
+        "width" : 0.53828304464166821,
+        "x" : 0.097447804708310728,
+        "y" : 0.67288888922020529
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "만약 네가 돌아온다면, 난 매니저에게 너를 고용하라고 할 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218565894232855,
+        "width" : 0.81438515403053979,
+        "x" : 0.067285379887282323,
+        "y" : 0.71947674390578953
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "will =미래'라고 생각하게 되면, '시간과 조건을 나타내는 부사절에서 미래의 일"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027122726440429679,
+        "width" : 0.83099217848344265,
+        "x" : 0.050855345731414321,
+        "y" : 0.74389973594244152
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "을 말하더라도, will을 사용해서는 안 된다'와 같이 불필요한 '예외 규칙'을 만들게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020511627197265625,
+        "width" : 0.060324826023795387,
+        "x" : 0.051044083366034769,
+        "y" : 0.77600000018004578
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024671305338541671,
+        "width" : 0.80996591394597839,
+        "x" : 0.071815043180083388,
+        "y" : 0.80018636968027912
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 will이 '의지'와 '예상'을 나타낸다고 이해하면, 그러한 쓸데없는 지식은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.79814382032914599,
+        "x" : 0.05104409899912745,
+        "y" : 0.83139534845962049
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "필요하지 않게 되어 will을 문장 안에서 좀 더 직감적으로 이해할 수 있게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017080320570204033,
+        "width" : 0.45033368197354406,
+        "x" : 0.45930476303449441,
+        "y" : 0.92719424341821732
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.86161449752883035,
+      "text" : "8장 동사 ② 조동사: 사실을 말하는가, 생각을 말하는가? 237"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 228,
+  "pdf_page_number" : 229
+}

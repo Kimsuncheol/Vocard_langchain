@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026362080891927153,
+        "width" : 0.69175653497994538,
+        "x" : 0.096554733760307404,
+        "y" : 0.081848880151849435
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "① \"그래, 하겠어!\"로 마음이 기울다- 의사 결정 -'~할 생각이다'라는 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021961240132649662,
+        "width" : 0.70046080251674891,
+        "x" : 0.096774204436161457,
+        "y" : 0.1146666667869346
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "② \"이렇게 되겠지.\"로 마음이 기울다 -• 예상- '(아마) ~일 것이다'라는 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.80184329615325278,
+        "x" : 0.094470056877960465,
+        "y" : 0.18444444438255547
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, ①에서는 We will go out for lunch after finishing this.(우리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836263020864,
+        "width" : 0.82488479937081272,
+        "x" : 0.073732718862980717,
+        "y" : 0.20784883751286942
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.0079365079365079361,
+      "text" : "는 이것을 끝낸 후에 점심을 먹으러 나갈 생각이다.)라는 '의지'를 나타내는 문장을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022256415473090208,
+        "width" : 0.14303025002203809,
+        "x" : 0.073646165192092272,
+        "y" : 0.23669155968397138
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "만들 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020559432135687894,
+        "width" : 0.80184329615325278,
+        "x" : 0.094470056877626454,
+        "y" : 0.26577777753824106
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "②에서는 The meeting will start at nine (회의는 9시에 시작될 것이다.)이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183333333333326,
+        "width" : 0.41474654139853662,
+        "x" : 0.073732719980378864,
+        "y" : 0.29066666675801833
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.15656565656565657,
+      "text" : "라는 '예상'을 나타내는 문장이 완성된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.8041474809095116,
+        "x" : 0.094470038276682905,
+        "y" : 0.34577777795116815
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "의사 결정은 앞으로 어떤 일을 할지 결정하는 경우가 많고. 예상도 마찬가지로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.82488479937081283,
+        "x" : 0.073732715515601815,
+        "y" : 0.37333333352445253
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "미래에 어떤 일이 있을지를 예상하는 경우가 많다. 따라서 결과적으로 will은 미래"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021948320176866321,
+        "width" : 0.29032258758760138,
+        "x" : 0.076036862783888229,
+        "y" : 0.40116279058881932
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "를 나타낼 때 자주 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.80184329615325289,
+        "x" : 0.096774208144571744,
+        "y" : 0.42711111123137901
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 한편으로는 다음과 같이 미래와는 아무런 상관이 없는 '의지', '예상'을 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049354044596341,
+        "width" : 0.70967741241239879,
+        "x" : 0.073732722248873547,
+        "y" : 0.45639534845925933
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "타내는 표현도 있다. 여기에서 will이라는 말의 본질을 파악할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.49308757486060906,
+        "x" : 0.073732710224073336,
+        "y" : 0.50436046530397338
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.23333333333333334,
+      "text" : "예e This door won't open. 이 문은 열리지 않아."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488328721797,
+        "width" : 0.31105990604890249,
+        "x" : 0.12211981646673382,
+        "y" : 0.5305232560241423
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.32642487046632124,
+      "text" : "> wil은 의인화된 문의 '의지'를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.52995392835695088,
+        "x" : 0.073732713135738731,
+        "y" : 0.57111111122481006
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.21660181582360571,
+      "text" : "예문 You will be Mr. Johnson. 당신은 존슨 씨겠지요"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018333925035264764,
+        "width" : 0.77443274321778022,
+        "x" : 0.12200298532120299,
+        "y" : 0.59430208054351541
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.45357142857142857,
+      "text" : "* \"당신은 존슨 씨예요.\"라고 딱 잘라 말하면 실례가 될 수 있기 때문에 '~일 것이다'라는 '예상'을 나타내는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.25576037580438998,
+        "x" : 0.14285713917718512,
+        "y" : 0.61627906997717308
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.49162011173184356,
+      "text" : "wil을 넣어 부드럽게 말할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023007837083604543,
+        "width" : 0.52100069936475235,
+        "x" : 0.094363651392696465,
+        "y" : 0.66017858379564831
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "미래완료에서 사용되는 will은 ② '예상'의 용법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021833333333333371,
+        "width" : 0.79953919748325109,
+        "x" : 0.096774177344615436,
+        "y" : 0.68749999974569809
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "다음 예로 든 문장은 \"내일 이 시간쯤이면 나는 이미 내가 미국에 도착해 있을 거"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023260982089572391,
+        "width" : 0.82488479937081283,
+        "x" : 0.073732715371657293,
+        "y" : 0.71511111075171341
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "야.\"라는 의미로, 여기에서 미래완료는 미래의 어느 시점에서 '이미 ~했을(완료) 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022739445156521265,
+        "width" : 0.41735822626498587,
+        "x" : 0.071305829709626317,
+        "y" : 0.74186418944173538
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.027777777777777776,
+      "text" : "이다'라는 것을 '예상'하기 위한 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024539320203993076,
+        "width" : 0.62499190789183701,
+        "x" : 0.073478679076823331,
+        "y" : 0.78874387104376609
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.10726408689748812,
+      "text" : "여문 | will have arrived in the U.S. by this time tomorrow."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.47004607164304918,
+        "x" : 0.11981567373333375,
+        "y" : 0.81686046530839562
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "내일 이 시간쯤이면 나는 이미 미국에 도착해 있을 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030777133517795208,
+        "width" : 0.80241637236644925,
+        "x" : 0.094156996367443457,
+        "y" : 0.85072778391338433
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이, '미래완료'의 본질은 '그 무렵에 이미 ~했을 것이다'라는 의미로, '완료"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.47235021335617949,
+        "x" : 0.45161291386338481,
+        "y" : 0.92577777789965576
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.90170940170940173,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 85"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 81,
+  "pdf_page_number" : 82
+}

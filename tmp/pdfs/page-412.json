@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023150723775227866,
+        "width" : 0.76831895654851745,
+        "x" : 0.15064166504200951,
+        "y" : 0.089583237627098633
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "More and more people are discussing how they should work"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023421398586697006,
+        "width" : 0.78687979958274157,
+        "x" : 0.13901227670712982,
+        "y" : 0.11813758648018891
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "Some people think working at the ottice is better, While others"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022656034681532211,
+        "width" : 0.78446839072487573,
+        "x" : 0.1390893276960144,
+        "y" : 0.14623533926550225
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "think working from home is better. Considering that you can"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023237496270073765,
+        "width" : 0.78673770210959693,
+        "x" : 0.13679663161150082,
+        "y" : 0.17469012290502395
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "save time, you can take better care of your children, and you can"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022617089165581583,
+        "width" : 0.72887342626398255,
+        "x" : 0.13905391788599306,
+        "y" : 0.20285024442976818
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "go see the doctor more easily, working from home is better."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022770767211914178,
+        "width" : 0.42508368058638141,
+        "x" : 0.13435189353259663,
+        "y" : 0.24480190990469186
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이를 실제 문장으로 만들면 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026107497321234852,
+        "width" : 0.81014225699684839,
+        "x" : 0.13667719992693622,
+        "y" : 0.27162772481646824
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "해석: 일하는 방법에 대해 논의하는 사람들이 늘고 있다. 사무실에서 일하는 것이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537246,
+        "width" : 0.75406031175093224,
+        "x" : 0.19257541235341424,
+        "y" : 0.30087209291838357
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "좋다고 생각하는 사람들이 있는가 하면, 집에서 일하는 것이 좋다고 생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025522686428493979,
+        "width" : 0.75446224212646484,
+        "x" : 0.19237839921391278,
+        "y" : 0.32696186955511208
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "하는 사람들도 있다. 시간을 절약할 수 있고, 아이들을 더 잘 돌볼 수 있고,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024337543911404191,
+        "width" : 0.7080170891501687,
+        "x" : 0.19239947887364101,
+        "y" : 0.35508894031236848
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "병원에 더 쉽게 갈 수 있는 것을 고려하면, 집에서 일하는 것이 더 좋다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022428863525390641,
+        "width" : 0.81229140541770239,
+        "x" : 0.13444763630668161,
+        "y" : 0.40947041290863195
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "도입부를 작성해 보니 어떤가? 만약 글을 쓰는 것이 아니라 면접을 보는 상황인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024856892055935331,
+        "width" : 0.62438444657759229,
+        "x" : 0.11357618088396135,
+        "y" : 0.43594025625629262
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "경우, 이 정도면 충분히 자신의 의견과 그 이유를 밝힌 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023515506320529456,
+        "width" : 0.4064461534673518,
+        "x" : 0.13437206279912786,
+        "y" : 0.49110594124888518
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "도입부의 대략적인 흐름은 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023675226847330699,
+        "width" : 0.61753537438132544,
+        "x" : 0.13670363570079741,
+        "y" : 0.54374126242233778
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.0071225071225071226,
+      "text" : "요즘에는 이러한 이야기가 이목을 끄는 화제이다. 주제 소개"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024391016642252628,
+        "width" : 0.63155438683249743,
+        "x" : 0.13669227567347211,
+        "y" : 0.57161869888792127
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "-> A가 좋다는 사람들도 있고, B가 좋다는 사람들도 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.28538283434781159,
+        "x" : 0.17401391912153119,
+        "y" : 0.60174418595934909
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.09711286089238845,
+      "text" : "주제에서 무엇이 초점이 되는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021829457600911373,
+        "width" : 0.41067283803766425,
+        "x" : 0.15081207059833729,
+        "y" : 0.62933333301364802
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "①②③의 이유로, 나는 B가 좋다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.31322505257346411,
+        "x" : 0.16009280907123943,
+        "y" : 0.65552325567280445
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.0082742316784869974,
+      "text" : "자신의 의견과 그렇게 생각하는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.81206495111638854,
+        "x" : 0.12993039553229302,
+        "y" : 0.70784883741563576
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이,'넓은 범위에서 좁은 범위로 깊이 들어가며 이야기를 구체화하는' 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02383413187662764,
+        "width" : 0.72643722187389037,
+        "x" : 0.10894460182302454,
+        "y" : 0.73782896317562796
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 이는 Must 95 학습의 Guessing Game과 동일한 사고방식이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022165601942274238,
+        "width" : 0.80993149497292261,
+        "x" : 0.12984063831543871,
+        "y" : 0.79205397723352755
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 도입부를 빨리 쓸 수 있는지는 이유 3가지를 생각해 내는 속도에 달려"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83062648773193359,
+        "x" : 0.10904870438545702,
+        "y" : 0.81955555592869789
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "있다. 이를 단련하는 것이 Must 94 학습에서 했던 Comparison Game이다. 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021949612087673653,
+        "width" : 0.83062648773193348,
+        "x" : 0.10904870484403784,
+        "y" : 0.8473837208251338
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "유만 생각해 내면. 나머지 각각의 이유를 주제로 본론에 해당하는 단락도 쓸 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888888888888847,
+        "width" : 0.060324826023795394,
+        "x" : 0.10672853812772289,
+        "y" : 0.87499999983730459
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039443154226649901,
+        "x" : 0.078886311401756268,
+        "y" : 0.92711111095907839
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 1,
+      "text" : "426"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 412,
+  "pdf_page_number" : 413
+}

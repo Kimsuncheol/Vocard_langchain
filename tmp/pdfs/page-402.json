@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030693950177935969,
+        "width" : 0.12761020660400391,
+        "x" : 0.13689095239827226,
+        "y" : 0.098754448171351594
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.997563946406821,
+      "text" : "Must 96"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032038814232442592,
+        "width" : 0.34802783619273792,
+        "x" : 0.13921113790711137,
+        "y" : 0.13656583661210298
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99964507542147296,
+      "text" : "터무니없는 이유를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03052325605073436,
+        "width" : 0.54060324755581934,
+        "x" : 0.13921113706577967,
+        "y" : 0.17151162777813311
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99876832122182535,
+      "text" : "설득력 있는 의견으로 바꿔라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021022445366475906,
+        "width" : 0.29518625952980737,
+        "x" : 0.13433024888346806,
+        "y" : 0.21932737952190184
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99906861223222598,
+      "text" : "• 문제를 파고드는 Why Game"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024736984768796377,
+        "width" : 0.81463779102672229,
+        "x" : 0.12749129579875998,
+        "y" : 0.31588231209759354
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "Must 94 학습에서 이유를 진지하게 생각하지 말라고 설명했다. 그리고 이유라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025233148255806359,
+        "width" : 0.83323123238303443,
+        "x" : 0.10889415950266597,
+        "y" : 0.34271363531386978
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "기보다는 연상을 하라고 설명했다. 예를 들어, 아이스크림과 케이크 중 어느 것을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024911032028469671,
+        "width" : 0.83062648773193348,
+        "x" : 0.10904870497226883,
+        "y" : 0.37055160147912236
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "좋아하는지 묻는 말에 대한 답변으로 아이스크림을 좋아하는 이유를 말할 때, '지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022523105356616835,
+        "width" : 0.83082727952436963,
+        "x" : 0.10895716586821737,
+        "y" : 0.39795939944129888
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "금까지의 인생에서 아이스크림과 나에 관한 것'을 떠올리게 되면 시간이 많이 걸리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.83062648773193359,
+        "x" : 0.109048704806727,
+        "y" : 0.42571174376422272
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "며, 내용도 추상적이고 어려워진다. 이를 모국어로 설명하는 것조차 힘든데, 하물며"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022550784820339453,
+        "width" : 0.49920073422518646,
+        "x" : 0.1088541025902055,
+        "y" : 0.45209104143307066
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "그것을 영어로 말하려고 하면 더욱 더 힘들어진다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027042333765810556,
+        "width" : 0.81236388466574938,
+        "x" : 0.1274491276135872,
+        "y" : 0.50744831009439362
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "나는 종종 '먼저 입을 열어 무엇이 되었든 말하고, 그 후의 일은 나중에 생각하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023530350885357265,
+        "width" : 0.16346935792402789,
+        "x" : 0.10640030014793167,
+        "y" : 0.5323797060510792
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "라'고 지도한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026266241412994273,
+        "width" : 0.81438515403053979,
+        "x" : 0.12761020705987197,
+        "y" : 0.56094306088637946
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, \"아이스크림이 좋아요. 왜냐하면 차가워서요.\"라고 먼저 말하면 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024288735780003234,
+        "width" : 0.50625931132923474,
+        "x" : 0.10650457067032057,
+        "y" : 0.58916266295427333
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "앞으로 어떻게 말할지는 나중에 생각하도록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023608557270090813,
+        "width" : 0.79371183568781067,
+        "x" : 0.14374303331856841,
+        "y" : 0.61757987608507525
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "차가워서 좋다는 이유가 아무래도 너무 단순하다고 생각될 수도 있다. 그러나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024155898450532454,
+        "width" : 0.83545199307528417,
+        "x" : 0.10430764639170699,
+        "y" : 0.64470164068860314
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "이를 하나의 문단으로 만들어 제대로 된 의견으로 완성하는 기술이 있다. 우리 안"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025027655197632281,
+        "width" : 0.83088025179776281,
+        "x" : 0.10659665675870199,
+        "y" : 0.67130597840508099
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "에 면접관을 한 명 만들어서, 그 사람에게 질문하게 하자. 영어로 자주 나오는 질"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021560421193621782,
+        "width" : 0.16278901967135345,
+        "x" : 0.10654052484588995,
+        "y" : 0.69997560333962106
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.29931972789115646,
+      "text" : "문은 why이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.37819025733254164,
+        "x" : 0.12761020748351004,
+        "y" : 0.75290697641098248
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "A: 왜 차가운 아이스크림이 좋나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02051435925358136,
+        "width" : 0.23897912285544654,
+        "x" : 0.12761020643526366,
+        "y" : 0.7819767440964096
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "B: 몸이 차가워져서요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.36658932945945044,
+        "x" : 0.1252900219433957,
+        "y" : 0.80959302293330926
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "A: 왜 몸이 차가워지는 게 좋나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020488496352769281,
+        "width" : 0.3503480174324729,
+        "x" : 0.12761021391276769,
+        "y" : 0.83852313162524728
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "B: 열사병을 예방할 수 있어서요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.039443154226649887,
+        "x" : 0.071925754564459279,
+        "y" : 0.93459302322480042
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 1,
+      "text" : "416"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 402,
+  "pdf_page_number" : 403
+}

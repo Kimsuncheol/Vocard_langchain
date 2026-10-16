@@ -1,0 +1,520 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02056937568887951,
+        "width" : 0.32558139887723053,
+        "x" : 0.05813953299972157,
+        "y" : 0.077034883595147097
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "영어로 표현하면 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01739817418772871,
+        "width" : 0.17971014976501465,
+        "x" : 0.057866611022628002,
+        "y" : 0.12519327698273275
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.37450980392156863,
+      "text" : "예문 He ran fast."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019244093332231427,
+        "width" : 0.15824547680941498,
+        "x" : 0.41390051728925054,
+        "y" : 0.12482562773799155
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.10000000000000001,
+      "text" : "그는 빨릿 달렸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018797230487813343,
+        "width" : 0.29806145754727448,
+        "x" : 0.057983300165342637,
+        "y" : 0.15134640224856788
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.23963730569948186,
+      "text" : "예문 He ran with his friend."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022458392111939895,
+        "width" : 0.17965389381755476,
+        "x" : 0.41366142506357034,
+        "y" : 0.15156150160289061
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그는 친구와 달렸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016720964724550091,
+        "width" : 0.29803347587585449,
+        "x" : 0.057983332913375048,
+        "y" : 0.18103894654788588
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.2352185089974293,
+      "text" : "예문 He will run tomorrow."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021197731133150377,
+        "width" : 0.20245586742054333,
+        "x" : 0.41387071691049149,
+        "y" : 0.17916926683132661
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.086956521739130432,
+      "text" : "그는 내일 달릴 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021156981230416871,
+        "width" : 0.47020894830877136,
+        "x" : 0.055646356000679464,
+        "y" : 0.2056769474297051
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.1643499591169256,
+      "text" : "에문 He ran in order to catch the last train."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02043137808446871,
+        "width" : 0.5627906972711737,
+        "x" : 0.10465116288968881,
+        "y" : 0.23247559877301582
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.55971896955503508,
+      "text" : "그는 마지막 열차를 타기 위해 달렸다. 부사구 부정사의 부사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.046511628411032957,
+        "x" : 0.67906976706580136,
+        "y" : 0.12333629113744859
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.43396226415094341,
+      "text" : "부사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.060465113683180416,
+        "x" : 0.68139534993837403,
+        "y" : 0.1511627906502695
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.22666666666666666,
+      "text" : "부사구"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372762116398,
+        "width" : 0.046511628411032957,
+        "x" : 0.67906976707355327,
+        "y" : 0.17877906938293164
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.19266055045871561,
+      "text" : "부사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021386313248019095,
+        "width" : 0.80944980274547229,
+        "x" : 0.058067947263394662,
+        "y" : 0.28189181326593626
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.95897435897435901,
+      "text" : "• 부사는 정도의 범위가 있는 형용사와 부사의 정도'를 나타내기도 한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020561637133756472,
+        "width" : 0.61395350369540125,
+        "x" : 0.079069759741703341,
+        "y" : 0.31810115367525515
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "다음으로 부사의 기능은 '형용사와 부사를 수식'하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0268888041945613,
+        "width" : 0.80971700494939625,
+        "x" : 0.078864411999378964,
+        "y" : 0.34282235955977702
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "단, 모든 형용사와 부사를 부사가 수식하는 것이 아니라 '정도의 범위가 있는' 형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0240007982702517,
+        "width" : 0.563086899844083,
+        "x" : 0.055686089364493145,
+        "y" : 0.37140702469181619
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "용사와 부사의 '정도'를 부사가 설명한다고 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02468488061967522,
+        "width" : 0.80949427864768275,
+        "x" : 0.078963420408044036,
+        "y" : 0.3970551862360272
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, '빨리 달리다'라고 할 때 '빨리'는 '달리다'라는 동사의 모습을 설명하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022511670096531988,
+        "width" : 0.83038052645596583,
+        "x" : 0.058070342823389881,
+        "y" : 0.42669838876133581
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "는 부사인데 '빨리'라고 했을 때 '얼마나 빨리'를 나타내는 정도의 범위가 있다. 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020534553460135552,
+        "width" : 0.43488372455943719,
+        "x" : 0.058139532950901594,
+        "y" : 0.45639534871348153
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "정도를 설명하는 것 또한 부사의 역할이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.81162790818647912,
+        "x" : 0.07674418538388976,
+        "y" : 0.48092280373903606
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.008717310087173101,
+      "text" : "여기에서는 '매우 빨리 (달리다). '그럭저럭 빨리 (달리다)', 또는 '세계에서 가장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026672238042741769,
+        "width" : 0.25700244036587805,
+        "x" : 0.057639142454337454,
+        "y" : 0.50547488041823829
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "빨리 (달리다)' 등이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020491993522474883,
+        "width" : 0.41860463402488013,
+        "x" : 0.10232558984462506,
+        "y" : 0.55944986705476674
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.0040160642570281121,
+      "text" : "He runs very fast. 그는 매웃 빨리 달린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010228586069968459,
+        "width" : 0.030232556841590187,
+        "x" : 0.058139535406724292,
+        "y" : 0.59006211162109434
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.98675496688741726,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017493448536694323,
+        "width" : 0.5930232568220658,
+        "x" : 0.097674417984784809,
+        "y" : 0.58720930234174418
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "He ran fast ike never before. 그는 전에 없이 빨리 달렸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421509,
+        "width" : 0.27906977046619763,
+        "x" : 0.10697674255960371,
+        "y" : 0.61337209282082517
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.41449275362318838,
+      "text" : "* 둘 다 부사 fast의 정도를 설명한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021816511754981227,
+        "width" : 0.80930233001708973,
+        "x" : 0.079069765191523492,
+        "y" : 0.65697674441418152
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "형용사도 마찬가지이다. 예를 들어, '아름다운 경치'라고 하면 '경치'라는 명사의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.83023253354159265,
+        "x" : 0.058139547066412979,
+        "y" : 0.68313953497620572
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "모습을 '아름다운'이라고 형용사가 설명하는데, 이 '아름다운'은 '얼마나 아름다운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02194419241416945,
+        "width" : 0.83023253354159265,
+        "x" : 0.058139546902692144,
+        "y" : 0.71206743524793581
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "지'를 나타내는 정도의 범위가 있다. 그 정도를 설명하는 것이 '매우 아름다운 (경"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021931295386435457,
+        "width" : 0.83488368988037109,
+        "x" : 0.055813968899376315,
+        "y" : 0.73982558162834877
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "치), '지금까지 본 적이 없을 정도로 아름다운 (경치)'와 같은 말이고, 이들도 부사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021944192414169561,
+        "width" : 0.058139535513791175,
+        "x" : 0.055813953192716821,
+        "y" : 0.76598837214748772
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020440405411538354,
+        "width" : 0.57611075314608484,
+        "x" : 0.055813961640077257,
+        "y" : 0.81540697661971173
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.11938202247191011,
+      "text" : "에e The city is known forits very beautiful scenery.듏"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.40697674317793409,
+        "x" : 0.10465116319246327,
+        "y" : 0.84011627943656897
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "그 도시는 매우 아름다운 경관으로 알려져 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.24418605457652698,
+        "x" : 0.099999995854830992,
+        "y" : 0.8633540376729284
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0.32841328413284132,
+      "text" : "(얼마나 아름다운지에 대한 설명)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016096176039146592,
+        "width" : 0.31892809000882227,
+        "x" : 0.59519504406223289,
+        "y" : 0.92859899711635874
+      },
+      "confidence" : 0.5,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0.85511363636363635,
+      "text" : "10장 형용사와 부사: '수식하다'의 진실 327"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 316,
+  "pdf_page_number" : 317
+}

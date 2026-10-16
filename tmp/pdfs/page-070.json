@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.20519911923428685,
+        "x" : 0.19111424742852107,
+        "y" : 0.074127906849437819
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99032882011605416,
+      "text" : "- have been+ 보어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024410642835829055,
+        "width" : 0.80672051304654446,
+        "x" : 0.1358201184776377,
+        "y" : 0.10743586446488029
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, He is a teacher를 현재완료로 바꿔 보자. He is a teacher.는 '현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025374535454644076,
+        "width" : 0.57166990810119889,
+        "x" : 0.1150655355055762,
+        "y" : 0.13463075508303368
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "재, 현실에서 그는 계속 선생님인 상태이다'를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023259689331054711,
+        "width" : 0.8064515795795133,
+        "x" : 0.13594472130855348,
+        "y" : 0.16133333355353308
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이것을 현재완료의 형태인 He has been a teacher.로 바꾸면, 그는 (과거 어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022171521504720015,
+        "width" : 0.54174348430337627,
+        "x" : 0.11508191989950682,
+        "y" : 0.18904395312205935
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "느 시점부터) 현재까지 계속 선생님이라는 상태를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018527206420898445,
+        "width" : 0.1403122055850009,
+        "x" : 0.66499662372234025,
+        "y" : 0.190805116841818
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "has been a teacher"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026041536119249087,
+        "width" : 0.54200023656503438,
+        "x" : 0.11494301469560211,
+        "y" : 0.21435277445735557
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "have하고 있다'라고 할 수 있기 때문에 \"그는 현재"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011670542399088601,
+        "width" : 0.029953917596168611,
+        "x" : 0.77880184293962695,
+        "y" : 0.2136627907379387
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.95999999999999996,
+      "text" : "15년"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016945963541666664,
+        "width" : 0.040540832390401849,
+        "x" : 0.83336200440704666,
+        "y" : 0.23192544492386213
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "40"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023321705288357308,
+        "width" : 0.54147463692260223,
+        "x" : 0.11520738391485097,
+        "y" : 0.24266666648188939
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "까지 계속 선생님 신분을 유지하고 있다.\"라는 뜻이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021855297512478389,
+        "width" : 0.059907835192337361,
+        "x" : 0.11520737259680366,
+        "y" : 0.2732558137867851
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01754521942138676,
+        "width" : 0.51843317674817091,
+        "x" : 0.13594470181976864,
+        "y" : 0.30222222251348563
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "기간을 붙여서 He has been a teacher for 15"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026222222222222258,
+        "width" : 0.64516127227223652,
+        "x" : 0.11290323787309835,
+        "y" : 0.32266666675989431
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "years,라면 \"그는 선생님이 된지 15년이 되었다.\"라는 뜻이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017492248535156296,
+        "width" : 0.21889400078648405,
+        "x" : 0.20276498155986181,
+        "y" : 0.38517441847449474
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.97142857142857142,
+      "text" : "have been in+장소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021860465155707387,
+        "width" : 0.6267280955240655,
+        "x" : 0.13594470801533362,
+        "y" : 0.42000000005020732
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "He is in Seoul.(그는 서울에 있다.)을 현재완료로 바꿔 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022777604844835042,
+        "width" : 0.8089332741978138,
+        "x" : 0.13585411223409016,
+        "y" : 0.4453603523735522
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "'in Seoul이라는 상태로 존재하고 있다'를 현재완료로 하는 것이기 때문에, He"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02482995944552957,
+        "width" : 0.82977914742925774,
+        "x" : 0.11505127982533572,
+        "y" : 0.47166591109212774
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "has been in Seoul.은 '그는 (과거 어느 시점부터) 현재까지 쭉 in Seoul이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025661444769965347,
+        "width" : 0.72599312549585693,
+        "x" : 0.11738393972728951,
+        "y" : 0.49808290141863121
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "상태로 존재한다' 즉 \"그는 현재까지 계속 서울에 있다.\"라는 뜻이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021863048977322053,
+        "width" : 0.81105994909203105,
+        "x" : 0.13594467976109451,
+        "y" : 0.52755555576462509
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "He has lived in Seoul.처럼 '서울에 자리를 잡고 살고 있다'라는 느낌은 적고,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.72580649049056767,
+        "x" : 0.11520735375345047,
+        "y" : 0.55668604613269135
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "비즈니스 등의 이유로 서울에 일시적으로 체류하고 있다는 느낌이 든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.22811058916056948,
+        "x" : 0.20276498185035013,
+        "y" : 0.61333333333894657
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.96415770609318996,
+      "text" : "have been to+장소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02196640862358934,
+        "width" : 0.80875576433577234,
+        "x" : 0.13594469836583944,
+        "y" : 0.64825581385167308
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이는 약간 독특한 경우로, 현재완료 또는 과거완료로 사용하는 특수한 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020452195909288151,
+        "width" : 0.055299541005294647,
+        "x" : 0.11751151969794905,
+        "y" : 0.67732558180864011
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939276801215213,
+        "width" : 0.81105994909203105,
+        "x" : 0.13364053188061276,
+        "y" : 0.70044444421445451
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "'~에 간 적이 있다' 또는 '~에 방금 다녀왔다'라는 뜻으로, 공통적으로 '과거에 다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021904392666286854,
+        "width" : 0.41244239968540641,
+        "x" : 0.11751152262273448,
+        "y" : 0.72965116247410333
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "녀왔고 현재는 여기에 있다'라는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.75115209237812941,
+        "x" : 0.11520736487827582,
+        "y" : 0.77906976733487154
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.15927750410509031,
+      "text" : "에e He has been to Hawaii three times. 그는 하와이에 세 번 간 적이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016100775824652747,
+        "width" : 0.74423962419560996,
+        "x" : 0.16589862107300363,
+        "y" : 0.80523255777992098
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.44190871369294604,
+      "text" : "* 그는 과거 하와이에 다녀왔고, 현재는 여기에 있다는 의미로, 세 번의 경험을 have하고 있다는 것을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017014105902777743,
+        "width" : 0.076565353759421251,
+        "x" : 0.1863717013053835,
+        "y" : 0.82506852828816835
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.32291666666666669,
+      "text" : "나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021128950330946195,
+        "width" : 0.53022273269459619,
+        "x" : 0.11969632885845645,
+        "y" : 0.87350830301544335
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.18239660657476139,
+      "text" : "애문 A: Where have you been? 너는 어디에 있었니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016082687377929727,
+        "width" : 0.03225806468969003,
+        "x" : 0.087557603475785964,
+        "y" : 0.92577777803171113
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 1,
+      "text" : "74"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 70,
+  "pdf_page_number" : 71
+}

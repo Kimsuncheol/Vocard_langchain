@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.49195400404360051,
+        "x" : 0.10804598637747372,
+        "y" : 0.074127907168913709
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.21411483253588517,
+      "text" : "에e She bought a T-shirt. 그녀는 티셔츠를 샀어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028089574178059906,
+        "width" : 0.55948172138713081,
+        "x" : 0.1213616173709446,
+        "y" : 0.12198075525763585
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "'건네주다'보다는 '(사서) 손에 넣다'라는 이미지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021974160088433115,
+        "width" : 0.80229888787249481,
+        "x" : 0.12643676238559168,
+        "y" : 0.15244444464342988
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 buy를 4형식 문장에서 사용하면 '사다+건네주다'='사 주다'라는 뜻이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836263020864,
+        "width" : 0.057471263257763069,
+        "x" : 0.1057471268577085,
+        "y" : 0.18023255855615106
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.32183908712008835,
+        "x" : 0.10574712300117063,
+        "y" : 0.2296511629791721
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.19696969696969696,
+      "text" : "세e She bought me a T-shirt."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020546512179904441,
+        "width" : 0.26436781313181257,
+        "x" : 0.44367816230691537,
+        "y" : 0.22799999981163199
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 내게 티셔츠를 사줬어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021819121466742697,
+        "width" : 0.80459770706970801,
+        "x" : 0.12413792494790453,
+        "y" : 0.27906976712526621
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이는 4형식 문장 자체에 '건네주다'라는 의미가 있다는 것을 나타내기 때문에 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021941860622829878,
+        "width" : 0.8229885181797203,
+        "x" : 0.10574712008188963,
+        "y" : 0.30799999993692195
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "원형과 같은 것, 즉 한 단어로 된 문장 자체에 문장이 가진 고유한 의미가 있다는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022352075364854507,
+        "width" : 0.1060279277474233,
+        "x" : 0.10560672566113009,
+        "y" : 0.33548093861002326
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "말이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021816537645128031,
+        "width" : 0.40229885353485406,
+        "x" : 0.12413793145096375,
+        "y" : 0.38662790669648728
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 소개할 2컷 만화는 이 '한 단어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024035937839084198,
+        "width" : 0.42332842648448488,
+        "x" : 0.10329740102784213,
+        "y" : 0.41369151118572778
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "로 된 문장'이 가지는 '존재를 나타내는 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.42298852676413068,
+        "x" : 0.10344826523926644,
+        "y" : 0.4447674420523291
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "미'와 '바라고 원하는 것을 나타내는 의미'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020505168490939751,
+        "width" : 0.21609194469854298,
+        "x" : 0.10344828042620745,
+        "y" : 0.47238372054209687
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "를 잘 표현하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.094252874747274951,
+        "x" : 0.65747126448843141,
+        "y" : 0.40116279076918171
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "Shaaark!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014624601576063267,
+        "width" : 0.10414989487531312,
+        "x" : 0.68705015914085554,
+        "y" : 0.49716834774911378
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "Whaaat?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022431521945529442,
+        "width" : 0.40041294446642051,
+        "x" : 0.12394647409382678,
+        "y" : 0.5255331912405109
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "첫 장면에서 남자가 외치는 \"Shark!\"는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020563307868109781,
+        "width" : 0.42528734596134404,
+        "x" : 0.098850579570703798,
+        "y" : 0.55232558100536322
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "\"상어가 있어!\"라는 존재를 나타내는 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021864340888129385,
+        "width" : 0.10574712096051996,
+        "x" : 0.10344827847641554,
+        "y" : 0.58133333360109463
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "인 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010174418979220889,
+        "width" : 0.25057470479930333,
+        "x" : 0.53333333712080322,
+        "y" : 0.57848837190026825
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "C Phil Watson www.shaaark.com"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024775658501519082,
+        "width" : 0.80248662892273215,
+        "x" : 0.12405055283466754,
+        "y" : 0.63261152212671179
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 다음 장면에서 상어가 \"What?(뭐?)\"이라고 묻는 것은, 상어가 남자의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026622333102756079,
+        "width" : 0.82796532997099159,
+        "x" : 0.09865270840557927,
+        "y" : 0.65825425951191585
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "\"Shark!\"라는 말을 '바라고 원하는 것을 나타내는 의미'로 생각해서 \"이봐, 상어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.82298851817972052,
+        "x" : 0.10344826940270874,
+        "y" : 0.68888888905983614
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "야!\"라고 자신을 부르고 있는(=무언가 원하는 것이 있어 자신을 부르는) 것으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021927648756239204,
+        "width" : 0.22298850959531027,
+        "x" : 0.10344827390684677,
+        "y" : 0.71644444434287691
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "해석했음을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021868216620551162,
+        "width" : 0.80459770706970812,
+        "x" : 0.12183907444544159,
+        "y" : 0.74266666704321915
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이는 바로 \"Shark!\"라는 한 단어로 된 문장이 존재를 나타내는 것과 원하고 바"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021975451999240447,
+        "width" : 0.79770116363396637,
+        "x" : 0.10344826866390715,
+        "y" : 0.77180232547897243
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "라는 것을 나타내는 것 둘 다를 의미하는 문장으로 기능한다는 것을 보여 준다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.31264368156508215,
+        "x" : 0.10344827404593614,
+        "y" : 0.83139534845475238
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.98503401360544218,
+      "text" : "를 동사의 원형과 명령문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021972868177625782,
+        "width" : 0.64597699343739012,
+        "x" : 0.12413794498628571,
+        "y" : 0.87936046483602215
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "명령문은 한 단어의 동사로 되어 있는 문장의 전형적인 형태이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.029885057323257302,
+        "x" : 0.071264367786647215,
+        "y" : 0.92577777789965576
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.9838709677419355,
+      "text" : "32"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 29,
+  "pdf_page_number" : 30
+}

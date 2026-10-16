@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02300091605772947,
+        "width" : 0.15320153669877487,
+        "x" : 0.066917750047689323,
+        "y" : 0.073528611718496562
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "the를 붙인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021942233869311267,
+        "width" : 0.81712965531782666,
+        "x" : 0.083333320288120932,
+        "y" : 0.12645348818879421
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.1950509461426492,
+      "text" : "'동일한 속성을 가진 사람들을 모아 놓은 것'을 'the+형용사'로 나타내는 경우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.090277780186046264,
+        "x" : 0.067129628302287525,
+        "y" : 0.15686274488731633
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "도 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021903370365952024,
+        "width" : 0.8125,
+        "x" : 0.087962962845173631,
+        "y" : 0.1844919786459438
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, the rich(부유층, 부자들), the poor(빈곤층, 가난한 사람들), the"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028224249787084155,
+        "width" : 0.83385372161865234,
+        "x" : 0.066828906737158522,
+        "y" : 0.2077804208800611
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "young(젊은층, 젊은 사람들) 등이 있다. police 또한, \"경찰이 현장에 발을 들"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024955436720142554,
+        "width" : 0.82870370691472828,
+        "x" : 0.069444442633459821,
+        "y" : 0.23529411801568934
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "였다. \", \"범인을 확보했다고 경찰이 발표했다.\" 등의 문장에서처럼 '조직으로서의 경"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024411682564094539,
+        "width" : 0.83116566051136365,
+        "x" : 0.069365085500629059,
+        "y" : 0.26447543426234543
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "찰'을 나타낼 때는 the police로 표현한다. 이 또한 그룹을 나타내는 the라고 볼"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.09027778018604625,
+        "x" : 0.067129628298903968,
+        "y" : 0.29500891274277785
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219194,
+        "width" : 0.071759256449612674,
+        "x" : 0.40277777943061693,
+        "y" : 0.34135472371306097
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "the rich"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133071,
+        "width" : 0.034722222523255769,
+        "x" : 0.069444444178186931,
+        "y" : 0.51744186029061146
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.9908675799086758,
+      "text" : "\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020506880925088455,
+        "width" : 0.35879629308527167,
+        "x" : 0.1388888924764613,
+        "y" : 0.5129233509919312
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.96615720524017468,
+      "text" : "-왜 인터넷은 'the Internet'일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020535381507533534,
+        "width" : 0.44675926728682092,
+        "x" : 0.087962958832190186,
+        "y" : 0.55213903742765535
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "인터넷은 영어로 the Internet이라고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023312813457958215,
+        "width" : 0.8125,
+        "x" : 0.087962962826681271,
+        "y" : 0.57843137260435173
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "처음부터 이런 식으로 표현하여 고정되어 있던 것이 아니라, 그 표현이 고정되고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021846370901016043,
+        "width" : 0.83101853457364172,
+        "x" : 0.069444441810401353,
+        "y" : 0.60606060580304899
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "세상에 널리 받아들여지기 전까지, 단어 첫 글자 i를 소문자로 쓰거나, the를 붙이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183600713012479,
+        "width" : 0.83333336223255494,
+        "x" : 0.067129615064278003,
+        "y" : 0.63368983958887992
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "지 않는 등, 여러 가지 표기법이 혼재되어 있었다. 현재는 the Internet이라는 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183600713012479,
+        "width" : 0.83101853457364172,
+        "x" : 0.069444436298131448,
+        "y" : 0.66131907315969596
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "으로 정해졌고, the가 붙은 이유는 그 자체가 전체적으로 정리된 하나의 시스템이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024614556800447884,
+        "width" : 0.83350389653986146,
+        "x" : 0.067038474489815023,
+        "y" : 0.68717154373786371
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "기 때문이다. 인터넷 개별 사용자와, 여러 프로바이더들이 유기적으로 연결되어 전"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.83333336223255505,
+        "x" : 0.067129615064604048,
+        "y" : 0.71656976779500359
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "체로 된 하나의 시스템을 만든다. 그리고 단어 첫 글자가 대문자 I가 된 이유는 인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021973324332007715,
+        "width" : 0.83101853457364161,
+        "x" : 0.069444436297787238,
+        "y" : 0.74273255795847293
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "터넷이라는 시스템이 이 세상에 하나밖에 없기 때문이다. 즉, 고유 명사이기 때문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.057870371775193663,
+        "x" : 0.067129628792187118,
+        "y" : 0.77034883681674038
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333633,
+        "width" : 0.37962961196899414,
+        "x" : 0.54398149019605846,
+        "y" : 0.93168604665589161
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.90476190476190477,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매\" 299"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    641
+  ],
+  "pdf_page_index" : 289,
+  "pdf_page_number" : 290
+}

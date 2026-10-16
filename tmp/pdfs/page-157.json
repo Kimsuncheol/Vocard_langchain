@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023253762139214484,
+        "width" : 0.5087398015015514,
+        "x" : 0.11342618367838141,
+        "y" : 0.072799854778002437
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.14082278481012658,
+      "text" : "Me | went to the station to [see my friends]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020494832356770853,
+        "width" : 0.29698375945395616,
+        "x" : 0.62645011552856766,
+        "y" : 0.076888888938522637
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "나는 친구들을 만나러 역에 갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.27146171407496678,
+        "x" : 0.28770301755111338,
+        "y" : 0.12488888909901597
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99541984732824429,
+      "text" : "무엇을 하는 것을 향해서 '갔는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016003876580132359,
+        "width" : 0.45475637016566933,
+        "x" : 0.16009281260462865,
+        "y" : 0.1453333330682639
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.49071618037135278,
+      "text" : "- to see my friends는 went라는 동작의 목적을 설명한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.72853830756870563,
+        "x" : 0.10904871153617347,
+        "y" : 0.19466666707736147
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.22887700534759359,
+      "text" : "GE He grew up to [be a rock star. 그는 어른이 되어 록 스타가 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.22041762331698805,
+        "x" : 0.19489559657816491,
+        "y" : 0.2398255816043906
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.99272727272727268,
+      "text" : "어떤 상태(be)에 도달했는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014709302266438851,
+        "width" : 0.56612527184452577,
+        "x" : 0.15777263081252674,
+        "y" : 0.25999999983852096
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.50923482849604218,
+      "text" : "- to be a rock star는 grew up이라는 동작의 결과로 인해 도달한 상태를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016130026923285579,
+        "width" : 0.07528434374653703,
+        "x" : 0.18057758819526104,
+        "y" : 0.27853688936770926
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.39534883720930231,
+      "text" : "설명한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836263020864,
+        "width" : 0.78886311848958324,
+        "x" : 0.12993038379465163,
+        "y" : 0.3313953491407764
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.24915824915824916,
+      "text" : "4. 부사적 용법 ②: 부사나 형용사의 정도가 어느 정도인지 설명하는 것도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149206,
+        "width" : 0.78654291680518629,
+        "x" : 0.13225058333768591,
+        "y" : 0.35755813913315726
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "부사의 기능이다. 예를 들어, '빨간'이라는 형용사의 정도를 설명하는 '매우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.78422271512078889,
+        "x" : 0.13457077685645791,
+        "y" : 0.38662790714841555
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "빨간'의 '매우'는 부사이다. '빨리 달리다'에서 부사 '빨리'의 정도가 얼마나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023277777777777731,
+        "width" : 0.79118332017398052,
+        "x" : 0.12761019599335269,
+        "y" : 0.41422222203958015
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "'빨리'인지를 설명하는 '세계 최고로 빨리 달리다'의 경우, '세계 최고로' 또"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021261362711588627,
+        "width" : 0.13722927012342087,
+        "x" : 0.13440160611523114,
+        "y" : 0.44431117908893791
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "한 부사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.78654291680518629,
+        "x" : 0.11136891271702615,
+        "y" : 0.50711111152209076
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.14337568058076225,
+      "text" : "에몬 His offer is too good to [be true]. 그의 제안은 사실이라기에 너무 좋았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016118863423665308,
+        "width" : 0.31786542310782362,
+        "x" : 0.24361949250556003,
+        "y" : 0.55232558103461515
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.98691099476439792,
+      "text" : "어떤 상태(be)로 향하기에 to0 good인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372802734352,
+        "width" : 0.7238979041999114,
+        "x" : 0.15777262551669807,
+        "y" : 0.57267441824701992
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.40753424657534248,
+      "text" : "•to be true(사실이라기에는)는 무엇을 기준으로 too good(너무 좋아서 아닌)인지를 설명한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020025065951877141,
+        "width" : 0.19290808278618127,
+        "x" : 0.16918959046667559,
+        "y" : 0.61844654817906397
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.95744680851063835,
+      "text" : "_ '_'로 생각하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020476744757758181,
+        "width" : 0.36194895209995565,
+        "x" : 0.12993039622803804,
+        "y" : 0.65552325543195722
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이제 ②의 문제점으로 넘어가 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.8097447604997785,
+        "x" : 0.1322505894682256,
+        "y" : 0.68311111134486135
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "몇몇 영어 교사의 의견에 따르면 부정사의 용법을 모르는 경우 해석할 수 없다고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021808785332573799,
+        "width" : 0.21345708319481385,
+        "x" : 0.11136890618651837,
+        "y" : 0.7093023254548726
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "하는데 과연 그럴까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021832041422526038,
+        "width" : 0.4106728411735372,
+        "x" : 0.12761021518552174,
+        "y" : 0.73688888889302995
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "to 부정사의 to는 모두 '-'를 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.41995360462378112,
+        "x" : 0.13225057578368066,
+        "y" : 0.76444444449610571
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "단지 그렇게 파악하면 되는 것은 아닐까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026020372178819473,
+        "width" : 0.81459969594968973,
+        "x" : 0.12517718413146334,
+        "y" : 0.7881312461466532
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "\"해석하다'라는 말이 '정확한 모국어로 해석하다'\"라는 것을 의미한다면, 확실히"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020560724046495227,
+        "width" : 0.38979119916334221,
+        "x" : 0.1113689014677904,
+        "y" : 0.81955555539110392
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "용법에 따라 해석도 바꿀 필요가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021834625244140704,
+        "width" : 0.80742455881538122,
+        "x" : 0.13225059760496091,
+        "y" : 0.84444444461501611
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 그러한 생각을 가진 교사들은 '영어의 뜻을 이해하다'라는 개념과 '모국어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.59396751890791233,
+        "x" : 0.11136890866510123,
+        "y" : 0.87333333352513165
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "로 해석하다'라는 것을 같다고 생각하는 경우가 많이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.039443155383387357,
+        "x" : 0.078886310881392169,
+        "y" : 0.92877906964289247
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.97402597402597402,
+      "text" : "164"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 157,
+  "pdf_page_number" : 158
+}

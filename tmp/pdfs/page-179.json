@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.036285756745796593,
+        "width" : 0.12577230034145054,
+        "x" : 0.12901814372743997,
+        "y" : 0.090926632726661571
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99818429414434862,
+      "text" : "Must 41"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03578186713928011,
+        "width" : 0.34594081581061614,
+        "x" : 0.13150473676722568,
+        "y" : 0.13144057577430956
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99879099289708329,
+      "text" : "tough 구문 공략 ②"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017534966146394493,
+        "width" : 0.38657408369348401,
+        "x" : 0.1296296247041839,
+        "y" : 0.21511627936039324
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 1,
+      "text" : "• 가주어 it를 사용하는 문장과 느낌 차이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023812986353538124,
+        "width" : 0.62524634827958769,
+        "x" : 0.12947792677704092,
+        "y" : 0.3098638254667101
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서는 tough 구문의 형태와 의미에 대해 알아보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028323031829345258,
+        "width" : 0.37569471859762854,
+        "x" : 0.11077201804342018,
+        "y" : 0.3678045293443124
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.99003735990037356,
+      "text" : "를 tough 구문의 형태적 특징"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021905776868935578,
+        "width" : 0.66898150072030149,
+        "x" : 0.12962961992380689,
+        "y" : 0.41715116294361887
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "형태의 특징은 'to 부정사의 목적어가 주어로 되어 있다'는 점이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019978401075478547,
+        "width" : 0.53024988918439719,
+        "x" : 0.1040807346653516,
+        "y" : 0.47521686573742961
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.048084147257700979,
+      "text" : "• 가주어 it 문장: It is easy to use this computer."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020112127595949048,
+        "width" : 0.15545854500844969,
+        "x" : 0.10861332007529569,
+        "y" : 0.53136835477303501
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "• tough 구분:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164156,
+        "width" : 0.49768516594636525,
+        "x" : 0.26851852801520837,
+        "y" : 0.5319767444776401
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.13583815028901733,
+      "text" : "This computer is easy to use this computer."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018390718303965436,
+        "width" : 0.77794925337987597,
+        "x" : 0.15964839855886154,
+        "y" : 0.55511246171763495
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.55597964376590325,
+      "text" : "+ 부정사구 to use의 목적어인 this computer가 tough 구문의 주어가 되고 to use 뒤에 오는 목적어는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537296,
+        "width" : 0.071759260461685487,
+        "x" : 0.18055555483860167,
+        "y" : 0.57829181505232152
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.27692307692307694,
+      "text" : "생략된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023973263031223047,
+        "width" : 0.78957917774822695,
+        "x" : 0.13180262032629453,
+        "y" : 0.61294858577958633
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "형태를 보고 tough 구문을 판단할 수 있으면, 아래 문장이 맞는지 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.48842591630651599,
+        "x" : 0.11111111253126585,
+        "y" : 0.64534883698502665
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.048223350253807105,
+      "text" : "X Heis impossible to cancel the meeting."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018994297421275563,
+        "width" : 0.78024876371343088,
+        "x" : 0.15963341544080589,
+        "y" : 0.66790291245660627
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.52312138728323698,
+      "text" : "* 부정사구 to cancel the meeting의 목적어인 the meeting이 그대로 남아 있고, 주어도 되지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016999541652584438,
+        "width" : 0.14650449279352284,
+        "x" : 0.15709402587462973,
+        "y" : 0.71423438062911038
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.040094339622641507,
+      "text" : "The meeting"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020770951946434968,
+        "width" : 0.35674141958250227,
+        "x" : 0.30310359958309585,
+        "y" : 0.71212301704354797
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.021505376344086023,
+      "text" : "is impossible for him to Cancel."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016195274332664211,
+        "width" : 0.36111110389655365,
+        "x" : 0.15740741109666914,
+        "y" : 0.73691860469370352
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "그 회의는 그가 취소하는 것이 불가능하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018615534297087843,
+        "width" : 0.44018926958665777,
+        "x" : 0.16185820262765765,
+        "y" : 0.75792849616202929
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.44137931034482758,
+      "text" : "- to cancel의 목적어인 the meeting이 주어로 되어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209299365820225,
+        "width" : 0.060185182179119501,
+        "x" : 0.71296296443292706,
+        "y" : 0.71656976755870239
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "inporstbie"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.02777777867959752,
+        "x" : 0.88425925870313038,
+        "y" : 0.71930605000924985
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "콜록"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011653769482921517,
+        "width" : 0.027777778679597409,
+        "x" : 0.88425925869260869,
+        "y" : 0.73398576513080771
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "콜록"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022668836804047188,
+        "width" : 0.53952381323415333,
+        "x" : 0.13183503686503234,
+        "y" : 0.82622691582147345
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이전 학습의 마지막 페이지에 나온 문장을 다시 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.44444441558621456,
+        "x" : 0.11342593676707798,
+        "y" : 0.85898576475766408
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.012048192771084338,
+      "text" : "X He is difficult to solve this problem."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.037037036435823914,
+        "x" : 0.08333333352591521,
+        "y" : 0.93016014249260148
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 1,
+      "text" : "186"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 179,
+  "pdf_page_number" : 180
+}

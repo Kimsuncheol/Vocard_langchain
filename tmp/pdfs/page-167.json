@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523256050734249,
+        "width" : 0.12761020660400391,
+        "x" : 0.14617169485698123,
+        "y" : 0.091569767257115187
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99878493317132444,
+      "text" : "Mus 38"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0291008032937915,
+        "width" : 0.23665894161571155,
+        "x" : 0.14849187489980087,
+        "y" : 0.13078291796001473
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99860296172115115,
+      "text" : "be to 부정사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017462550533199672,
+        "width" : 0.43619489669799805,
+        "x" : 0.14617169302366373,
+        "y" : 0.21218861195510952
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99904511816662689,
+      "text" : "• 근본적인 의미: ~하는 것을 향한 상태에 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021931638921282803,
+        "width" : 0.81206495111638854,
+        "x" : 0.14153132944852198,
+        "y" : 0.30813953503747671
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "'be to 부정사'는 다소 딱딱한 문어체에 사용되는 필수 문법 사항이다. 'be동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02189543153891782,
+        "width" : 0.83294660394841968,
+        "x" : 0.12064966775933138,
+        "y" : 0.33575581410793565
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "사+tO 부정사'의 한 형태에서 의미가 무려 5가지나 있어, 학습자들이 괴로워하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022381748593150563,
+        "width" : 0.19042238322171295,
+        "x" : 0.1205660704510052,
+        "y" : 0.36308238150187466
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "부분 중 하나이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017540138387170945,
+        "width" : 0.17633411017331213,
+        "x" : 0.14617169189710266,
+        "y" : 0.41414590781636851
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.83464566929133854,
+      "text" : "① (확정된) 예정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.4802784052762118,
+        "x" : 0.17633411510841379,
+        "y" : 0.44476744154003345
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "The president is to visit China next month."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016169411431852132,
+        "width" : 0.399071910164573,
+        "x" : 0.17633411440516342,
+        "y" : 0.4709302326124899
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "대통령은 다음 달 중국을 방문하기로 되어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017498757915564767,
+        "width" : 0.081206495111638827,
+        "x" : 0.14617169432353092,
+        "y" : 0.49273255840543873
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.65384615384615385,
+      "text" : "② 운명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020460559804244327,
+        "width" : 0.36681582710959693,
+        "x" : 0.17388323796395352,
+        "y" : 0.52310278873956262
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "She was never to see him again."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017452165325341329,
+        "width" : 0.33906490152532398,
+        "x" : 0.17619973049360335,
+        "y" : 0.54947149131183204
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 그를 다시는 보지 못하게 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.085846868428316986,
+        "x" : 0.14385150766519186,
+        "y" : 0.57558139500265315
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.69444444444444442,
+      "text" : "③ 가능"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016107341148675181,
+        "width" : 0.66357309168035328,
+        "x" : 0.17401391808052419,
+        "y" : 0.60755813959123395
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "No one was to be seen in the street. 거리에 아무도 보이지 않았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018082837617270031,
+        "width" : 0.083862407640977354,
+        "x" : 0.14368364520254498,
+        "y" : 0.63194695324158889
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.81818181818181823,
+      "text" : "④ 의도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.59164732152765442,
+        "x" : 0.17169374060342513,
+        "y" : 0.66133720921532368
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "If you are to be successful, you need to work harder."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018905693950177938,
+        "width" : 0.40835267847234547,
+        "x" : 0.17401391588784276,
+        "y" : 0.68749999967763897
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "만약 네가 성공하려면, 좀 더 열심히 노력해야 해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018081561526369749,
+        "width" : 0.13941192626953122,
+        "x" : 0.14607129896688151,
+        "y" : 0.71334294014759159
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.72368421052631582,
+      "text" : "⑤ 의무• 명렁"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01752979390561793,
+        "width" : 0.59164732152765453,
+        "x" : 0.17401392612712402,
+        "y" : 0.74555160114379615
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "You are to come to my office. 당신은 내 사무실로 와야 해요"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020509186164340165,
+        "width" : 0.80974474820223719,
+        "x" : 0.1415313381078149,
+        "y" : 0.80071174414348512
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 형태(말하는 방식)가 같다는 것은 공통적으로 근본적인 의미가 있다는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021998882293701172,
+        "width" : 0.83294660394841979,
+        "x" : 0.12064966780031806,
+        "y" : 0.82829181521834028
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "것을 말하고, 그것을 파악하면 전체적인 의미를 이해하기 쉬워진다. 이를 통해 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022486479681157578,
+        "width" : 0.83317184448242176,
+        "x" : 0.1205369786383199,
+        "y" : 0.85502524616704445
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "을 직감적으로 이해하는 능력을 기를 수 있고, 영어를 직접 말하고 쓸 때도 이러한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022845157949101358,
+        "width" : 0.17897134477441962,
+        "x" : 0.12049112599691479,
+        "y" : 0.88319951398197361
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "능력이 필요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011731357761125105,
+        "width" : 0.037122970277612868,
+        "x" : 0.090487238643096116,
+        "y" : 0.92732558155632905
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 1,
+      "text" : "174"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 167,
+  "pdf_page_number" : 168
+}

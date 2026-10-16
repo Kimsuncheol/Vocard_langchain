@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030693950177935969,
+        "width" : 0.12529002536426889,
+        "x" : 0.13921113582992042,
+        "y" : 0.092971529827584165
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 1,
+      "text" : "Mus+ 43"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.036335186601957781,
+        "width" : 0.34958072142167529,
+        "x" : 0.14081944898024232,
+        "y" : 0.12946030627279526
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99831984114861771,
+      "text" : "원형 부정사와 -ing"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.75406031175093213,
+        "x" : 0.13921114337291082,
+        "y" : 0.1991279066530971
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99755312298776566,
+      "text" : "• keep, leave 뒤에는 -ing가 오고, make, have 뒤에는 동사원형이 오는 이유는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01939278989500004,
+        "width" : 0.098292123187671998,
+        "x" : 0.166631200397513,
+        "y" : 0.21414081388884076
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 1,
+      "text" : "무엇일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028608719225031609,
+        "width" : 0.81720473549582739,
+        "x" : 0.13431704054683699,
+        "y" : 0.30721935964626945
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "5형식 문장에서 '~시키다, ~하게 하다'라는 사역의 의미를 지닌 동사로는 keep,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02182301592572311,
+        "width" : 0.83526680686257104,
+        "x" : 0.11136891669081596,
+        "y" : 0.33718861181730975
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "leave, make, have 등이 있다. 이 동사들 중 keep과 leave는 -ing와 잘 쓰이고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021859223308088094,
+        "width" : 0.59164732152765453,
+        "x" : 0.11136891454009562,
+        "y" : 0.36476868350577862
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "make와 have는 동사원형(즉, 원형 부정사)과 잘 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021823015925722999,
+        "width" : 0.80974474820223707,
+        "x" : 0.13457078372950779,
+        "y" : 0.39098837206919113
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "원형 부정사와 -ing의 큰 차이점으로, 원형 부정사는 '동작의 처음부터 끝까지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026178334531410719,
+        "width" : 0.64999220587990503,
+        "x" : 0.11354383473871786,
+        "y" : 0.41572948338823734
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "전체'를 나타내고 -ing는 '동작하는 도중'을 나타내는 점이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023297018852098117,
+        "width" : 0.23289739001880996,
+        "x" : 0.13417886038323837,
+        "y" : 0.44487366152331476
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "아래 예문을 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011684805048742364,
+        "width" : 0.027842226353558611,
+        "x" : 0.11600928117743571,
+        "y" : 0.49854651172832509
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.99386503067484666,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011643424577136074,
+        "width" : 0.030162413011897676,
+        "x" : 0.11368909509884623,
+        "y" : 0.54796511637948797
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906582109437,
+        "width" : 0.027842226353558611,
+        "x" : 0.11600928118848421,
+        "y" : 0.59738372104449344
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.99367088607594933,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011633079247118316,
+        "width" : 0.027842226353558625,
+        "x" : 0.11600928115533868,
+        "y" : 0.64679715303064733
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.38979118520563294,
+        "x" : 0.15777262072976231,
+        "y" : 0.49555160161253309
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.16994818652849741,
+      "text" : "He kept me waiting for two hours."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017532431782352642,
+        "width" : 0.31820856441151013,
+        "x" : 0.15994814253519882,
+        "y" : 0.52032639416721904
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "그는 나를 2시간 동안 기다리게 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023605641096936414,
+        "width" : 0.38375035199252039,
+        "x" : 0.1573511868329116,
+        "y" : 0.54224189949550861
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.12959183673469388,
+      "text" : "Someone left the water running."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020465574230587702,
+        "width" : 0.23988021503795276,
+        "x" : 0.15971102651063501,
+        "y" : 0.56834637966343782
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "누군가가 물을 틀어 놓았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020519531494357923,
+        "width" : 0.32482598044655542,
+        "x" : 0.16009281018011823,
+        "y" : 0.59430604996835601
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.21701602959309493,
+      "text" : "He made his children stop it."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164156,
+        "width" : 0.36426912654529919,
+        "x" : 0.16009281480808638,
+        "y" : 0.61918604680150535
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그는 자신의 아이들이 그것을 멈추게 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.31090487133372913,
+        "x" : 0.15777262179021195,
+        "y" : 0.64368327388490287
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.18158890290037832,
+      "text" : "They had us close the gate."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016014234875444844,
+        "width" : 0.28770301558754663,
+        "x" : 0.16009280763546105,
+        "y" : 0.66859430588530633
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "그들은 우리가 그 문을 닫게 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02440966321056004,
+        "width" : 0.81236085024746985,
+        "x" : 0.13210605332770731,
+        "y" : 0.71562945826739321
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "keep과 leave는 -ing를 사용하는 반면에, make와 have는 동사원형을 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.058004639365456315,
+        "x" : 0.11368909549515273,
+        "y" : 0.74555160156428035
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021807498354928789,
+        "width" : 0.80974474820223719,
+        "x" : 0.13457078126777364,
+        "y" : 0.7717971526459404
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "이를 규칙으로 암기하는 것이 바람직하지 않다는 것은 아니나, 학습자들이 어떤"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026696897486350735,
+        "width" : 0.83104697140780359,
+        "x" : 0.1134850918289342,
+        "y" : 0.79673291535939605
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "동사 뒤에 -ing가 오는 것이 자연스럽고, 동사원형이 오는 것이 자연스러운지 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02187991396812361,
+        "width" : 0.83294660394841979,
+        "x" : 0.11368911091599478,
+        "y" : 0.82695729517290928
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "으로 알 수 있기를 바라는 바이다. 이러한 감각을 익히게 되면, 더욱 수월하게 순간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916121350488593,
+        "width" : 0.41995360634543677,
+        "x" : 0.11368909012813232,
+        "y" : 0.85453736684921566
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "적으로 영어를 쓰거나 말할 수 있게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105572,
+        "width" : 0.039443154226649887,
+        "x" : 0.083526682683014317,
+        "y" : 0.92732558133254028
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.97674418604651159,
+      "text" : "194"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 187,
+  "pdf_page_number" : 188
+}

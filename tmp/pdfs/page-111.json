@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025334814689337515,
+        "width" : 0.80810901831227833,
+        "x" : 0.12719385607259298,
+        "y" : 0.068502521589903664
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "형용사는 명사를 수식한다. 수식이란 '모습을 설명하는 것'이라고 생각하면 이해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027690869633413384,
+        "width" : 0.8290407004931295,
+        "x" : 0.10627967937667718,
+        "y" : 0.093390625798298155
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "하기 쉽다. 여기에서 'a man(남자)'이라는 명사가 어떤 남자인지를 설명하기 위해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024657416598228399,
+        "width" : 0.82885413203679081,
+        "x" : 0.1063929813552006,
+        "y" : 0.12492671705658787
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "서 'running(달리고 있는)'이라는 말을 사용했다. 그리고 아래 예문에서도 -ing에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022027107320222172,
+        "width" : 0.41238282115746899,
+        "x" : 0.10632966081417876,
+        "y" : 0.15246070802822664
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "는 '~하고 있는 중인'이라는 의미가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022908081787761048,
+        "width" : 0.48878299361425093,
+        "x" : 0.10399662205775975,
+        "y" : 0.20149289132568537
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.12895569620253164,
+      "text" : "de | don't know the girl speaking Chinese."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.43055554112644068,
+        "x" : 0.15046297002099487,
+        "y" : 0.22674418595789469
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "나는 중국어를 말하고 있는 그 여자아이를 모른다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027522095581814954,
+        "width" : 0.73896570949689711,
+        "x" : 0.12010767569660949,
+        "y" : 0.26322785968668794
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "\"~하고 있는 중인'이라는 것은 '일시적으로 지금 ~하고 있는'을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021812670595705241,
+        "width" : 0.58564812409962319,
+        "x" : 0.12500001044729492,
+        "y" : 0.2935943058543623
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "위의 예문에서도 '지금 중국어를 말하고 있는 여자아이'를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.60185183261303188,
+        "x" : 0.10648149098515076,
+        "y" : 0.32250889710835384
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "말한다. 즉, 일시적으로 현재 그렇게 하고 있다는 것을 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014752130915685946,
+        "width" : 0.037037036435824011,
+        "x" : 0.75694444462931021,
+        "y" : 0.31976744162231752
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "#븙"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021873070251899329,
+        "width" : 0.061372002134931852,
+        "x" : 0.1026565517959146,
+        "y" : 0.34944175786783027
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020467805692733765,
+        "width" : 0.58333333333333337,
+        "x" : 0.12500000069444453,
+        "y" : 0.37633451979801491
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "그래서 '항상 그렇게 하는 (명사)'이라는 뜻으로 말할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.48379629148659131,
+        "x" : 0.10416666895462677,
+        "y" : 0.40552325572996462
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "없다. 그러한 경우에는 관계 대명사를 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02206536374482404,
+        "width" : 0.54196058773825351,
+        "x" : 0.10402996396232944,
+        "y" : 0.45305256848347364
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.1211453744493392,
+      "text" : "예e I don't have any friends who speak Chinese."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957202,
+        "width" : 0.40972220779310725,
+        "x" : 0.15046297005833503,
+        "y" : 0.47953736662091351
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "중국어를 말하는 친구가 나에게는 아무도 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02189543153891782,
+        "width" : 0.8078703318927305,
+        "x" : 0.12500001578588796,
+        "y" : 0.51734875416805393
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "제시된 예문에서는 '항상 말하는 언어가 중국어'라는 뜻으로 현재형이 사용되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024283444754169436,
+        "width" : 0.83123268506205683,
+        "x" : 0.10406218420272167,
+        "y" : 0.54563443221332619
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "었다. any friends speaking Chinese라고 하면 '지금 일시적으로 중국어를 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957501822094994,
+        "width" : 0.5625,
+        "x" : 0.10416666662316129,
+        "y" : 0.57412790712686668
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "하고 있는 상태의 친구'라는 뜻이 되어 자연스럽지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030693950177935858,
+        "width" : 0.43750000000000006,
+        "x" : 0.09027777498346562,
+        "y" : 0.62633451971010179
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.98256320836965994,
+      "text" : "•분사구문은 '분사의 부사적 용법'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.66435183261303177,
+        "x" : 0.1250000095287635,
+        "y" : 0.66715116270726882
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "분사구문은 현재분사(-ing)와 과거분사(-ed)를 부사로 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.81018516594636525,
+        "x" : 0.12268519468475009,
+        "y" : 0.69331395340222934
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "부사에는 여러 기능이 있는데, 가장 큰 비중을 차지하는 기능은 동사를 꾸며 주"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028638754875210171,
+        "width" : 0.8291374044215426,
+        "x" : 0.10396520137927634,
+        "y" : 0.71789742429879011
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "는 것으로 동작의 모습을 설명하는 것이다. 예를 들어, '달리다'라는 동사를 어떤 식"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031229358550916797,
+        "width" : 0.8292916805186169,
+        "x" : 0.10388406221263698,
+        "y" : 0.74369110428647733
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "으로 달리는지 설명하는 '빨리 (달리다), '천천히 (달리다), '친구와 (달리다) 등이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.10648147907662897,
+        "x" : 0.10185185292963422,
+        "y" : 0.77758007158238718
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "부사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026642504111727749,
+        "width" : 0.5699683656083776,
+        "x" : 0.1038563712525271,
+        "y" : 0.82188445802773336
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.21169590643274855,
+      "text" : "《콤 Seeing me, he ran away. 나를 보고, 그는 도망갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.81018516594636525,
+        "x" : 0.12268519471072988,
+        "y" : 0.8705516016173086
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "Seeing me는 분사구문이다. '도망가다'라는 동작이 왜 일어났는지를 설명하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.037037036435823914,
+        "x" : 0.074074074258939901,
+        "y" : 0.92877906973058855
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 1,
+      "text" : "116"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 111,
+  "pdf_page_number" : 112
+}

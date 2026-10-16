@@ -1,0 +1,550 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.15081205976770279,
+        "x" : 0.18561485168014313,
+        "y" : 0.076888889225946611
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.94788273615635177,
+      "text" : "- ② 도달하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.65893273319758427,
+        "x" : 0.13225057063851775,
+        "y" : 0.11333333362538645
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "'도달하다'를 뜻하는 tO 부정사는 주로 부사적 용법으로 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632713,
+        "width" : 0.67053365504488038,
+        "x" : 0.11600927446608995,
+        "y" : 0.13953488389366941
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이 경우, '이미 이러한 동작이 현실로 일어나고 있다'는 것을 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020509043375650959,
+        "width" : 0.058004641701989129,
+        "x" : 0.11600927993664739,
+        "y" : 0.16844444446975171
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016003874884711333,
+        "width" : 0.037122969931744465,
+        "x" : 0.89559164687867543,
+        "y" : 0.14533333372490465
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.10000000000000001,
+      "text" : "도달"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.21345706155114141,
+        "x" : 0.11136891855157544,
+        "y" : 0.22222222191498353
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "• 부사적 용법(결과)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023530053032769116,
+        "width" : 0.68937650639960102,
+        "x" : 0.11354960568291246,
+        "y" : 0.2506773288324029
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.2205240174672489,
+      "text" : "예콤 He grew up tolbe a doctor. 그는 어른이 되어서 의사가 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017405339558919208,
+        "width" : 0.78202518977171986,
+        "x" : 0.16467526527413298,
+        "y" : 0.28049138965055198
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.34499999999999997,
+      "text" : "성장해서 어른이 된 결과 의사인 상태'에 도달했다.(grow는 '성장하다'라는 의미밖에 없지만, grow up은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014683462354871946,
+        "width" : 0.20649652142896718,
+        "x" : 0.18561484586904314,
+        "y" : 0.30087209305842588
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.36036036036036034,
+      "text" : "'어른이 되다'라는 의미이다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.032482599028458833,
+        "x" : 0.11600928041616503,
+        "y" : 0.34444444459589363
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 1,
+      "text" : "여문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925508,
+        "width" : 0.65429232982878982,
+        "x" : 0.14849188604870101,
+        "y" : 0.34156976763454594
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.019682539682539683,
+      "text" : "I studied without sleeping a wink, only to [fail the exam."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122503,
+        "width" : 0.034802784480101656,
+        "x" : 0.33874709965863442,
+        "y" : 0.37063953471556665
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.30434782608695654,
+      "text" : "노력"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015349789089626698,
+        "width" : 0.10468969683275153,
+        "x" : 0.52654146251881728,
+        "y" : 0.36877859376096989
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.47692307692307695,
+      "text" : "~만을 향하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488328721797,
+        "width" : 0.037122969931744576,
+        "x" : 0.68909512744712076,
+        "y" : 0.3691860466679221
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.375,
+      "text" : "실패"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020117819892035538,
+        "width" : 0.45032075922539899,
+        "x" : 0.16228584833447518,
+        "y" : 0.38928711479070199
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "한참도 자지 않고 공부했는데, 결국 시험에 떨어졌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01896227010091156,
+        "width" : 0.55939625408632532,
+        "x" : 0.16694685068001436,
+        "y" : 0.41085002555037486
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.38227848101265821,
+      "text" : "*'노력 + only to + 실패'의 구문으로, '노력했지만, 결국 실패뿐이었다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.071925754411846177,
+        "x" : 0.18561484936020223,
+        "y" : 0.4315555559622043
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.12195121951219512,
+      "text" : "의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316357,
+        "width" : 0.081206496218417468,
+        "x" : 0.78422273783135876,
+        "y" : 0.39244186053146879
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "잠이 부족해..."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.21113688151041665,
+        "x" : 0.11368909999134552,
+        "y" : 0.47819767456017204
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "• 부사적 용법(원인)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011700258043077283,
+        "width" : 0.03480278448010167,
+        "x" : 0.1183294662054248,
+        "y" : 0.51155555570541811
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 19,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.41763340293938378,
+        "x" : 0.16241299681706964,
+        "y" : 0.50872093042285416
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.08067226890756303,
+      "text" : "It's good to [see you]. 만나서 반가워요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0161072353786893,
+        "width" : 0.43387468486812941,
+        "x" : 0.1670533783219291,
+        "y" : 0.53633720888085168
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.37345679012345678,
+      "text" : "- '당신을 만나다'에 도달하여, '상황(it)이 좋다'를 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021263430277506545,
+        "width" : 0.28814729731133648,
+        "x" : 0.11345965348864342,
+        "y" : 0.5826604818115918
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "• 부사적 용법(판단의 근거)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023669113159179633,
+        "width" : 0.78217972559286342,
+        "x" : 0.11818335939022408,
+        "y" : 0.61112534409884778
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.099595551061678458,
+      "text" : "에e He must be a genius to [solve the problem within a few minutes]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.078886310766774687,
+        "x" : 0.20881670527823978,
+        "y" : 0.63953488364068856
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.2391304347826087,
+      "text" : "판단•평가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.45707657185006656,
+        "x" : 0.16473317573670612,
+        "y" : 0.65688888850670002
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "그 문제를 몇 분 안에 풀다니 그는 천재임에 틀림없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018564945644802489,
+        "width" : 0.78438019448138308,
+        "x" : 0.16466026617882007,
+        "y" : 0.67853006523106629
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.35257731958762889,
+      "text" : ">'판단•평가 + to + (판단•평가의) 근거'의 구문으로, '어떤 일에 도달하여, 그것을 근거로 하여 판단•평가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016005167643229234,
+        "width" : 0.18561483613142732,
+        "x" : 0.19025522801317268,
+        "y" : 0.6991111107737995
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.32857142857142857,
+      "text" : "를 내리다'라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021691620720757365,
+        "width" : 0.21415571929715205,
+        "x" : 0.11334339603496685,
+        "y" : 0.74802694280196658
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "•부사적 용법(조건)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020915010240342924,
+        "width" : 0.63362894261136959,
+        "x" : 0.11819865526825767,
+        "y" : 0.80424566613661308
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.11879975505205144,
+      "text" : "예문 To hear her talk, you would think she was Chinese."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.037122969931744521,
+        "x" : 0.2575406030851719,
+        "y" : 0.83284883710344038
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.42105263157894735,
+      "text" : "조건"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.034802784480101656,
+        "x" : 0.49419953571818587,
+        "y" : 0.83139534872775367
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.41176470588235292,
+      "text" : "결과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.61252900252105502,
+        "x" : 0.16473317849828439,
+        "y" : 0.85155555539218464
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "그녀가 말하는 것을 들으면, 당신은 그녀가 중국인이라고 생각할 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020231198628743452,
+        "width" : 0.78217245331892737,
+        "x" : 0.16693603516447619,
+        "y" : 0.87175003206068513
+      },
+      "confidence" : 0.5,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0.29454545454545455,
+      "text" : "* 문장 첫 부분에 'to + 조건이 오는 패턴이다. '그 조건에 도달하면 이라는 의미로, 조건 부분에는 보통"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.35498839033410901,
+        "x" : 0.19025522469280629,
+        "y" : 0.89534883742034455
+      },
+      "confidence" : 0.5,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0.36085626911314983,
+      "text" : "'to see ~' 또는 'to hear ~의 지각 구문이 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039443155383387357,
+        "x" : 0.088167053290034852,
+        "y" : 0.93155555536681967
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 1,
+      "text" : "168"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 161,
+  "pdf_page_number" : 162
+}

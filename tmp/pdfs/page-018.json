@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032074935913085967,
+        "width" : 0.12413793207053228,
+        "x" : 0.13103448227507872,
+        "y" : 0.087111111228311167
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9994343891402715,
+      "text" : "Musi 02"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523254394531185,
+        "width" : 0.6827586156574148,
+        "x" : 0.13563218630882448,
+        "y" : 0.126453489076505
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99944933920704848,
+      "text" : "하고 싶은 말부터 먼저 하는 것이 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017531007554795974,
+        "width" : 0.57931033535513365,
+        "x" : 0.13103448737943912,
+        "y" : 0.21066666693913472
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99962235649546827,
+      "text" : "• This is o pen.의 의문문이 Is this a pen?의 어순이 되는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031600331624348943,
+        "width" : 0.37783564528667807,
+        "x" : 0.10530710480786208,
+        "y" : 0.30005461231820674
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99545454545454548,
+      "text" : "• 영어의 어순은 '뇌 friendly'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021990955776638454,
+        "width" : 0.80459770706970812,
+        "x" : 0.12413792827685909,
+        "y" : 0.35155555592388432
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "Must 01에서는 영어로 바라보는 세상을 통해 '영어 뇌'란 무엇인지를 이야기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024254896375868085,
+        "width" : 0.8209311784403569,
+        "x" : 0.10793301854614654,
+        "y" : 0.37996399643498557
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.033986928104575161,
+      "text" : "했다. 영어 뇌의 중요한 요소에는 어순이 있다. 그러나 많은 영어 학습자들이 생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537246,
+        "width" : 0.4160919404063379,
+        "x" : 0.10574713621445553,
+        "y" : 0.40843023227788255
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "하기에 영어의 어순은 골칫거리일 뿐이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021848837110731378,
+        "width" : 0.80229888787249459,
+        "x" : 0.12643676290745129,
+        "y" : 0.43600000019227536
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "문법을 단순히 규칙을 모아놓은 것이라고 생각하면, 어순처럼 까다롭고 귀찮은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022350860595703237,
+        "width" : 0.18406900440757956,
+        "x" : 0.10566664745185872,
+        "y" : 0.46338852312708267
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "것도 없을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218501290215386,
+        "width" : 0.66436780454740241,
+        "x" : 0.12643679245809941,
+        "y" : 0.48977777787209054
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "그런데 사실 영어 어순은 영어를 말하는 사람의 마음을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023326872931586418,
+        "width" : 0.8022988878724947,
+        "x" : 0.12643676286859054,
+        "y" : 0.51889534901058543
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "즉, 영어 어순은 이해하기 어려운 기계적인 규칙이 아니라, 뇌 friendly하게 만들"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032300174289279449,
+        "width" : 0.14531423405085267,
+        "x" : 0.10384098646785558,
+        "y" : 0.53984662416995832
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "어진 것이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022077943589952187,
+        "width" : 0.80249375398316636,
+        "x" : 0.12634186074930898,
+        "y" : 0.57148526652305376
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "지금부터 설명하는 구조를 이해한다면 뇌는 더 우호적으로 영어 어순을 파악할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022307033962673639,
+        "width" : 0.18865037534474988,
+        "x" : 0.10567481223329094,
+        "y" : 0.60003834346616125
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "수 있게 될 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.28735632701932801,
+        "x" : 0.10344827315700268,
+        "y" : 0.65822222236999739
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.99459459459459465,
+      "text" : "• 의문문 어순의 정체"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020475452846950959,
+        "width" : 0.62298850101089998,
+        "x" : 0.12643678398000255,
+        "y" : 0.70930232519887682
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "This is a pen.을 의문문으로 만들면 Is this a pen?이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988371955023789,
+        "width" : 0.72183909999670348,
+        "x" : 0.12643677660263339,
+        "y" : 0.73401162765267491
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이는 학교에서 영어를 처음 배울 때 익히는 매우 기초적인 영어 지식이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023951902601453967,
+        "width" : 0.80023820021316805,
+        "x" : 0.12861908849727394,
+        "y" : 0.76089789254963558
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "매우 기초이기 때문에 왜 의문문으로 Is this a pen?이라는 어순이 되는지를 설"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021866925557454397,
+        "width" : 0.5448275752543732,
+        "x" : 0.10804598252449012,
+        "y" : 0.78924418593670231
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "명해 달라고 하면, 대부분의 사람이 난감해 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024918826633029467,
+        "width" : 0.80257470497099159,
+        "x" : 0.126310006425571,
+        "y" : 0.83842196969606864
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.0058823529411764705,
+      "text" : "그런데 학교에서 의문문으로 배우는 이 어순은 정말 의문문을 만들기 위한 어순"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021925064934624539,
+        "width" : 0.0965517261360265,
+        "x" : 0.10344827475102594,
+        "y" : 0.86918604638510522
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "인 걸까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014713177998860627,
+        "width" : 0.032183908712008824,
+        "x" : 0.075862068517558806,
+        "y" : 0.92133333335162793
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 1,
+      "text" : "20"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 18,
+  "pdf_page_number" : 19
+}

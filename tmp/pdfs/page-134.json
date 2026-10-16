@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032111111111111201,
+        "width" : 0.12993039611383531,
+        "x" : 0.13457076484120509,
+        "y" : 0.092888889525925555
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99945770065075923,
+      "text" : "Must 30"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029069766574435829,
+        "width" : 0.17633410514669215,
+        "x" : 0.13921113751688333,
+        "y" : 0.13372093063397072
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 1,
+      "text" : "수동태 ②"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031976742214626763,
+        "width" : 0.40371227940769056,
+        "x" : 0.13921114779615468,
+        "y" : 0.16424418683236686
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99817739975698661,
+      "text" : "책임을 모호하게 하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022509287516276011,
+        "width" : 0.45964948505374559,
+        "x" : 0.13442958405066183,
+        "y" : 0.21359296301450237
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99931635617843106,
+      "text" : "• 명확히 밝히는 것을 피하고, 객관성을 추구하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962532043456995,
+        "width" : 0.55684455168162672,
+        "x" : 0.13457076392136763,
+        "y" : 0.30959302313453219
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "타동사 구문은 기본적으로 아래와 같은 형태를 취한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.24361948865525265,
+        "x" : 0.15081206530230404,
+        "y" : 0.3706395347961432
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "하는 쪽 동사 당하는 쪽"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021121163262261322,
+        "width" : 0.21907694931571364,
+        "x" : 0.15038314094400418,
+        "y" : 0.40349857961032431
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.0032362459546925568,
+      "text" : "He broke the cup."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.058004641701989101,
+        "x" : 0.14153132172441146,
+        "y" : 0.43459302316823356
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.2982456140350877,
+      "text" : "깨는 쪽"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.074245939863489041,
+        "x" : 0.27610208796062885,
+        "y" : 0.43459302317557236
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.3888888888888889,
+      "text" : "깨지는 쏙"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022478153652615074,
+        "width" : 0.68464463687112143,
+        "x" : 0.13217760061109521,
+        "y" : 0.49935974665038363
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "어떻게 보면 타동사 구문은 '원인과 결과의 구문'이라고 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01933042399088547,
+        "width" : 0.21171758124168882,
+        "x" : 0.11342919545288889,
+        "y" : 0.55784956072579306
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.06386554621848739,
+      "text" : "He broke the cup"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.037122969931744507,
+        "x" : 0.11136890934074921,
+        "y" : 0.58575581384403275
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.40740740740740738,
+      "text" : "원인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316468,
+        "width" : 0.078886310766774714,
+        "x" : 0.15081206511158557,
+        "y" : 0.58575581399375265
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.40000000000000002,
+      "text" : "결과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052713182237409,
+        "width" : 0.45243616848127222,
+        "x" : 0.35962878213987426,
+        "y" : 0.55813953515337333
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "그'가원인이 되어, '컵이 깨졌다'라는 결과를 낳았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020497416178385408,
+        "width" : 0.79582363696808511,
+        "x" : 0.13225059452632287,
+        "y" : 0.6844444446546939
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 타동사 구문은 '책임의 소재를 분명히 하는 구문'이라고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024494984944661513,
+        "width" : 0.81458376620678186,
+        "x" : 0.12981317709690091,
+        "y" : 0.71042943798872082
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "\"컵이 깨졌다.\"라는 자동사 문장의 경우, 마치 컵이 저절로 깨진 것처럼 들릴 뿐"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02488888888888896,
+        "width" : 0.83062640250997344,
+        "x" : 0.11368911742250759,
+        "y" : 0.73688888925468976
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "책임 소재를 알 수 없다. 하지만 \"그가 컵을 깼다.\"라고 하면 책임이 그에게 있음을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021891472710503401,
+        "width" : 0.22737818508283467,
+        "x" : 0.11368909760649451,
+        "y" : 0.76744186035291895
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "명확히 밝히는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02593322923448349,
+        "width" : 0.81236857962101072,
+        "x" : 0.13211478998394796,
+        "y" : 0.79246848906531542
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "사회에서 사람들과 어울려 지내다 보면, 책임을 명확하게 밝히는 일이 양날의 검"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025747076246473544,
+        "width" : 0.83328164824357265,
+        "x" : 0.11121398261075131,
+        "y" : 0.81979469124071214
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이 되는 경우가 자주 있다. 이 때문에 책임을 얼버무리기 위한 표현이 발달하게 되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024381378173828128,
+        "width" : 0.64754041306515953,
+        "x" : 0.11356938748382737,
+        "y" : 0.84840071386571758
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "는 것도 당연한 일이다. 이것이 바로 수동태의 또 다른 용도이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.037122969931744521,
+        "x" : 0.083526682035932331,
+        "y" : 0.92711111093000853
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.98750000000000004,
+      "text" : "140"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 134,
+  "pdf_page_number" : 135
+}

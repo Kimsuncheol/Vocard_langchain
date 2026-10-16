@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.036986486767534688,
+        "width" : 0.13270010440907581,
+        "x" : 0.13378154798233555,
+        "y" : 0.086006667691994165
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99956803455723542,
+      "text" : "Must 32"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035778235710388406,
+        "width" : 0.58599507216866142,
+        "x" : 0.13869228025913474,
+        "y" : 0.12769180586633444
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99936925572175161,
+      "text" : "과거분사: She has gone.이 아닌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03204225730217225,
+        "width" : 0.23664068127354831,
+        "x" : 0.13752797294195801,
+        "y" : 0.16443800201181358
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99898296465802183,
+      "text" : "She Is gone."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021896270670500595,
+        "width" : 0.39634195963541674,
+        "x" : 0.13862553739751807,
+        "y" : 0.20810033838798103
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99593060612550866,
+      "text" : "• gone이l 사전에 형용사로 적혀 있는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023328229625878327,
+        "width" : 0.45138887445977399,
+        "x" : 0.11111111821940371,
+        "y" : 0.30516014206571018
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.98638684061259219,
+      "text" : "를 과거분사는 형용사가 될 수 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.8078703318927305,
+        "x" : 0.13425927837673815,
+        "y" : 0.35453736638714117
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "내가 미국에서 대학에 다녔을 때, 대학 체육관에서 웨이트 트레이닝을 하고 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021952329581318319,
+        "width" : 0.83101849927969862,
+        "x" : 0.11111112061478026,
+        "y" : 0.38211743769960005
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "었다. 다른 사람이 역기를 사용하고 있어 끝나기를 기다렸는데, 그 사람이 역기를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988537812148046,
+        "width" : 0.44675924963984931,
+        "x" : 0.11342593061671051,
+        "y" : 0.40969750853563625
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "다 사용한 후에 나에게 다음과 같이 말했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011648596817912638,
+        "width" : 0.030092591089559792,
+        "x" : 0.1134259265617016,
+        "y" : 0.46218861223424146
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017952477804706546,
+        "width" : 0.12602149476396279,
+        "x" : 0.14559323773318983,
+        "y" : 0.45744147064627061
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "I'm done."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016144708382277217,
+        "width" : 0.1366204769053358,
+        "x" : 0.26386568737598354,
+        "y" : 0.45922415741848832
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "다 끝났어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025189404810026406,
+        "width" : 0.74555144614361701,
+        "x" : 0.13184114723312326,
+        "y" : 0.50874545942385019
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "나는 이 말을 듣고, 의미는 알았지만 왜 이렇게 표현했는지 의문을 가졌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021817842836481915,
+        "width" : 0.81018516594636525,
+        "x" : 0.13194445393157933,
+        "y" : 0.53779069782740585
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "지금 생각하면 단순히 영어 실력이 부족했던 이유겠지만, 일본에 있는 학교에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026656084637625033,
+        "width" : 0.83133189965647158,
+        "x" : 0.11095220314332058,
+        "y" : 0.5627663586493924
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "배운 기억으로는 'be동사 +과거분사'는 수동태이며, '(동작을) 당하다'라는 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.82870366522606376,
+        "x" : 0.11111113308141249,
+        "y" : 0.59156976760393709
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "였다. 그런데 I'm done.은 아무리 봐도 \"나는 당하다.\"라는 의미가 아니라 \"나는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.40277779220689269,
+        "x" : 0.11111110250766476,
+        "y" : 0.61918604674014965
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "다 끝났어.\"라는 의미로 쓰이는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218986,
+        "width" : 0.81250000000000011,
+        "x" : 0.12962962575231499,
+        "y" : 0.6453488374101386
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "\"난 이미 다 했어.\"라는 것을 표현하고 싶었다면 학교에서 I have done it,이라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843705737293773,
+        "width" : 0.30555556277011303,
+        "x" : 0.11111110739861353,
+        "y" : 0.67437722432750036
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "는 현재완료로 배웠을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025968292005545734,
+        "width" : 0.81049796030031029,
+        "x" : 0.13177528640282812,
+        "y" : 0.6972969144143063
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그 이후로도 계속 이 표현에 대해서 '이런 말투가 있구나. 정도로 생각하고 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916121350488704,
+        "width" : 0.057870369769157243,
+        "x" : 0.11111111128874313,
+        "y" : 0.7295373667956182
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988537812148046,
+        "width" : 0.8078703318927305,
+        "x" : 0.13194446356819464,
+        "y" : 0.7846975085384662
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "영어를 가르치게 되고, 형용사란 무엇인지 여러 방면으로 생각하고 있을 때, 우연"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022019572953736577,
+        "width" : 0.42361112554022606,
+        "x" : 0.11111110377949018,
+        "y" : 0.81250000015162471
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "히 빨간 나무 열매를 보고 문득 생각했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024155156892389562,
+        "width" : 0.49801246156083773,
+        "x" : 0.12715431190373133,
+        "y" : 0.83636029076882268
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "나무 열매가 빨갛다'에서 '빨갛다'는 형용사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028795985564642468,
+        "width" : 0.80833852781471616,
+        "x" : 0.13401845732825995,
+        "y" : 0.86230859575677654
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "형용사는 '변하지 않고 계속되는 상태'를 나타낸다. 따라서 '~한 상태로 존재"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011669287053715727,
+        "width" : 0.037037036435823914,
+        "x" : 0.08333333351048311,
+        "y" : 0.92437722433811409
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 1,
+      "text" : "148"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 142,
+  "pdf_page_number" : 143
+}

@@ -1,0 +1,490 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020538759019639752,
+        "width" : 0.059770114646514577,
+        "x" : 0.10804597703178742,
+        "y" : 0.074127907393360393
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021811370001898922,
+        "width" : 0.25287356691856755,
+        "x" : 0.13103448078908222,
+        "y" : 0.10174418593725321
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "다음의 예문을 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02454670376247825,
+        "width" : 0.088693261984866711,
+        "x" : 0.69701072688244581,
+        "y" : 0.11582101166772252
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "빈집 /"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021797817654079954,
+        "width" : 0.31807392190109657,
+        "x" : 0.11232899275865142,
+        "y" : 0.14738732719573888
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.18466522678185746,
+      "text" : "에문 | found the house empty."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016019379509819909,
+        "width" : 0.087356320581020275,
+        "x" : 0.83218390885891524,
+        "y" : 0.19331395390128514
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "[found!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.35862068787908752,
+        "x" : 0.13103448353172059,
+        "y" : 0.20203488391185664
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "위의 문장을 한국어로 자연스럽"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023333333333333317,
+        "width" : 0.38390804242484178,
+        "x" : 0.10804597772025568,
+        "y" : 0.22666666632312593
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "게 바꾸면. \"그 집은 비어 있었다.\"가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021963824801974896,
+        "width" : 0.3816091803055775,
+        "x" : 0.11034483495965508,
+        "y" : 0.25581395337795199
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "된다. 한국어에서는 집이 비어 있다는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020547803243001317,
+        "width" : 0.38160918030557756,
+        "x" : 0.10804598453111931,
+        "y" : 0.28177777755202649
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "것을 발견하게 된 '나'는 언어화되지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020509044223361528,
+        "width" : 0.2275862123728134,
+        "x" : 0.10804597415589469,
+        "y" : 0.31104651124215654
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "않는 것이 일반적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.06666666881276917,
+        "x" : 0.52873563099591425,
+        "y" : 0.20622222210928354
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "비어 있네"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018141660902235235,
+        "width" : 0.067117768836256086,
+        "x" : 0.54230318442418757,
+        "y" : 0.25110358811734712
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "한국어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.041379308901758671,
+        "x" : 0.85517241439969549,
+        "y" : 0.25145348823094382
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709301418728291,
+        "width" : 0.8022988020283931,
+        "x" : 0.12873565911990303,
+        "y" : 0.36337209327077147
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 영어로는 \"나는 그 집이 비어 있는 것을 발견했어.\"라고 말한다. '발견하게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025886381361219679,
+        "width" : 0.51294949688488922,
+        "x" : 0.10793175317075357,
+        "y" : 0.38841594305343563
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "된 자신을 외부에서 관찰하고 있다' 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632935,
+        "width" : 0.79999998283117957,
+        "x" : 0.13103449138134501,
+        "y" : 0.44476744184409434
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "대부분의 한국인이 \"그 집은 비어 있어.\"를 영어로 말하면 The house was"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021981912400987458,
+        "width" : 0.24367816136356146,
+        "x" : 0.10574712626921751,
+        "y" : 0.47511111092471026
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "empty.라고 할 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023269377814398862,
+        "width" : 0.26034681102897544,
+        "x" : 0.12849050772409609,
+        "y" : 0.50008520772954101
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "물론 틀린 표현은 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021863048977322053,
+        "width" : 0.80459770706970835,
+        "x" : 0.12873563405135274,
+        "y" : 0.52755555555438849
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 영어로 사물을 보는 시각이 반영되어 있지 않기 때문에 '영어다운 영어'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021980620490180125,
+        "width" : 0.53333335050215358,
+        "x" : 0.10804596832363583,
+        "y" : 0.55668604640760633
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "를 제대로 구사하지 못하는 경우가 많아지는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024593977186414873,
+        "width" : 0.80021098763295551,
+        "x" : 0.12862876540591631,
+        "y" : 0.58241011637826468
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "영어로 생각하는 '영어 뇌'라는 표현이 있다. 이 표현에 대한 여러 가지 정의가 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026197128295898486,
+        "width" : 0.82554675825202184,
+        "x" : 0.10561237634305398,
+        "y" : 0.60774237621534166
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "지만, 나는 '외부에서 나 자신을 바라보는 언어'를 사용하는 방법이라고 정의를 내"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020465115865071604,
+        "width" : 0.057471263257763056,
+        "x" : 0.10804597742453295,
+        "y" : 0.63953488413422155
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020463823954264271,
+        "width" : 0.45057470050709819,
+        "x" : 0.10574713342461178,
+        "y" : 0.69331395379193927
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.94865525672371642,
+      "text" : "• '외부에서 바라보는' 감각을 익힌다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028831954956054728,
+        "width" : 0.8004983936851704,
+        "x" : 0.12848621469908472,
+        "y" : 0.72615066487510616
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "영어가 가진 '외부에서 바라보는' 감각을 익히면, 한국어 화자가 사용하기 어렵거"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021856589423285611,
+        "width" : 0.44827588130988494,
+        "x" : 0.10804596727296867,
+        "y" : 0.75866666648331438
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "나 어색한 표현도 쉽게 이해할 수 있게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.39540231009911214,
+        "x" : 0.10804597128557562,
+        "y" : 0.807999999954639
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.23140495867768596,
+      "text" : "예운 | dressed myself. 나는 옷을 입었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.21149424192103994,
+        "x" : 0.10804598249322935,
+        "y" : 0.83555555523734826
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.26666666666666666,
+      "text" : "예E | seated myself."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.19310345227205306,
+        "x" : 0.31954022778187174,
+        "y" : 0.83555555581909591
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "나는 자리에 앉았어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021877260843912727,
+        "width" : 0.79999998283117957,
+        "x" : 0.12873564068485677,
+        "y" : 0.85901162780146234
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "위의 문장을 각각 직역하면 \"나는 나 자신에게 옷을 입게 했어.\". \"나는 나 자신을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024280775282118028,
+        "width" : 0.26774082103359048,
+        "x" : 0.10758240436920148,
+        "y" : 0.8843094199165551
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "자리에 앉게 했어.\"가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.025287354545754218,
+        "x" : 0.07816092045700794,
+        "y" : 0.92711111126302082
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.98275862068965514,
+      "text" : "18"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 16,
+  "pdf_page_number" : 17
+}

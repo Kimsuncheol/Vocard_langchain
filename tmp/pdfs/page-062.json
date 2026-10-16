@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483324111992718,
+        "width" : 0.45161289489487838,
+        "x" : 0.11290322989564043,
+        "y" : 0.066725978285498755
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9826897470039947,
+      "text" : "• 이미 끝난 이야기로 현실을 '떠나다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025611904592276469,
+        "width" : 0.80680754625242412,
+        "x" : 0.13114780371015541,
+        "y" : 0.10223241373091252
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "영어의 과거형은 이미 지나간 것을 말하기 때문에, 지금은 더 이상 현실이 아닌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02368382627005261,
+        "width" : 0.49827737095325719,
+        "x" : 0.11263649978010314,
+        "y" : 0.1290307474059611
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "것을 나타내는 것이 과거형 시제의 주된 기능이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025585619156046624,
+        "width" : 0.80456930356906753,
+        "x" : 0.13113587201488691,
+        "y" : 0.15581190095074116
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "한국어의 과거형이 '현실과 연결되어 있는 것'과 달리 영어의 과거형은 '현실에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.21198157564709316,
+        "x" : 0.11059907380833198,
+        "y" : 0.18594306078222678
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "떨어져 있는 것'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01791594206650482,
+        "width" : 0.24249766878415902,
+        "x" : 0.33153347082645612,
+        "y" : 0.31292995411258706
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "뒤돌아봤을 때, '멀리' 뒤에 보이는 현실은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01690053600433461,
+        "width" : 0.15725559509019088,
+        "x" : 0.32927072413769609,
+        "y" : 0.32691807514714744
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "더 이상 관련이 없는 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026643584207283633,
+        "width" : 0.80437431819684413,
+        "x" : 0.12892331349530786,
+        "y" : 0.37471151880442655
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, \"나는 어렸을 때부터 야구를 했다.\"를 영어로 바꾸면 I have played"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027700122140904782,
+        "width" : 0.82781973813249299,
+        "x" : 0.1056448450388609,
+        "y" : 0.40313811034251545
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "baseball since I was a kid.로 말할 수 있다. 하지만 I played baseball since"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025883302994045843,
+        "width" : 0.34911506771200634,
+        "x" : 0.10320104508570603,
+        "y" : 0.42930410843615052
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "I was a kid.로 말하지는 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.80414748090951171,
+        "x" : 0.12672810088548986,
+        "y" : 0.45774021356611394
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "과거형 played를 사용하면 '어렸을 때부터 야구를 했는데, 그것은 과거의 일로,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025641517707037376,
+        "width" : 0.71949731479747003,
+        "x" : 0.10337965623189964,
+        "y" : 0.48462874850565374
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "'지금 내가 있는 현실의 세계'에서는 야구를 하지 않는다는 의미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027361690785961179,
+        "width" : 0.81147738135247716,
+        "x" : 0.12188378583775626,
+        "y" : 0.53819738700299868
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "\"비결은 비타민이었다.\"라는 문장을 영어로 바꾸면 The secret is vitamins.이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021869568638105852,
+        "width" : 0.26036865923065056,
+        "x" : 0.10599078547130182,
+        "y" : 0.56976744200783713
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "며 과거형 was가 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028776830625703687,
+        "width" : 0.80697300403847849,
+        "x" : 0.12417117135445169,
+        "y" : 0.59418722305200677
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "was를 사용하게 되면 '과거에는 비타민이었지만, 지금은 아니다'라는 느낌이 강"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.078341011940508215,
+        "x" : 0.10599078422889008,
+        "y" : 0.62499999988473587
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "해진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026665032546291156,
+        "width" : 0.80678413079050604,
+        "x" : 0.12427702961852757,
+        "y" : 0.67440980837102416
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "예전에 한 학생이 Love is over.는 \"사랑은 끝났다.\"라고 번역되는데, 왜 이 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024655235195499281,
+        "width" : 0.55810099226463328,
+        "x" : 0.10119278992855377,
+        "y" : 0.70382244569768426
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "에서 was가 아니라 is를 사용하는지 질문한 적이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0278998235790755,
+        "width" : 0.78847676910701692,
+        "x" : 0.14032761275632294,
+        "y" : 0.73140822359430802
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이것도 마찬가지로 '(지금 현실 세계에) 사랑이 끝난 상태'가 존재하고 있기 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02770325552102082,
+        "width" : 0.82511706009233965,
+        "x" : 0.1035761291684702,
+        "y" : 0.75779082772298467
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "문에 is인 것이다. was를 사용하면 '그때 사랑은 끝났지만, 지금의 나에게 그 일은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025236387694009266,
+        "width" : 0.35343263784820167,
+        "x" : 0.10327462079074549,
+        "y" : 0.78598593015074036
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "상관없는 이야기'라는 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031991088093387687,
+        "width" : 0.80706434155721085,
+        "x" : 0.12405700504152715,
+        "y" : 0.83976219038310895
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 영어로 말할 때, '이미 끝난 이야기이고, 지금은 아니다'라는 의미를 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023343747196672648,
+        "width" : 0.33410138774489817,
+        "x" : 0.10368663319791988,
+        "y" : 0.87055160123741437
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "내려면, 과거형을 사용하면 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.027649770502647317,
+        "x" : 0.071428570854667126,
+        "y" : 0.92296511622352861
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.98648648648648651,
+      "text" : "66"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    642
+  ],
+  "pdf_page_index" : 62,
+  "pdf_page_number" : 63
+}

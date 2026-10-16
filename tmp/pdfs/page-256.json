@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021992248535156245,
+        "width" : 0.33874710840536348,
+        "x" : 0.060324821548874835,
+        "y" : 0.072674418498237636
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "에 가깝게 추측하는 것을 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088709945678711044,
+        "width" : 0.060379655986812941,
+        "x" : 0.6287428865078698,
+        "y" : 0.081320316651095625
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "He must"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0097771572536892171,
+        "width" : 0.067823688696462159,
+        "x" : 0.62614895899577683,
+        "y" : 0.09516154159806367
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "be tired-"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640713161892416,
+        "width" : 0.070723437586574622,
+        "x" : 0.81622280269854763,
+        "y" : 0.082491117776029022
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "다녀왔어.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021877260843912727,
+        "width" : 0.4593967302471188,
+        "x" : 0.10672855176739182,
+        "y" : 0.11911111112965822
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "He must be tired after a long day's work."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.45475637016566939,
+        "x" : 0.10672854333759775,
+        "y" : 0.14666666638605363
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "긴 하루 동안 일하고서 그는 피곤한 것임에 틀림없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024418269687228711,
+        "width" : 0.53854980468749991,
+        "x" : 0.081075757597569242,
+        "y" : 0.19450671796684016
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.0032520325203252032,
+      "text" : "여기에서 주의해야 할 점은, 부정문으로 해서 '~일 리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.56612527184452577,
+        "x" : 0.06032483495745794,
+        "y" : 0.2238372089234808
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.033210332103321034,
+      "text" : "가 없다'라고 말할 때는 must를 쓰지 않는다는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025859333462185274,
+        "width" : 0.81458463195367925,
+        "x" : 0.076445604617626881,
+        "y" : 0.24851481552356192
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "'~일 리가 없다'는 canit, cannot을 사용한다. 이는 can의 판단 용법인 '가능성"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020511628044976082,
+        "width" : 0.83526680587876767,
+        "x" : 0.055684462422029714,
+        "y" : 0.27600000022874394
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "(~일 수 있다)'을 부정으로 바꿔 '~일 수 없다=~일 리가 없다'라는 의미가 되는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02187855275472006,
+        "width" : 0.53828306806848403,
+        "x" : 0.060324823180281116,
+        "y" : 0.30523255803507143
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이다. can t와 cannot은 의미상 그다지 차이가 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.67981437520777943,
+        "x" : 0.10672854313816697,
+        "y" : 0.35465116270881281
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "He cannot be so nice to her. 그가 그녀에게 그렇게 친절할 리가 없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023325581020778974,
+        "width" : 0.81438516386857263,
+        "x" : 0.07656611859165495,
+        "y" : 0.40400000019225635
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "'~임에 틀림없다'를 의미하는 must나, ~일 리가 없다'를 의미하는 cannot의 뒤"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020518088446723204,
+        "width" : 0.83062648908466308,
+        "x" : 0.060324806386069428,
+        "y" : 0.43459302287837809
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "에 오는 동사는 상태 동사의 대표적인 동사인 'be동사 가 압도적으로 많다. 동작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021910853068033864,
+        "width" : 0.36658931218140511,
+        "x" : 0.060324833514105169,
+        "y" : 0.46075581383704656
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "동사가 뒤에 오는 경우는 거의 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023047754923502528,
+        "width" : 0.81463501842309405,
+        "x" : 0.081074086219859245,
+        "y" : 0.48692714657621305
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "주어의 상태에 대해서 추측하는 것이기 때문에 판단 용법에서 must나 cannot"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025722308688693629,
+        "width" : 0.83326667082225181,
+        "x" : 0.060165740805771521,
+        "y" : 0.51193420702136849
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "뒤에 상태 동사가 함께 쓰인다. 동작 동사를 사용해서 '~할 것임에 틀림없다'라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023304909600151857,
+        "width" : 0.8329466041943705,
+        "x" : 0.060324841641366395,
+        "y" : 0.54355555533529942
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "표현할 때는, sure 또는 no doubt와 같은 부사와 wil을 같이 사용하는 경우를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020854253133138045,
+        "width" : 0.1741627145320811,
+        "x" : 0.060250429155867632,
+        "y" : 0.57096822225532606
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "자주 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022163737826877083,
+        "width" : 0.34193708270999557,
+        "x" : 0.10632025683952383,
+        "y" : 0.61661776360543752
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "I'm sure | will miss these guys."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.36426915378435276,
+        "x" : 0.10672853203902175,
+        "y" : 0.64389534875265253
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "난 이 사람들을 그리워할 것임에 틀림없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.54508296885388963,
+        "x" : 0.060324828738200942,
+        "y" : 0.66844444424262539
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.070110701107011064,
+      "text" : "예문 She will no doubt say the same thing again.듃"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016089147779676627,
+        "width" : 0.36890951386580229,
+        "x" : 0.10672853761390934,
+        "y" : 0.6946666665234762
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "그녀가 같은 말을 다시 할 것임에 틀림없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.44547565000277034,
+        "x" : 0.47099767372251278,
+        "y" : 0.92711111099927646
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.96153846153846156,
+      "text" : "8장 동사 ⑦ 조동사: 사실을 말하는가, 생각을 말하는가? 265"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 256,
+  "pdf_page_number" : 257
+}

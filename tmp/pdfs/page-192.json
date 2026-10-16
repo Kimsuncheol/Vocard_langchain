@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.040303005642361112,
+        "width" : 0.13393886816128028,
+        "x" : 0.137401639290574,
+        "y" : 0.093156934225576693
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99845440494590421,
+      "text" : "Most 44"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032056847466362837,
+        "width" : 0.39302323822282309,
+        "x" : 0.14418605548953983,
+        "y" : 0.13372092948650982
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 1,
+      "text" : "가정법이란 무엇인가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017532299465603307,
+        "width" : 0.57209303983595983,
+        "x" : 0.14186045673869721,
+        "y" : 0.21802325573060133
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 1,
+      "text" : "• 가정법에서 눈여겨보아야 할 것은 If가 아닌, 다른 것에 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024480291578504842,
+        "width" : 0.8210433568709935,
+        "x" : 0.13482590055000609,
+        "y" : 0.31091652697136651
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "'가정법은 if다.라고 착각하는 학습자들이 상당히 많다. 여기에서 가정법의 '법'이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020465116712782061,
+        "width" : 0.30000000869446669,
+        "x" : 0.11627906533715199,
+        "y" : 0.33999999992967678
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "무엇인지 설명하도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021859173244900276,
+        "width" : 0.81860464590567128,
+        "x" : 0.13255814202278965,
+        "y" : 0.36622222219876188
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.0048622366288492711,
+      "text" : "'법'이라는 단어를 생각했을 때 법률이나 규칙을 떠올리기 쉽지만, 문법의 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83488373063568377,
+        "x" : 0.11627906486562069,
+        "y" : 0.39377777749661103
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "에서 '법'은 mood(기분)이다. '어떤 것을 사실로서 말할지, 명령하여 말할지, 가정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83488373063568366,
+        "x" : 0.11627906485107388,
+        "y" : 0.42133333336797651
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "하여 말할지를 나타낼 때. '법'이란 각 mood에 맞춰 쓰는 동사의 활용 형태를 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020529715643988644,
+        "width" : 0.058139534757347858,
+        "x" : 0.11860465108521835,
+        "y" : 0.45058139576842848
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027479509141710046,
+        "width" : 0.81431149213741982,
+        "x" : 0.13703972970562528,
+        "y" : 0.47266555013342848
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "즉, 어떤 일을 '실제로 있었던 일이다/실제로 항상 있는 일이다'라고 말할지, '지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028106433444552881,
+        "width" : 0.8375682341746794,
+        "x" : 0.11609519818850376,
+        "y" : 0.49933022048000286
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "금 실제로 일어나지 않았지만, 이제 실현하도록 해'라고 명령할지, 실제 그렇지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031168363783094621,
+        "width" : 0.83779429030893882,
+        "x" : 0.11597508433043704,
+        "y" : 0.52451817246645116
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "지만, 만일 그렇다면 ~이라고 가정하여 말할지 다양한 동사의 활용 형태를 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023254900614420593,
+        "width" : 0.25413230613425924,
+        "x" : 0.11831981386984686,
+        "y" : 0.55825457023727254
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "하여 구별해서 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025842683580186709,
+        "width" : 0.78388737952946941,
+        "x" : 0.14409300968245725,
+        "y" : 0.61038747269633553
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "① '실제로 항상 있는 일, 과거에 실제로 있었던 일'을 말할 때 사용하는 동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020465116712782061,
+        "width" : 0.74418601011618601,
+        "x" : 0.17209304141157866,
+        "y" : 0.63953488334111597
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.014311270125223614,
+      "text" : "사의 활용 방법을 직설법이라고 한다.(보통 동사의 현재형이나 과거형)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021461992051866274,
+        "width" : 0.46306142779836623,
+        "x" : 0.17657591485576338,
+        "y" : 0.66959189212344206
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.19602272727272727,
+      "text" : "예E | woke up at seven. '나는 7시에 일어났어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023001398722330757,
+        "width" : 0.7840033637152779,
+        "x" : 0.14405234132095684,
+        "y" : 0.69284544366711609
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "② '지금 실제로 일어나지 않은 일을 앞으로 하라고 명령'할 때 사용하는 동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021963824801974785,
+        "width" : 0.73720930920027605,
+        "x" : 0.1720930198207922,
+        "y" : 0.72222222180095663
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.020161290322580645,
+      "text" : "사의 활용 방법을 명령법이라고 한다.(명령문에서 사용되는 동사원형)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.23488371324675034,
+        "x" : 0.17674418979324419,
+        "y" : 0.75422222236841419
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.31453362255965295,
+      "text" : "에트 Wake up! 일어나!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025175397237141905,
+        "width" : 0.78639425511373751,
+        "x" : 0.14400861331265291,
+        "y" : 0.77490064616789733
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "③ '실제로는 일어나지 않았지만 만일 그렇다면 ~' 이라고 가정하여 말하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.583720932658921,
+        "x" : 0.17441860350106894,
+        "y" : 0.8066666666164144
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.046471600688468159,
+      "text" : "위해 사용하는 동사의 활용 방법을 가정법이라고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022851084391276144,
+        "width" : 0.3404231927333734,
+        "x" : 0.17638676844537746,
+        "y" : 0.83639861061854648
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.15417558886509636,
+      "text" : "에e If I had woken up at seven,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023053599039713601,
+        "width" : 0.25916957583522515,
+        "x" : 0.5390788524932405,
+        "y" : 0.83324991535085746
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "만약 내가 7시에 일어났다면,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.19534884287081544,
+        "x" : 0.53953488076911593,
+        "y" : 0.86337209323015673
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.53787878787878785,
+      "text" : "(실제로는 그렇지 않았다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011758397844102708,
+        "width" : 0.039534883961039061,
+        "x" : 0.088372092794189769,
+        "y" : 0.9315555555192182
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 1,
+      "text" : "200"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 192,
+  "pdf_page_number" : 193
+}

@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021824250310104043,
+        "width" : 0.4651162841103294,
+        "x" : 0.079069762928224041,
+        "y" : 0.072674418685070852
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "상식처럼 '보통 ~하는 법이다'라는 것을 말하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011649832010480754,
+        "width" : 0.030232556841590208,
+        "x" : 0.58139534936021275,
+        "y" : 0.082848837032937772
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "멍멍"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088976184773890132,
+        "width" : 0.02093023197217414,
+        "x" : 0.75581395369414561,
+        "y" : 0.091393079078178396
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "2애"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.48372090946544299,
+        "x" : 0.060465126581552002,
+        "y" : 0.10159716084853376
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "고 싶을 때 쓴다. 남을 납득시키거나 타이르고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021926136067618063,
+        "width" : 0.38372091813520953,
+        "x" : 0.060465122208502524,
+        "y" : 0.12936046534548618
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "자 하는 맥락에서 사용하는 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021923556831312419,
+        "width" : 0.46511628411032935,
+        "x" : 0.079069765343091097,
+        "y" : 0.15394853592172664
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "기존 영어 교육에서는 '현재의 습관'이나 '현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209302128788968,
+        "width" : 0.090697673234072629,
+        "x" : 0.77906976792090721,
+        "y" : 0.16715116278906239
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "지금까지의 경험과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0089053570325118292,
+        "width" : 0.10930232568220655,
+        "x" : 0.76976744169630817,
+        "y" : 0.17568766620398324
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "정보를 바탕으로 한 판단"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.48372090946544299,
+        "x" : 0.060465126545775488,
+        "y" : 0.1845607806326266
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "재의 습성'을 나타내는 will이라고 소개하기도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020490703904322061,
+        "width" : 0.058139535513791168,
+        "x" : 0.060465115823275767,
+        "y" : 0.21206743569508735
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020477806876587956,
+        "width" : 0.81162790818647912,
+        "x" : 0.079069766773433608,
+        "y" : 0.23824312346973431
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같은 경우에도 will이 쓰이기 때문에 will이란 도대체 무엇인지 혼란스러워"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452794,
+        "width" : 0.51860466870394617,
+        "x" : 0.060465107390598044,
+        "y" : 0.26598837197023761
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "하며 갈피를 잡지 못하는 학습자들이 있을 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.54418602856722753,
+        "x" : 0.079069776296752631,
+        "y" : 0.32120674346409395
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.049701789264413522,
+      "text" : "나는 이 용법을 '연상'이라고 불러야 한다고 생각한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025719817803830591,
+        "width" : 0.81191349029541016,
+        "x" : 0.078941144151081832,
+        "y" : 0.34643942142201967
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "will은 마음이 기울어져 의사 결정을 하거나, 예상을 하는 것을 나타내는 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020459751376242563,
+        "width" : 0.33953488956798206,
+        "x" : 0.060465113243771747,
+        "y" : 0.37488908594324788
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 연상의 용법 또한 동일하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026039423092128811,
+        "width" : 0.81193620508367359,
+        "x" : 0.078911260946616532,
+        "y" : 0.39862425876226637
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "인간은 살아가면서 수많은 학습을 한다. 그 과정에서 '~란 보통 이런 것이다'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024679908312414067,
+        "width" : 0.83041685277765453,
+        "x" : 0.060379215337112525,
+        "y" : 0.42850110526791041
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "는 백과사전적인 지식을 쌓는다. 그 지식을 바탕으로, 예를 들어 '개'라는 말을 듣"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026583437170724311,
+        "width" : 0.83509765971790662,
+        "x" : 0.058056061473462026,
+        "y" : 0.45317291107337088
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "는 순간, '짖다' 또는 '친숙하다'와 같은 전형적인 이미지를 떠올리며 연상한다. 즉,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094189,
+        "width" : 0.55116280642422766,
+        "x" : 0.058139526921369852,
+        "y" : 0.48401162813756549
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그러한 이미지에 '마음이 기울어지며' 연상하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021895183539538676,
+        "width" : 0.81162790818647912,
+        "x" : 0.079069766713558268,
+        "y" : 0.51153504877909606
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "연상은 '마음속에 관련된 영상을 떠올리는 것'으로, 예상과 동일한 심리 작용을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027745520211789221,
+        "width" : 0.83061972531405348,
+        "x" : 0.060253950770512515,
+        "y" : 0.53395007983560094
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "하여 발생된다. will의 '연상' 용법은 예상을 나타내는 용법의 영향을 받아 생긴 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020976400840779674,
+        "width" : 0.1792499910701405,
+        "x" : 0.058049422949899648,
+        "y" : 0.5665466832866296
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이라고 생각한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.52558140321211377,
+        "x" : 0.13023255415336565,
+        "y" : 0.62200532366537009
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.9475332811276429,
+      "text" : "- would (often): 예전에는 (자주) ~하곤 했다(회상)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020485545431710772,
+        "width" : 0.81162790818647901,
+        "x" : 0.079069766756562909,
+        "y" : 0.65697674406394968
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이는 앞에서 언급한 '연상'하는 것의 시간적 배경을 과거로 가져왔을 뿐이다. '그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026517981433614501,
+        "width" : 0.83508309451016516,
+        "x" : 0.058066447940673976,
+        "y" : 0.68311184952976967
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "때를 회상하면, 마음에 떠오르는 영상' 즉 '마음이 기울어지는 쪽에 있는 기억'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021944191567963456,
+        "width" : 0.51162789084694604,
+        "x" : 0.058139542119162571,
+        "y" : 0.71206743606652567
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 이것이 would가 나타내는 회상의 내용이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019087513041052051,
+        "width" : 0.59534883499145508,
+        "x" : 0.099999999108923668,
+        "y" : 0.75998225383794993
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "I would often go fishing in the lake when | was a kid."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.42558141188188037,
+        "x" : 0.10465115439954165,
+        "y" : 0.78482697422251713
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "난 어렸을 때, 그 호수에 낚시하러 자주 가곤 했어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022437094795883628,
+        "width" : 0.46541448072953667,
+        "x" : 0.078935053018083637,
+        "y" : 0.83372871429773587
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "이 표현의 몇 가지 특징을 설명하도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021826829546409687,
+        "width" : 0.80930233001708984,
+        "x" : 0.079069764814508794,
+        "y" : 0.87790697696848752
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "① '그때를 회상했을 때' 마음이 기울며 떠올리는 기억을 나타내는 표현이기 때문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015801708150354199,
+        "width" : 0.4467210336164994,
+        "x" : 0.46734224750006947,
+        "y" : 0.92583327280014471
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.88288288288288286,
+      "text" : "8장 동사 ③ 조동사: 사실을 말하는가, 생각을 말하는가? 247"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 238,
+  "pdf_page_number" : 239
+}

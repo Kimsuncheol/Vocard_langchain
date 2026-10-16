@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031274142795138848,
+        "width" : 0.13006729821533899,
+        "x" : 0.13602879513453983,
+        "y" : 0.094676792687369171
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99942987457240595,
+      "text" : "Must 45"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031607666015624925,
+        "width" : 0.22595308309267048,
+        "x" : 0.13934903973295404,
+        "y" : 0.13172523674152836
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99944613680420935,
+      "text" : "가정법 과거"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.47441861840055199,
+        "x" : 0.13720929528711345,
+        "y" : 0.21511111076931644
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99978146853146854,
+      "text" : "•\"너는 좋은 사람이었어.\"라는 말이 나타내는 마음"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026162790934244784,
+        "width" : 0.81162794498976143,
+        "x" : 0.13488370179845716,
+        "y" : 0.30959302313120918
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "가정법 과거는 '지금 실제로는 그렇지 않지만, 만일 그렇다면'을 전제로 하는 문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020637485080295281,
+        "width" : 0.1303479882047387,
+        "x" : 0.1115701918205648,
+        "y" : 0.3385184667402561
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "법 형식이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020466408623589505,
+        "width" : 0.118604654600138,
+        "x" : 0.11395348652680437,
+        "y" : 0.3937777777748821
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "릴 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021921188354492194,
+        "width" : 0.058139534757347858,
+        "x" : 0.1116279069163842,
+        "y" : 0.44755555586199303
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.81395345399862007,
+        "x" : 0.13488373800035294,
+        "y" : 0.36622222192356013
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "현재의 일에 대해 말하는 것인데, 동사는 과거형을 써야 해서 처음에는 다소 헷갈"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.81395345399861996,
+        "x" : 0.1325581564961093,
+        "y" : 0.41999999977697755
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "우선, '과거형이란 과거를 나타내는 것'이라는 강박에서 벗어나는 것이 중요"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.27674417957621084,
+        "x" : 0.17674418917544554,
+        "y" : 0.50436046530433676
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.96289424860853434,
+      "text" : "- 과거형이 나타내는 개념"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024824712965223594,
+        "width" : 0.81421602689302874,
+        "x" : 0.13243044370552409,
+        "y" : 0.53728466339039738
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "과거형은 물론 '과거'를 나타내기 위해 존재한다. 그러나 물리적이고 시간적인 과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83488373063568377,
+        "x" : 0.11162789907750707,
+        "y" : 0.56666666657210796
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "거만 나타내는 것은 아니다. 이 점에 대해 생각하기 위해, 인간이 시간을 어떻게 보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020514211866590748,
+        "width" : 0.28837209413533876,
+        "x" : 0.11162790630144219,
+        "y" : 0.59593023217487362
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "는가를 먼저 살펴봐야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023997328016493125,
+        "width" : 0.81881983395655267,
+        "x" : 0.13013848387171695,
+        "y" : 0.64819154517175104
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "Must 11 학습에서 설명했듯이, 인간은 실제로 볼 수 없고 만질 수도 없는 '시간'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02045219675699872,
+        "width" : 0.83488373063568377,
+        "x" : 0.11162790200773949,
+        "y" : 0.67732558101791307
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "을, 실제로 볼 수 있고, 만질 수도 있는 '장소'의 개념을 통해 이해하고 있다.(이러한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021870022243923648,
+        "width" : 0.42122965320902339,
+        "x" : 0.10915230470949278,
+        "y" : 0.70203503443412207
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "사고방식을 메타포(은유)라고 설명했다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.062790699494190694,
+        "x" : 0.3232558129273233,
+        "y" : 0.83284883712172186
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이제까지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122503,
+        "width" : 0.051162790369104427,
+        "x" : 0.33023255824039488,
+        "y" : 0.84883720918372207
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "자신이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013569738599989223,
+        "width" : 0.081594043307834208,
+        "x" : 0.31385414102081166,
+        "y" : 0.86458140932539973
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "지나온 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011730324639214418,
+        "width" : 0.074459662804236826,
+        "x" : 0.46044458708632224,
+        "y" : 0.84587902370736467
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 1,
+      "text" : "현실(현재)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013108527289496519,
+        "width" : 0.08139534757347866,
+        "x" : 0.45581395400759206,
+        "y" : 0.85755813945530135
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.99619771863117867,
+      "text" : "자신이 있는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012048276265462232,
+        "width" : 0.067625485933744067,
+        "x" : 0.46502446621535942,
+        "y" : 0.87188283858994009
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 1,
+      "text" : "현실 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.067441858796991827,
+        "x" : 0.5930232565317366,
+        "y" : 0.83284883712593494
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "앞에 있어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012382524278428897,
+        "width" : 0.081664582602998137,
+        "x" : 0.58591189462916526,
+        "y" : 0.8484599006327872
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "아직 보이지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.067441858796991827,
+        "x" : 0.5930232565317366,
+        "y" : 0.86482558131198151
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "않는 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039534883961039047,
+        "x" : 0.079069767525294418,
+        "y" : 0.92711111126302082
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.97468354430379744,
+      "text" : "204"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    643
+  ],
+  "pdf_page_index" : 196,
+  "pdf_page_number" : 197
+}

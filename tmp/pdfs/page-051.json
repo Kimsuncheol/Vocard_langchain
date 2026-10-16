@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030947600395229813,
+        "width" : 0.12784534567016087,
+        "x" : 0.12792439172503139,
+        "y" : 0.088145751890012503
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99836690255851934,
+      "text" : "Must 10"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030693950177935969,
+        "width" : 0.58620687879087563,
+        "x" : 0.13103449151490715,
+        "y" : 0.12633451992134204
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99849994642665807,
+      "text" : "'간접적인' 힘이 전달되는 방법을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033807829181494609,
+        "width" : 0.48735632272712287,
+        "x" : 0.12873563151663309,
+        "y" : 0.15969750872287103
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99805980369778591,
+      "text" : "전치사의 차이로 나타내다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020298947643130671,
+        "width" : 0.34290744014262486,
+        "x" : 0.12624941412994836,
+        "y" : 0.21063295763421108
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99801636498884205,
+      "text" : "• Iheard you.와 Ive heard of you."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025452829340598893,
+        "width" : 0.72433209855177572,
+        "x" : 0.10335672469269053,
+        "y" : 0.30518431853467565
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.99033364515123168,
+      "text" : "를 타동사의 힘이 전달되는 방법을 알게 되면 보이는 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.80689652626692154,
+        "x" : 0.12413794367171169,
+        "y" : 0.35610465107877654
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "다음 두 문장을 비교해 보자. 형태는 매우 비슷하지만 전치사 of가 동사 hear"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.42988507019987254,
+        "x" : 0.10344826944385377,
+        "y" : 0.38211743792917885
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "뒤에 붙는지에 따라 의미가 많이 달라진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018799663014259282,
+        "width" : 0.13910884293825818,
+        "x" : 0.15807029231585804,
+        "y" : 0.43782414225818167
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.016835016835016835,
+      "text" : "Ihear you."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.24367816136356141,
+        "x" : 0.12873563184130199,
+        "y" : 0.46511627873857164
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.29813664596273293,
+      "text" : "여문 I've heard of you."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957202,
+        "width" : 0.24597700202180028,
+        "x" : 0.4666666713257398,
+        "y" : 0.43594306078025913
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "나는 네가 하는 말이 들린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017793594306049765,
+        "width" : 0.28965516767756683,
+        "x" : 0.46666666891983732,
+        "y" : 0.46352313200076989
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "나는 너에 대해 들어 본 적이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02191094910971203,
+        "width" : 0.29425287045506987,
+        "x" : 0.12413793248212875,
+        "y" : 0.52034883735706261
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.0033112582781456954,
+      "text" : "또한 다음과 같은 예가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017519448575600172,
+        "width" : 0.22758621237281335,
+        "x" : 0.12873562935173333,
+        "y" : 0.57695729530314444
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.28464977645305511,
+      "text" : "예e He shot the bird."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017555656806429898,
+        "width" : 0.25517240757680643,
+        "x" : 0.12643678462306518,
+        "y" : 0.6045373661436092
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.25369127516778522,
+      "text" : "예문 He shot at the bird."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016065960677068891,
+        "width" : 0.31494252222332098,
+        "x" : 0.46666666984072047,
+        "y" : 0.57695729507007587
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.55052264808362372,
+      "text" : "그는 그 새를 쏘았다. (총알이 명중했다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.27126437802857989,
+        "x" : 0.46436781086871498,
+        "y" : 0.60319767409446146
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "그는 그 새를 향해 총을 쏘았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101484,
+        "width" : 0.30804597878757917,
+        "x" : 0.46206896451425644,
+        "y" : 0.62936046493292552
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.58921161825726143,
+      "text" : "(명중했는지를 이 문장에서는 알 수 없다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.80459770706970823,
+        "x" : 0.12413792802360095,
+        "y" : 0.68313953480021095
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "위의 2가지 예시에서 전치사가 없는 경우에 동사의 힘이 직접적으로 목적어에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021895431538917931,
+        "width" : 0.34482757954657833,
+        "x" : 0.10574712971528118,
+        "y" : 0.71075581409909383
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "영향을 미친다는 것을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020524704583599007,
+        "width" : 0.80459770706970812,
+        "x" : 0.12413792808844475,
+        "y" : 0.73837209293808703
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "지금까지 이 책에서는 타동사의 힘이 목적어에 영향을 미친다고 설명해 왔다. 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02182301592572311,
+        "width" : 0.82298851817972041,
+        "x" : 0.10574712014056363,
+        "y" : 0.76598837224661886
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "는 단순히 그렇게 생각하면 이해하기 쉽다는 것이 아니다. 실제로 영어를 사용하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021812670595705241,
+        "width" : 0.82758624241824896,
+        "x" : 0.10344825801613823,
+        "y" : 0.79359430598674752
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "사람은 자연스럽게 그렇게 생각하고 말하는 것처럼 보인다. 이를 설명해 주는 좋은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021848878826535079,
+        "width" : 0.53563216969936711,
+        "x" : 0.10574713345394558,
+        "y" : 0.8211743768234403
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.30177514792899407,
+      "text" : "예가 바로 '타동사 vs 동사+전치사'의 의미 차이이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01312277580071175,
+        "width" : 0.027586205934505739,
+        "x" : 0.073563218769656463,
+        "y" : 0.92437722411674794
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 1,
+      "text" : "54"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    642
+  ],
+  "pdf_page_index" : 51,
+  "pdf_page_number" : 52
+}

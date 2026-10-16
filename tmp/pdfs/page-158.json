@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.81206496218417556,
+        "x" : 0.08816705477212354,
+        "y" : 0.075555555631273585
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "영어 문장을 읽거나 들으며 단지 의미를 이해하고자 할 때, 모국어로 바꾸는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888888888888958,
+        "width" : 0.83294660419437072,
+        "x" : 0.069605584097382531,
+        "y" : 0.10311111120660266
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이 오히려 머릿속에서 영어, 모국어를 동시에 떠올리며 멀티태스킹을 하게 해서 올"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020496124267578075,
+        "width" : 0.31322506302637415,
+        "x" : 0.069605565815880524,
+        "y" : 0.13066666679671735
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "바른 의미 파악에 방해가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.14385150882369235,
+        "x" : 0.064965196750212867,
+        "y" : 0.18604651180903597
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "• 명사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021482918633355053,
+        "width" : 0.53619731064383869,
+        "x" : 0.11358112383021027,
+        "y" : 0.21403646943712373
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.036465638148667601,
+      "text" : "My plan is to Ihire more people for the project]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.49651974076074917,
+        "x" : 0.11600927103325727,
+        "y" : 0.24400000025207158
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "내 계획은 그 프로젝트를 위해 사람을 더 고용하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014745477464463974,
+        "width" : 0.31554524306709886,
+        "x" : 0.11832946652497915,
+        "y" : 0.2657777781267725
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.3867924528301887,
+      "text" : ">'나의 계획은 이쪽이에요(>)'라는 느낌"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.058004641701989157,
+        "x" : 0.87238979039085707,
+        "y" : 0.26577777782548839
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "불가능해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.40371227940769067,
+        "x" : 0.11368910383907811,
+        "y" : 0.30959302344350825
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.039138943248532287,
+      "text" : "It is impossible to [finish it in a day]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018956544664171071,
+        "width" : 0.36460947888962764,
+        "x" : 0.11586339596321305,
+        "y" : 0.33719928386112197
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "그것을 하루 만에 끝내는 것은 불가능해요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016009044223361468,
+        "width" : 0.63341068781859489,
+        "x" : 0.11832945872621548,
+        "y" : 0.36044444449822188
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.32608695652173914,
+      "text" : "* 그것은 불가능하다. 불가능한 일은 그것을 하루 만에 끝내는 것으로 향하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02004300774468315,
+        "width" : 0.16969019030848292,
+        "x" : 0.064806876058898871,
+        "y" : 0.40640291456843181
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "• 형용사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.69141529705507532,
+        "x" : 0.11368910294690283,
+        "y" : 0.43733333352285619
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.018934911242603551,
+      "text" : "This pair of pants doesn't have any pockets to [put things in]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.41067284117353731,
+        "x" : 0.11600928694976412,
+        "y" : 0.46656976735790368
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이 바지에는 물건을 넣을 주머니가 하나도 없어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.60556844075520833,
+        "x" : 0.11832946860478862,
+        "y" : 0.48837209294088257
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.35121951219512193,
+      "text" : "* 이 바지에는 주머니가 하나도 없다. 주머니는 물건들을 넣으려고 향하는 곳이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019112403021918412,
+        "width" : 0.14617168886441712,
+        "x" : 0.064965199557060593,
+        "y" : 0.53466666652869876
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "•부사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.52668214622118792,
+        "x" : 0.11136890355703938,
+        "y" : 0.56533333293432553
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.026190476190476191,
+      "text" : "l went to the supermarket to [buy some food]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016189922756618902,
+        "width" : 0.31090486134197698,
+        "x" : 0.11600928614857253,
+        "y" : 0.59447674382504156
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "난 먹을 것을 사기 위해 슈퍼에 갔어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014711886088053405,
+        "width" : 0.39675176092918885,
+        "x" : 0.11832945585138585,
+        "y" : 0.61773255835184893
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.28666666666666668,
+      "text" : "> 슈퍼에 갔다. 먹을 것을 사기 위해 향하는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.81206496218417556,
+        "x" : 0.088167055682854115,
+        "y" : 0.66133333302576025
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 to 부정사를 더 자세한 정보로 to가 이끌어 주는 형태라고 파악하면 모"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.38979119916334226,
+        "x" : 0.069605560403072919,
+        "y" : 0.68888888905934775
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "든 경우에 의미를 이해할 수 있게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.81206496218417556,
+        "x" : 0.088167054754780011,
+        "y" : 0.71644444465855428
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "용법을 제대로 구별할 수 있다는 것은 바람직한 일이고, 모국어로 정확하게 해석"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02186821746826173,
+        "width" : 0.83062648908466319,
+        "x" : 0.069605548751621643,
+        "y" : 0.74266666634567768
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "하기 위해서 필수 지식이기도 하다. 하지만 사실상 순간적으로 읽고 듣거나, 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021928940667046426,
+        "width" : 0.68445473528922873,
+        "x" : 0.067285393258629783,
+        "y" : 0.77022222221839731
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "을 만들고 말하기 위해서는 그러한 지식이 그다지 사용되지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.81438516386857263,
+        "x" : 0.085846861086859988,
+        "y" : 0.79777777753803703
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "가지와 잎에 얽매이지 말고, 뿌리는 무엇인가를 생각하면서 학습하면 더욱 직감"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023028981526692638,
+        "width" : 0.30673384429715211,
+        "x" : 0.06707665898860718,
+        "y" : 0.8229845458470314
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "적인 영어 구사가 가능해진다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.4269141663896277,
+        "x" : 0.49651971483698326,
+        "y" : 0.9287790697045829
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.88888888888888884,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 165"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 158,
+  "pdf_page_number" : 159
+}

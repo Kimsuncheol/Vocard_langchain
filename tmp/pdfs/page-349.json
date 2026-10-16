@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802326131437288,
+        "width" : 0.81308409427305917,
+        "x" : 0.06775701843311889,
+        "y" : 0.07122092994715512
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이 두 표현의 차이를 잘 알지 못하는 사람들이 상당히 많고, 글쓰기에서도 가끔"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022907155715226057,
+        "width" : 0.63105982592982113,
+        "x" : 0.046595631861265842,
+        "y" : 0.098322723862465988
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "둘 중에 잘못 선택하여 문장이 부자연스러워지는 경우가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024820020285404532,
+        "width" : 0.8177570223468662,
+        "x" : 0.063084105533458279,
+        "y" : 0.12488928228197693
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "for -ing와 to 부정사는 모두'~을 위해, ~을 위한'이라는 의미를 나타낼 수 있지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027354768359418191,
+        "width" : 0.83447004790998924,
+        "x" : 0.046569874492511376,
+        "y" : 0.15190271979765257
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "만, 엄밀하게 말해서 for -ing는 '기능'을 나타내고, to 부정사는 '목적'을 나타내는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836934281467,
+        "width" : 0.15420560483579282,
+        "x" : 0.046728973160275612,
+        "y" : 0.18313953500398661
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "차이점이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026671948530063716,
+        "width" : 0.81808410818420585,
+        "x" : 0.065258588185068953,
+        "y" : 0.2295678233645726
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "a box for storing DVDs(DVD를 수납하기 위한 상자)로 말하는 경우, 그 상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020433806021515455,
+        "width" : 0.83644856075276008,
+        "x" : 0.046728990620733803,
+        "y" : 0.25863596127784705
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "자는 DVD를 수납하는 기능을 가지고 있다는 의미이다. 기능이란, 어떤 것이 항상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028676582924341831,
+        "width" : 0.83476157337851675,
+        "x" : 0.04639763612392573,
+        "y" : 0.28107918319718994
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "발휘할 수 있는 작용이라고 생각하면 된다. 그 상자는 항상 수납이라는 기능을 발"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020413207838871128,
+        "width" : 0.2383177667601496,
+        "x" : 0.049065415579649281,
+        "y" : 0.31395348849749105
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "휘할 수 있는 물건이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025827671385529438,
+        "width" : 0.81334597161013178,
+        "x" : 0.069959670989942394,
+        "y" : 0.33624251606660382
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "한편. '목적'이라는 것은 달성하고 싶은 것, 즉 '~하고 싶다, ~하자'라고 생각하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020918122216386004,
+        "width" : 0.15673108657880389,
+        "x" : 0.048970905190120907,
+        "y" : 0.36890140399069682
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "내용을 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021355773412199297,
+        "width" : 0.49318075587606836,
+        "x" : 0.091028632183197095,
+        "y" : 0.4154336941225435
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "I'm going to Hong Kong to visit my friends."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017714791851195733,
+        "width" : 0.34579439516420718,
+        "x" : 0.095794393033161174,
+        "y" : 0.44021257751402043
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "난 친구들을 만나러 홍콩에 가는 중이야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022999529504902694,
+        "width" : 0.81331867098468658,
+        "x" : 0.069982080144936856,
+        "y" : 0.48933261359501889
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "위 예문에서 to visit my friends는 홍콩에 갈 목적이기는 하나, 기능을 말하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026966116088380621,
+        "width" : 0.83228991038439282,
+        "x" : 0.05113947620984495,
+        "y" : 0.51306783203050699
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "것은 아니다. 다시 말해, 홍콩이라는 도시는 '친구를 만나는' 기능을 발휘하는 장치"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024022943684229081,
+        "width" : 0.61002182485031609,
+        "x" : 0.051272484816832435,
+        "y" : 0.54352340251876607
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "나 도구는 아닌 것이다. 따라서 다음 문장처럼 말할 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020494314925241897,
+        "width" : 0.5794392555867165,
+        "x" : 0.051401867399758605,
+        "y" : 0.59433126632777433
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.063238359972202923,
+      "text" : "X I'm going to Hong Kong for visiting my friends."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020436380688757638,
+        "width" : 0.52102804591513086,
+        "x" : 0.070093453605882802,
+        "y" : 0.64526129358572981
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "글쓰기에서 실수하기 쉬운 부분이 이러한 패턴이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023472099202834329,
+        "width" : 0.81775702234686609,
+        "x" : 0.067757002818676276,
+        "y" : 0.671390611094423
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "for -ing와 to 부정사를 모두 사용할 수 있는 경우는, 기능과 목적의 의미로 모"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020410633171628945,
+        "width" : 0.29439251239483172,
+        "x" : 0.051401874524936178,
+        "y" : 0.70058139547786891
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "두 서술할 수 있는 경우이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023802170191748795,
+        "width" : 0.81341291900373935,
+        "x" : 0.069946900480809704,
+        "y" : 0.72570712679724858
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 언급한 문장 I need a box for storing DVDs.는 \"DVD 수납 기능을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020313735130722321,
+        "width" : 0.83191543970352566,
+        "x" : 0.051331462248066471,
+        "y" : 0.75426418959637831
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "가진 상자가 1개 필요하다.(I need a box that can store DVDs.)'는 것을 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02437002200590388,
+        "width" : 0.83210550074563749,
+        "x" : 0.051251127994786518,
+        "y" : 0.77974207358687297
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "타낸다. 이 문장을 I need a box to store DVDs로 말하면, \"DVD를 수납하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024422119316324098,
+        "width" : 0.83441031692374457,
+        "x" : 0.051237494427702493,
+        "y" : 0.80803698871609031
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "고 싶어서 상자가 1개 필요하다.(I need a box because I want to store my"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021862834190456537,
+        "width" : 0.83878502478966344,
+        "x" : 0.049065431423689125,
+        "y" : 0.83569530561595418
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "DVDs)\"라는 의미가 된다. 두 문장 모두 의미가 통하기 때문에 여기에서는 for"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024962081436143757,
+        "width" : 0.55641535136774389,
+        "x" : 0.048832806116906061,
+        "y" : 0.86049314058604509
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "-ing와 to 부정사를 둘 중 어느 것이든 사용해도 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013286093888396855,
+        "width" : 0.43691590572694089,
+        "x" : 0.47429905637078168,
+        "y" : 0.92294065533555913
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.86760563380281686,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 361"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    645
+  ],
+  "pdf_page_index" : 349,
+  "pdf_page_number" : 350
+}

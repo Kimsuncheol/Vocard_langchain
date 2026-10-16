@@ -1,0 +1,550 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021580937069930139,
+        "width" : 0.56651176105846057,
+        "x" : 0.10891190185569935,
+        "y" : 0.071503642821239888
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.05964653902798233,
+      "text" : "C Unauthorized staff must not enter this facility."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.57076566869562328,
+        "x" : 0.1554524323615252,
+        "y" : 0.098754448039332976
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "허락을 받지 않은 직원들이 이 시설을 (절대) 출입해서는 안 됩니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027315961084331875,
+        "width" : 0.58744877034967602,
+        "x" : 0.12743352220396045,
+        "y" : 0.13678382547600809
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "must의 근본적인 의미는 '절대''다른 선택지는 없다'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03046743725542489,
+        "width" : 0.64112043380737294,
+        "x" : 0.10873421875553557,
+        "y" : 0.1956651853260134
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.97614503816793896,
+      "text" : "를 may, might가 나타내는 '추측(~일지도 모른다)'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02464272034125814,
+        "width" : 0.61278911070390174,
+        "x" : 0.12747622051853211,
+        "y" : 0.24585867214496682
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "may와 might는 '추측(~일지도 모른다)을 의미한다. 이는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021998883142165915,
+        "width" : 0.41067283803766425,
+        "x" : 0.10904873534311682,
+        "y" : 0.27470930226541201
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "will의 '예상'과 어떻게 다른지 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156092,
+        "width" : 0.6125290177085182,
+        "x" : 0.12993038666707957,
+        "y" : 0.30232558130614473
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.0012033694344163659,
+      "text" : "will은 마음이 기울며 '~일 것이다'라고 판단하는 것을 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023260986253460181,
+        "width" : 0.63341067054054956,
+        "x" : 0.10904872494348811,
+        "y" : 0.32994186085524402
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "한다. 마음이 완전히 기울어져 있기 때문에, 그 판단을 확신하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890259298141368,
+        "width" : 0.30394430594010785,
+        "x" : 0.10904872865010727,
+        "y" : 0.357558139678394
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "는 정도가 높다고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.074245935136621588,
+        "x" : 0.84686775116718804,
+        "y" : 0.27891459073180158
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "결심했어!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011705494860313026,
+        "width" : 0.030162413011897704,
+        "x" : 0.76566125287423015,
+        "y" : 0.32695729555698749
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "Will"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029208957088375453,
+        "width" : 0.81261868910355994,
+        "x" : 0.12966870913214087,
+        "y" : 0.40768695362281226
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "한편, may와 might는 '마음이 흔들리는 상태', 즉 '망설이는 상태여서 결정할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.3178654367273504,
+        "x" : 0.10904872003267775,
+        "y" : 0.44039145908651611
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "수 없다'라는 심정을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021983364722906851,
+        "width" : 0.64501159841364086,
+        "x" : 0.12529001912264609,
+        "y" : 0.46511627904593533
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "'확실하지 않은데, ~일지도 모른다'라는 마음으로 확신을 가지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.046403711492365107,
+        "x" : 0.83526682174801692,
+        "y" : 0.4693060499960362
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "흔들흔들"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02484805558499914,
+        "width" : 0.66381029649214307,
+        "x" : 0.10893903340195799,
+        "y" : 0.49383150891900218
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "지 못한 상태에서 쓰는 표현이 바로 may와 might이다. 즉, may"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024496660537991266,
+        "width" : 0.652374571019953,
+        "x" : 0.11115621324529069,
+        "y" : 0.51946853574311602
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "와 might는 '자신이 말한 것에 대해 책임지지 않겠다'라고 선언"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022573994572052336,
+        "width" : 0.13488429242914374,
+        "x" : 0.10889196104655047,
+        "y" : 0.54903276957892222
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012010676156583577,
+        "width" : 0.044083527543328005,
+        "x" : 0.80278422219121282,
+        "y" : 0.55649466188750851
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "may"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101595,
+        "width" : 0.053364266048778197,
+        "x" : 0.79814385311894687,
+        "y" : 0.57412790671840919
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "mgh"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026438584107096985,
+        "width" : 0.81016835299405199,
+        "x" : 0.13204414823974978,
+        "y" : 0.60202112392029905
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 논문에서 may나 might가 나오는 경우가 있다. 논문이라는 것은 실"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023883999454593297,
+        "width" : 0.83318276838822791,
+        "x" : 0.11125749085377863,
+        "y" : 0.63000159481710749
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "험 결과나 증거에 근거한 경우가 많기 때문에, 억측이나 즉흥적인 생각으로 작성하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022592352802643045,
+        "width" : 0.8354314457286488,
+        "x" : 0.10897089007786724,
+        "y" : 0.65814739114559018
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "지 않는 것이 원칙이다. 그럼에도 불구하고 논문에서 may나 might를 사용한 표"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029100485967995859,
+        "width" : 0.83351794156161219,
+        "x" : 0.11108283745799831,
+        "y" : 0.68019550722826772
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "현을 발견하게 되면, 논문을 읽는 사람은 '여기에서부터는 증거가 없고 어디까지나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020488496352769281,
+        "width" : 0.47563804279674177,
+        "x" : 0.11136891351924487,
+        "y" : 0.71352313162796976
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "추측하여 이야기하고 있다'라고 이해하게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029547314626890531,
+        "width" : 0.81262042305686255,
+        "x" : 0.13194506868225381,
+        "y" : 0.73523091571189059
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "즉, may와 might를 사용하는 경우는 '필자가 자신의 말에 책임을 지지 않겠다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020560911965964102,
+        "width" : 0.21345708586952905,
+        "x" : 0.11136890476162264,
+        "y" : 0.76868327414493964
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "고 선언'하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015096232560181555,
+        "width" : 0.094680601900274053,
+        "x" : 0.71864897792372662,
+        "y" : 0.80305733657957434
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "may or may not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012620884328550241,
+        "width" : 0.058189511299133301,
+        "x" : 0.74363043043465149,
+        "y" : 0.8133778494872641
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "be trut!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023614484644445155,
+        "width" : 0.38797994093461463,
+        "x" : 0.15519910019034874,
+        "y" : 0.81599979567737879
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "The story may or may not be true."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.39443154768510291,
+        "x" : 0.16009281087322577,
+        "y" : 0.841569767113031
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "그 이야기는 사실일 수도 있고 아닐 수도 있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018118456165137187,
+        "width" : 0.51534236561168323,
+        "x" : 0.16228776242212761,
+        "y" : 0.86424833164516734
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.15957446808510639,
+      "text" : "- 마음이 흔들려 판단을 정하지 않은 may, might의 느낌을 잘 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013775545507139109,
+        "width" : 0.11388754844665525,
+        "x" : 0.18087525118030542,
+        "y" : 0.88773432025409671
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "내는 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0075622775800712194,
+        "width" : 0.027842226353558597,
+        "x" : 0.87006960602275674,
+        "y" : 0.86610320284101705
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "nOT"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0072674420380507421,
+        "width" : 0.03712297027761291,
+        "x" : 0.86774941962530794,
+        "y" : 0.87499999988698229
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "frue"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.039443154226649887,
+        "x" : 0.081206497093944993,
+        "y" : 0.92877906970463342
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0.967741935483871,
+      "text" : "260"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 251,
+  "pdf_page_number" : 252
+}

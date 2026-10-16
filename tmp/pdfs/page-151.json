@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030693798489040858,
+        "width" : 0.12761020525127437,
+        "x" : 0.13921113868879836,
+        "y" : 0.098666665851172231
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99941451990632324,
+      "text" : "Must 34"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.037777777777777799,
+        "width" : 0.49006620366522607,
+        "x" : 0.13245034154953411,
+        "y" : 0.13733333330692488
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99968367777309153,
+      "text" : "동사원형에 대해 생각하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744186062282993,
+        "width" : 0.34106728844608825,
+        "x" : 0.14153132135313537,
+        "y" : 0.21947674404905015
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99969897652016859,
+      "text" : "• 동사가 시간에서 해방되어 남은 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02488888888888896,
+        "width" : 0.35498839033410901,
+        "x" : 0.11368909951143404,
+        "y" : 0.31377777791784189
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99363057324840764,
+      "text" : "•동사원형이란 무엇인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.50116010084219853,
+        "x" : 0.1345707615796905,
+        "y" : 0.36337209264147019
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "동사의 원형은 현재형도 아니고 과거형도 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021900516933865077,
+        "width" : 0.81206496218417545,
+        "x" : 0.13457076705925972,
+        "y" : 0.39098837199109804
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "동사원형을 처음 배울 때는 왜 이러한 것이 있는지 신기했다. 현재의 이야기를 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024468749999999928,
+        "width" : 0.83315256538120563,
+        "x" : 0.11590223561868751,
+        "y" : 0.41660899329440748
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "타내기 위해 현재형이 있고, 과거의 이야기를 나타내기 위해 과거형이 있다. 그렇다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020445737202962277,
+        "width" : 0.21345708319481382,
+        "x" : 0.11600927731210585,
+        "y" : 0.44622092984642658
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "면 원형은 무엇일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026957838270399215,
+        "width" : 0.8124643312278369,
+        "x" : 0.13437868131705286,
+        "y" : 0.46965213225636582
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "동사원형은 현재도 과거도 나타내지 않는다. 동사에서 '시간'을 빼면 그 나머지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024863454182942668,
+        "width" : 0.54782065533577129,
+        "x" : 0.11589647958026598,
+        "y" : 0.49698383324646611
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.1163895486935867,
+      "text" : "는 '~하다'라는 동작을 말하는 '동작의 개념'인 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709303114149317,
+        "width" : 0.81438516386857274,
+        "x" : 0.13457075903213866,
+        "y" : 0.52616279029914492
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, '입을 통해 액체를 몸 안에 넣는 것'을 지칭하는 동사의 이름은 '마"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021923773023817317,
+        "width" : 0.8329466041943705,
+        "x" : 0.11368911078355443,
+        "y" : 0.55511111079251496
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "시다'이다. 이를 명사에 적용해서 말하면, '갈증을 해소하거나 맛을 즐기도록 만든"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024449839274088503,
+        "width" : 0.51305234652039011,
+        "x" : 0.11588953273767579,
+        "y" : 0.57879560148383058
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "마실 거리'를 지칭하는 명사의 이름은 '음료수'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022226867675781192,
+        "width" : 0.81227784934618796,
+        "x" : 0.13447560231097982,
+        "y" : 0.63578509469095079
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "동작의 명사화(~하는 것)가 일어나면서 동사원형을 명사로 쓰는 to 부정사의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.50348025923925088,
+        "x" : 0.11600929022834129,
+        "y" : 0.66424418566658683
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "명사적 용법(~하는 것)이 생겨났다고 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021987080044216567,
+        "width" : 0.81438516386857274,
+        "x" : 0.13225057428671136,
+        "y" : 0.69022222235268293
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "to 부정사에는 명사적 용법 외에 형용사적 용법이나 부사적 용법도 있지만, 부정"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.8329466041943705,
+        "x" : 0.11368911085449904,
+        "y" : 0.71802325543467349
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "사 중에서 가장 먼저 생긴 용법은 라틴어 등에도 동일하게 나타나는 명사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462532043457049,
+        "width" : 0.055684456250346293,
+        "x" : 0.11600927985899501,
+        "y" : 0.74709302366910524
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010359172821044926,
+        "width" : 0.02784222812517316,
+        "x" : 0.11832946585491795,
+        "y" : 0.79941860483120863
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.3619489520999557,
+        "x" : 0.15777262372122605,
+        "y" : 0.79505813971890393
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "To walk is good for your health."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013186575147840718,
+        "width" : 0.095164316596714316,
+        "x" : 0.7076382600082749,
+        "y" : 0.78773810764484709
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "발을 앞으로 옮겨"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.074245939863489041,
+        "x" : 0.71693735535827874,
+        "y" : 0.79941860446120616
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "나아가는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022353371514214349,
+        "width" : 0.20060461598930629,
+        "x" : 0.16176051434322242,
+        "y" : 0.81805896207876994
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "걷는 것은 건강에 좋다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.54988398991578014,
+        "x" : 0.1554524365010585,
+        "y" : 0.84444444406450669
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "To know is one thing, and to practice is another."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.32714616491439491,
+        "x" : 0.16241299637045703,
+        "y" : 0.86918604612562622
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.007246376811594203,
+      "text" : "아는 것과 실천하는 것은 별개 문제다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021470752292209183,
+        "width" : 0.61760998448581561,
+        "x" : 0.16681744070219695,
+        "y" : 0.88892519267292602
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.45400593471810091,
+      "text" : "* 걷다, '알다. '실천하다'라는 것이 무슨 뜻인지 각각 '개념'에 대해 이야기하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014082278781467061,
+        "width" : 0.060134649614915769,
+        "x" : 0.85970483837109668,
+        "y" : 0.78715920337173395
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.98461538461538467,
+      "text" : "to walk"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.037122969931744507,
+        "x" : 0.085846867876355121,
+        "y" : 0.93155555566803683
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.98901098901098905,
+      "text" : "158"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 151,
+  "pdf_page_number" : 152
+}

@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020508759404667343,
+        "width" : 0.076036863689181181,
+        "x" : 0.11290322701716056,
+        "y" : 0.0754214732308498
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "태이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.80645159628823837,
+        "x" : 0.13364056118701212,
+        "y" : 0.10319767478977915
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "다음과 같은 동사를 사용할 때는 우선적으로 4형식에서 쓰도록 유의해야 하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020472648403976779,
+        "width" : 0.82949309744747712,
+        "x" : 0.11059907323136295,
+        "y" : 0.13081395336621071
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "며, 익숙해지면 문맥에 따라 다른 문형에서도 쓰도록 한다. (단, provide, supply,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023229581228694673,
+        "width" : 0.82747232729540254,
+        "x" : 0.10816176905993946,
+        "y" : 0.15572179874141945
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "explain 등 라틴어에서 온 외래어는 이 규칙이 적용되지 않으며 이와 같은 동사는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.2695852459399174,
+        "x" : 0.10829493451967265,
+        "y" : 0.18456078062783299
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "4형식에서 쓰이지 않는다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02201242455361474,
+        "width" : 0.13690562187870847,
+        "x" : 0.10549143627032607,
+        "y" : 0.23958947980832745
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "• give: 주다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011753007809250593,
+        "width" : 0.032258064602665421,
+        "x" : 0.11059907818253825,
+        "y" : 0.29215116261433316
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 6,
+      "red_ink_fraction" : 1,
+      "text" : "에문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0190965412143278,
+        "width" : 0.24654378770272942,
+        "x" : 0.15898617059402295,
+        "y" : 0.28924418640384175
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "| gave him the ticket."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.26497696287688999,
+        "x" : 0.42165898388202172,
+        "y" : 0.28924418605819002
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그에게 그 티켓을 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022668471247513144,
+        "width" : 0.45202027225628516,
+        "x" : 0.10810045676640348,
+        "y" : 0.33961940588745909
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "•teach: 가르치다(=상대에게 지식을 주다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020860133809967207,
+        "width" : 0.52553402757175194,
+        "x" : 0.11049460167871693,
+        "y" : 0.38946095502687272
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.10789149198520345,
+      "text" : "예문 He taught me how to survive in this world."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020370934426308551,
+        "width" : 0.47260796269284022,
+        "x" : 0.15888042034343489,
+        "y" : 0.41573490187823969
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "그는 내게 이 세상에서 살아남는 방법을 가르쳐 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020441695875897281,
+        "width" : 0.56682027610210095,
+        "x" : 0.10829493099013469,
+        "y" : 0.46802325569055137
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "•show: 보여 주다, 나타내다(=상대에게 정보를 주다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.46082950812016527,
+        "x" : 0.1105990707301809,
+        "y" : 0.51730257360838283
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.1307639366827254,
+      "text" : "예e They showed me the way to the City."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018923173039596231,
+        "width" : 0.39885345759438723,
+        "x" : 0.15657839577826721,
+        "y" : 0.54365214657986072
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그들은 내게 그 도시로 가는 길을 알려 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02081822122000121,
+        "width" : 0.56015400946894778,
+        "x" : 0.10817888023569046,
+        "y" : 0.59292643584832894
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "• ask: 질문하다(=상대에게 질문에 대한 정보를 주다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02276672931931778,
+        "width" : 0.7100703887295623,
+        "x" : 0.11274080584491351,
+        "y" : 0.64091610462849724
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.14353687549563837,
+      "text" : "예로 Can l ask you some questions? 내가 네게 질문을 좀 해도 될까요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.55760366705399522,
+        "x" : 0.10829494055874202,
+        "y" : 0.69476486214752464
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "•tell: 말로 전하다(=상대에게 정보를 말로 건네주다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010253090084180849,
+        "width" : 0.046082948665914003,
+        "x" : 0.77188940126868144,
+        "y" : 0.69032830526716937
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "truth"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013087843833185397,
+        "width" : 0.039170505292975624,
+        "x" : 0.11290322644977434,
+        "y" : 0.75000000015363655
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.99328859060402686,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.47465435730924749,
+        "x" : 0.15668203782416629,
+        "y" : 0.74563953525278104
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "1'll tell you the truth. 내가 네게 사실을 말할게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024478237927224478,
+        "width" : 0.80432480867066636,
+        "x" : 0.13126158465785864,
+        "y" : 0.79274947274453123
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "위와 같이 4형식의 구문은 '건네주다'라는 의미를 가진 구문으로, 이때 사용되는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.32258065139191061,
+        "x" : 0.11059907513845926,
+        "y" : 0.82412790684879078
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.1228813559322034,
+      "text" : "동사를'수여 동사라고 부른다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021476019560603188,
+        "width" : 0.71908736731935652,
+        "x" : 0.19805782881420711,
+        "y" : 0.87772393029321205
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.96425073457394717,
+      "text" : "cost의 4형식 문장: '(비용·대가를) 들게 하다'라는 의미로 쓰이는 경우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.025345621229727056,
+        "x" : 0.082949309085597306,
+        "y" : 0.92857142837098017
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.95522388059701491,
+      "text" : "44"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    644
+  ],
+  "pdf_page_index" : 41,
+  "pdf_page_number" : 42
+}

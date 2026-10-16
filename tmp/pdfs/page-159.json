@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523254394531296,
+        "width" : 0.12761020525127437,
+        "x" : 0.13225058185548494,
+        "y" : 0.094476744826386572
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9976484420928865,
+      "text" : "Must 36"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.039271316528320277,
+        "width" : 0.48027841554465878,
+        "x" : 0.13457076920949587,
+        "y" : 0.12933333380067025
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99902534113060426,
+      "text" : "to 부정사(=to+동사원형)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.036337209065755216,
+        "width" : 0.5777262369791667,
+        "x" : 0.13921112734218799,
+        "y" : 0.16424418615686287
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99857663908904903,
+      "text" : "② '-'를 어느 방향에서 보는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01744702826605915,
+        "width" : 0.2761020958000886,
+        "x" : 0.1345707616396474,
+        "y" : 0.21511111133210836
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.9996370235934664,
+      "text" : "•…'에는 3가지 의미가 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024432304382324244,
+        "width" : 0.8145441149988919,
+        "x" : 0.12520442860150988,
+        "y" : 0.31093582855945656
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.0084745762711864406,
+      "text" : "tO 부정사는 'to+동사원형', 즉''+'시간에서 해방된 동사의 개념'이다. 그리고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023908771091037284,
+        "width" : 0.49451311260250436,
+        "x" : 0.10428004572275379,
+        "y" : 0.33661345700549594
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.018726591760299626,
+      "text" : "t0가 나타내는 '는 3가지 의미를 가지고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.24593966869597741,
+        "x" : 0.16473318177378585,
+        "y" : 0.38933333367937983
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.89566020313942751,
+      "text" : "① 앞으로 할 일을 향해 가다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016441408793131496,
+        "width" : 0.109215702570922,
+        "x" : 0.16232950358396764,
+        "y" : 0.4169246439982488
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.97374179431072205,
+      "text" : "② 도달하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016121447245279974,
+        "width" : 0.21113688151041668,
+        "x" : 0.1624129976438636,
+        "y" : 0.44476744149642089
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.97317073170731705,
+      "text" : "③ 손가락으로 가리키다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025522279527452341,
+        "width" : 0.81232858211436176,
+        "x" : 0.12515799789804119,
+        "y" : 0.49889312572433053
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 3가지인데, 모두 같은 ''를 나타낸다. 다만 그것을 어느 방향에서 보느"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021921188354492194,
+        "width" : 0.29002319768810947,
+        "x" : 0.10672854024812348,
+        "y" : 0.53052325570614423
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "냐에 따라 의미가 달라진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021919897291395429,
+        "width" : 0.3921113575603945,
+        "x" : 0.10440835606609049,
+        "y" : 0.5843023253465599
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.9670846394984326,
+      "text" : "•① 앞으로 할 일을 향해 가다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025401797824435746,
+        "width" : 0.65708687423814283,
+        "x" : 0.1227294214117674,
+        "y" : 0.61934653785390037
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "tO 부정사의 많은 부분을 차지하는 것이 '앞으로 할 일을 향해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023918606228298556,
+        "width" : 0.18582354606466089,
+        "x" : 0.1066241897223945,
+        "y" : 0.64792441779949617
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "가다'라는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020714843749999989,
+        "width" : 0.14246569694356714,
+        "x" : 0.10394116535323628,
+        "y" : 0.70330536880745242
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "• 명사적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.60556844075520833,
+        "x" : 0.10904872619805039,
+        "y" : 0.73401162809849507
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.23996082272282077,
+      "text" : "여문 | want to [see him tomorrow]. 난내일 그를 보고 싶어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02241701931423612,
+        "width" : 0.35765025903147163,
+        "x" : 0.1553341344966975,
+        "y" : 0.75245133824601784
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.67850098619329391,
+      "text" : "*'앞으로 볼 것'을 향해 want한 기분으로 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010229974110921192,
+        "width" : 0.034802784480101656,
+        "x" : 0.87935034779143728,
+        "y" : 0.67732558159558198
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "앞으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888888351,
+        "width" : 0.041763340835030194,
+        "x" : 0.87470997680508622,
+        "y" : 0.68888888895195299
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "향하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017554263644748325,
+        "width" : 0.62645012605274819,
+        "x" : 0.10672853316474201,
+        "y" : 0.80377906968463886
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.27272727272727271,
+      "text" : "예문 |don't know what to [do]. 난 무엇을 해야 할지 모르겠어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014698966132270064,
+        "width" : 0.784222715120789,
+        "x" : 0.15313226181426026,
+        "y" : 0.82977777783461326
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.59183673469387754,
+      "text" : "* '앞으로 무엇을 해야 할지'를 의미하는데, '의문사 + to 부정사'는 '~(해야) 할지'라는 의미가 된다. what"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.28074245588153812,
+        "x" : 0.1786542940223213,
+        "y" : 0.8502222223715824
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.55737704918032782,
+      "text" : "to do는 '무엇을 해야 할지 를 뜻한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.82830628740026602,
+        "x" : 0.10672852684975101,
+        "y" : 0.86918604672363908
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.56917363045496749,
+      "text" : "* 참고: to see him tomorrow와 what to do 모두 it로 바꾸었을 때 각 문장의 의미가 통하므로, 이러한 경우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017229032728407145,
+        "width" : 0.22322517557347074,
+        "x" : 0.17148578380902432,
+        "y" : 0.88837587062898504
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.5,
+      "text" : "의 부정사는 명사적 용법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011665374755859381,
+        "width" : 0.037122969931744507,
+        "x" : 0.076566125126935169,
+        "y" : 0.9287790698198185
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.98936170212765961,
+      "text" : "166"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 159,
+  "pdf_page_number" : 160
+}

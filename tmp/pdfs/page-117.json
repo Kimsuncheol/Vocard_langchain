@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032310917628215141,
+        "width" : 0.12998844444329014,
+        "x" : 0.13707119549681043,
+        "y" : 0.092052442158031211
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99840425531914889,
+      "text" : "Must 26"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03920115846576111,
+        "width" : 0.65414554244237577,
+        "x" : 0.14292026431710311,
+        "y" : 0.12788658997535729
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.9997811337272926,
+      "text" : "MEGAFEPS -ing 암기하지 마라! ②:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523255972088714,
+        "width" : 0.12933024954288566,
+        "x" : 0.14318706919094584,
+        "y" : 0.16424418591293821
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99949849548645942,
+      "text" : "동명사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.48960740109707446,
+        "x" : 0.13856812092952278,
+        "y" : 0.21212121178568022
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99962476547842405,
+      "text" : "•'동시 발생'과 '머리에 떠오르는 영상'으로 이해하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021893006595060771,
+        "width" : 0.74133950091422873,
+        "x" : 0.13394919409253908,
+        "y" : 0.30659536545784138
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서는 어떤 동사의 목적어에 동명사가 오는지를 살펴보도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02480974044391826,
+        "width" : 0.80867175379543443,
+        "x" : 0.13607828008364065,
+        "y" : 0.35518638412755821
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "동명사는 -ing이기 때문에 '동작하고 있는 중'이라는 이미지가 반드시 영향을 주"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.087759816054756787,
+        "x" : 0.11547344057576549,
+        "y" : 0.38662790660788604
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021142809998755285,
+        "width" : 0.48755445547983156,
+        "x" : 0.11303322185775622,
+        "y" : 0.44117755495305622
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.98355263157894735,
+      "text" : "•① 동시 발생: A를 하는 중에 B를 하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.81062358017508873,
+        "x" : 0.13625864868739332,
+        "y" : 0.47816399288389388
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "목적어에 동명사가 오는 것으로 잘 알려진 동사로는 enjoy와 finish가 있다. 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183600713012479,
+        "width" : 0.24018476770279257,
+        "x" : 0.1154734358897508,
+        "y" : 0.50579322660730919
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이유를 한 번 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023411922488833059,
+        "width" : 0.28501861788702348,
+        "x" : 0.11732157962096333,
+        "y" : 0.55533967244448124
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.45411392405063289,
+      "text" : "O lenjoyed swimming."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016198233912122939,
+        "width" : 0.15242494623711769,
+        "x" : 0.16397228426404317,
+        "y" : 0.58139534886341937
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "난 수영을 즐겼다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133182,
+        "width" : 0.32101615743434175,
+        "x" : 0.16628175961176347,
+        "y" : 0.60319767428962112
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.46116504854368934,
+      "text" : "-> '수영하고 있는 중'에 '즐겁다'라고 느꼈다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026351925311029034,
+        "width" : 0.26558891999806072,
+        "x" : 0.1085450308155823,
+        "y" : 0.64661319055261535
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.54658385093167705,
+      "text" : "× lenjoyed to swim."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133182,
+        "width" : 0.7528868330285905,
+        "x" : 0.16628175661246894,
+        "y" : 0.67151162778549123
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.47058823529411764,
+      "text" : "* 즐겁다고 생각하는 것은 지금인데, 실제로 수영하는 것은 앞으로의 일이라고 말하는 것은 모순된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017229729582706743,
+        "width" : 0.059153374205244358,
+        "x" : 0.7006461459639205,
+        "y" : 0.69024984285686097
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "reading"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033567549285616671,
+        "width" : 0.45727482788951684,
+        "x" : 0.10623556327548093,
+        "y" : 0.70930232566664264
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.25669436749769159,
+      "text" : "O He finished reacding the new novel."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017825311942958999,
+        "width" : 0.31408775816572476,
+        "x" : 0.16166281843214919,
+        "y" : 0.74108734401107867
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그는 새로 나온 그 소설을 다 읽었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133182,
+        "width" : 0.25866049908577127,
+        "x" : 0.16397229075842448,
+        "y" : 0.76453488359553678
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.54014598540145986,
+      "text" : "• 읽고 있는 중인 책을 다 읽었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.43879905321919332,
+        "x" : 0.11778291839205303,
+        "y" : 0.80793226393661977
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.25024925224327021,
+      "text" : "X He finished to read the new novel."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014744745856300367,
+        "width" : 0.63279444917719418,
+        "x" : 0.16859122798341042,
+        "y" : 0.83284883708727286
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.36403508771929827,
+      "text" : "* 다 읽은 것은 지금인데. 실제로 읽는 것은 앞으로의 일이라고 말하는 것은 모순이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022017369295823985,
+        "width" : 0.80831411375221629,
+        "x" : 0.13856811622914386,
+        "y" : 0.88662790679540315
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.031725888324873094,
+      "text" : "이렇게 '동사 +동명사'가 되면 'A를 하는 동안 B를 하다'라는 뜻이 된다. 즉, 동시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012032085561497263,
+        "width" : 0.039260969770715595,
+        "x" : 0.087759815230115654,
+        "y" : 0.93003565069384431
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 1,
+      "text" : "122"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    641
+  ],
+  "pdf_page_index" : 117,
+  "pdf_page_number" : 118
+}

@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019764818971730325,
+        "width" : 0.47587288930906474,
+        "x" : 0.046259285112424428,
+        "y" : 0.077747233841281127
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "B: Cake is better because it's expensive ...."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.49651974076074901,
+        "x" : 0.069605558853964217,
+        "y" : 0.12936046498851383
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이와 같이 아이스크림이나 케이크를 생각했을 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939033095352167,
+        "width" : 0.45475637016566928,
+        "x" : 0.04872390637114829,
+        "y" : 0.15552325586841798
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "연상되는 것을 이유의 형태로 말하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021834568101532614,
+        "width" : 0.49883989915780136,
+        "x" : 0.069605572407821725,
+        "y" : 0.1845607804915691
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 사용하는 동사는, 아이스크림과 케이크"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030357206830326722,
+        "width" : 0.82894295766843973,
+        "x" : 0.050711096893154173,
+        "y" : 0.20558689503694083
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "의 성질을 나타내는 경우가 많기 때문에 'A is B' 구문이 제일 많이 쓰인다. '아이스"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02798470545365106,
+        "width" : 0.83107304133421989,
+        "x" : 0.050817729076581747,
+        "y" : 0.23432185441084719
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "크림이 좋다. 왜냐하면 차가워서.라는 것은 별다른 이유는 아니지만, 연상한 것을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028802902167522459,
+        "width" : 0.81253826601285462,
+        "x" : 0.05076667820512723,
+        "y" : 0.26242230461370308
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "말하는 것만으로 충분하다. 무엇이 되었든 떠오르는 것을 이유로 말하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026630987185974897,
+        "width" : 0.81018481964760636,
+        "x" : 0.071696525860582866,
+        "y" : 0.29054836014428598
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "혼자서 이 게임을 하는 경우에, 익숙해지지 않을 때는 생각나는 대로 이유를 노"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025958805879662261,
+        "width" : 0.83341800337987593,
+        "x" : 0.048505146839752086,
+        "y" : 0.31725101739099681
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "트에 쓴 후에 말해 보고, 익숙해지면 1분의 제한 시간 내에 생각나는 대로 말해 보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.037122969931744507,
+        "x" : 0.05104408330558946,
+        "y" : 0.35029069742916308
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027324288951261155,
+        "width" : 0.81253385070367901,
+        "x" : 0.071704456146139586,
+        "y" : 0.39926690234179707
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이 게임의 목적은 설득력 있는 이유를 떠올리는 것이 아니라, 그것이 무엇이 되었"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941337,
+        "width" : 0.53828306806848403,
+        "x" : 0.051044082192556128,
+        "y" : 0.42857142871976772
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "든 기계적으로 빠르게 이유를 많이 떠올리는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02552393631482397,
+        "width" : 0.81226711408466312,
+        "x" : 0.069534891572341273,
+        "y" : 0.48209018822214178
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "'괜찮은 이유', '사용할 만한 타당한 이유'를 떠올리려고 노력하는 것보다는, 여러"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025146640076929239,
+        "width" : 0.77525686710438824,
+        "x" : 0.050857019982215854,
+        "y" : 0.50870149514779073
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "가지를 떠올리다가 의외로 좋은 이유를 생각해 내는 것이 현실적인 방법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024743939038389229,
+        "width" : 0.81014776568040792,
+        "x" : 0.074049894309702435,
+        "y" : 0.53601386603357037
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "비즈니스에서 상대방의 의견을 요구했을 때, 순간적으로 무엇인가를 말할 수 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027793721805765448,
+        "width" : 0.83125034629875882,
+        "x" : 0.053069393476284969,
+        "y" : 0.56179572901634389
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "도록 한다. 그리고 영어 글쓰기 테스트에서는 의견을 지지하는 이유를 2가지 내지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022360245739345253,
+        "width" : 0.64287009814106821,
+        "x" : 0.050930707733284508,
+        "y" : 0.59261644909644196
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "3가지 정도 요구하므로 그 이유를 빨리 떠올릴 수 있도록 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02506127480182796,
+        "width" : 0.81006958873559398,
+        "x" : 0.074103590375503819,
+        "y" : 0.61890427489467448
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "가령 터무니없어 보이는 이유라고 해도, 그 이유에 설득력을 부여하는 것은 나중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023231027394982617,
+        "width" : 0.83082864098515063,
+        "x" : 0.055582494031886545,
+        "y" : 0.64665898945010225
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "에라도 할 수 있다(그 방식은 Must 96 학습에서 소개한다). 먼저 이유를 떠올리는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02186423101145929,
+        "width" : 0.32714616491439491,
+        "x" : 0.048723898997890348,
+        "y" : 0.67435669882921745
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "생각의 회로'를 영어로 만들자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015425514519056049,
+        "width" : 0.48978288799312941,
+        "x" : 0.42215768048697055,
+        "y" : 0.92574093607629016
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.91744548286604366,
+      "text" : "13장 설득을 위한 영어: '형식'을 만들어 영어로 사고하는 훈련 411"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 397,
+  "pdf_page_number" : 398
+}

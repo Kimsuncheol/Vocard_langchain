@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.51039259890292554,
+        "x" : 0.10161663345739376,
+        "y" : 0.071220929891788409
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99498607242339832,
+      "text" : "를 지각동사는 왜 진행형이 불가능한가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962960561116573,
+        "width" : 0.77136256441156914,
+        "x" : 0.12009238973310335,
+        "y" : 0.12063953470246458
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "앞서 설명한대로 see는 시각의 지각동사이고, hear는 청각의 지각동사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020537971387785015,
+        "width" : 0.81062358017508862,
+        "x" : 0.12009236818324087,
+        "y" : 0.1466131907617928
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 학교에서 배우는 중요한 영문법 규칙 중에 '지각동사는 진행형으로 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021978505792464742,
+        "width" : 0.82909931155806738,
+        "x" : 0.1016166256482617,
+        "y" : 0.17424242460771144
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "낼 수 없다'라는 것이 있다. 이러한 문법을 단지 규칙으로 알고 왜 그러한 규칙이 성"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021965552141322231,
+        "width" : 0.7182447933981605,
+        "x" : 0.10161663322484835,
+        "y" : 0.20187165733474477
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "립되는지 이유를 알지 못하면, 영어를 제대로 말하거나 쓸 수 없게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021952597640202409,
+        "width" : 0.6836027537677305,
+        "x" : 0.12240185626390626,
+        "y" : 0.22950089090572523
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 왜 지각동사는 진행형으로 나타낼 수 없는지 생각해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023393131194905159,
+        "width" : 0.48729793467420213,
+        "x" : 0.12240184085923791,
+        "y" : 0.25713012463308726
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "힌트는 '인식하다, 알아차리다'라는 의미에 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028099915135565534,
+        "width" : 0.81094330050421104,
+        "x" : 0.11991161742646012,
+        "y" : 0.30665749353367544
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, \"파티에서 그녀를 보았어.\"라고 말할 때, '보았다'\"라는 것은 '시각을 통"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023354267691545916,
+        "width" : 0.63741338202293885,
+        "x" : 0.096997696862521673,
+        "y" : 0.34001782534712177
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "해 파티에 그녀가 있다는 것을 알아차렸다'라는 것을 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023618538324420735,
+        "width" : 0.55889143707058953,
+        "x" : 0.11547344956972523,
+        "y" : 0.36319073081738984
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "'알아차리다'라는 동작은 '알아채지 못했다'에서 '알아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02054315369821913,
+        "width" : 0.57274823560782362,
+        "x" : 0.10161664810832825,
+        "y" : 0.39389534914766056
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "챘다'로 변화를 일으키는 것으로 보아 분명 동작 동사인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022937458466718463,
+        "width" : 0.57527318643339986,
+        "x" : 0.099211048184491363,
+        "y" : 0.42046369304061948
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "데, 여기에서 문제가 되는 점은 '알아차리다'라는 동작이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021905961096180593,
+        "width" : 0.32563511192375894,
+        "x" : 0.099307155272531672,
+        "y" : 0.44912790678794079
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "한 순간에 이루어진다는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021931870098419903,
+        "width" : 0.55427250422484486,
+        "x" : 0.12009238433099557,
+        "y" : 0.47370766474517989
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "진행형은 '시작에서 끝'으로 변화하는 도중의 상태를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023385358154242475,
+        "width" : 0.82909931155806738,
+        "x" : 0.099307156877059835,
+        "y" : 0.50290697671412898
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "나타낸다. '먹다'라는 동작의 경우, '먹기 시작해서 다 먹은 완료 상태'로 변화하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021944824599539836,
+        "width" : 0.52886837357324912,
+        "x" : 0.099307152599634171,
+        "y" : 0.53197674400269368
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "도중의 상태, 즉, '먹고 있는 중'의 진행형이 성립된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022009597105138501,
+        "width" : 0.80831411375221629,
+        "x" : 0.12009236553429312,
+        "y" : 0.55793226349750524
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 지각동사 see가 의미하는 '보다'라는 동작에서, 동작이 변화하는 도중이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020787813659232879,
+        "width" : 0.10644715221215648,
+        "x" : 0.099201366774817029,
+        "y" : 0.58698981393359351
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "성립될까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026282650476683544,
+        "width" : 0.47641865615303641,
+        "x" : 0.11511621395766088,
+        "y" : 0.6394296166628417
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "아, 그녀다.라고 알아차리는 것은 한순간이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957779100659547,
+        "width" : 0.45265589504377213,
+        "x" : 0.12009237570813411,
+        "y" : 0.66844919781448531
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "알아차리고 있는 도중은 다소 부자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027556570668484048,
+        "width" : 0.80878594581117025,
+        "x" : 0.11986546322812611,
+        "y" : 0.69179575963572293
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "좀 더 자세히 설명하면, '먹다'의 경우 '먹고 있는 중'은 '아직 다 먹지 않았다(미완"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024566648690670712,
+        "width" : 0.82926267799756215,
+        "x" : 0.099226241328945572,
+        "y" : 0.72230304983715721
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "료)'라는 것을 의미한다. 이를 아래 문장에 적용해서 see를 진행형으로 만들어 보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836181423025,
+        "width" : 0.03464203151405279,
+        "x" : 0.099307159612488621,
+        "y" : 0.75290697715638144
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988869563355995,
+        "width" : 0.3695150172456782,
+        "x" : 0.1016166251093182,
+        "y" : 0.80213903757815641
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "X l was seeing her at the party."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024014404963257019,
+        "width" : 0.81078192528257975,
+        "x" : 0.11770307130367484,
+        "y" : 0.85147821064765816
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장은 \"파티에서 그녀가 있는 것을 알아차릴 뻔했지만, 완전하게는 알아채지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025682680534593993,
+        "width" : 0.54071598999889181,
+        "x" : 0.096867092858167081,
+        "y" : 0.87844875786461496
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "못했고 알아채는 도중이었다.\"로 이상한 의미가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219305,
+        "width" : 0.039260969770715595,
+        "x" : 0.066974595837794637,
+        "y" : 0.92869875213786746
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 1,
+      "text" : "102"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    641
+  ],
+  "pdf_page_index" : 98,
+  "pdf_page_number" : 99
+}

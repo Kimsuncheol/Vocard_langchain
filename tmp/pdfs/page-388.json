@@ -1,0 +1,295 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018998185758362651,
+        "width" : 0.12465043501420453,
+        "x" : 0.085800830666921513,
+        "y" : 0.077144627004915312
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "twice이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019069149601871338,
+        "width" : 0.39860140193592419,
+        "x" : 0.055944054161265383,
+        "y" : 0.13372092992960538
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "③ He has twice as many books as l."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020489164746050559,
+        "width" : 0.44289042732932349,
+        "x" : 0.083916091578812774,
+        "y" : 0.15843023269005962
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "앞 과정을 거쳐 이와 같은 문장이 완성된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019094897963707114,
+        "width" : 0.44055943055586383,
+        "x" : 0.058275063201736609,
+        "y" : 0.21346324185884358
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.98236775818639799,
+      "text" : "• 비교급도 수식의 사고방식을 적용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02192205491585475,
+        "width" : 0.44988346099853516,
+        "x" : 0.076923071247083877,
+        "y" : 0.24999999971905451
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "비교급 문장도 같은 패턴으로 만들 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025223731149921824,
+        "width" : 0.81371602145108302,
+        "x" : 0.076834077790660385,
+        "y" : 0.27445489463810657
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, \"이 탑은 저 탑보다 3배 높다.\"라는 문장을 만들고 싶다면, 다음과 같"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444105535191159,
+        "width" : 0.24009323120117188,
+        "x" : 0.058275062602088583,
+        "y" : 0.30513728966542564
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "은 단계를 생각해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017714791851195733,
+        "width" : 0.35198135809464887,
+        "x" : 0.08158507827619782,
+        "y" : 0.35739592546699184
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "① This tower is tall. 이 탑은 높다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016386182462356014,
+        "width" : 0.28904429349032318,
+        "x" : 0.097902095562530711,
+        "y" : 0.3835252433752826
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.66273584905660377,
+      "text" : "~ 형용사 tall을 비교급으로 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021169542527177621,
+        "width" : 0.24567942185835401,
+        "x" : 0.081154688580443099,
+        "y" : 0.40342756369388511
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "② This tower is taller."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016088790657036722,
+        "width" : 0.14685314351862128,
+        "x" : 0.3426573442038171,
+        "y" : 0.40552325548510892
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이 탑은 더 높다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017714791851195733,
+        "width" : 0.47086247530850489,
+        "x" : 0.097902091871777105,
+        "y" : 0.42869796265358828
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.53552859618717508,
+      "text" : "• 무엇보다 높은지의 기준을 나타내는 than을 문장 끝에 둔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019940949837859434,
+        "width" : 0.40590134533968836,
+        "x" : 0.07911231187087818,
+        "y" : 0.45104240292626652
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "③ This tower is taller than that one."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014625002790912278,
+        "width" : 0.19813520258123229,
+        "x" : 0.50815850581613253,
+        "y" : 0.45348837218248905
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이 탑은 저 탑보다 높다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017714791851195733,
+        "width" : 0.43123540011319245,
+        "x" : 0.097902108305874702,
+        "y" : 0.47652790038269888
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.52822580645161288,
+      "text" : "4~3 x [taller]의 형태로 하여, '3배 높다는'것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018764287206955554,
+        "width" : 0.54100058295510034,
+        "x" : 0.079159821785020956,
+        "y" : 0.49871682582614596
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "④ This tower is three times taller than that one."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016021845085204878,
+        "width" : 0.24708624319596728,
+        "x" : 0.10722610904881065,
+        "y" : 0.52612931801172758
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이 탑은 저 탑보다 3배 높다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013286093888396855,
+        "width" : 0.034965035590258542,
+        "x" : 0.7552447549515684,
+        "y" : 0.58414526114487941
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.96923076923076923,
+      "text" : "× 3"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395172037991,
+        "width" : 0.41025642915205529,
+        "x" : 0.50349649393990081,
+        "y" : 0.92587209310769136
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.92490842490842495,
+      "text" : "12장 어순: 어순 자체가 나타내는 '심리'를 이해하라 401"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 388,
+  "pdf_page_number" : 389
+}

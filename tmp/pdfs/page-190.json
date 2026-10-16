@@ -1,0 +1,175 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.43387472815547429,
+        "x" : 0.064965188071434796,
+        "y" : 0.072674418221310377
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "배운 내용을 토대로 아래 질문에 답해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.046403714443775002,
+        "x" : 0.59628770190066049,
+        "y" : 0.13066666663677706
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "탄내가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.051044085347060619,
+        "x" : 0.59860788772090123,
+        "y" : 0.14222222236381432
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "나는데?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020422644721137195,
+        "width" : 0.43175144060283682,
+        "x" : 0.083434557461288736,
+        "y" : 0.15981789000158197
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.41155234657039713,
+      "text" : "| smelled something [ourn / burning]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01751937357584632,
+        "width" : 0.27649419256981383,
+        "x" : 0.088001698064565939,
+        "y" : 0.18603388210523497
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "나는 무언가 타는 냄새를 맡았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023113038804795982,
+        "width" : 0.62437172747672864,
+        "x" : 0.085744627768499074,
+        "y" : 0.29024888313051012
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 burn과 burning 중에 어느 것이 더 자연스러운가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023289666069878479,
+        "width" : 0.81688102559840425,
+        "x" : 0.081105147150210277,
+        "y" : 0.34299782964459968
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "'타기 시작한 것부터 다 타 버린 후까지의 전체'에 해당하는 냄새를 맡는 것과 '타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.69837585882092201,
+        "x" : 0.064965203032488872,
+        "y" : 0.37200000020397717
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "고 있는 중'의 냄새를 맡는 것을 비교하면 당연히 후자가 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024586531745062978,
+        "width" : 0.81228027343749998,
+        "x" : 0.085753817994339551,
+        "y" : 0.39914313962890324
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 감각을 이해하게 되면, 자신의 직감으로 동사원형과 -ing를 의식하여 선"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024660593668619724,
+        "width" : 0.1929950903493462,
+        "x" : 0.067075540565593963,
+        "y" : 0.42662319151883477
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "택할 수 있게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015222749498155386,
+        "width" : 0.42712415329953457,
+        "x" : 0.49642361605114038,
+        "y" : 0.92428965165913668
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.93162393162393164,
+      "text" : "6장 동사 ⑤ 동사원형: 의미를 생각해 본 적이 있는가? 197"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 190,
+  "pdf_page_number" : 191
+}

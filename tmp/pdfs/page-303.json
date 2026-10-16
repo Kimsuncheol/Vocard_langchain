@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021037010192871075,
+        "width" : 0.65687322616577148,
+        "x" : 0.092712247872631839,
+        "y" : 0.071739456939212021
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "A: Does Kate have any siblings? 케이트에게는 형제자매가 있니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023358352661132731,
+        "width" : 0.56879255988381128,
+        "x" : 0.094918188296758063,
+        "y" : 0.098448723631494039
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "B: She has a younger brother and a younger sister."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.38515082272616297,
+        "x" : 0.11832946096440843,
+        "y" : 0.12488888907728302
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "그녀에게는 남동생 1명과 여동생 1명이 있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024398106892903559,
+        "width" : 0.80998594110662281,
+        "x" : 0.069497231186555458,
+        "y" : 0.17269859805179655
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "위 문장에서 파티가 있는 것과, 남동생과 여동생이 있는 것은 모두 응답으로 처"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024899263170030439,
+        "width" : 0.83087296919389209,
+        "x" : 0.050928711235846566,
+        "y" : 0.20020121631659871
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "음 알려지는 사실이기 때문에 새로운 정보이다. 하지만 케이트에게 남동생과 여동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02201910230848525,
+        "width" : 0.82853395288640797,
+        "x" : 0.050940952562901293,
+        "y" : 0.23047755156195904
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "생이 있다는 것을 There are a younger brother and a younger sister.라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025704003228081529,
+        "width" : 0.83103708787397912,
+        "x" : 0.05083159636848731,
+        "y" : 0.2541054037447763
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "고 말하게 되면 확실히 부자연스럽다. 그러나 내일 파티가 있다는 것을 There is a"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024386795043945364,
+        "width" : 0.51314128528941749,
+        "x" : 0.048485356886946954,
+        "y" : 0.28325330973809626
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "party tomotrow.라고 말하는 것은 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962532891167563,
+        "width" : 0.61252897435968567,
+        "x" : 0.069605586535768621,
+        "y" : 0.30959302300151204
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 느낌의 차이를 가져오는 것은 도대체 무엇 때문일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022610500759548735,
+        "width" : 0.53867357427423657,
+        "x" : 0.13903179029406668,
+        "y" : 0.36565805019010678
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.98039215686274506,
+      "text" : "'S+have ~가 나타내는 것은 'S의 영역 안에서의 일'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828165690104262,
+        "width" : 0.68445474451238453,
+        "x" : 0.071925759903273156,
+        "y" : 0.40261627896651775
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "'S+have+O' 구문은 'S가 O를 가지고 있다'라는 의미를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025607548183865125,
+        "width" : 0.81011772155761719,
+        "x" : 0.071733344877803529,
+        "y" : 0.42707422125792616
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "원래 'S가 물리적으로 O를 손에 들고 있다'라는 뜻이었는데, 이것이 확장되어 물"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02187338511149084,
+        "width" : 0.83294660394841968,
+        "x" : 0.051044099379964875,
+        "y" : 0.45777777777261131
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "리적으로 손에 들고 있지 않아도 'S가 O의 소유권을 가지고 있다'가 되었고, 나아"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025423590766058934,
+        "width" : 0.7844618883999912,
+        "x" : 0.050904479094679787,
+        "y" : 0.48426612934052038
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "가 'S에게 O라는 일이 있다, S가 O라는 상황에 있다'라는 의미로 확장되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02488888888888896,
+        "width" : 0.81670535694469115,
+        "x" : 0.069605558103164794,
+        "y" : 0.51155555533407215
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "have가 나타내는 '있다'는, 주어 S에게 있는 일이나 상황을 나타낼 때 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030697979397243946,
+        "width" : 0.81043902310458094,
+        "x" : 0.071605011791883513,
+        "y" : 0.53732293834012024
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "Kate has a younger brother and a younger sister.는 \"케이트에게 남동생"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83294660394841979,
+        "x" : 0.051044099332661623,
+        "y" : 0.56666666680049838
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "과 여동생이 있다.\"라는 것을 나타내는 말이지, 다른 누군가에게 있는 상황을 말하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024451468573676305,
+        "width" : 0.83082684603604395,
+        "x" : 0.053266918829619155,
+        "y" : 0.59437886958556208
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.18488529014844804,
+      "text" : "는 것이 아니다. 한편, there is/are 구문의 경우, 특정한 누군가가 처해 있는 상황"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021906977335611977,
+        "width" : 0.47331783988259046,
+        "x" : 0.053364284864803491,
+        "y" : 0.62209302300151204
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.0063424947145877377,
+      "text" : "을 나타내는 표현이 아니라는 것을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020938497755262575,
+        "width" : 0.74959520860151818,
+        "x" : 0.055578351619597927,
+        "y" : 0.67033180918704482
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.1596925704526046,
+      "text" : "예문 There were some toys in the box. 상자안에는 장난감 몇 개가 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020686626010470888,
+        "width" : 0.44804447347467602,
+        "x" : 0.053238985986828323,
+        "y" : 0.69886941871219177
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.156794425087108,
+      "text" : "예e There is a nice park near my school."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042635599772148,
+        "width" : 0.30394430594010791,
+        "x" : 0.099767986123217564,
+        "y" : 0.72529069731316764
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "우리 학교 근처에 멋진 공원이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.81438515403053968,
+        "x" : 0.07192575244779166,
+        "y" : 0.77180232520104453
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "이처럼 there is/are 구문은 누구에게나 동일한 상황이 존재한다는 것을 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012846947564019051,
+        "width" : 0.15137333219701588,
+        "x" : 0.72592822166375892,
+        "y" : 0.79194405098568732
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.23157894736842105,
+      "text" : "I have a party Tonorrow"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020461240132649716,
+        "width" : 0.055684452707117256,
+        "x" : 0.055684455644530638,
+        "y" : 0.80087209343654708
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022911685519748315,
+        "width" : 0.56402943351052026,
+        "x" : 0.074152953355241871,
+        "y" : 0.85605928802687692
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "이제, 앞에서 나왔던 I have a party tomorrow.라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022051612006293353,
+        "width" : 0.58497342196377833,
+        "x" : 0.055542665276299447,
+        "y" : 0.88302558614938176
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "문장과 There is a party tomorrow.라는 문장을 한 번"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.38283061981201172,
+        "x" : 0.52900232344937281,
+        "y" : 0.92441860458590741
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.83236994219653182,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 313"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 303,
+  "pdf_page_number" : 304
+}

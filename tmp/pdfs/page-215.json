@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.26450115984136408,
+        "x" : 0.10440835267577751,
+        "y" : 0.072674418793045259
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "에 찬성한다고 그에게 말해 줘"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020507752312554306,
+        "width" : 0.81670535694469104,
+        "x" : 0.074245929299609478,
+        "y" : 0.11466666666374292
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "'이것은 가정해서 하는 말이다'라는 것을 강조하기 위해서 이를 나타내는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024193599277072431,
+        "width" : 0.83545719493519177,
+        "x" : 0.055605899820320784,
+        "y" : 0.14214234291986527
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "should가 문두에 나와 있다. 이 가정절이 문장의 끝부분에 오는 경우를 조심해야"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024479351467556421,
+        "width" : 0.83313664523037989,
+        "x" : 0.057915614225354031,
+        "y" : 0.1690161878355394
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "하는데, 이는 학습자들이 어려워하는 부분이다. 이를 주의하지 않으면, 구문의 형태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021881137424045183,
+        "width" : 0.32018561796708539,
+        "x" : 0.058004638805141943,
+        "y" : 0.19767441848930911
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "를 읽고 이해하지 못할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.49883989854292432,
+        "x" : 0.12529002740501338,
+        "y" : 0.22800000038660295
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "Tell him I'm for the plan/ should he call me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021820413377549919,
+        "width" : 0.8097447482022373,
+        "x" : 0.078886326613063495,
+        "y" : 0.25288888903978934
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "if절이 문장의 끝에 올 때, 일반적으로 콤마가 사용되지 않는다. 그렇기 때문에 위"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022960450914171093,
+        "width" : 0.78903423656116822,
+        "x" : 0.060225091820284356,
+        "y" : 0.27980500452095303
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "예문에서는 the plan과 should 사이에 끊김이 있다는 것을 파악하기 어렵다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02460533481174032,
+        "width" : 0.81237775629216968,
+        "x" : 0.076390042741008107,
+        "y" : 0.30479503879857117
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "'if+should' 구문은 귀결절의 표현에도 특징이 있다. 위의 예문처럼 귀결절에 명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83294660394841979,
+        "x" : 0.058004656176470479,
+        "y" : 0.3342222221983846
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "령문이 사용되어, '혹시라도 ~하게 되면, 이렇게 해 주어라. 라는 표현이 되는 경우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.090487236326391052,
+        "x" : 0.058004641566615112,
+        "y" : 0.36337209261586534
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.50580046393654565,
+        "x" : 0.078886311386973412,
+        "y" : 0.38933333363819367
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "또한 조심스럽게 부탁하는 표현으로도 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011642118665907142,
+        "width" : 0.044083527543328005,
+        "x" : 0.62180974419154456,
+        "y" : 0.39680232562858098
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "못 사요"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02350090450710729,
+        "width" : 0.52720815485174,
+        "x" : 0.078616054346486497,
+        "y" : 0.41514451400549834
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "아래 예문에서는 if 대신에 'in case+S+V~'(S가 V"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888889461,
+        "width" : 0.051044084809043211,
+        "x" : 0.81670533565812353,
+        "y" : 0.39822222209199176
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "Tn case"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014847942776150203,
+        "width" : 0.068185963413932127,
+        "x" : 0.81056166688799958,
+        "y" : 0.40590339912546158
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "You should"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888889461,
+        "width" : 0.071925753896886713,
+        "x" : 0.81438515087331187,
+        "y" : 0.42000000009263538
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "change yeek"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022045756869846,
+        "width" : 0.54555502804842859,
+        "x" : 0.060166492913524224,
+        "y" : 0.44364482987793141
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "하는 경우에 대비해서 =혹시라도 S가 V한다면)를 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021978193495008735,
+        "width" : 0.17911087382923471,
+        "x" : 0.060096535165518071,
+        "y" : 0.47156904276590406
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "용해서 표현했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.65429232337258081,
+        "x" : 0.099767991546150014,
+        "y" : 0.52034883739570836
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "In case you should change your mind, here's my number."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02197157626681856,
+        "width" : 0.51044082641601562,
+        "x" : 0.10672854263015924,
+        "y" : 0.54488888894121823
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "마음을 바꾸실 경우에 대비해서, 여기 제 전화번호가 있어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021967700534396672,
+        "width" : 0.80974474820223719,
+        "x" : 0.081206512499809508,
+        "y" : 0.59447674407095863
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 귀결절에 will 또는 would를 사용하는 경우가 있다. 이는 화자가 얼마"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021997416178385465,
+        "width" : 0.83294660394841968,
+        "x" : 0.058004660806145789,
+        "y" : 0.62044444420361577
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "나 현실적인 예상을 하고 있는지에 따라 구분해서 사용할 수 있다. '일단 말도 안"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83062640103426844,
+        "x" : 0.060324854146438837,
+        "y" : 0.64666666641439441
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "된다'라는 생각으로 말하면 귀결절에 would를 사용하고, '어쩌면 가능할지도 모"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02045219675699872,
+        "width" : 0.38051046024669299,
+        "x" : 0.060324816169880731,
+        "y" : 0.67732558101385765
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "른다'라는 생각이면 will을 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.34570765495300293,
+        "x" : 0.5707656630687421,
+        "y" : 0.92577777791834337
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.90894039735099341,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지 않다 223"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 215,
+  "pdf_page_number" : 216
+}

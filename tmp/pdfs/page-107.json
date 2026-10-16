@@ -1,0 +1,340 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021886155366262927,
+        "width" : 0.8097447604997785,
+        "x" : 0.081206506037451276,
+        "y" : 0.079858030438420435
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 설명한 바와 같이 will이 마음의 작용인 것을 알게 되면, will이 나타내는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027028373203768385,
+        "width" : 0.45747650362921094,
+        "x" : 0.057814299330576073,
+        "y" : 0.1038411327689337
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "'미래를 확정하는 정도' 또한 파악할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019178448891153166,
+        "width" : 0.2837627437943262,
+        "x" : 0.066996352167512457,
+        "y" : 0.15687480924799457
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.2441717791411043,
+      "text" : "예문 It wil rain tomorrow."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.21345708319481377,
+        "x" : 0.35498839565768464,
+        "y" : 0.15552325617473672
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "내일은 비가 올 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024677951883825489,
+        "width" : 0.56406384190769054,
+        "x" : 0.083416793103361128,
+        "y" : 0.20066262392276757
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "위 예문은 비가 올 것이라고 '생각/예상만 하는 것'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306034,
+        "width" : 0.36194895209995565,
+        "x" : 0.062645013328348917,
+        "y" : 0.25288376179198579
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.18467583497053044,
+      "text" : "예E It's going to rain tomorrow."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02050746978651441,
+        "width" : 0.20417634138824248,
+        "x" : 0.43851507744543372,
+        "y" : 0.25145348824145675
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.037383177570093455,
+      "text" : "내일은 비가 올 것이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02053326384198273,
+        "width" : 0.80974476049977839,
+        "x" : 0.083526691708683307,
+        "y" : 0.30377906964267287
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장은 비가 온다는 미래를 향해 상황이 진행되고 있는 중임을 나타낸다. 따"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020423639529345783,
+        "width" : 0.83294660419437061,
+        "x" : 0.062645027379408233,
+        "y" : 0.33139534871314913
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "라서 마음속으로 예상할 뿐인 will보다는 확실히 그러한 상황으로 진행되고 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022035773919553137,
+        "width" : 0.16249289005360706,
+        "x" : 0.064925249728775572,
+        "y" : 0.35889490309530436
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "는 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0263259121032553,
+        "width" : 0.54098926300698147,
+        "x" : 0.15530576767493137,
+        "y" : 0.41273300920599887
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.97265892002734111,
+      "text" : "be about to는 \"막 ~하려는 참이다,~하기 직전이다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021911949421731136,
+        "width" : 0.44315544831837328,
+        "x" : 0.08584687368304067,
+        "y" : 0.45058139536696462
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "마지막으로 be about to에 대해 알아보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024771193645649947,
+        "width" : 0.36475765147107719,
+        "x" : 0.081031470265638353,
+        "y" : 0.47531651095716754
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.17680608365019013,
+      "text" : "about라는 말의 어원은 '주변'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.80974476049977828,
+        "x" : 0.085846877134157937,
+        "y" : 0.50290697683058727
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, '대략 10시'는 '10시 주변'을 말한다. '그에 대한 에피소드'라고 말할 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023289346229532937,
+        "width" : 0.54524362983433072,
+        "x" : 0.064965191924873947,
+        "y" : 0.53194321215954643
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "에도, '그를 둘러싼 여러 에피소드'라는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.39443155924479167,
+        "x" : 0.064965194746957958,
+        "y" : 0.58284883722279646
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.17663293468261271,
+      "text" : "예문 | was about to get on the train."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022403388713034489,
+        "width" : 0.29987961789394946,
+        "x" : 0.1087560540740428,
+        "y" : 0.60532549506169642
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.030769230769230771,
+      "text" : "나는 열차에 타려고 하는 참이었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025263067886907575,
+        "width" : 0.80995981202903367,
+        "x" : 0.085735399195891654,
+        "y" : 0.65367075840976407
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이를 직역하면 '나는 열차를 타려고(get on the train) 향하는(to) 주변(about)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023282897292562832,
+        "width" : 0.74245934452570927,
+        "x" : 0.064965223135443895,
+        "y" : 0.68168604690820578
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "의 상태로 있었다(was)'가 된다. 즉, 대략 타려는 참이었다'라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02182167107379851,
+        "width" : 0.80974476049977839,
+        "x" : 0.085846877218438505,
+        "y" : 0.71073646822060887
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.11774600504625736,
+      "text" : "따라서 be about to는 '막 ~하려는 참이다, ~하기 직전이다'라는 뜻으로 아주"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.25986079222767061,
+        "x" : 0.062645009811186078,
+        "y" : 0.73691215643161356
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "가까운 미래를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421398,
+        "width" : 0.48259861722905573,
+        "x" : 0.436194890808283,
+        "y" : 0.92587209282324179
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.83449477351916379,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 171"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 107,
+  "pdf_page_number" : 108
+}

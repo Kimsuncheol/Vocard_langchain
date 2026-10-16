@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023330749511718762,
+        "width" : 0.81206496218417556,
+        "x" : 0.074245941061875612,
+        "y" : 0.1191111107724987
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이 책을 처음 쓰려고 생각한 것은 15년전의 일로, 출판의 인연을 맺지 못하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.83294660419437072,
+        "x" : 0.053364284780485403,
+        "y" : 0.14825581357549289
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "출판 이야기가 떠올랐다가 무산되어 어쩔 수 없이 인터넷 블로그에나마 내용을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021914728800455641,
+        "width" : 0.83062648908466308,
+        "x" : 0.05336424954119514,
+        "y" : 0.1786666666438731
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "계속 올리는 수밖에 없었습니다. 그러다가 이번에 운 좋게도 출판사의 편집자님"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023262274000379835,
+        "width" : 0.83062648908466297,
+        "x" : 0.053364249546270573,
+        "y" : 0.20784883738309634
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이 먼저 이야기해 주셔서, 이렇게 무사히 저작의 빛을 보게 되었습니다. 편집자님"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023285529242621505,
+        "width" : 0.83294660419437061,
+        "x" : 0.053364284792102749,
+        "y" : 0.23688888918043416
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "은 훌륭한 미소와 쾌활한 성격으로 저의 집필을 계속 지지해 주셨습니다. 정말 감"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021891472710503401,
+        "width" : 0.83294660419437072,
+        "x" : 0.053364284788290611,
+        "y" : 0.26744186036332962
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "사드립니다. 편집자님 덕분에 출판이 무산되며 인간을 불신했던 저의 마음이 구"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022437831454806934,
+        "width" : 0.36013980080895391,
+        "x" : 0.053143057935447567,
+        "y" : 0.29596695903484316
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "원받을 수 있었는지도 모르겠네요"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.80974476049977839,
+        "x" : 0.074245949103921655,
+        "y" : 0.35755813972920558
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 이번에 영문 교정을 맡아 주신 Adam McGuire 씨는 재능 넘치는 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.83062648908466319,
+        "x" : 0.053364249544587121,
+        "y" : 0.38800000035188065
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "교사로, 저서 내용 중에 있는 Guessing Game과 Comparison Game을 생각"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83062648908466308,
+        "x" : 0.053364249517591493,
+        "y" : 0.41555555592509152
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "해 낸 사람 중 한 명이기도 하며 my best friend입니다. 그와 파트너가 되어 5년"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537357,
+        "width" : 0.83526680587876778,
+        "x" : 0.051044091140443983,
+        "y" : 0.44622093013082731
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이상 글쓰기와 말하기 지도를 해 왔습니다. 그가 없었다면 글쓰기와 말하기 지도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021981912400987458,
+        "width" : 0.78190251343639183,
+        "x" : 0.053364288408003814,
+        "y" : 0.47511111095008407
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "방법을 확립할 수 없었을 것입니다. 이 자리를 빌려 감사의 말씀을 전합니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020528423733181422,
+        "width" : 0.80974476049977828,
+        "x" : 0.074245942835957826,
+        "y" : 0.50436046538593149
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "말이 나타내는 마음의 상태를 그림으로 만드는 것은 꽤 어려운데, 이번 일러스"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.83526680587876778,
+        "x" : 0.053364276766773099,
+        "y" : 0.534666666249345
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "트를 담당해 주신 스에요시 요시미 작가님은 그 일을 훌륭히 해내 주셨습니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.8306264890846633,
+        "x" : 0.053364249523318252,
+        "y" : 0.56395348854570837
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "확실히 가려운 곳을 긁어 주는 것 같은 명쾌한 묘사의 일러스트로, 이 책의 가치"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021967700534396783,
+        "width" : 0.41763340293938389,
+        "x" : 0.053364272890908095,
+        "y" : 0.5944767440811376
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "를 배로 올려 주셨습니다. 감사드립니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537357,
+        "width" : 0.8097447604997785,
+        "x" : 0.074245949103584868,
+        "y" : 0.62354651152607221
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 마지막으로, 지금까지 저에게 가르침을 받았던 제자 여러분, 여러분과"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.83526680587876767,
+        "x" : 0.051044093765952488,
+        "y" : 0.65244444470474128
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "보낸 날들이 영어 강사로서의 저를 만들어 주었습니다. 이 책을 제 학생이었던 모"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02477734714084201,
+        "width" : 0.83313473099512414,
+        "x" : 0.053272220214770918,
+        "y" : 0.68127159428681705
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "든 여러분에게 바치며 감사의 말씀을 전합니다. 또한 제 블로그 '도키요시 히데야"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02756624518500439,
+        "width" : 0.83577638450243796,
+        "x" : 0.053147616026736545,
+        "y" : 0.70797287745033743
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "의 영문법 최종 해답!'을 지지해 주시는 모든 분들에게도 감사의 마음을 바칩니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023582719590928836,
+        "width" : 0.20658969743877437,
+        "x" : 0.050997494549268441,
+        "y" : 0.74111561693417793
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "정말 감사드립니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020880045572916672,
+        "width" : 0.19039815266927085,
+        "x" : 0.69134384698313589,
+        "y" : 0.79915300045629256
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "도키요시 히데야"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014878964742024769,
+        "width" : 0.090626509646151931,
+        "x" : 0.81895588695393362,
+        "y" : 0.93151400549740937
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.95092024539877296,
+      "text" : "맺음말 437"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 423,
+  "pdf_page_number" : 424
+}

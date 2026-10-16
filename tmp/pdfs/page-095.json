@@ -1,0 +1,250 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011646043383076399,
+        "width" : 0.030023093257390013,
+        "x" : 0.069284065265069431,
+        "y" : 0.077034883658192665
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020501700314608517,
+        "width" : 0.31408775816572476,
+        "x" : 0.1085450352958905,
+        "y" : 0.073975044187126637
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "lam thinking about it now."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019939886694923525,
+        "width" : 0.38831839054188821,
+        "x" : 0.11532862721694645,
+        "y" : 0.096402770175778696
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "나는 지금 그것에 대해 생각하고 있는 중이야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011664179344653247,
+        "width" : 0.04618937715570981,
+        "x" : 0.78752886787582743,
+        "y" : 0.072638146214325849
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "think"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027788360276111757,
+        "width" : 0.8157512258976064,
+        "x" : 0.087576603245831733,
+        "y" : 0.14671268752820388
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "위에 제시된 think의 경우, 생각하기 시작> 생각하는 중> 생각이 정리되다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023618538324420735,
+        "width" : 0.83140877798093971,
+        "x" : 0.066974600986435415,
+        "y" : 0.17424242454357264
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "라는 변화의 단계를 가지고 '생각하는 중= 생각이 정리되는 변화의 도중'이라는 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021869689173027007,
+        "width" : 0.36489608439993354,
+        "x" : 0.069284059298893794,
+        "y" : 0.20632798541626052
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "미가 되어 진행형이 자연스러워진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024612273761932757,
+        "width" : 0.80849644004875876,
+        "x" : 0.089984314403530399,
+        "y" : 0.25994675632964692
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "동사 have도 원래 소유의 상태가 변함없이 지속되는 상태 동사인데, '먹다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.82909931155806738,
+        "x" : 0.069284062350620831,
+        "y" : 0.28921568597514813
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "의미로 쓰이는 경우에는 eat가 eating이 되는 것과 마찬가지로 진행형으로 가능"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.057736720091907695,
+        "x" : 0.069284064756525793,
+        "y" : 0.31684491949534377
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.035204991087344095,
+        "width" : 0.41339492256759752,
+        "x" : 0.06004618523756388,
+        "y" : 0.35739750423830474
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "O lhave a cafr. 나는 차를 가지고있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013083986207550691,
+        "width" : 0.19861432880374558,
+        "x" : 0.11778290478021534,
+        "y" : 0.39244186060487363
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.5,
+      "text" : "1 변하지 않는 소유의 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031335794989438059,
+        "width" : 0.24275081986231165,
+        "x" : 0.06222736008745642,
+        "y" : 0.43564024100392029
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "X Imhaving a car."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.04233511586452765,
+        "width" : 0.55889143707058964,
+        "x" : 0.053117789943755052,
+        "y" : 0.48395721850778972
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.024809160305343511,
+      "text" : "O lmhaving dhnnet. 나는 저내을 먹고있는 중이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014739564395843341,
+        "width" : 0.27251731926667772,
+        "x" : 0.11085450423318681,
+        "y" : 0.52180232545600191
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.40000000000000002,
+      "text" : "^ 음식이 없어지고 있는 변화의 도중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219194,
+        "width" : 0.4734410928496231,
+        "x" : 0.44803695923338704,
+        "y" : 0.93003565046256009
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.91891891891891897,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 99"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    641
+  ],
+  "pdf_page_index" : 95,
+  "pdf_page_number" : 96
+}

@@ -1,0 +1,490 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027320326063368094,
+        "width" : 0.83332000083111701,
+        "x" : 0.11117632305200202,
+        "y" : 0.065319962047469371
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "않는 상태'를 나타내는 말이다. '빨간 나무 열매'라고 말할 때, 그 나무 열매는 빨간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022954818725585913,
+        "width" : 0.28599104644558954,
+        "x" : 0.11109782670194417,
+        "y" : 0.094903944708554011
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "상태가 쭉 지속되는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024194947984483517,
+        "width" : 0.81460385153479609,
+        "x" : 0.12982967365473239,
+        "y" : 0.12183928169051617
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "-ing는 '동작하는 도중의 상태가 계속 이어지는 것'을 나타낸다. 예를 들어, He"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024728252834744002,
+        "width" : 0.83542428523936163,
+        "x" : 0.10665495310037006,
+        "y" : 0.14849495158769632
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "is reading a book.는 '책을 읽는 중의 상태가 계속 변함없이 이어지고 있다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632713,
+        "width" : 0.83526680587876767,
+        "x" : 0.11136891479714615,
+        "y" : 0.17732558144357768
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "뜻이다. 과거분사는 '끝난 후의 상태가 계속 이어지고 있는 것'을 나타낼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023308785332573745,
+        "width" : 0.83526680587876767,
+        "x" : 0.10904873209541892,
+        "y" : 0.20488888867604493
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "She is gone.(그녀가 가 버렸다.)의 경우, '가 버린 후, 없어진 상태가 계속 되고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02349761793348526,
+        "width" : 0.18650960719331783,
+        "x" : 0.1110691441900349,
+        "y" : 0.22992742107983433
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "있다'라는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021976743910047669,
+        "width" : 0.59164731722351505,
+        "x" : 0.13225058718578703,
+        "y" : 0.26000000036735049
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 현재분사(ing)와 과거분사 모두 형용사로 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025624192979600724,
+        "width" : 0.80767597171431738,
+        "x" : 0.13444696588721733,
+        "y" : 0.3122982557813635
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "현재분사는 능동태에서, 즉 원인이 주어로 왔을 때 '원인 +be동사 +-ing' 형태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020532300313313767,
+        "width" : 0.11368909254141733,
+        "x" : 0.11136891074140785,
+        "y" : 0.34302325540170076
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "로 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039443155383387357,
+        "x" : 0.1113689093964734,
+        "y" : 0.39377777762365695
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023681270175510027,
+        "width" : 0.29819803440824466,
+        "x" : 0.14568226454757655,
+        "y" : 0.38804743540656261
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "The news was surprising."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0160620159573025,
+        "width" : 0.17401392510596742,
+        "x" : 0.15777261969262452,
+        "y" : 0.41860465079651488
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "그 뉴스는 놀라웠어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012000000000000011,
+        "width" : 0.037122969931744507,
+        "x" : 0.11136890938834275,
+        "y" : 0.44311111119163971
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020683703952365518,
+        "width" : 0.35307731898963873,
+        "x" : 0.14829783972656813,
+        "y" : 0.44019611934027525
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "The game was pretty exciting."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01767396291097012,
+        "width" : 0.27189835352255098,
+        "x" : 0.15990974494206087,
+        "y" : 0.46497137837827274
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "그 경기는 상당히 흥미진진했어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023006634182400232,
+        "width" : 0.78223972185283686,
+        "x" : 0.15992788385446202,
+        "y" : 0.48507941444118008
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.55060728744939269,
+      "text" : "- surprising이나 exciting은 형용사이므로, '놀라게 하지 않다 > 놀라게 하다'. '흥분시키지 않다 > 흥"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016167959425184453,
+        "width" : 0.75870066974179962,
+        "x" : 0.18097449099916971,
+        "y" : 0.50872092987522777
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.40854700854700854,
+      "text" : "분시키다'로의 변화가 아니라, 주어인 '뉴스나 '경기 내용에 대한 '평가(=놀라운 뉴스, 흥분되는 경기)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.090487238024988925,
+        "x" : 0.18329466393091881,
+        "y" : 0.52888888883129193
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.56164383561643838,
+      "text" : "를 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021872093200683618,
+        "width" : 0.8097447604997785,
+        "x" : 0.13225058947997484,
+        "y" : 0.57412790687478765
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "명사 앞에 분사의 형용사를 붙일 때 그 명사가 감정의 원인인 경우, 앞에 -ing형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020478036668565514,
+        "width" : 0.13689094705784574,
+        "x" : 0.11136891149891934,
+        "y" : 0.60174418565159304
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "태가 붙는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024523378160264842,
+        "width" : 0.30988514135915335,
+        "x" : 0.11084478265088663,
+        "y" : 0.64737972628446738
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.19605425400739829,
+      "text" : "we This is surprising news."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017554263644748325,
+        "width" : 0.3248259848736702,
+        "x" : 0.11136891001536109,
+        "y" : 0.67866666665914854
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.19306930693069307,
+      "text" : "에e This Is an exciting event."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.37819023402870122,
+        "x" : 0.16009281797665276,
+        "y" : 0.70348837202720649
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.4844559585492228,
+      "text" : "-news, event는 모두 감정을 일으키는 원인이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.18097447604997779,
+        "x" : 0.47099768064773789,
+        "y" : 0.6482558141376884
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "이건 놀라운 소식야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01809194183349605,
+        "width" : 0.19795629623088434,
+        "x" : 0.47065293445695783,
+        "y" : 0.6768003347401077
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "이건 흥분되는 일이야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021904392666286854,
+        "width" : 0.8097447604997785,
+        "x" : 0.13225058951612759,
+        "y" : 0.74844444463719084
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 과거분사는 수동, 즉 (어떤 감정이 유발된) 사람이 주어로 왔을 때 '사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021965116712782118,
+        "width" : 0.35034803025265959,
+        "x" : 0.11136890827260235,
+        "y" : 0.77599999965172473
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "람 +be동사 +과거분사'로 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021339959038628398,
+        "width" : 0.7218471662372562,
+        "x" : 0.11124150619470466,
+        "y" : 0.82369953232186288
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.16167664670658682,
+      "text" : "예문 | was surprised at the news. 난 그 소식에 놀랐어. (=놀란 상태였다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014723514133029525,
+        "width" : 0.77958239832668452,
+        "x" : 0.16241297706454816,
+        "y" : 0.85155555541519656
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.41364902506963791,
+      "text" : "- at의 근본적인 의미는 '움직이고 있는 한 점을 가리키다'이다. 여기에서는 총을 겨누는 것처럼 어떠 점에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014693798489040844,
+        "width" : 0.64501160966589111,
+        "x" : 0.18097447374687173,
+        "y" : 0.87063953509160497
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.44351464435146443,
+      "text" : "주의를 기울이는 것을 말한다. 놀라서 그 뉴스 쪽에 주의를 기울였다는 느낌을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.037122969931744507,
+        "x" : 0.083526682017886447,
+        "y" : 0.92296511615452015
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.98780487804878048,
+      "text" : "154"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 148,
+  "pdf_page_number" : 149
+}

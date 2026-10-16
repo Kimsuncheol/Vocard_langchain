@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.25986078593805645,
+        "x" : 0.10672853964958127,
+        "y" : 0.071220929884825979
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "liked it)라는 것이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325937199774,
+        "width" : 0.79350345970219027,
+        "x" : 0.14849188953981673,
+        "y" : 0.097383720748622449
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 생각해 보면, 시제 일치는 결코 기계적인 것이 아니라는 것을 알 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325937199774,
+        "width" : 0.060324823754465462,
+        "x" : 0.10672853939886934,
+        "y" : 0.12499999964041175
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02769659589743656,
+        "width" : 0.38283062796307421,
+        "x" : 0.097447793701846794,
+        "y" : 0.17869875237891741
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.98724239450441609,
+      "text" : "• 가정법에 시제 일치는 없다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843780170787475,
+        "width" : 0.81438513427038806,
+        "x" : 0.12761021690851709,
+        "y" : 0.21656976725050003
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이제 본론으로 들어가 보자. 가정법에는 시제 일치가 없다. 정확하게는 '직설법의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.83526680883858606,
+        "x" : 0.10672854442126953,
+        "y" : 0.24554367242649122
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "절과 가정법의 절 사이에 시제 일치가 없다'라고 해야 할 것이다. 이번 학습에서 처"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.45243618087551196,
+        "x" : 0.10904873079520114,
+        "y" : 0.2731729051445595
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "음에 제시된 예문을 다시 한 번 보도록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017459996881332041,
+        "width" : 0.68909513033353365,
+        "x" : 0.10672853886455561,
+        "y" : 0.32122093021220399
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.094045631608235952,
+      "text" : "에문 He talked about the accident as if he was(were) a victim."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133182,
+        "width" : 0.17169373123734089,
+        "x" : 0.21809744986239787,
+        "y" : 0.34738372079616853
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.41975308641975306,
+      "text" : "직설법의 절(현실 세계)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883958133071,
+        "width" : 0.32714617693865744,
+        "x" : 0.48491879076245104,
+        "y" : 0.34738372080628743
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.44966442953020136,
+      "text" : "가정법의 절(상상의 세계 ·현실이 아닌 세계)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.53364267376413377,
+        "x" : 0.15545244491970966,
+        "y" : 0.36627907011847471
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그는 마치 자신이 피해자인 것처럼 그 사고에 대해 이야기했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027511268588523263,
+        "width" : 0.81702216602118938,
+        "x" : 0.12513730317347524,
+        "y" : 0.41152028772787963
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "2개의 절 사이에는 '시간적 연결'이 없다. 왜냐하면 한쪽은 현실 세계이고, 다른"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021926688637962877,
+        "width" : 0.83294660345441596,
+        "x" : 0.109048739946126,
+        "y" : 0.44331395330671086
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "한쪽은 현실이 아닌 가정의 세계이기 때문이다. 다른 세계이기 때문에 시간적인 연"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939643139082809,
+        "width" : 0.62180973933293271,
+        "x" : 0.10672854092785811,
+        "y" : 0.47093023237464693
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "결이 없는 것이다. 따라서 이른바 시제 일치가 필요하지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377313,
+        "width" : 0.81670533965455838,
+        "x" : 0.1299303927007085,
+        "y" : 0.49854651128890315
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 그렇다고 해서 as if 뒤의 가정법 동사 시제에 규칙이 없는 것은 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377313,
+        "width" : 0.28770301145026489,
+        "x" : 0.10672854066716909,
+        "y" : 0.5261627903449575
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 그 규칙은 단순하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377202,
+        "width" : 0.71461717219773868,
+        "x" : 0.12993039297532619,
+        "y" : 0.57558139500727024
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "직설법에 해당하는 절의 동사가 현재형인지 과거형인지는 상관이 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022742997303791035,
+        "width" : 0.79136114310674843,
+        "x" : 0.12984716463574494,
+        "y" : 0.64010736357616393
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "1. 직설법 절의 사건과 가정법 절의 사건이 동시에 일어난다면 가정법의 절, 즉 as if"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600564,
+        "width" : 0.27842227685825099,
+        "x" : 0.16009280576733059,
+        "y" : 0.67005813988232732
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "절의 동사는 가정법 과거이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020785132831430686,
+        "width" : 0.46426082947994574,
+        "x" : 0.10891393068025233,
+        "y" : 0.73813503974870298
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.13614649681528662,
+      "text" : "예e He looked at me as if he saw a ghost."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016097189483370578,
+        "width" : 0.37122968798689016,
+        "x" : 0.15545244127814384,
+        "y" : 0.7659883721270816
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그는 마치 귀신을 보는 것처럼 나를 보았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020722741111714571,
+        "width" : 0.52920906088630693,
+        "x" : 0.10892775519061779,
+        "y" : 0.78798724870352288
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.11618257261410789,
+      "text" : "예문 He always looks at me as if he saw a ghost."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018625753236114373,
+        "width" : 0.39465745018418352,
+        "x" : 0.15765781408647125,
+        "y" : 0.81282320491723192
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "그는 항상 마치 귀신을 보는 것처럼 나를 본다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017694100976627714,
+        "width" : 0.73337287576789523,
+        "x" : 0.15767731710443017,
+        "y" : 0.8351133171542785
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.44257703081232491,
+      "text" : "* 그가 귀신을 보는 것 같은 눈빛을 하는 것과 고개를 돌려 나를 보는 것은 동시에 일어나는 일이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368983957219305,
+        "width" : 0.039443154620309159,
+        "x" : 0.078886311204926632,
+        "y" : 0.92869875213514197
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.9882352941176471,
+      "text" : "218"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    641
+  ],
+  "pdf_page_index" : 210,
+  "pdf_page_number" : 211
+}

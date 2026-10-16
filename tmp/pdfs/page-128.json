@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02403597590557327,
+        "width" : 0.83093019309618799,
+        "x" : 0.069461902632425909,
+        "y" : 0.072387486280418134
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "알게 되는데, 분사구문이라면 주절이 따로 있기 때문에 동사의 시제는 주절의 동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020916448828384948,
+        "width" : 0.16259281888921209,
+        "x" : 0.069515655399203402,
+        "y" : 0.10291386859248874
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "에 맡기면 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.559164753366024,
+        "x" : 0.069605558250457472,
+        "y" : 0.13220940518077218
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.0006711409395973154,
+      "text" : "Because she was pushed by Tom, Mary fell down."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010391087688591649,
+        "width" : 0.071925754411846121,
+        "x" : 0.75638051013663588,
+        "y" : 0.12936046503907284
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "너무 긴가."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014196902751499541,
+        "width" : 0.16527229471409577,
+        "x" : 0.698116599471171,
+        "y" : 0.16480462367265936
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "IeusheglbulTorl.kacylfryl.own)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022159732964150969,
+        "width" : 0.58253914041722077,
+        "x" : 0.06720342906266466,
+        "y" : 0.17841410063580931
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.093220338983050849,
+      "text" : "Because she being pushed by Tom, Mary fell down."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.43619488655252664,
+        "x" : 0.069605572871814195,
+        "y" : 0.22670807456508446
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.091926458832933655,
+      "text" : "Being pushed by Tom, Mary fell down."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.36426915378435282,
+        "x" : 0.074245933411066445,
+        "y" : 0.27462289284502595
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.53155555555555556,
+      "text" : "Pushed by Tom, Mary fell down."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444275112202814,
+        "width" : 0.28538283760665994,
+        "x" : 0.45707656251520967,
+        "y" : 0.27325581382671704
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "톰에게 떠밀려, 메리는 넘어졌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030659962462024959,
+        "width" : 0.80974476049977839,
+        "x" : 0.058004646635261593,
+        "y" : 0.32253771116030627
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.97796257796257802,
+      "text" : "•부사절의 시제가 주절보다 앞선 과거이면 'hoving+과거분사'를 쓴다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.80742455881538133,
+        "x" : 0.09280744205402626,
+        "y" : 0.36335403704786295
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "일반적으로 주절의 동사에 시제를 맡기는 것이 분사구문인데, 부사절과 주절의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020476517258435134,
+        "width" : 0.83062648908466308,
+        "x" : 0.069605548845139378,
+        "y" : 0.39086069215909158
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "시제가 다르다면 분사구문으로 시제를 나타내야 한다. 주절보다 앞선 과거의 일인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024522468275799625,
+        "width" : 0.55712938241079346,
+        "x" : 0.071798314148508874,
+        "y" : 0.41592448175280139
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.33544303797468356,
+      "text" : "경우, 분사구문에서는 'having+과거분사'로 표현한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.69605570042386977,
+        "x" : 0.069605560375954376,
+        "y" : 0.47515527967578297
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "Because | drank too much last night, I have a headache today."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.2296983651235594,
+        "x" : 0.10440835792545927,
+        "y" : 0.50133096725129001
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.5967078189300411,
+      "text" : "*부사절: 동사는 과거형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.15081205976770279,
+        "x" : 0.48259861037136903,
+        "y" : 0.50133096724765092
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.65531914893617016,
+      "text" : "주절: 동사는 현재형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.69605570042386966,
+        "x" : 0.069605560338803857,
+        "y" : 0.52307009795542492
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.084394904458598721,
+      "text" : "Becausel drank too much last night, I have a headache today."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.67285381344193274,
+        "x" : 0.076566132599805714,
+        "y" : 0.56965394821760806
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.57843665768194075,
+      "text" : "Having drunk too much last night, I have a headache today."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016192144277144438,
+        "width" : 0.4454756500027704,
+        "x" : 0.074245933580806708,
+        "y" : 0.59738372059138789
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "어젯밤 술을 너무 많이 마셔서, 오늘은 머리가 아프다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020531974223829907,
+        "width" : 0.43851508823692376,
+        "x" : 0.067285379185797495,
+        "y" : 0.65116279057331861
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.98524590163934422,
+      "text" : "• 부정을 나타내는 분사구문의 not"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023451581716325887,
+        "width" : 0.80996041805186159,
+        "x" : 0.090383599572689238,
+        "y" : 0.6861075082748892
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "마지막으로 분사구문의 부정은 donit나 didnit가 아닌 단순히 not이다. 왜냐하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020464909848853741,
+        "width" : 0.82830628740026602,
+        "x" : 0.071925742494434827,
+        "y" : 0.71511627894881802
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "면 분사구문은 시간을 나타내지 않기 때문이다. dont는 현재형, didn t는 과거형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021808774046064405,
+        "width" : 0.82830628740026591,
+        "x" : 0.071925742497365372,
+        "y" : 0.74127907000009841
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "으로 시간이 나타난다. 하지만 분사구문은 -ing뿐이기 때문에 시간이 아닌 '동작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027433532471136446,
+        "width" : 0.32829224065685952,
+        "x" : 0.069165845142308238,
+        "y" : 0.76344144077495446
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "의 도중'이라는 것만 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010204081632653073,
+        "width" : 0.027842228125173146,
+        "x" : 0.074245939185673293,
+        "y" : 0.82120674348524014
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 24,
+      "red_ink_fraction" : 1,
+      "text" : "네문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.57076563192597518,
+        "x" : 0.11600929621798685,
+        "y" : 0.81677018605985341
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "Not having eaten anything, he could hardly move."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.48259861722905589,
+        "x" : 0.1160092759489872,
+        "y" : 0.84156976781084492
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "그간 아무것도 먹지 않아서, 그는 거의 움직일 수 없었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.41531324454233154,
+        "x" : 0.51044082541202107,
+        "y" : 0.92724046167323571
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.9014869888475836,
+      "text" : "4장 동사 ③ 현재분사: ing는 이것에서부터 생각하자 133"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 128,
+  "pdf_page_number" : 129
+}

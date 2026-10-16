@@ -1,0 +1,460 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.75638051466508349,
+        "x" : 0.19025521818841573,
+        "y" : 0.076888889241027658
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.30390143737166325,
+      "text" : "일이 아니라 '일어나기를 바란다고 생각하는 일이다. 여기에서의 may는 문장에서 '~해도 되다' 또는 '~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01846135796440973,
+        "width" : 0.75653041492808959,
+        "x" : 0.19018179464371948,
+        "y" : 0.095892329030680568
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.45196506550218341,
+      "text" : "일지도 모른다'라는 의미로는 적합하지 않으며, wil의 경우도 '~할 생각이다\"또는 '~할 것이다'라는 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.20417633923617279,
+        "x" : 0.19025521773270893,
+        "y" : 0.11627906997554205
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.21153846153846154,
+      "text" : "미는 문맥상 적합하지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.65661252628673195,
+        "x" : 0.11600928173414626,
+        "y" : 0.15688888850204941
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.098050797401063206,
+      "text" : "예e She came in quietly lest she should wake up her baby."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019955854627821124,
+        "width" : 0.48305381428111682,
+        "x" : 0.1622272487464447,
+        "y" : 0.18071274142928773
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 자신의 아기를 깨우지 않으려고 조용히 들어왔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016041343688964815,
+        "width" : 0.77958237041126599,
+        "x" : 0.164733176421338,
+        "y" : 0.20488888921587289
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.3824626865671642,
+      "text" : "-lest + S + should + 동사원형'은 'S가 ~하지 않도록'이라는 부정을 나타내는 관용 표현이다. lest 절은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017496124267578073,
+        "width" : 0.76102092049338599,
+        "x" : 0.18329464378861021,
+        "y" : 0.2238372092149189
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.38155136268343814,
+      "text" : "\"목적'을 나타내는 절이므로, \"일어나길 원하지 않는다'라고 마음속으로 생각할 뿐인 정보를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016054262797037699,
+        "width" : 0.66821345415982325,
+        "x" : 0.18561484939340628,
+        "y" : 0.2426666667827817
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.29094827586206895,
+      "text" : "여기에서 should가 가진 '~해야 한다' 또는 '~할 것이다'라는 의미는 문맥상 적합하지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022877584669324991,
+        "width" : 0.81223305788907141,
+        "x" : 0.1344843030657745,
+        "y" : 0.28842420006637659
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이처럼 '마음속으로 생각할 뿐인 정보'를 나타내는 절(전체 큰 문장 속에 포함되"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021894056532118067,
+        "width" : 0.83294660394841979,
+        "x" : 0.11368911081808805,
+        "y" : 0.31822222263087663
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "어 있는 작은 S+V ~)은, 아주 예전 영어에서 가정법의 동사로 표현되었다. 지금도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021834625244140593,
+        "width" : 0.83294660394841979,
+        "x" : 0.11368911006755346,
+        "y" : 0.34444444440384903
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "다른 많은 유럽의 언어에서, 이러한 절 안에 가정법의 일종인 접속법이라 불리는 활"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023449410332573861,
+        "width" : 0.21461736072193494,
+        "x" : 0.1132095700618025,
+        "y" : 0.37067630384307548
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "용 동사가 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02921667141384543,
+        "width" : 0.81027559800581495,
+        "x" : 0.13429511585472298,
+        "y" : 0.39669516760224921
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "영어에서 가정법과 조동사는 '마음속으로만 생각할 뿐, 실제로 아직 실행된 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028010133531358505,
+        "width" : 0.83113080804998229,
+        "x" : 0.11343289411833317,
+        "y" : 0.42375597237364349
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "은 아니다'를 나타낸다는 공통점이 있다. 따라서 가정법이 쇠퇴하면서 조동사가 대"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022572940402560748,
+        "width" : 0.20670117031444202,
+        "x" : 0.11358676971105314,
+        "y" : 0.45455655304079079
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "신 사용되게 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023359881083170664,
+        "width" : 0.80992516604336828,
+        "x" : 0.13447373440416932,
+        "y" : 0.48236879193341231
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "위 예문의 may, will, should에 기존 해석을 넣어도 의미가 성립되기 어려운 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025726457383897561,
+        "width" : 0.83088458668101928,
+        "x" : 0.11356325115609317,
+        "y" : 0.50718451887741844
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "유는 다음과 같다고 생각된다. '이 that 절의 동작은 실제로 하고 있는 것이 아니"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024146528455946115,
+        "width" : 0.83308662067760109,
+        "x" : 0.11130396194526143,
+        "y" : 0.53406112965821118
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "라, 마음속으로 생각하고 있을 뿐인 것'으로 조동사의 기능이 의미보다 우선시되기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021824289957682264,
+        "width" : 0.099767977541143277,
+        "x" : 0.11368909695005072,
+        "y" : 0.56395348824145974
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020105794270833366,
+        "width" : 0.17142619328065353,
+        "x" : 0.18848716897645221,
+        "y" : 0.61926990449449559
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.94936708860759489,
+      "text" : "• 추측의 should"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027329583062065899,
+        "width" : 0.814818729053844,
+        "x" : 0.12972271012837294,
+        "y" : 0.65286255243413027
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "should 용법 중에 '추측을 나타내는 should'가 있다. Tt is 판단/평가 that+s"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024112786187066026,
+        "width" : 0.47594204815951252,
+        "x" : 0.1042772876902231,
+        "y" : 0.68088121112392863
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "+should +동사원형 ~'의 구문에서 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021637037489149247,
+        "width" : 0.83077430725097656,
+        "x" : 0.11128909681303584,
+        "y" : 0.73087346248502139
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.073550901120311735,
+      "text" : "예문 | don't know if the story is true, but it's a good thing that he should"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021830695258246546,
+        "width" : 0.13785095648332074,
+        "x" : 0.15729261915762172,
+        "y" : 0.75725325698948387
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "quit his job."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020569767422146223,
+        "width" : 0.66357309168035328,
+        "x" : 0.15777261878084536,
+        "y" : 0.78343023217981544
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "그 이야기가 사실인지는 몰라도, 그가 일을 그만둔다고 하면 그건 잘된 일이야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.7795823704112661,
+        "x" : 0.16009280537243492,
+        "y" : 0.806666666368137
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.37341772151898733,
+      "text" : "- that 절의 내용은 '추측하고 있는 내용이다. 정말로 그만두는 것인지는 알 수 없다. 그가 일을 그만둔다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016076227823893174,
+        "width" : 0.76102092049338599,
+        "x" : 0.18097445843115806,
+        "y" : 0.82703488336361497
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.23265306122448978,
+      "text" : "는 소문을 듣고, 그 정보를 바탕으로 판단하고 있는 상태이다. 그만둔다는 것이 사실인 것을 알고서 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.75870071757923474,
+        "x" : 0.18329464596676323,
+        "y" : 0.84577777750478822
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.31616595135908443,
+      "text" : "한다면, It's a good thing that he quit his job.(그가 일을 그만둔 것은 잘된 일이다.)이라고 할 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021847545199924046,
+        "width" : 0.81206495111638843,
+        "x" : 0.12993040137716483,
+        "y" : 0.88222222233660019
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "이 should는 '생각하고 있을 뿐'인 정보를 나타내는 that 절에서 should의 '당"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011638242933485254,
+        "width" : 0.037122970277612868,
+        "x" : 0.081206496183699364,
+        "y" : 0.93022222205774274
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.97590361445783136,
+      "text" : "272"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 263,
+  "pdf_page_number" : 264
+}

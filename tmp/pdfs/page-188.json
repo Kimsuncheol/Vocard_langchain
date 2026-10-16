@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026024314032660589,
+        "width" : 0.50838410938885192,
+        "x" : 0.053216551057857983,
+        "y" : 0.071112065843064176
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.97525473071324598,
+      "text" : "•ing가 keep, leave와 함께 쓰이는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023532774183485206,
+        "width" : 0.81228347670101952,
+        "x" : 0.078780077352245306,
+        "y" : 0.10859291177397068
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.079594790159189577,
+      "text" : "-ing는 동작하는 도중을 나타내기 때문에 keep이나 leave와 같은 동사와 잘"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02259548695882152,
+        "width" : 0.10317196676917111,
+        "x" : 0.057462740389539843,
+        "y" : 0.13695807001996552
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "어울린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023713756137424102,
+        "width" : 0.81226884557845747,
+        "x" : 0.076468229158751913,
+        "y" : 0.16248536645633516
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.11392405063291139,
+      "text" : "keep은 '어떤 동작을 하는 중인 상태를 유지하다'를 의미하고, leave는 '어떤"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.83526680587876778,
+        "x" : 0.058004647995349559,
+        "y" : 0.19186046473863549
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "동작을 하는 중인 상태를 그대로 둔 채 그 자리를 떠나다'를 의미하기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021856589423285611,
+        "width" : 0.31090486134197698,
+        "x" : 0.058004645776343303,
+        "y" : 0.21947674407875462
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 -ing와 함께 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462532891167617,
+        "width" : 0.81438516386857263,
+        "x" : 0.078886304269787141,
+        "y" : 0.24709302287802437
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "keep은 동작이 멈추지 않고 지속될 수 있도록 힘을 계속 주는 이미지이며,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021855297512478278,
+        "width" : 0.54988398991578014,
+        "x" : 0.053364270078959906,
+        "y" : 0.27325581382285513
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "leave는 그 자리를 떠남으로써 힘을 빼는 이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026298450046115418,
+        "width" : 0.56612527184452577,
+        "x" : 0.04640371914347572,
+        "y" : 0.32703488349363341
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.98175182481751821,
+      "text" : "•동사원형이 make, have와 함께 쓰이는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.80974476049977839,
+        "x" : 0.078886320330829748,
+        "y" : 0.36622222192356013
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.032954545454545452,
+      "text" : "동사원형은 동작 동사의 경우, 동작의 시작부터 끝까지의 동작 전체를 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020466407775878936,
+        "width" : 0.06032482715363198,
+        "x" : 0.058004639653126605,
+        "y" : 0.3937777777439424
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632713,
+        "width" : 0.81206496218417556,
+        "x" : 0.078886312330505318,
+        "y" : 0.41860465133488467
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.11367127496159754,
+      "text" : "make는 사역 동사로 '~시키다, ~하게 하다'를 의미하는데, 이는 바로 '어떤 동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020467700534396727,
+        "width" : 0.44779580839982275,
+        "x" : 0.058004647885747385,
+        "y" : 0.44755555564862681
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "작을 완성시키다(만들어 내다)'를 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023315244886610187,
+        "width" : 0.81206496218417556,
+        "x" : 0.078886313842173636,
+        "y" : 0.47377777799797749
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "He made his children stop it. 문장의 경우, '그것을 멈추다'라는 동작을 완"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021922481113009984,
+        "width" : 0.83062648908466308,
+        "x" : 0.060324806301429904,
+        "y" : 0.50133333293309246
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "전히 '만들어 내다'를 뜻한다. 따라서 stop은 '멈추다'라는 동작 전체를 나타내어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.54524362983433061,
+        "x" : 0.058004635080808289,
+        "y" : 0.53052325543494083
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "여기에 -ing은 쓸 수 없고, 동사원형을 사용해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021980620490180125,
+        "width" : 0.81206496218417556,
+        "x" : 0.076566126756626066,
+        "y" : 0.55668604640133523
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.068836045056320405,
+      "text" : "have의 사역 구문도 마찬가지이다. '어떤 일을 하게 하다=어떤 동작이 완성된"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022735778808593676,
+        "width" : 0.73805537663453014,
+        "x" : 0.057900151977081427,
+        "y" : 0.58245304742763926
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "상황을 가지다'라는 의미에서 동사원형을 사용하게 되었다고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03481730143229167,
+        "width" : 0.69921623933399812,
+        "x" : 0.041319729748179122,
+        "y" : 0.63272652495736914
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.96378968253968256,
+      "text" : "• •당하다, ~되다라는 의미의 경우는 과거분사를 사용한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.80974476049977839,
+        "x" : 0.076566134715308057,
+        "y" : 0.67866666693992694
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "keep, leave 그룹과 make, have 그룹 사이에는 위와 같은 차이가 있는데, 두"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029479037814670095,
+        "width" : 0.83111970509197697,
+        "x" : 0.057745460018039797,
+        "y" : 0.69970132302464583
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그룹의 동사 모두 목적어의 명사가 '~당하다. ~되다'의 입장인 경우에는 보어 자리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020450904846191387,
+        "width" : 0.21113688151041668,
+        "x" : 0.058004644968744822,
+        "y" : 0.73110465077610853
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "에 과거분사가 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.50116010084219853,
+        "x" : 0.05800463624589821,
+        "y" : 0.77599999995551949
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.43391812865497076,
+      "text" : "때문 Keep the door closed. 문을 닫은 채로 둬라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021874989827473934,
+        "width" : 0.5688340640237145,
+        "x" : 0.055528842422745785,
+        "y" : 0.80086039341297333
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.36281407035175878,
+      "text" : "예e Don't leave the door closed. 문을 닫아 두지 마라."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014698966132269953,
+        "width" : 0.56380511344747342,
+        "x" : 0.1067285336520325,
+        "y" : 0.82977777783376061
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.42833333333333334,
+      "text" : "> 목적어인 door의 입장에서 생각했을 때, 문은 사람에 의해 '닫히는' 입장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.38747099747894503,
+        "x" : 0.12761020879972457,
+        "y" : 0.85022222237553124
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.44642857142857145,
+      "text" : "이기 때문에 보어 자리에 과거분사인 closed가 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025147978888617639,
+        "width" : 0.10797332330798426,
+        "x" : 0.7766887385188872,
+        "y" : 0.77174946137953016
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "잘 부탁드립니다!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.4269141663896277,
+        "x" : 0.48723897237426556,
+        "y" : 0.92711111099910881
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.90748031496062997,
+      "text" : "6장 동사 ③ 동사원형: 의미를 생각해 본 적이 있는가? 195"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 188,
+  "pdf_page_number" : 189
+}

@@ -1,0 +1,55 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.075000008123578876,
+        "width" : 0.22659547103645097,
+        "x" : 0.15291865991538869,
+        "y" : 0.41664106875584905
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.094743276283618588,
+      "text" : "제 5장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.13578838358543144,
+        "width" : 0.50208345959317713,
+        "x" : 0.16816905782485819,
+        "y" : 0.41649377537267829
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.015119209149059896,
+      "text" : "동사 ④ 과거분사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.15298344122168228,
+        "width" : 0.59430099508826251,
+        "x" : 0.18339173358288938,
+        "y" : 0.44944290271347742
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.30116919768848271,
+      "text" : "이미지부터 이해하자"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    644
+  ],
+  "pdf_page_index" : 129,
+  "pdf_page_number" : 130
+}

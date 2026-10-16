@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02114389629974911,
+        "width" : 0.73176823609264185,
+        "x" : 0.18503954321489757,
+        "y" : 0.085569424325087851
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "Ice cream is better than cake because it is cold. Cold food"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.78472225108045213,
+        "x" : 0.13194442983698348,
+        "y" : 0.11476868303294607
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "lowers your body temperature. Some old people dont want to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.78240741702681726,
+        "x" : 0.13425925428217544,
+        "y" : 0.14234875471979791
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "use air conditioners and get heatstroke. It they eat ice cream, it"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017571174377224108,
+        "width" : 0.78703699855939713,
+        "x" : 0.12962964873673113,
+        "y" : 0.16992882532386344
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "lowers their body temperature without using air conditioners"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020915820505271188,
+        "width" : 0.78486812943262407,
+        "x" : 0.13187659826590475,
+        "y" : 0.19568725893390937
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "and prevents them from getting heatstroke. This will not only"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.78472225108045213,
+        "x" : 0.13194442982300839,
+        "y" : 0.22375444803630173
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "prevent old people from dying of heatstroke but also avoid"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.49768516594636525,
+        "x" : 0.13194445394123797,
+        "y" : 0.2513345197214536
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "health problems as a result of heatstroke."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020478151022751412,
+        "width" : 0.80787033189273039,
+        "x" : 0.13194446354971745,
+        "y" : 0.29492882579695867
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "요점은, 적절한 질문을 스스로에게 던지면서 이야기를 파고드는 사고 회로를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020892889898442735,
+        "width" : 0.16035117291389628,
+        "x" : 0.10850323794658595,
+        "y" : 0.32166267920189839
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "만드는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021885086208900062,
+        "width" : 0.8078703318927305,
+        "x" : 0.13194446333919879,
+        "y" : 0.34875444850705684
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "깊이 파고를 수 있다면, 연상해서 무심코 생각해 낸 이유를 어느 정도 제대로 된"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021921294439729899,
+        "width" : 0.29861110389655365,
+        "x" : 0.1087962997839439,
+        "y" : 0.376334519346744
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "의견으로 만들어 낼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026936526824571039,
+        "width" : 0.8130149462544326,
+        "x" : 0.12470808053853363,
+        "y" : 0.40107404813861303
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "'왜?•예를 들면?• 그것이 무슨 의미인가?•그러면 어떻게 되는가?'라는 4가지 질"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021993710052924609,
+        "width" : 0.82870366522606376,
+        "x" : 0.11111113019465751,
+        "y" : 0.43149466187775865
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "문 형식을 통해 훈련하면, 자신의 안에 잠들어 있던 생각과 영감을 이끌어 낼 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.057870369769157229,
+        "x" : 0.10879629646187199,
+        "y" : 0.45930232544594385
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.8078703318927305,
+        "x" : 0.12962964874444161,
+        "y" : 0.51453488363884348
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "만약 두 명이 짝을 이루어 이 훈련을 실시할 수 있다면, 한 사람이 면접관이 되어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025569377844868235,
+        "width" : 0.82903784352836885,
+        "x" : 0.10862866368432511,
+        "y" : 0.5388715211136601
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "적절히 '왜?•예를 들면?• 그것이 무슨 의미인가?•그러면 어떻게 되는가?'라는 질문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988537812148046,
+        "width" : 0.82870366522606387,
+        "x" : 0.10879631535307734,
+        "y" : 0.56831395364093429
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "을 하자. 그러면 상대방의 의견에 깊이를 더해 줄 수 있다. 질문을 잘할 수 있는 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021952329581318319,
+        "width" : 0.82870366522606387,
+        "x" : 0.1087963152038907,
+        "y" : 0.59593023270713075
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "람일수록, 상대방의 의견에 깊이를 더해 줄 수 있고, 혼자서 이 훈련을 할 때에도 자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916121350488704,
+        "width" : 0.37268516594636525,
+        "x" : 0.10648149098286638,
+        "y" : 0.623546511778589
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "신의 의견을 깊이 있게 만들 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025769230309754532,
+        "width" : 0.81050557887300534,
+        "x" : 0.12716072251031382,
+        "y" : 0.67548418983631553
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이 책은 '영어로 다른 사람을 설득하는 것'을 주제로 삼고 있으며, 영어로 무언가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021926466680506351,
+        "width" : 0.5625,
+        "x" : 0.10879629619042921,
+        "y" : 0.70494186061780373
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "를 전달하기 위해 필요한 다양한 문법 내용을 설명했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890259298141368,
+        "width" : 0.80787033189273061,
+        "x" : 0.12962964874744784,
+        "y" : 0.73255813968943417
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 이러한 것보다, 마지막으로 강하게 전달하고 싶은 말이 한 가지 있다. 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022923142036085031,
+        "width" : 0.19013464095744681,
+        "x" : 0.10632156829152266,
+        "y" : 0.75961401036187326
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "것은 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010360630805806292,
+        "width" : 0.055555557359194929,
+        "x" : 0.70138888787132847,
+        "y" : 0.78469750874734412
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "백지 상타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011788255803525716,
+        "width" : 0.081018520923371029,
+        "x" : 0.84259259125846131,
+        "y" : 0.80071174397910883
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "음... 그래서..."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026717610206468234,
+        "width" : 0.54683651755042106,
+        "x" : 0.12237163010262317,
+        "y" : 0.81238384534874386
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "\"영어로 어떻게 말할지에 대해 생각하기 전에, 할 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02052987682437557,
+        "width" : 0.48611112554022601,
+        "x" : 0.10648147704470172,
+        "y" : 0.84156976723575339
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "자체가 떠오르지 않으면 아무것도 할 수 없다.\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088967971530249379,
+        "width" : 0.032407406204981171,
+        "x" : 0.85879629675020308,
+        "y" : 0.83852313182040872
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "마무?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0072726147030596211,
+        "width" : 0.03472222132040248,
+        "x" : 0.86574074127845624,
+        "y" : 0.84593023237850351
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "떠오르지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209299365821336,
+        "width" : 0.032407406204981171,
+        "x" : 0.86805555600244777,
+        "y" : 0.85610465126232904
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "많아..."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537296,
+        "width" : 0.039351851551245279,
+        "x" : 0.076388888916217645,
+        "y" : 0.92571174377082621
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.9885057471264368,
+      "text" : "418"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 404,
+  "pdf_page_number" : 405
+}

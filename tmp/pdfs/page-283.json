@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025522046736520143,
+        "width" : 0.8325207484753383,
+        "x" : 0.051076141728037851,
+        "y" : 0.074898562257031842
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "의 무작위성'을 나타내는 것이다. 전자는 보통 중학교에서 some과 함께 배우고,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218023251090943,
+        "width" : 0.30536129943325985,
+        "x" : 0.048951053663323446,
+        "y" : 0.10465116287111731
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "후자는 고등학교에서 배운다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.22144521946920628,
+        "x" : 0.13986014075102235,
+        "y" : 0.16133720966411824
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.96153846153846156,
+      "text" : "① 수 •양의 무작위성"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028520220237806426,
+        "width" : 0.8139608442953169,
+        "x" : 0.072053372421597664,
+        "y" : 0.19304678655717555
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "'수•양의 무작위성'이란 다음과 같다. 수의 경우, '1개든 2개든, 몇 개가 되었든"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021948061268627916,
+        "width" : 0.83682981311765492,
+        "x" : 0.048951060762765321,
+        "y" : 0.22383720953347563
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "좋으니'라는 의미를 나타내고, 양의 경우, '1리터든 2리터든, 어느 정도의 양이라도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02183843695599097,
+        "width" : 0.30769230769230765,
+        "x" : 0.05128205157790925,
+        "y" : 0.251453488566316
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "좋으니'라는 의미를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024918232962634623,
+        "width" : 0.81351977399951048,
+        "x" : 0.072261095498302313,
+        "y" : 0.27595385975631426
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이를 중학교에서 some과 함께 배우고, 의문문과 부정문에 'any+ 복수형 명사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.83916079964053591,
+        "x" : 0.048951066333578111,
+        "y" : 0.3037790696187449
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "(불가산 명사의 경우, 단수형)'의 패턴으로 사용한다. 이 패턴은 have 또는 there"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021953219741239094,
+        "width" : 0.5617715775796831,
+        "x" : 0.046620038627039874,
+        "y" : 0.33430232581180841
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.0017699115044247787,
+      "text" : "is/are 등과 같이 존재를 나타내는 문장에서 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021669700067447395,
+        "width" : 0.51780626780626782,
+        "x" : 0.051141491891306734,
+        "y" : 0.3820541442370875
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.20927467300832342,
+      "text" : "에e Do you have any pens? 넌 펜을 가지고 있니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017730587652116769,
+        "width" : 0.78344422256165425,
+        "x" : 0.10244975389225501,
+        "y" : 0.40676671399242781
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.57430340557275539,
+      "text" : "*'수의 무작위성'을 나타내어 몇 자루든 상관이 없다는 느낌을 준다. 개수를 특정해서. \"넌 펜 1자루를 가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353247,
+        "width" : 0.76456879618500706,
+        "x" : 0.1212121055012939,
+        "y" : 0.42724046153212303
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.59715025906735753,
+      "text" : "지고 있니?\"로, Do you have a pen?이라고 말해도 된다. 그러나 인간은 애매함을 매우 좋아하기 때문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019247010204785697,
+        "width" : 0.35699008604739807,
+        "x" : 0.1233393395524303,
+        "y" : 0.44699781272856143
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.45360824742268041,
+      "text" : "에, any를 사용하고 싶은 심리가 작용하기 쉽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026437502152748427,
+        "width" : 0.81377304381454774,
+        "x" : 0.074458223201403412,
+        "y" : 0.4894132603824437
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "위 문장에서는 '1자루(단수)든 2자루(복수)든, 몇 자루라도 좋으니' 펜을 가지고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024604597658632876,
+        "width" : 0.60403411952179042,
+        "x" : 0.053442254738002078,
+        "y" : 0.52023515896133055
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "있는지 묻고 있으므로, any 뒤에 복수형 pens를 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023174549904986685,
+        "width" : 0.40627234477942487,
+        "x" : 0.053308185268065245,
+        "y" : 0.56845384778690988
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.15369836695485112,
+      "text" : "예E Is there any water in the bottle?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016088968055271602,
+        "width" : 0.16317016514617833,
+        "x" : 0.10256410292807631,
+        "y" : 0.5958296359243479
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "병 안에 물이 있니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014698675065941802,
+        "width" : 0.48484850065660612,
+        "x" : 0.10256409461021899,
+        "y" : 0.61756876663154192
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.37532133676092544,
+      "text" : "->'양의 무작위성'을 나타낸다. 어느 정도의 양이라도 상관없으니,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.24941725336927972,
+        "x" : 0.12820512611142032,
+        "y" : 0.63797692965912023
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.40485829959514169,
+      "text" : "물이 병 안에 있는지를 묻고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013080233901395344,
+        "width" : 0.14515371947546629,
+        "x" : 0.62671265877043003,
+        "y" : 0.56069839474083027
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.22105263157894736,
+      "text" : "Is there any water"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014288742349754968,
+        "width" : 0.1078725418134292,
+        "x" : 0.69897927589566322,
+        "y" : 0.56993085522317688
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.006993006993006993,
+      "text" : "in thebottle?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062793,
+        "width" : 0.018648018524517695,
+        "x" : 0.70396270390790427,
+        "y" : 0.65406976747817014
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "3"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.29370630161035433,
+        "x" : 0.053613049633997149,
+        "y" : 0.68456078062358838
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.95490716180371349,
+      "text" : "•② 종류의 무작위성"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024140255580248793,
+        "width" : 0.81838076338808763,
+        "x" : 0.074471525950822876,
+        "y" : 0.71891451075154555
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "긍정문에 쓰이는 any는 '같은 종류면 어느 것이든 다 좋다'라는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.83449882659477392,
+        "x" : 0.053613057458483111,
+        "y" : 0.74709302299643909
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "다만, '같은 것이라면 어느 것이든 좋지만, 전부가 아닌 하나'를 말한다는 느낌이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02051447214229829,
+        "width" : 0.13293239669582443,
+        "x" : 0.053580421577467431,
+        "y" : 0.77462648483816809
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "잠재해 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.81351977399951036,
+        "x" : 0.074592095301277139,
+        "y" : 0.82253771104265672
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "이는 어원이 an인 점과 관련이 있다. 따라서 'any+ 단수형 명사'의 형태를 취"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017489578836029751,
+        "width" : 0.051282051282051301,
+        "x" : 0.055944055821371609,
+        "y" : 0.8531499559821123
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.38461538461538469,
+        "x" : 0.53146853135643546,
+        "y" : 0.92857142877389443
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.96860986547085204,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 293"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    644
+  ],
+  "pdf_page_index" : 283,
+  "pdf_page_number" : 284
+}

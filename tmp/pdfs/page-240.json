@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025750155986254519,
+        "width" : 0.83041598580100329,
+        "x" : 0.060376061845702218,
+        "y" : 0.069016217675657021
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "때문이다. 즉, '지금은 더 이상 ~하고 있지 않다'라고 말하고 싶은 것이며, 과거 언"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028528841385930259,
+        "width" : 0.83076719804243604,
+        "x" : 0.060207430041050003,
+        "y" : 0.095331536955476692
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "제의 일인지는 상관이 없는 것이다. 제시된 문장도 \"예전에는 낚시하러 가곤 했지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024035265092418157,
+        "width" : 0.51415100964632909,
+        "x" : 0.060347124385165346,
+        "y" : 0.12578021450486443
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "만, 지금은 더 이상 가지 않아.\"라고 말하는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021951930123086383,
+        "width" : 0.48139533129605383,
+        "x" : 0.08139535750360638,
+        "y" : 0.18168604674147715
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.35969387755102039,
+      "text" : "② 과거의 변하지 않는 상태도 나타낼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894457,
+        "width" : 0.80930233001708984,
+        "x" : 0.081395346649917086,
+        "y" : 0.20629991125983738
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 would로는 나타낼 수 없다고 했던 \"과거 여기에는 병원이 있었다.\"라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.83023253354159265,
+        "x" : 0.060465128518674825,
+        "y" : 0.23824312311583329
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "문장도 used to를 사용해서 There used to be a hospital here.로 표현할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020464909848853852,
+        "width" : 0.058139535513791175,
+        "x" : 0.060465115835515677,
+        "y" : 0.26441881114590449
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029954646262005613,
+        "width" : 0.81207587502219469,
+        "x" : 0.081143148546037339,
+        "y" : 0.31300596612905385
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 '예전에는 자주 ~하곤 했다'로, 과거에 자주 했던 일을 떠올려 말한다면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026451760726156959,
+        "width" : 0.83278326554731885,
+        "x" : 0.060358303222376654,
+        "y" : 0.3421015741024972
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "would (ofien)를 사용하고, '예전에는 ~하곤 했지만, 지금은 더 이상 ~하지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022038232148381187,
+        "width" : 0.48399344357577234,
+        "x" : 0.060347030987939233,
+        "y" : 0.37191610215504123
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "는다'라고 말하고 싶다면 used to를 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325109094411,
+        "width" : 0.60930230400779029,
+        "x" : 0.081395359536364217,
+        "y" : 0.39970930255625392
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "마지막으로 아래에 있는 will 용법의 계통도를 보도록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011661439420062036,
+        "width" : 0.058139535513791141,
+        "x" : 0.37441860419077883,
+        "y" : 0.45639534868022458
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "흔늘흔늘~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014670301774167949,
+        "width" : 0.10930232568220655,
+        "x" : 0.56511627892966088,
+        "y" : 0.47515527944298308
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.78260869565217395,
+      "text" : "마음이 기울다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.037209302186965942,
+        "x" : 0.3883720929762845,
+        "y" : 0.58429458712314408
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.70588235294117652,
+      "text" : "예상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015045166015625,
+        "width" : 0.10250844738700171,
+        "x" : 0.3533969389896276,
+        "y" : 0.5985820681368802
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.71666666666666667,
+      "text" : "(~일 것이다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.034883721308274773,
+        "x" : 0.78837209271795572,
+        "y" : 0.58720930250157943
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 1,
+      "text" : "의지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.12093022736636083,
+        "x" : 0.74418604900415819,
+        "y" : 0.60159716048060119
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.62745098039215685,
+      "text" : "(~할 생각이다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.037209302186965942,
+        "x" : 0.2023255813483775,
+        "y" : 0.6889534885516847
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.66666666666666663,
+      "text" : "연상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014706413621064729,
+        "width" : 0.18372093547474255,
+        "x" : 0.12790697400834478,
+        "y" : 0.7018633536537997
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.75531914893617025,
+      "text" : "~란, 보통 ~하는 법이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015250849956522594,
+        "width" : 0.074769356034018797,
+        "x" : 0.43935950860634276,
+        "y" : 0.68132806320656025
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.76086956521739135,
+      "text" : "과거 회상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018852951469522927,
+        "width" : 0.17244547063654114,
+        "x" : 0.39284703200184123,
+        "y" : 0.69551538471833685
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.89795918367346939,
+      "text" : "그때 이야기를 하자면,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.15116278691725293,
+        "x" : 0.40000000177586958,
+        "y" : 0.710736468627297
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.83673469387755106,
+      "text" : "(자주) ~하곤 했다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.034883721308274773,
+        "x" : 0.75116279018888588,
+        "y" : 0.68895348843488657
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.82499999999999996,
+      "text" : "부탁"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421509,
+        "width" : 0.1558139540932395,
+        "x" : 0.69069767399989179,
+        "y" : 0.70348837188584901
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.86178861788617889,
+      "text" : "(상대의 의사를 묻다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011714316302945171,
+        "width" : 0.037209302186965942,
+        "x" : 0.25348837220109066,
+        "y" : 0.77462289260729311
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.7142857142857143,
+      "text" : "순③"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016029523766559084,
+        "width" : 0.44673455845225934,
+        "x" : 0.4696748733376333,
+        "y" : 0.92429473124466011
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.7967479674796748,
+      "text" : "8장 동사 ⑦ 조동사: 사실을 말하는가, 생각을 말하는가? 249"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 240,
+  "pdf_page_number" : 241
+}

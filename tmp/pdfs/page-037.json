@@ -1,0 +1,490 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027549662416554543,
+        "width" : 0.806816777096519,
+        "x" : 0.13114280725136329,
+        "y" : 0.069456299557443257
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이어서 2형식을 살펴보자. 여기에서는 '보어'라는 말이 나온다. 동사 뒤에 붙는 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021826829546409687,
+        "width" : 0.82488481438444972,
+        "x" : 0.11059906747306018,
+        "y" : 0.10026619346680332
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이 목적어일까? 보어일까? 이는 항상 영어 학습자를 괴롭힌다. 먼저 목적어와 보어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022579233733128978,
+        "width" : 0.1638502289977255,
+        "x" : 0.11047119877376521,
+        "y" : 0.12897201101772982
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "를 비교해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011747848913536307,
+        "width" : 0.032258064602665421,
+        "x" : 0.11059907818253825,
+        "y" : 0.18168604633526342
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99315068493150682,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.23041473259905723,
+        "x" : 0.15437788923042525,
+        "y" : 0.17732558119700481
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "He moved the sofa."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019079775332135229,
+        "width" : 0.18663593619516966,
+        "x" : 0.39631336831123681,
+        "y" : 0.17568766612743147
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "그는 소파를 옮겼다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014935764255202155,
+        "width" : 0.076227024470032823,
+        "x" : 0.29022750147499748,
+        "y" : 0.20619490812130281
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.41592920353982299,
+      "text" : "O(목적어)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023279028438104366,
+        "width" : 0.80645159628823837,
+        "x" : 0.13133641389843972,
+        "y" : 0.22383720903794591
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장에서는 He(그)에서 나온 move(움직이다. 옮기다)라는 힘이 소파에 부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024120237727871863,
+        "width" : 0.82512826825663677,
+        "x" : 0.11277913525994167,
+        "y" : 0.24994996182696172
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.11238532110091744,
+      "text" : "딪치게 되어 소파가 움직인다. 이렇게 목적어라는 것은 주어에서 나온 동사의 힘이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020481675731046312,
+        "width" : 0.25806451682132342,
+        "x" : 0.11059907795709535,
+        "y" : 0.28039041739360537
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "부딪치는 대상을 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.28110599651953677,
+        "x" : 0.13364055216265863,
+        "y" : 0.32830523486501795
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 보어는 무엇일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.04147465487237384,
+        "x" : 0.14055299494695991,
+        "y" : 0.39662821634221956
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 11,
+      "red_ink_fraction" : 1,
+      "text" : "계문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016042540109358572,
+        "width" : 0.20046082830630274,
+        "x" : 0.17741935554730948,
+        "y" : 0.39389534847509644
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.0077720207253886009,
+      "text" : "I am (a student.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.048387095562684057,
+        "x" : 0.18202765026013265,
+        "y" : 0.42280390404738255
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.29411764705882354,
+      "text" : "SV"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.064516129205330841,
+        "x" : 0.27649769565505772,
+        "y" : 0.4228039040575825
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.35135135135135137,
+      "text" : "C (보어)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018552937545708525,
+        "width" : 0.13629196531829618,
+        "x" : 0.40074802643388835,
+        "y" : 0.39188632190735295
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "나는 학생이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.31797234686785775,
+        "x" : 0.38018433341478169,
+        "y" : 0.42147293697347676
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.36467236467236469,
+      "text" : "* am 아래 있는 기호는 등호(=)를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024932450071942336,
+        "width" : 0.80904202789864621,
+        "x" : 0.13119961482704764,
+        "y" : 0.49111586901146476
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "be동사 am 뒤에 a student가 있다. 여기에서 생각해 보면, 주어 I(나)가 a"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025889569293532477,
+        "width" : 0.71469914561082548,
+        "x" : 0.11040656207763526,
+        "y" : 0.51872529425170488
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "student(학생)에게 어떤 영향을 주고 있는가? 즉, 힘이 미치고 있는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026090431551861304,
+        "width" : 0.80462423289710794,
+        "x" : 0.1357217060220974,
+        "y" : 0.54463110183753238
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그렇지는 않다. 주어인 I를 나타내고 있는 내용이 학생이다. 의미상으로 '나=학"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027706779202424814,
+        "width" : 0.82773475271404717,
+        "x" : 0.11263875070883368,
+        "y" : 0.57022703126456498
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.041879468845760978,
+      "text" : "생'이다. 이렇게 주어의 내용을 나타내는 말을 '보어'(여기에서는 정확히 주격 보어)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021913239039883958,
+        "width" : 0.11059907250598848,
+        "x" : 0.1152073765514824,
+        "y" : 0.60319767449902428
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "라고 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.23502303712311004,
+        "x" : 0.12672811265964309,
+        "y" : 0.65971606040442821
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.99437915176290237,
+      "text" : "⑦ valuable information"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020339407324262093,
+        "width" : 0.76526557074652768,
+        "x" : 0.15193641923746054,
+        "y" : 0.69110621090190227
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.51478782683240465,
+      "text" : "보어를 뒤에 취하는 be동사와 같은 동사를 '불완전 자동사'라고 부른다. 이렇게 불리게 된 이유는 다음"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01615087395763648,
+        "width" : 0.066820276102100923,
+        "x" : 0.13824884799314727,
+        "y" : 0.7136627903267907
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.30573248407643311,
+      "text" : "과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016134108075443909,
+        "width" : 0.67741937006911479,
+        "x" : 0.15207372534398114,
+        "y" : 0.72965116244473094
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.71980413492927098,
+      "text" : "① 주어가 보어에 어떤 힘을 미치고 있는 것이 아니기 때문에 타동사가 아니라 자동사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018917704009332792,
+        "width" : 0.76758370486660521,
+        "x" : 0.15190836733934293,
+        "y" : 0.74739986530156166
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.64906219151036526,
+      "text" : "② 그러나 보통의 자동사와 달리 | am으로 문장이 완성되지 않고 |의 내용을 설명하는 보어인 a"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.59216591879285341,
+        "x" : 0.1728110500209033,
+        "y" : 0.76744186047158203
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.6845168800931315,
+      "text" : "student가 와야 비로소 문장의 의미가 성립되기 때문에 불완전한 자동사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02832425920542303,
+        "width" : 0.80702357553731541,
+        "x" : 0.13567335049260426,
+        "y" : 0.8165739719094065
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "뒤에 보어를 취하는 자동사는 be동사 외에도 여러 가지가 있다. 의미상으로 '주"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026058873986393949,
+        "width" : 0.82760847604056786,
+        "x" : 0.11500997830039293,
+        "y" : 0.84468298605697245
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "어=보어'라는 형태가 되고, 동사를 be동사로 바꿔도 의미가 통하는 문장이라면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020459751376242563,
+        "width" : 0.44470047447751854,
+        "x" : 0.11751151404023792,
+        "y" : 0.87488908593389025
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "그 문장은 2형식 문장이라고 생각하면 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.027649768126497123,
+        "x" : 0.087557604290333352,
+        "y" : 0.92857142837098017
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 1,
+      "text" : "40"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    644
+  ],
+  "pdf_page_index" : 37,
+  "pdf_page_number" : 38
+}

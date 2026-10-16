@@ -1,0 +1,490 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802326131437177,
+        "width" : 0.55710957267067651,
+        "x" : 0.058275050420777123,
+        "y" : 0.071220929950970291
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "in을 '테두리 안'으로 파악하여 다음 예문을 읽어 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349426539809,
+        "width" : 0.22377623211253775,
+        "x" : 0.062937058648513539,
+        "y" : 0.13226744155541781
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "She speaks English."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895347737125645,
+        "width" : 0.25174823674288666,
+        "x" : 0.062937072444407438,
+        "y" : 0.15843023291922786
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "She speaks in English."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023472099202834329,
+        "width" : 0.39860140193592414,
+        "x" : 0.062937064280678079,
+        "y" : 0.20637732528516339
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "두 문장은 의미상 어떤 차이가 있을까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027988153395133386,
+        "width" : 0.81857187097722839,
+        "x" : 0.062719937579673216,
+        "y" : 0.23237925487629085
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그녀가 영어 원어민일 경우, She speaks English.라고 말하는 것이 일반적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027991680891984783,
+        "width" : 0.37571187452836474,
+        "x" : 0.039393955753604999,
+        "y" : 0.2592891866036211
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "\"그녀는 영어를 말한다.'로 해석된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025785580475421122,
+        "width" : 0.81163050911643286,
+        "x" : 0.065066911461211005,
+        "y" : 0.28745703128208944
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 She speaks in English.라고 말하면, 그녀는 영어 외의 다른 언어도 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031131408191339638,
+        "width" : 0.83513242548162292,
+        "x" : 0.043936122875619189,
+        "y" : 0.3113190457807069
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "할 수 있지만, 지금은 영어를 선택해서 말한다는 뜻이 된다. 해석하면, \"그녀는 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02544871550729777,
+        "width" : 0.37820638309825549,
+        "x" : 0.044000903763820827,
+        "y" : 0.34146431062046223
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "로 말한다.\"라는 느낌에 가까워진다.\""
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026968117199501651,
+        "width" : 0.8094457279552113,
+        "x" : 0.067333888399327399,
+        "y" : 0.39137804862783121
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "오른쪽에 있는 그림은 This letter is written in English.를 표현하고 있는데,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023997539962890224,
+        "width" : 0.48541532863270154,
+        "x" : 0.044040149816091029,
+        "y" : 0.42017153302719379
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이 그림에 나와 있는 것처럼 여러 언어의 테두리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013444693559455656,
+        "width" : 0.10501007600264112,
+        "x" : 0.64563016001719964,
+        "y" : 0.42859742064800188
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.61409395973154357,
+      "text" : "languages"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802324442022902,
+        "width" : 0.48951049284501508,
+        "x" : 0.044289046273685066,
+        "y" : 0.44767441899265137
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "중에서 영어라는 테두리를 선택하는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014901815841850574,
+        "width" : 0.072448741305958131,
+        "x" : 0.58032574576232399,
+        "y" : 0.45330490600280693
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.9970149253731343,
+      "text" : "English"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010886378157339394,
+        "width" : 0.074833490631797117,
+        "x" : 0.72015901156314233,
+        "y" : 0.45313239220826107
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.89928057553956831,
+      "text" : "German"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025750427989435942,
+        "width" : 0.48537167635830958,
+        "x" : 0.0463669640555536,
+        "y" : 0.47460553908870362
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "이 테두리는 '영어의 세계'이며, 이 세계의 테두리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022473309080193182,
+        "width" : 0.42459041422063648,
+        "x" : 0.046413325350291572,
+        "y" : 0.50278635889852707
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "안에서는 무엇을 해도 영어라는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015594085409537883,
+        "width" : 0.077420673587105471,
+        "x" : 0.66175586295537914,
+        "y" : 0.49656342225621342
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.89864864864864868,
+      "text" : "Spanish"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013729344225225426,
+        "width" : 0.065594613552093506,
+        "x" : 0.55694628221424969,
+        "y" : 0.50839695541215035
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.88695652173913042,
+      "text" : "Korean"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010742796111465891,
+        "width" : 0.067813288081776002,
+        "x" : 0.77611666586547434,
+        "y" : 0.50262278776174363
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.94059405940594054,
+      "text" : "French"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021860259523214354,
+        "width" : 0.46153844486583367,
+        "x" : 0.06993007666381984,
+        "y" : 0.52906976703057496
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "말 그대로 \"편지가 영어 세계의 테두리 안에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023473386536455476,
+        "width" : 0.23776223442771216,
+        "x" : 0.04662004751030864,
+        "y" : 0.55668604647498421
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "쓰였다.\"라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023420378631781036,
+        "width" : 0.63674792376431555,
+        "x" : 0.14200512137280918,
+        "y" : 0.61165074189016178
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.97476340694006314,
+      "text" : "분야'를 나타내는 in: 칼로리가 높다'는 영어로 어떻게 말할까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030281641295359596,
+        "width" : 0.81423091888427734,
+        "x" : 0.069585017941809338,
+        "y" : 0.64449392459616217
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "\"S는 칼로리가 높다.\"라는 문장은 건강에 대한 글쓰기에서 꼭 나온다고 해도 될"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025166747208925644,
+        "width" : 0.8349370089444248,
+        "x" : 0.048762229470997571,
+        "y" : 0.67410459842480874
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "만큼 자주 쓰이는 표현인데, 이 문장을 영어로 어떻게 나타내면 좋을까? 다음에 제"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022143489813994721,
+        "width" : 0.41958041624589404,
+        "x" : 0.051282055979617075,
+        "y" : 0.70327723625185201
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "시되는 4개의 선택지를 보며 생각해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019043401240035451,
+        "width" : 0.21911421689120203,
+        "x" : 0.072261073262330652,
+        "y" : 0.77457927372005564
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "1. S is high calorie."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01904340124003534,
+        "width" : 0.25174825841730292,
+        "x" : 0.072261068799182648,
+        "y" : 0.8051372892342199
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "3. S is high in calorie."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828073648565982,
+        "width" : 0.50349651683460583,
+        "x" : 0.072261066757522224,
+        "y" : 0.86625332191116766
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "가장 자연스럽고 많이 쓰이는 것은 4번 문장이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02214348981399461,
+        "width" : 0.23543123765425256,
+        "x" : 0.51748251627238961,
+        "y" : 0.77015057570278356
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "2. S is high calories."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020512338440644151,
+        "width" : 0.2657342607324773,
+        "x" : 0.51748251985909155,
+        "y" : 0.80070859164471364
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "4. S is high in calories."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017190343621983017,
+        "width" : 0.43857613476839918,
+        "x" : 0.47303609257032497,
+        "y" : 0.91986007282405524
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.88316831683168318,
+      "text" : "11장 전치사:전치사를 파악하면 숙어를 공략할 수 있다 345"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 333,
+  "pdf_page_number" : 334
+}

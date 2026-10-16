@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026931096394856691,
+        "width" : 0.66399994978668009,
+        "x" : 0.10424037814440258,
+        "y" : 0.074897270424246987
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "되어 있을 것으로 예상하다'와 같이 '예상 완료'라고도 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.81206496218417545,
+        "x" : 0.1252900247857158,
+        "y" : 0.10444444406561648
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 보통 will이 들어 있는 문장인 'will +동사원형'의 문장과는 어떻게 다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021834625244140704,
+        "width" : 0.18561483613142732,
+        "x" : 0.10440836049577129,
+        "y" : 0.13372092991596385
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "른지 비교해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012568600124783003,
+        "width" : 0.088988397476520986,
+        "x" : 0.83263045041591266,
+        "y" : 0.14466802881707708
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.9042553191489362,
+      "text" : "내일 아침 8시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.46867749369736261,
+        "x" : 0.14385150828940713,
+        "y" : 0.18311111134006242
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "| will arrive in the U.S. tomorrow at eight."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020969574822319981,
+        "width" : 0.33450155055269282,
+        "x" : 0.15060369844693161,
+        "y" : 0.20620800147043838
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "나는 내일 8시에 미국에 도착할 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021881137424045183,
+        "width" : 0.62645012605274819,
+        "x" : 0.12529001806278983,
+        "y" : 0.28044444406572977
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장에서는 arrive라는 동작동사의 원형을 사용하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025066068861219537,
+        "width" : 0.80998067652925532,
+        "x" : 0.12517817451888158,
+        "y" : 0.30592752564971348
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "동작동사는 변화를 나타내기 때문에, 다음 그림에서처럼 (내일 8시에) 도착하지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.83294660419437072,
+        "x" : 0.10208818270658752,
+        "y" : 0.33422222249533062
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "않은 상태에서 도착하는 상태로의 '변화'를 일으킬 것이라고 예상하는 문장이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836263020864,
+        "width" : 0.058004641701989143,
+        "x" : 0.10440835185952817,
+        "y" : 0.36337209343654697
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0133325335184733,
+        "width" : 0.076674489772066201,
+        "x" : 0.39205718658654709,
+        "y" : 0.41993257021061581
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.98159509202453987,
+      "text" : "arrive"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013368237813313755,
+        "width" : 0.099862811582308253,
+        "x" : 0.3827832107044139,
+        "y" : 0.43444960189469861
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "도착한다 (변화)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.15777262153354943,
+        "x" : 0.53132250582255247,
+        "y" : 0.41555555568364477
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.99109792284866471,
+      "text" : "have arrived"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013082687377929614,
+        "width" : 0.17633410514669212,
+        "x" : 0.52668213524567942,
+        "y" : 0.43313953481573964
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "(이미) 도착했다 (끝난 상태)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013770969390869081,
+        "width" : 0.11157003632673979,
+        "x" : 0.28760245271807156,
+        "y" : 0.48512032903198066
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "도착하지 않았다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010258397844102651,
+        "width" : 0.030162413576816038,
+        "x" : 0.6914153128171604,
+        "y" : 0.49555555536856666
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "내일"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010330749087863578,
+        "width" : 0.041763340835030305,
+        "x" : 0.68677494199547784,
+        "y" : 0.50711111111242013
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이맘때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021803617689344579,
+        "width" : 0.8097447604997785,
+        "x" : 0.12529003270133982,
+        "y" : 0.55377777775253001
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "다음과 같은 대화를 상상해 보면, will arrive와 will have arrived의 차이를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.26682135399351731,
+        "x" : 0.1044083484060514,
+        "y" : 0.5813333333436268
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "잘 이해할 수 있을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.41531324454233159,
+        "x" : 0.12529001336456508,
+        "y" : 0.63644444481271567
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "A: 너는 내일 몇 시에 미국에 도착하니?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025198298136393293,
+        "width" : 0.42527435519171097,
+        "x" : 0.12499540329677308,
+        "y" : 0.66107420533613326
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.0026455026455026454,
+      "text" : "B: 나는 내일 8시에 미국에 도착할 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.49187933739195477,
+        "x" : 0.132250586481546,
+        "y" : 0.69466666707272551
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "->| wil arrive in the U.S. tomorrow at eight."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020523256089952313,
+        "width" : 0.50580046092364805,
+        "x" : 0.12529002467631753,
+        "y" : 0.71947674380426074
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "A: 뭐? 너 내일 이맘때쯤 도착하는 거 아니었어?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020450904846191387,
+        "width" : 0.53596286638408697,
+        "x" : 0.12529002841709286,
+        "y" : 0.7484444443607885
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "B: 나는 내일 이맘때쯤이면 이미 도착해 있을 거야!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.58468675545766846,
+        "x" : 0.13225058968778075,
+        "y" : 0.77906976763472746
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.0070126227208976155,
+      "text" : "->| will already have arrived by this time tomorrow!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021990955776638454,
+        "width" : 0.8167053655529698,
+        "x" : 0.1206496371099481,
+        "y" : 0.85155555593549581
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "\"도착하지 않았다'에서 '도착하다'로 변화가 일어날 것을 예상하는 것이 will"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021852713690863723,
+        "width" : 0.83526680587876778,
+        "x" : 0.1020881746758022,
+        "y" : 0.88081395338620339
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "arrive, '그쯤 되면 이미 도착한 후의 상태를 have하고 있을 것이다'라고 상태를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.02784222812517316,
+        "x" : 0.074245939185673293,
+        "y" : 0.92577777789965576
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.98701298701298701,
+      "text" : "86"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 82,
+  "pdf_page_number" : 83
+}

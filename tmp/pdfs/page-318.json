@@ -1,0 +1,205 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024736335030042023,
+        "width" : 0.48874074762517755,
+        "x" : 0.0998138263347223,
+        "y" : 0.075451611924979289
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "h you come earlier, we'l show you around."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022791044206458499,
+        "width" : 0.46077286113392224,
+        "x" : 0.10218859276489388,
+        "y" : 0.10012739555769257
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "만약 네가 더 일찍 온다면, 우리가 이 근처를 안내할게."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020481195932166574,
+        "width" : 0.584051869132302,
+        "x" : 0.10680050446718935,
+        "y" : 0.12274698283502206
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.50305810397553519,
+      "text" : "- show around라는 동작을 실현하기 위한 조건을, 부사절인 IF절이 설명한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025711903237831013,
+        "width" : 0.57730241255326709,
+        "x" : 0.10218119341036758,
+        "y" : 0.17195200766496166
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "When the ambulance arrived, he was unconscious.듏"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.36744187094948505,
+        "x" : 0.10232557611227509,
+        "y" : 0.1991279073402672
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "구급차가 도착했을 때, 그는 의식이 없었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018809600329124154,
+        "width" : 0.73279424147172401,
+        "x" : 0.10686457001905532,
+        "y" : 0.21941699728995678
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.42781456953642383,
+      "text" : "☆ unconscious라는 상태에 있던(= was) 일이, 어느 때의 일인지를 부사절인 when 절이 설명한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021944192414169561,
+        "width" : 0.80930233001708984,
+        "x" : 0.0790697652813101,
+        "y" : 0.26598837232127437
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "형용사나 부사의 정도를 나타내는 부사절도 있다. 그러한 예시로 전형적인 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025957408793330083,
+        "width" : 0.25461979345841845,
+        "x" : 0.057679327631960847,
+        "y" : 0.29110388100339191
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "은 '50 ~ that 구문'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021915440868252478,
+        "width" : 0.56066612763838342,
+        "x" : 0.055685730195060644,
+        "y" : 0.3403664071828193
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.1018005540166205,
+      "text" : "예e Ilaughed so hard that | could hardly breathe."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017506345564428427,
+        "width" : 0.29534883932633837,
+        "x" : 0.10465116161397861,
+        "y" : 0.36912156138542918
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "난 너무 웃어서 숨쉬기가 힘들었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017043050243035873,
+        "width" : 0.59552790901877661,
+        "x" : 0.10686155068100059,
+        "y" : 0.38957511167739178
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.37609841827768015,
+      "text" : "- that | could hardly breathe는 얼마나 hard하게 웃었는지 정도를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014674170628626415,
+        "width" : 0.13953488523309887,
+        "x" : 0.6720930221447724,
+        "y" : 0.46802325593313743
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.89814814814814814,
+      "text" : "hardly breathe"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421398,
+        "width" : 0.31860464269464661,
+        "x" : 0.59534884142294686,
+        "y" : 0.92587209281762484
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.90000000000000002,
+      "text" : "10장 형용사와 부사: '수식하다'의 진실 329"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 318,
+  "pdf_page_number" : 319
+}

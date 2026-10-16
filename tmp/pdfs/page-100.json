@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032147438076467361,
+        "width" : 0.12731481240996231,
+        "x" : 0.14120370493368725,
+        "y" : 0.094306050101100158
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99834528405956979,
+      "text" : "Must 22"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03052325605073436,
+        "width" : 0.17824073953831451,
+        "x" : 0.14583333376462917,
+        "y" : 0.13372093008169617
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99813641446142376,
+      "text" : "진행형 ④"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032137093594914123,
+        "width" : 0.26388889610344635,
+        "x" : 0.14583332961141615,
+        "y" : 0.16715116289386112
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99953172559119641,
+      "text" : "일시적인 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019285008576416796,
+        "width" : 0.44010191572473401,
+        "x" : 0.14337598548612707,
+        "y" : 0.21503512630858967
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.9993141289437586,
+      "text" : "• 시작과 끝이 없으면 '도중'은 존재하지 않는다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02256786950542411,
+        "width" : 0.45166881371897166,
+        "x" : 0.16422721769570653,
+        "y" : 0.31390668661102783
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "Why are you being so nice to me today?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.34490741702681738,
+        "x" : 0.16435184724691898,
+        "y" : 0.33852313137212864
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "오늘은 왜 저에게 그렇게 친절하신가요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023930532652288172,
+        "width" : 0.81049899919658674,
+        "x" : 0.13873510350247595,
+        "y" : 0.38586855352394112
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "위의 예문은 You are nice (당신은 친절하시네요.)와는 달리 '평소에 그렇지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029556304958791579,
+        "width" : 0.41260189840979616,
+        "x" : 0.11770539542313536,
+        "y" : 0.41145314570218583
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "지만 오늘만 친절한 사람'이라는 뜻이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022765453175717765,
+        "width" : 0.80817533452460111,
+        "x" : 0.13874032179166487,
+        "y" : 0.44325489999565182
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "You are being nice.라는 형태는 진행형이고, You are nice.의 are이 현재분"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023611952825797422,
+        "width" : 0.8312616875831117,
+        "x" : 0.11794461644799815,
+        "y" : 0.46996598839809056
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "사의 being으로 바뀌었다. 진행형이기 때문에 그 앞에 are이라는 be동사를 붙인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916122198953336,
+        "width" : 0.078703703102490599,
+        "x" : 0.12037037090245843,
+        "y" : 0.49854651156773766
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.80787033189273039,
+        "x" : 0.14120372438928286,
+        "y" : 0.52313167273950578
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 \"be동사 + 형용사'를 진행형으로 바꾸면, '평소에 그렇지 않지만 일시적"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962674911336189,
+        "width" : 0.46990741702681738,
+        "x" : 0.1203703689750172,
+        "y" : 0.55232558137151666
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "으로 지금만 그러한 상태이다'라는 뜻이 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.38657408369348401,
+        "x" : 0.14120370139069183,
+        "y" : 0.57829181529353135
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "왜 진행형에 이러한 뜻이 있는 것일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026943476598882188,
+        "width" : 0.53746935255984041,
+        "x" : 0.12015072332810608,
+        "y" : 0.63736971803909603
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.99026639344262291,
+      "text" : "'도중'이 있기 때문에 '시작과 끝'이 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020566085055205297,
+        "width" : 0.18518518759003766,
+        "x" : 0.15046296164158096,
+        "y" : 0.68895348827903491
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "아래 그림을 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024539180497681889,
+        "width" : 0.81264821586879432,
+        "x" : 0.14342466867177636,
+        "y" : 0.76183200352683722
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이 점을 보고 '도중'이라고 직감적으로 생각할 수 있는 사람은 별로 없을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.34027777056322034,
+        "x" : 0.12268518954092071,
+        "y" : 0.79215116264394114
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 다음 그림의 경우 어떤가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016040097776256812,
+        "width" : 0.032407406204981171,
+        "x" : 0.68750000051440763,
+        "y" : 0.8429715299715973
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "-〉"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021941984251300672,
+        "width" : 0.44212962481992468,
+        "x" : 0.14351852101516538,
+        "y" : 0.88953488384119395
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "이 그림의 점은 명확하게 '도중'을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.0370370364358239,
+        "x" : 0.092592592777458432,
+        "y" : 0.93149466211176968
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 1,
+      "text" : "104"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 100,
+  "pdf_page_number" : 101
+}

@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026550167507595535,
+        "width" : 0.81023675745183776,
+        "x" : 0.071701960812338386,
+        "y" : 0.070976735815085901
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "'다른 하나'라는 해석에 이끌려 '리필의 이미지'를 떠올리는 사람이 있을지도 모르"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024492324829101575,
+        "width" : 0.38542790846391156,
+        "x" : 0.050877025797216646,
+        "y" : 0.10211795813877789
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "나, 여기에서의 이미지는 조금 다르다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026476115756564722,
+        "width" : 0.81026137958873401,
+        "x" : 0.073998523941887426,
+        "y" : 0.1277911063888455
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "일단 There are two balls. 문장을 보면, 머릿속에 2개의 공이 떠오른다. 그다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026759303622775565,
+        "width" : 0.8356533917513761,
+        "x" : 0.053138866055780956,
+        "y" : 0.15508359906857372
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "음에 One is white를 보면, 두 개의 공들 중 하나가 흰색이라는 것을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024583958943684925,
+        "width" : 0.83337012204256933,
+        "x" : 0.053148069307563356,
+        "y" : 0.18211778947283863
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 흰색 공의 역할은 끝이 나고 머릿속에서 퇴장하게 된다. 2개의 공 중 하나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027774454752604205,
+        "width" : 0.83324111591685901,
+        "x" : 0.053211322504669797,
+        "y" : 0.20846895504412211
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "가 사라진 것이기 때문에, 나머지는 1개 밖에 없다. 즉, '그 공밖에 없다. 그 외에는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02736126539442274,
+        "width" : 0.83342162045565515,
+        "x" : 0.053131741218578395,
+        "y" : 0.23744480719494854
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "없다.라는 느낌이 생기는데, 이는 the를 붙이게 하는 원인이 된다. the other에는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027255241394043006,
+        "width" : 0.83110852675004432,
+        "x" : 0.055423058899275415,
+        "y" : 0.26327488924159104
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "중요한 전제가 있는데, 이는 바로 '둘 중의'이다. 둘 중에 하나가 사라지면, 나머지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024837329440646649,
+        "width" : 0.83102130889892578,
+        "x" : 0.05547185567199539,
+        "y" : 0.29147346315052625
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "는 '그것밖에 없다'가 되고 '방금 말한 것과는 다른(other) 그것뿐인(the) 나머지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021810077243381021,
+        "width" : 0.25058005072853784,
+        "x" : 0.053364266860834592,
+        "y" : 0.32266666703054903
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "하나'가 the other이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022342836168077307,
+        "width" : 0.78917581384832203,
+        "x" : 0.097312463682361544,
+        "y" : 0.3685390618871397
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.00053475935828877007,
+      "text" : "l have three brothers. One of them lives in Okinawa, and the others"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020572340223524277,
+        "width" : 0.21401290460066363,
+        "x" : 0.099452120326653196,
+        "y" : 0.39807630132796001
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "live in Yamaguchi."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888888351,
+        "width" : 0.0324825996702367,
+        "x" : 0.64733178590466389,
+        "y" : 0.40399999994674385
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "One"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010179680294460702,
+        "width" : 0.075009275566447875,
+        "x" : 0.76767650727176762,
+        "y" : 0.40120257596912023
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "the others"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023697589450412337,
+        "width" : 0.49247893420132727,
+        "x" : 0.10180062452264117,
+        "y" : 0.42046641276379781
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "나에게는 3명의 남자 형제가 있다. 그들 중 한 명은 오키"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024613328721788119,
+        "width" : 0.48548035188154748,
+        "x" : 0.10175746784796914,
+        "y" : 0.44188312534604746
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "나와에 살고 있고, 나머지 두 명은 야마구치에 살고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024312427096896738,
+        "width" : 0.51788273724642653,
+        "x" : 0.076322908800994071,
+        "y" : 0.49201206752692483
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "3개 이상을 이야기하는 경우에도, 그것을 2개의 그"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015142491658528656,
+        "width" : 0.06963160363110632,
+        "x" : 0.627435535554831,
+        "y" : 0.4956752749667972
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "Okinawa"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014702841864691951,
+        "width" : 0.071925753896886602,
+        "x" : 0.77030162365093802,
+        "y" : 0.49418604660735999
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "Yama guchi"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025444760640462194,
+        "width" : 0.8309758793223988,
+        "x" : 0.05784310798644024,
+        "y" : 0.51839584496581892
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "룹으로 나눈다면 the others를 사용한다. 남은 한쪽 그룹 안에 존재하는 것이 여"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.36426912654529919,
+        "x" : 0.058004647902911148,
+        "y" : 0.54933333306089882
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.27128712871287131,
+      "text" : "러 개 있다면 the others인 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026646487765842108,
+        "width" : 0.81249332427978516,
+        "x" : 0.078665763710735609,
+        "y" : 0.59810498858334515
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "나는 에세이 글쓰기에서 부주의하게 the others를 쓰는 사람에게 \"이 표현을 단"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02915318637424047,
+        "width" : 0.83102911168878724,
+        "x" : 0.060107510651046331,
+        "y" : 0.62430534466208343
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.016759776536312849,
+      "text" : "지 '다른 사람들(것들)'이라는 의미로 썼습니까? 아니면 '나머지 전원'이라는 의미로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024917312622070309,
+        "width" : 0.2691415223208341,
+        "x" : 0.058004644779785466,
+        "y" : 0.65822222264189523
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "썼습니까?'라고 질문한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028840589735243061,
+        "width" : 0.8126620379361239,
+        "x" : 0.080888580479622524,
+        "y" : 0.68013966293655259
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "막연히 '다른 사람들(것들)'을 말할 때는 others, '나머지 전원'을 말할 때는 the"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020559432135687894,
+        "width" : 0.22041762958873407,
+        "x" : 0.058004642290687587,
+        "y" : 0.71366279029828916
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "others를 써야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017176176283094646,
+        "width" : 0.38309236006303271,
+        "x" : 0.53586150038185931,
+        "y" : 0.92708165489780425
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.87096774193548387,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 303"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 293,
+  "pdf_page_number" : 294
+}

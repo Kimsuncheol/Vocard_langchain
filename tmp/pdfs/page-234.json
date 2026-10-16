@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028802836100260465,
+        "width" : 0.81030533530495374,
+        "x" : 0.069298804691344446,
+        "y" : 0.066086590682869928
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 실제로 will은 미래를 나타내는 것'도' 가능한 조동사라는 점을 염두에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025586095174153667,
+        "width" : 0.8310276378284801,
+        "x" : 0.048533141374787453,
+        "y" : 0.097098280013456995
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "두어야 한다. 꼭 미래의 일을 말하는 것이 아니더라도, 현재의 일에 대한 예상으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021990956624348912,
+        "width" : 0.27378190647472039,
+        "x" : 0.048723897729383812,
+        "y" : 0.12645348809183599
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "도 will을 사용할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02642514546712238,
+        "width" : 0.81020936098965735,
+        "x" : 0.069389744788928134,
+        "y" : 0.15150140201183415
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 저녁 4시에 제인이 온다는 것을 알고 있는 상태에서, 실제로 4시쯤에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.32946636460044165,
+        "x" : 0.048723894158247821,
+        "y" : 0.18311111076783027
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "초인종이 울렸다고 가정해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021197487725151842,
+        "width" : 0.39004208824851294,
+        "x" : 0.050882797560289378,
+        "y" : 0.23066931748522268
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.28455284552845528,
+      "text" : "여e Oh, it'l| be Jane. 아, 제인일 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028566263834635341,
+        "width" : 0.81259120594371448,
+        "x" : 0.069362862346483603,
+        "y" : 0.27834118269784835
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "미래의 이야기가 아니라. 지금 문 너머에 있는 사람이 제인일 것이라고 '예상'하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02050904337565107,
+        "width" : 0.058004639365456322,
+        "x" : 0.051044083894224664,
+        "y" : 0.31104651204452316
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029537494235568618,
+        "width" : 0.81262328407981177,
+        "x" : 0.069353215400131063,
+        "y" : 0.33132028544296088
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "또한, 이러한 '예상'을 나타내는 will은 '분명한 어조로 단언하는 것을 피하는 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023294573465983071,
+        "width" : 0.47563804279674182,
+        "x" : 0.051044087456658893,
+        "y" : 0.3633720931903015
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "투' 다시 말해, '정중한 말투'로 응용될 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024910853068033867,
+        "width" : 0.80974474820223719,
+        "x" : 0.071925769754851446,
+        "y" : 0.38933333336325815
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 파티에서 처음 보는 사람에게 \"아, 당신은 케이건 씨입니다.\"라고 정확"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025649023267957816,
+        "width" : 0.83101029829545459,
+        "x" : 0.050872542808292565,
+        "y" : 0.41685505044471438
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "히 말하면 상대방이 다소 당황할 수 있다. 한국어에서도 처음 보는 사람에게 '혹시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021899225023057745,
+        "width" : 0.83294660394841979,
+        "x" : 0.051044099280566968,
+        "y" : 0.44476744175387861
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "케이건 씨인가요?'처럼 '어디까지나 추측·예상하건데,'라는 느낌을 주는 말투를 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021981912400987347,
+        "width" : 0.38051046024669305,
+        "x" : 0.053364259325333195,
+        "y" : 0.4751111109459818
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "용한다. 이러한 경우에 will이 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.41995360634543683,
+        "x" : 0.095127605183904673,
+        "y" : 0.5231111108046621
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "Ah... You'lI be Mr. Cagan, | presume?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019241408454047315,
+        "width" : 0.2673400532115589,
+        "x" : 0.097219456659141321,
+        "y" : 0.54804787795925569
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "저기..... 혹시 케이건 씨인가요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.3689095323736018,
+        "x" : 0.12529001329473524,
+        "y" : 0.5986666662438388
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.97357723577235777,
+      "text" : "- 안내 방송에서도 들을 수 있는 will"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022032897949218699,
+        "width" : 0.81226244839754969,
+        "x" : 0.074144796368145194,
+        "y" : 0.63322497423280655
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "지하철을 타고 있으면 다음 역에서 어느 쪽의 문이 열리는지 안내하는 방송이 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024782480875651047,
+        "width" : 0.60120474208484986,
+        "x" : 0.053194625472371034,
+        "y" : 0.66006476782656098
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "온다. 다음 예문과 같이 안내 방송이 나온다고 가정해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.68445474451238475,
+        "x" : 0.095127616075351848,
+        "y" : 0.71066666636625353
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "The doors on the right side will open. 오른쪽 문이 열릴 것입니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02472016737196181,
+        "width" : 0.8099594983187588,
+        "x" : 0.074149085358742053,
+        "y" : 0.7611764928950393
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이 책에서 will의 설명을 읽고 이해했다면, 위 예문과 같은 표현이 어색하게 느껴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021866925557454397,
+        "width" : 0.10904872417449951,
+        "x" : 0.053364269024989225,
+        "y" : 0.78924418587980838
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "질 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.8097447482022373,
+        "x" : 0.074245958126259559,
+        "y" : 0.81377777742693436
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "다음 역에서 오른쪽 문이 열린다는 것은 지금 하게 된 '예상', 또는 지금 결정하게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021865632798936607,
+        "width" : 0.83062648773193348,
+        "x" : 0.053364250194027706,
+        "y" : 0.84302325571150316
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "된 '의지'가 아닌, 이미 정해져 있는 것으로 항상 그렇게 하는 것이다. 제시된 예문의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022421939425998239,
+        "width" : 0.83079962296919385,
+        "x" : 0.053285327501377336,
+        "y" : 0.87305294305112513
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "경우, The doors on the right side open.(오른쪽 문이 열립니다.) 또는 The"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016166139390733525,
+        "width" : 0.44805687124078919,
+        "x" : 0.46391481315071736,
+        "y" : 0.92435934878517323
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.85125858123569798,
+      "text" : "8장 동사 ⑦ 조동사: 사실을 말하는가, 생각을 말하는가? 243"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 234,
+  "pdf_page_number" : 235
+}

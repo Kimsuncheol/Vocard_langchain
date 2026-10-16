@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032069768269856747,
+        "width" : 0.12529002536426892,
+        "x" : 0.1438515070596188,
+        "y" : 0.095930231778913799
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9988700564971752,
+      "text" : "Must 83"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030723514133029539,
+        "width" : 0.42227376591075549,
+        "x" : 0.14385151600422164,
+        "y" : 0.1337209309301568
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99910687704674006,
+      "text" : "for의 전체적인 의미 ②"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019385498046874949,
+        "width" : 0.40398636731234461,
+        "x" : 0.14370573981648446,
+        "y" : 0.21648962571252828
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99977106227106227,
+      "text" : "• '기간'을 나타내는 for와 during의 차이점"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025446970621744835,
+        "width" : 0.81464888832785876,
+        "x" : 0.1367702025672963,
+        "y" : 0.31006016908825318
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "for의 '~ 앞에'라는 어원에서 '앞에 있는 목표, 목적지'라는 의미가 나타난다는 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02883990478515619,
+        "width" : 0.83333102139559667,
+        "x" : 0.12043173408904777,
+        "y" : 0.33479869772754745
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "실을 이전 학습에서 설명했다. 이번에는 '교환 대리' 그리고 '균형'을 나타내는 for"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022873652988010029,
+        "width" : 0.13500479134646326,
+        "x" : 0.12043263904466189,
+        "y" : 0.3671968939830057
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "를 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.28538283434781164,
+        "x" : 0.21113688895209448,
+        "y" : 0.42296511646657131
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.97311139564660687,
+      "text" : "'교환 • 대리'를 나타내는 for"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023745313856336825,
+        "width" : 0.81456548517400573,
+        "x" : 0.13912989489896199,
+        "y" : 0.45747782853235375
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "Must 08 학습 '4형식에서 3형식 문장으로 바꿔 쓰기'에서 설명한 바와 같이, for"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021970284356011227,
+        "width" : 0.3503480174324729,
+        "x" : 0.1183294714573134,
+        "y" : 0.48691860454387093
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "에는 '교환 •대리'의 이미지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.44547562165693799,
+        "x" : 0.1206496600441512,
+        "y" : 0.53633720949276698
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.14085667215815487,
+      "text" : "예e She brought a cup of coffee for me."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.51972159472378809,
+        "x" : 0.16705335565274335,
+        "y" : 0.56088888910172618
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 나를 위해(나를 대신해서) 커피 한 잔을 가져다주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018425218370225704,
+        "width" : 0.78212616660378198,
+        "x" : 0.16927695807398022,
+        "y" : 0.58136642489670698
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.30235988200589969,
+      "text" : "*'나를 위해'라는 것은 '내가 마실 커피는 원래 내가 가져와야 하는데, 그것을 그녀가 대신 가져다주었다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.10904872417449954,
+        "x" : 0.19257540577541735,
+        "y" : 0.60311111150780583
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.15294117647058825,
+      "text" : "라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02329974110921218,
+        "width" : 0.81206495111638843,
+        "x" : 0.13921114382375099,
+        "y" : 0.64825581412709132
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 이 문장에서 for를 to로 바꾸면, '대신 ~해 주다'라는 느낌은 없어지고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026307317097981842,
+        "width" : 0.83327865600585938,
+        "x" : 0.11816356714043395,
+        "y" : 0.67362997917665624
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "단지 물리적으로 커피를 이동했다는 의미가 된다. to의 목적어를 '사람'이 아닌 '물"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021844961378309491,
+        "width" : 0.44315546209161932,
+        "x" : 0.11832946141358706,
+        "y" : 0.703488371988223
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "건'으로 바꾸면 그 느낌을 쉽게 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020546511332194095,
+        "width" : 0.51276102933016698,
+        "x" : 0.11832945901531106,
+        "y" : 0.75145348871805351
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.0040096230954290296,
+      "text" : "X She brought a cup of coffee for the table."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.63573087345470081,
+        "x" : 0.167053356662343,
+        "y" : 0.77761627928383925
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.41287284144427,
+      "text" : "* \"그녀가 테이블을 대신해서 커피 한 잔을 가져다주었다?\"라는 의미로 부자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.50116010145707568,
+        "x" : 0.12064964752497423,
+        "y" : 0.80222222194152304
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.0025231286795626578,
+      "text" : "• She brought a cup of coffee to the table."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.1809744726527821,
+        "x" : 0.64269141783337036,
+        "y" : 0.80222222195110615
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.28735632183908044,
+      "text" : "+ 커피의 물리적인 이동"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019058826022677944,
+        "width" : 0.36923503875732422,
+        "x" : 0.16460332668035357,
+        "y" : 0.82402584203235363
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 그 테이블에 커피를 한 잔 가져갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024852641635470962,
+        "width" : 0.68936014175415039,
+        "x" : 0.1390955510168623,
+        "y" : 0.87173132397051334
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 '교환'의 이미지가 강하게 드러나는 for의 예시를 소개하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013091731177435895,
+        "width" : 0.039443154226649887,
+        "x" : 0.088167053861153019,
+        "y" : 0.930222222326474
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 1,
+      "text" : "364"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 352,
+  "pdf_page_number" : 353
+}

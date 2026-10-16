@@ -1,0 +1,295 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026290962820669672,
+        "width" : 0.81205007133754437,
+        "x" : 0.0625553427500284,
+        "y" : 0.070729126204769122
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "내가 생각하는 실전에 강한 말하기 실력은 '어떤 주제에 관해서든 어느 정도 이야"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021811337466784764,
+        "width" : 0.34186046410959658,
+        "x" : 0.041860465648690046,
+        "y" : 0.10318866279006755
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "기할 수 있는 것'이라고 생각한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026271444173699643,
+        "width" : 0.80977540793993785,
+        "x" : 0.06258377358326575,
+        "y" : 0.12690633660046924
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "좋아하는 것, 잘 알고 있는 분야, 평소에 생각하고 있던 것은 당연히 쉽게 말할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027246215049939515,
+        "width" : 0.83076500858820923,
+        "x" : 0.041614015049844646,
+        "y" : 0.1540185751558063
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "수 있을 것이다. 그러나 그 외의 것에 대해서는 아무런 생각이 나지 않아서 말할 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030775646280672198,
+        "width" : 0.82868314702460111,
+        "x" : 0.043779639950602314,
+        "y" : 0.1785963214470444
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "없는 사람도 있다. 그러한 경우, 그 사람은 비즈니스의 세계에서 '쓸모없고 무능력"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028658675133812372,
+        "width" : 0.82849553967198575,
+        "x" : 0.043928962682296319,
+        "y" : 0.20797783894654898
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "한 사람'이 된다. 왜냐하면 비즈니스에서 다루어야 하는 사안은 자신이 좋아하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021910468068557787,
+        "width" : 0.45348835397273934,
+        "x" : 0.044186055782525657,
+        "y" : 0.23826395078840346
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "일이나 자신 있는 분야만이 아니기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026523108604843415,
+        "width" : 0.81430265818927317,
+        "x" : 0.064909652262504211,
+        "y" : 0.29040661539891399
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "누구나 자세히는 아니어도, 머릿속으로 막연히 생각하는 주제들이 있을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023390993805877835,
+        "width" : 0.57227099263076242,
+        "x" : 0.044077269402636544,
+        "y" : 0.31968758658961227
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 그것을 말로 잘 표현하는 것은 매우 힘든 일이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025450720841954322,
+        "width" : 0.80954650446032805,
+        "x" : 0.06499394098291264,
+        "y" : 0.34406747391422132
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이 책이 '형식'에 초점을 맞추고 있는 이유는 '형식'이라는 일종의 '수로'를 머릿속"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026577461283221804,
+        "width" : 0.82842576047207439,
+        "x" : 0.046268563562227159,
+        "y" : 0.37230087887339103
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "에 만들어, 마음에 떠오르는 막연한 생각을 막힘없이 입 밖으로 흘러나오게 하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022424746868988321,
+        "width" : 0.10266199855939714,
+        "x" : 0.046343419236165383,
+        "y" : 0.40375855675559347
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "위함이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02382756208718817,
+        "width" : 0.60041326428136077,
+        "x" : 0.069511258331919359,
+        "y" : 0.45506857127775691
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "어떤 주제가 되었든 기계적으로 의견을 낼 수 있도록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026738003780611641,
+        "width" : 0.8075230808122783,
+        "x" : 0.069489927432041507,
+        "y" : 0.48125585983037966
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "기계적으로 의견을 낼 수 있게 되면, 그 자체로 상당한 안정감과 자신감을 얻을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021905318734073531,
+        "width" : 0.090697674041098741,
+        "x" : 0.046511627967822732,
+        "y" : 0.51308139503747918
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02214348981399461,
+        "width" : 0.80697670794547871,
+        "x" : 0.069767460145381779,
+        "y" : 0.53764393290873003
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "게다가 지금까지 자신이 닦아 온 문장을 만드는 실력이나, 여러 문제에 대해 검"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02957993972818862,
+        "width" : 0.83084266608488466,
+        "x" : 0.048563618362723139,
+        "y" : 0.56157016118741243
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "색한 지식 및 정보를 더하면, 악마가 가진 강력한 힘과 같은 설득력을 얻을 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02214348981399461,
+        "width" : 0.058139535890403368,
+        "x" : 0.048837208818364203,
+        "y" : 0.59433126658308622
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015824291746208807,
+        "width" : 0.49099051833998231,
+        "x" : 0.41613847657442682,
+        "y" : 0.92353344600248755
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.91224018475750579,
+      "text" : "13장 설득을 위한 영어: '형식'을 만들어 영어로 사고하는 훈련 419"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    645
+  ],
+  "pdf_page_index" : 405,
+  "pdf_page_number" : 406
+}

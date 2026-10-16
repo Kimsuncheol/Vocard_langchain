@@ -1,0 +1,310 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030666666666666731,
+        "width" : 0.12761020660400391,
+        "x" : 0.13921113801243362,
+        "y" : 0.092888889256246276
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99941894247530505,
+      "text" : "Must 82"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032003874037000779,
+        "width" : 0.4245939688249068,
+        "x" : 0.13921113787582967,
+        "y" : 0.12933333407976022
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99929047821768124,
+      "text" : "for의 전체적인 의미①"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017448320176866261,
+        "width" : 0.22969837622209027,
+        "x" : 0.13921113619013709,
+        "y" : 0.21366279057728943
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99863574351978168,
+      "text" : "•'목표'를 나타내는 for"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026222222222222258,
+        "width" : 0.36658932945945044,
+        "x" : 0.11600927984684084,
+        "y" : 0.30666666672000542
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99041752224503765,
+      "text" : "• for의 어원은 '~ 앞에'이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021828167385525177,
+        "width" : 0.81456375122070312,
+        "x" : 0.13216877507979274,
+        "y" : 0.35741282964388876
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.052631578947368418,
+      "text" : "for는 고대 영어를 사용하던 시점(약 8~12세기)에서 이미 많은 의미를 가지고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024934828864203618,
+        "width" : 0.83100301569158386,
+        "x" : 0.11581948983898137,
+        "y" : 0.38275223099434696
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.051383399209486168,
+      "text" : "있던 말이었다. 그 조상인 게르만 조어까지 거슬러 올라가면 '~ 앞에'라는 의미를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021875968933105394,
+        "width" : 0.83526680686257093,
+        "x" : 0.11368910232214778,
+        "y" : 0.41279069757093723
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "가지고 있었을 것으로 추측된다. 인간은 앞쪽에 있는 목표를 향해 나아가기 때문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024013295491536524,
+        "width" : 0.41108811985362659,
+        "x" : 0.11582999688894943,
+        "y" : 0.43826860344385965
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.044554455445544552,
+      "text" : "에 for는 '목표'라는 의미를 가지게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021132498847113657,
+        "width" : 0.55942916870117188,
+        "x" : 0.11585893988760855,
+        "y" : 0.48823524726733114
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.11865569272976681,
+      "text" : "예문 A super-computer was used for the research."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019014251708984298,
+        "width" : 0.35531475327231665,
+        "x" : 0.16459592144577151,
+        "y" : 0.51302748959111144
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "그 연구를 위해 슈퍼컴퓨터가 사용되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.30394430594010785,
+        "x" : 0.16705336897610917,
+        "y" : 0.53777777792876214
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.4098360655737705,
+      "text" : ">'그 연구를 목표로 하여 라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026530229356553803,
+        "width" : 0.43460139361294836,
+        "x" : 0.18064220471535666,
+        "y" : 0.60847383938909183
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.96480938416422291,
+      "text" : "- 'for -ing'와 목적을 나타내는 to 부정사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022745647006564673,
+        "width" : 0.7147764292630282,
+        "x" : 0.13911321423798706,
+        "y" : 0.64669025257676149
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "참고로 목적을 나타내는 표현으로는, tO 부정사의 부사적 용법이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01174289406670459,
+        "width" : 0.03016241301189769,
+        "x" : 0.11832946632854459,
+        "y" : 0.70203488371274492
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.99333333333333329,
+      "text" : "예운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019116278754340299,
+        "width" : 0.64965196089311095,
+        "x" : 0.14849188513449355,
+        "y" : 0.69600000010662144
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.0083832335329341312,
+      "text" : "I need a box to store DVDs. DVD를 수납할 상자가 1개 필요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016149870978461434,
+        "width" : 0.32250579920682043,
+        "x" : 0.16705336483648656,
+        "y" : 0.72222222239066769
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.33033033033033032,
+      "text" : "*'DVD를 수납하기 위한 이라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.44083525917746802,
+        "x" : 0.13457076943929633,
+        "y" : 0.76888888889943685
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "for -ing로도 동일한 문장을 만들 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.70997680317271838,
+        "x" : 0.12064964938177201,
+        "y" : 0.81686046530918444
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.14830508474576271,
+      "text" : "예e I need a box for storing DVDs. DVD를 수납할 상자가 1개 필요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023893176608615452,
+        "width" : 0.75427809628573339,
+        "x" : 0.13675582040915463,
+        "y" : 0.8673614800179863
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "2가지 문장 모두 사용할 수 있는 경우도 많지만, 그렇지 않은 경우도 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.039443154226649887,
+        "x" : 0.088167053861153019,
+        "y" : 0.92711111095907839
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.97777777777777775,
+      "text" : "360"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 348,
+  "pdf_page_number" : 349
+}

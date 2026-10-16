@@ -1,0 +1,250 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015501404660088647,
+        "width" : 0.10707920865380377,
+        "x" : 0.29512767876672602,
+        "y" : 0.087961982237370284
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "IT might rain"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013465700404984626,
+        "width" : 0.090533225593513178,
+        "x" : 0.64864744365733129,
+        "y" : 0.13456038914198309
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "It may rain"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836694444983,
+        "width" : 0.43348622826494176,
+        "x" : 0.073394500783431224,
+        "y" : 0.27180232581621422
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.98411497730711039,
+      "text" : "•0 '미래'란 '아직 현실이 되지 않은 곳'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021906145981379854,
+        "width" : 0.35091743415434368,
+        "x" : 0.087155964287507035,
+        "y" : 0.30803571396541285
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 미래에 대해 생각해 보자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021947674240384796,
+        "width" : 0.76834859700061697,
+        "x" : 0.087155976935471266,
+        "y" : 0.33430232590520803
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.035828534868841973,
+      "text" : "미래는 '아직 도달하지 않은(=현실이 되어 있지 않은) 앞에 있는 장소'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027561618600572824,
+        "width" : 0.81219086425092557,
+        "x" : 0.082473808991595024,
+        "y" : 0.35921825555791442
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "\"현재'는 '자신이 존재하는 현실의 장소' '과거'는 '과거가 현실이었던 장소'로, 현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023411544731685052,
+        "width" : 0.82568807023536661,
+        "x" : 0.068807340942668632,
+        "y" : 0.38953488413243786
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "재와 과거는 모두 '실제로 있었던 장소'이다. 하지만 미래는 실제로 존재하는 장소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021989202499389515,
+        "width" : 0.4954128507498457,
+        "x" : 0.068807332744343197,
+        "y" : 0.41696428531804264
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "가 아닌 '머릿속으로만 생각한 상상의 장소'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028745736394609755,
+        "width" : 0.81029558921566469,
+        "x" : 0.089164111667709087,
+        "y" : 0.44173146036373856
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "뒤에서 자세히 설명하겠지만 will은 사실상 미래가 아닌 '의지(~할 생각이다)'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023318105936050437,
+        "width" : 0.8279816663820081,
+        "x" : 0.068807331834914678,
+        "y" : 0.47232142852846348
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "와 '예상(~일 것이다)'을 나타낸다. 즉, '마음속으로만 생각할 뿐 실제로는 아직 하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025222281047276085,
+        "width" : 0.83048996165373778,
+        "x" : 0.068684203148725975,
+        "y" : 0.49919036668986283
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "지 않았다'라는 의미를 가지고 있다. 하지만 이렇듯 will의 의미를 살펴보았을 때."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027481794357299805,
+        "width" : 0.82619813130840092,
+        "x" : 0.06856543529564034,
+        "y" : 0.5256366207035299
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "will이 아직 현실화되지 않은 장소', 즉 미래를 나타내는 것에도 쓰인다는 것을 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022764171872820094,
+        "width" : 0.14256298457954092,
+        "x" : 0.068626764547167207,
+        "y" : 0.5562051233304518
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "해할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022006028039114778,
+        "width" : 0.80526401966347838,
+        "x" : 0.091628825989057111,
+        "y" : 0.60962995953030452
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "지금부터는 인간이 시간을 어떻게 이해하는지를 보면서 다양한 시제를 살펴보도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836694444872,
+        "width" : 0.089449539507393774,
+        "x" : 0.071100918253304571,
+        "y" : 0.63953488392480951
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014505146230970101,
+        "width" : 0.47266330907307824,
+        "x" : 0.44944744371370798,
+        "y" : 0.92579797519067086
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.92307692307692313,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 63"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    640
+  ],
+  "pdf_page_index" : 59,
+  "pdf_page_number" : 60
+}

@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024537139892578108,
+        "width" : 0.68000719764015893,
+        "x" : 0.062526327726365238,
+        "y" : 0.070415161862925069
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "관없으니 1개의, '무엇이든 좋으니 1개의'라는 느낌과는 대조적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026291989644368519,
+        "width" : 0.80974474820223719,
+        "x" : 0.083526697418602941,
+        "y" : 0.095930232221831058
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, \"난 방금 역에 다녀왔어.\"라고 말할 때도, 영어로는 아래와 같이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021870801289876285,
+        "width" : 0.26218097860162909,
+        "x" : 0.060324825606378016,
+        "y" : 0.12790697646392901
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "station에 the를 붙인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0096536386277940034,
+        "width" : 0.079367209564555674,
+        "x" : 0.71201313792449017,
+        "y" : 0.13016455353923506
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "The sTation"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.32018561796708539,
+        "x" : 0.10672853659348162,
+        "y" : 0.17732558130916354
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "I've just been to the station."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024083655463324583,
+        "width" : 0.80992412567138672,
+        "x" : 0.085765918166794866,
+        "y" : 0.25512867085634339
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이는 말하는 사람과 듣는 사람이 '역이라고 하면, 바로 그 역이지.'라고 서로 알고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.83062648773193359,
+        "x" : 0.064965178329606618,
+        "y" : 0.28488372110330529
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "있기 때문이다. 만약 I've just been to a station.이라고 말하면, 듣는 사람의 머"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031847088283962766,
+        "width" : 0.8313235369595614,
+        "x" : 0.064596533954728544,
+        "y" : 0.30501592901077457
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "릿속에 '어느 역인지 모르겠지만, 역이 하나 머릿속에 들어오는' 것이기 때문에 듣는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325778537246,
+        "width" : 0.54988397251475951,
+        "x" : 0.062645020755445036,
+        "y" : 0.33866279058712412
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "사람은 \"어느 역을 말하는 거야?'라고 물어볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020466408623589394,
+        "width" : 0.81206495111638843,
+        "x" : 0.085846874747648391,
+        "y" : 0.39377777779262391
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 한편으로 이렇게 두 사람이 무엇을 말하는지 알고 있지 않은 상황에도,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021980620490180125,
+        "width" : 0.5545243783430619,
+        "x" : 0.064965190418086211,
+        "y" : 0.42133333302863074
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "관용적으로 the를 붙이는 경우가 흔한 것으로 보인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020563975016276048,
+        "width" : 0.53614984859119752,
+        "x" : 0.064855079589481543,
+        "y" : 0.46965274274089608
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.12961622013034033,
+      "text" : "예문 Icaught a bad cold and went to the doctor."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.3410672924735329,
+        "x" : 0.11368909146543281,
+        "y" : 0.49555555578547272
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "난 지독한 감기에 걸려서 의사에게 갔어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025237547980414554,
+        "width" : 0.81006726351651281,
+        "x" : 0.088008578598619672,
+        "y" : 0.54219259310334256
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "위 예문의 경우, 말하는 사람의 마음속에 '항상 찾아가는 의사가 정해져 있다'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024482209947374156,
+        "width" : 0.83086039803244849,
+        "x" : 0.06717841327455254,
+        "y" : 0.57063837013851348
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "는 것을 의미할 수 있다. 하지만 단순히 관용적으로 doctor 앞에 the를 붙이는 경"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021972868177625893,
+        "width" : 0.26682134108109906,
+        "x" : 0.064965200043847246,
+        "y" : 0.59866666673653379
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "우가 많은 것으로 보인다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020537467956542876,
+        "width" : 0.80974474820223719,
+        "x" : 0.088167069274487891,
+        "y" : 0.62790697635805448
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "그 밖에도 church, beach, mountains, supermarket 등의 경우, 말하는 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.83062648773193359,
+        "x" : 0.067285363933426379,
+        "y" : 0.65406976706373321
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "람과 듣는 사람이 모두 구체적으로 알고 있지 않더라도, 기계적으로 the를 붙이는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021989663865831233,
+        "width" : 0.83062648773193359,
+        "x" : 0.06728536404572201,
+        "y" : 0.68023255803419302
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "것이 일반적이라고 한다. 한 영국인의 블로그*에 의하면, 옛날 사람들이 살던 지역"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021928940667046426,
+        "width" : 0.83526680686257104,
+        "x" : 0.064965204388565331,
+        "y" : 0.70784883710642255
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "사회가 지금보다 매우 작았기 때문에, 마을 안에 교회, 해변, 산이라고는 각각 한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022701975504557326,
+        "width" : 0.83313404430042604,
+        "x" : 0.067193729720117237,
+        "y" : 0.73391052883389885
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "곳씩 밖에 없어서 그러한 생각이 기원이 되어 관용적으로 the를 붙이게 된 것 같다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021807493421766466,
+        "width" : 0.4153132438659668,
+        "x" : 0.067285373318611702,
+        "y" : 0.76308139524345298
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "고 설명한다. 이는 매우 흥미로운 설이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.22041762958873404,
+        "x" : 0.15777262359503749,
+        "y" : 0.81955555568317295
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.93950177935943058,
+      "text" : "그룹을 나타내는 the"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.32946634292602539,
+        "x" : 0.081206506727242445,
+        "y" : 0.87500000007150736
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "*Eigo with Luke: 'The' 사용법 - 영국 시골 팁"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.2923433780670166,
+        "x" : 0.088167057968681781,
+        "y" : 0.88933333327793496
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "https://wwwcigowithluke.com/the-1/"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015762371487087701,
+        "width" : 0.38310744545676501,
+        "x" : 0.54279780484851914,
+        "y" : 0.92571496621889893
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.89893617021276595,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매 297"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 287,
+  "pdf_page_number" : 288
+}

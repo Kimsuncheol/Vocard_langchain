@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523256050734249,
+        "width" : 0.12499999999999997,
+        "x" : 0.13888888889895332,
+        "y" : 0.091569767257115187
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99938233477455218,
+      "text" : "Must 28"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033849380194504564,
+        "width" : 0.44040098799035909,
+        "x" : 0.1409143551080041,
+        "y" : 0.12812324814949183
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99920031987205116,
+      "text" : "분사구문을 만드는 방법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019549303631765547,
+        "width" : 0.64602795323581563,
+        "x" : 0.13879226864612373,
+        "y" : 0.21177937210070774
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99902193656560012,
+      "text" : "• 같은 말을 두 번 하지 마라! 말하지 않아도 알 수 있는 말은 생략하라!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023740153295713773,
+        "width" : 0.81036861771387425,
+        "x" : 0.13184394235925123,
+        "y" : 0.30797107311057936
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서는 분사구문을 만드는 방법에 대해 살펴보도록 하자. 분사구문을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022733660355157226,
+        "width" : 0.34318345523049643,
+        "x" : 0.11084672073950434,
+        "y" : 0.33495068466558886
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "만드는 포인트는 아래 2가지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020545394395169891,
+        "width" : 0.40972220779310725,
+        "x" : 0.14583334042799173,
+        "y" : 0.40116279061265492
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.64864864864864868,
+      "text" : "① 밀하지 않아도 알 수 있는 것은 생략한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.29629629148659137,
+        "x" : 0.14583333563101847,
+        "y" : 0.43016014243799239
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.66959385290889128,
+      "text" : "② 같은 말을 두 번 하지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012578264674258044,
+        "width" : 0.029659741990109678,
+        "x" : 0.84285353345870939,
+        "y" : 0.39574016108851651
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.98305084745762716,
+      "text" : "fee"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.032407406204981171,
+        "x" : 0.88888888937436128,
+        "y" : 0.46220930260393711
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890259298141257,
+        "width" : 0.36342591630651599,
+        "x" : 0.13194444914419576,
+        "y" : 0.49555160100133455
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "그럼 바로 분사구문을 만들어 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.35185185425670434,
+        "x" : 0.10879629490917743,
+        "y" : 0.54492882555352984
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "When he saw me, he ran away."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.30092591630651583,
+        "x" : 0.4976851898841817,
+        "y" : 0.54359430574499867
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "그가나를 봤을 때, 그는 도망갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.72453704184674195,
+        "x" : 0.10879629377419504,
+        "y" : 0.5711743774379342
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "Because he saw me, he ran away. 그는 나를 봤기 때문에, 그는 도망갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022230992537800476,
+        "width" : 0.3248045576379654,
+        "x" : 0.10846480800997776,
+        "y" : 0.59711850638617459
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "If he sees me, he'l run away."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.31712962481992468,
+        "x" : 0.50000000229385511,
+        "y" : 0.59875444827184632
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그가 나를 보면, 그는 도망갈 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.57175924963984925,
+        "x" : 0.12962963432214711,
+        "y" : 0.6525800707557714
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "위의 3가지 문장을 보면 아래와 같은 질문을 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024571210039892266,
+        "width" : 0.64838209219858167,
+        "x" : 0.13183145183965503,
+        "y" : 0.69682038366793331
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "1. '시간', '이유', '조건'과 상관없이 모두 '~하고'로 해석할 수는 없을까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.46296295815325794,
+        "x" : 0.13194444673547456,
+        "y" : 0.73110465107824263
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "2. 'he(그는)'가 2번 반복되니 지루하지는 않은가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024354238951333484,
+        "width" : 0.59535228106992455,
+        "x" : 0.12944116825677549,
+        "y" : 0.78534503397598976
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "위에 제시된 2가지 포인트를 고려하여 해석을 만들어 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483324111992829,
+        "width" : 0.27083333333333337,
+        "x" : 0.43055555543665824,
+        "y" : 0.8167259782832661
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "나를 보고, 그는 도망갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021854051067311531,
+        "width" : 0.27083333333333331,
+        "x" : 0.43055555579148858,
+        "y" : 0.84297153012825587
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "나를 보고, 그는 도망갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890259298141257,
+        "width" : 0.32175924963984937,
+        "x" : 0.43055556024684893,
+        "y" : 0.87055160100073559
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "나를 보고, 그는 도망갈 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017452205203181914,
+        "width" : 0.04398148178208805,
+        "x" : 0.8564814812226712,
+        "y" : 0.54359430607424331
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.52884615384615385,
+      "text" : "시간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01748841343401164,
+        "width" : 0.041666666666666741,
+        "x" : 0.8564814813734567,
+        "y" : 0.5711743769095472
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.390625,
+      "text" : "이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016071132917845454,
+        "width" : 0.04398148178208805,
+        "x" : 0.85648148121543732,
+        "y" : 0.59875444836501357
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.27192982456140352,
+      "text" : "조건"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016122858719469391,
+        "width" : 0.04398148178208805,
+        "x" : 0.81944444417116669,
+        "y" : 0.81672597838067407
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.54621848739495793,
+      "text" : "시간"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017793594306049765,
+        "width" : 0.041666666666666741,
+        "x" : 0.81944444432870367,
+        "y" : 0.84430604945185039
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.44444444444444442,
+      "text" : "이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016195274332664211,
+        "width" : 0.04398148178208805,
+        "x" : 0.81944444417840034,
+        "y" : 0.8718861209099531
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.28244274809160308,
+      "text" : "조건"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.039351851551245279,
+        "x" : 0.078703703738266267,
+        "y" : 0.92732558136161014
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.989247311827957,
+      "text" : "130"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 125,
+  "pdf_page_number" : 126
+}

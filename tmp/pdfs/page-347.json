@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022877215916757843,
+        "width" : 0.7881311069835315,
+        "x" : 0.097762452652682075,
+        "y" : 0.0766864487280281
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "He pulled at my jacket with all his strength. 그는 힘껏 내 재킷을 잡아당겼다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019172328884776935,
+        "width" : 0.48752026124434045,
+        "x" : 0.09775386655146559,
+        "y" : 0.1029044110589652
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.57919621749408978,
+      "text" : "^ 그가 내 재킷을 his strength를 사용해 잡아당겼다는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020493026746913778,
+        "width" : 0.42424240979281336,
+        "x" : 0.13986014717818537,
+        "y" : 0.15101860081906415
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.97935368043087967,
+      "text" : "with 0=CJ: 부대 상황을 나타내는 with"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025974897920187812,
+        "width" : 0.81393614682284265,
+        "x" : 0.072067034456381088,
+        "y" : 0.18564699096455273
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "마지막으로 매우 자주 사용되는 용법인, 부대 상황을 나타내는 with를 설명하도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027218108265879226,
+        "width" : 0.811485550620339,
+        "x" : 0.051094017876102994,
+        "y" : 0.21160913250200153
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "록 하겠다. with 뒤에 5형식처럼 '목적어+ 목적 보어'의 형태가 오는 것이 특징이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020266400278934449,
+        "width" : 0.44075723127885291,
+        "x" : 0.097787210567316318,
+        "y" : 0.25716791589518573
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.02634054562558796,
+      "text" : "He listened to me with his eyes closed."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860229383988,
+        "width" : 0.32167831334200769,
+        "x" : 0.54545454954029327,
+        "y" : 0.25726744196952223
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "그는 눈을 감고 내 이야기를 들었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013292530978855854,
+        "width" : 0.053613055836070678,
+        "x" : 0.37762237637489399,
+        "y" : 0.28343023261020184
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.29411764705882354,
+      "text" : "목적어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013292530978855854,
+        "width" : 0.037296037782322267,
+        "x" : 0.47552447516478291,
+        "y" : 0.28343023259203326
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.20000000000000001,
+      "text" : "보어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02050075159334741,
+        "width" : 0.81351982463489891,
+        "x" : 0.074592068999920116,
+        "y" : 0.31089459710018519
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이 '목적어와 목적 보어'의 관계는 '목적어=목적 보어'처럼 동등한 관계로 His"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023036893434076888,
+        "width" : 0.59932201558893383,
+        "x" : 0.051121962965815525,
+        "y" : 0.33813384182094219
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "eyes are closed. 문장에서 are를 뺀 것과 같은 형태이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802326131437288,
+        "width" : 0.8135198246348988,
+        "x" : 0.072261066889281397,
+        "y" : 0.36482558110897245
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 문장을 만들 때 잘 판단해야 하는 부분은 목적 보어를 -ing로 할지, 과거"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027033087001425482,
+        "width" : 0.83479421788995911,
+        "x" : 0.053457418975324925,
+        "y" : 0.38812584961674235
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "분사로 할지 정하는 것이다. 목적어가 '~하는 입장'이면 목적 보어는 ing를 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026943464422774954,
+        "width" : 0.83481875332919031,
+        "x" : 0.053451841571064307,
+        "y" : 0.41468519487764888
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "하고, '~당하는 입장'이면 목적 보어는 과거분사를 사용한다. 위 문장에서 그의 눈"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020475003231511524,
+        "width" : 0.81118878451260656,
+        "x" : 0.053613067096843665,
+        "y" : 0.44464127569096235
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "은 그의 의지에 의해 닫히는 입장이기 때문에 목적 보어가 과거분사로 되어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023161752124715385,
+        "width" : 0.59468373385342688,
+        "x" : 0.074467569792560001,
+        "y" : 0.47193839303253382
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 다음 예시는 -ing와 과거분사 중 무엇이 맞는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021159475307954589,
+        "width" : 0.57364342429421156,
+        "x" : 0.076809167640630574,
+        "y" : 0.52586590009775014
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.34926212227687981,
+      "text" : "He was angry with his shoulders [shaking/shaken]."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016386182462356125,
+        "width" : 0.27738926627419214,
+        "x" : 0.076923082387136646,
+        "y" : 0.55358724575407126
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그는 분노로 어깨를 떨고 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021884720551429093,
+        "width" : 0.8135198246348988,
+        "x" : 0.074592069054323543,
+        "y" : 0.6061046508809137
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "그가 자신의 의지로 어깨를 떨고 있는지 아닌지가 포인트이다. 일부러 어깨를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024030450596230768,
+        "width" : 0.82765258442271838,
+        "x" : 0.053532831275300487,
+        "y" : 0.63210550551313727
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "떠는 것은 의미상 어색하다. 무의식적으로 어깨가 제멋대로 떨리고 있는 상황이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020390034144277314,
+        "width" : 0.33333331888372247,
+        "x" : 0.055944061368809604,
+        "y" : 0.68600531444237234
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.0056980056980056983,
+      "text" : "X He shakes his shoulders."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023294962434456168,
+        "width" : 0.37593824213201349,
+        "x" : 0.3913819721197927,
+        "y" : 0.68179192085284757
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "그는 자신의 어깨를 (자신의 의지로)떤다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017714791851195733,
+        "width" : 0.40326339548284357,
+        "x" : 0.069930073889831579,
+        "y" : 0.71213463200841098
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "- His shoulders are shaken by him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372721642552,
+        "width" : 0.23543123765425245,
+        "x" : 0.10023309899597659,
+        "y" : 0.7572674415372731
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.045261669024045263,
+      "text" : "His shoulders shake"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021785460709469628,
+        "width" : 0.27566339752890839,
+        "x" : 0.36335754153431216,
+        "y" : 0.75303669775208959
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "그의 어깨가 (제멋대로) 떨린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022279110917799994,
+        "width" : 0.80905463478781969,
+        "x" : 0.076832079520909105,
+        "y" : 0.79309371120576222
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "정답은 He was angiy with his shoulders shaking.이다. 이처럼 eyes 또"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021810050133163728,
+        "width" : 0.83449883894486876,
+        "x" : 0.053613051306968161,
+        "y" : 0.81831395320938705
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "는 shoulders와 같은 신체 부위를 나타내는 단어가 목적어 자리에 올 때, 어떤 행"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02161918349557479,
+        "width" : 0.83699157021262427,
+        "x" : 0.053529306242010091,
+        "y" : 0.84406901138245838
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "위가 의식적으로 행해지고 있다면 목적 보어는 과거분사(의지에 의해 ~당하다)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023220381555143277,
+        "width" : 0.83235801349986682,
+        "x" : 0.055848338900653195,
+        "y" : 0.87054369832309442
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "가 되고, 무의식적으로 행해지는 행위라면 목적 보어는-ing(몸이 제멋대로 ~하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021388583525394966,
+        "width" : 0.14488951726393268,
+        "x" : 0.053429367121649876,
+        "y" : 0.89918942914782407
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "있다)가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395172038102,
+        "width" : 0.43822843378240411,
+        "x" : 0.47552447764328304,
+        "y" : 0.92732558147990074
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.89147286821705429,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 359"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 347,
+  "pdf_page_number" : 348
+}

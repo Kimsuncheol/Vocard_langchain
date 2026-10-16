@@ -1,0 +1,220 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.13563218901428994,
+        "x" : 0.16321838813866171,
+        "y" : 0.071111111211900613
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.95327102803738317,
+      "text" : "③ 결과 구문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02056201595730256,
+        "width" : 0.80229888787249481,
+        "x" : 0.096551705776396227,
+        "y" : 0.10610465077368603
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "구문 자체가 하나의 의미를 가지며, 언어학에서는 이중목적어 구문(4형식)에 비"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023288113911946628,
+        "width" : 0.82068961313840538,
+        "x" : 0.078160938009341374,
+        "y" : 0.13226744184409445
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "해 즐겨 다루는 구문이다. '주어에서 나온 동사의 힘이 목적어에 부딪친 결과로, 목"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021806201510959244,
+        "width" : 0.58160919747439788,
+        "x" : 0.075862067813586856,
+        "y" : 0.16133333346688328
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "적어가 보어의 상태로 바뀌다'라는 의미를 가진 구문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01167054239908849,
+        "width" : 0.029885057323257289,
+        "x" : 0.075862068924578252,
+        "y" : 0.21366279073353422
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 4,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.35172414444334565,
+        "x" : 0.11724137593766133,
+        "y" : 0.21066666636443809
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.061413673232908458,
+      "text" : "He pushed the door =(open)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017507752312554303,
+        "width" : 0.43908047575487863,
+        "x" : 0.11954022177773303,
+        "y" : 0.23982558131187781
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "IHe pushed the door. + The door was open.]"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021976743910047669,
+        "width" : 0.54712643737363742,
+        "x" : 0.1241379322491418,
+        "y" : 0.26000000021883896
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "그가 문에 미는 힘을 가한 결과, '문=열려 있는' 상태로 변화했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01777777777777767,
+        "width" : 0.24137932070532259,
+        "x" : 0.1218390751777919,
+        "y" : 0.28622222236991179
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "*그는 문을 밀어서 열었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017485788133409286,
+        "width" : 0.40229885353485406,
+        "x" : 0.07356321679509896,
+        "y" : 0.32844444449833343
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.17980769230769231,
+      "text" : "예문 We painted the wall = (White)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016719384087456546,
+        "width" : 0.43242669943851098,
+        "x" : 0.12172335297207416,
+        "y" : 0.35559644926774192
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "IWe painted the wall. + The wall was white.]"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.60689655202015202,
+        "x" : 0.1241379307758301,
+        "y" : 0.38081395368109927
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "우리가 벽에 페인트칠하는 힘을 가한 결과, '벽=흰색의 상태로 변화했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.33333333333333337,
+        "x" : 0.12183908410919528,
+        "y" : 0.40261627877288741
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "-> 우리는 벽을 흰색으로 페인트칠했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122503,
+        "width" : 0.55632184292864362,
+        "x" : 0.36551723934027597,
+        "y" : 0.92441860458929492
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.87397260273972599,
+      "text" : "2장 동사 ① 문장의 형식:동사를 단어로 이해하지 말고 문형으로 이해하라 53"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 50,
+  "pdf_page_number" : 51
+}

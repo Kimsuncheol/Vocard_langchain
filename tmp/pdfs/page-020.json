@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860622829819,
+        "width" : 0.30574711666831489,
+        "x" : 0.13563218842774732,
+        "y" : 0.13372093012878439
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "규칙1하고 싶은 말을 먼저 하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015889117770724881,
+        "width" : 0.18439838822548571,
+        "x" : 0.67329055078929745,
+        "y" : 0.084184762378863742
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.092274678111587988,
+      "text" : "하고 싶은 말을 먼저 하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010174418979220889,
+        "width" : 0.091954023358523429,
+        "x" : 0.80229885035971882,
+        "y" : 0.11046511606966658
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "① 매우 하고 싶은 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0089160207112629619,
+        "width" : 0.096551726136026472,
+        "x" : 0.80229884945791885,
+        "y" : 0.12044444443380919
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "② 약간 하고 싶은 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888889461,
+        "width" : 0.082758617803517232,
+        "x" : 0.80229885193058392,
+        "y" : 0.12933333323944041
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "③ 기회가 된다면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011696382310655395,
+        "width" : 0.059770114646514605,
+        "x" : 0.81609195405605306,
+        "y" : 0.13808139541332631
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "하고 싶은 말"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010174418131510432,
+        "width" : 0.041379308901758671,
+        "x" : 0.657471264974408,
+        "y" : 0.25000000020477531
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "나 먼저"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010324289533827025,
+        "width" : 0.064367817424017648,
+        "x" : 0.8321839072859013,
+        "y" : 0.25145348816168445
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "나중에 하지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021497383965386252,
+        "width" : 0.26283770640355797,
+        "x" : 0.13530874052094652,
+        "y" : 0.27082729104470249
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.0058139534883720929,
+      "text" : "규칙 2 가벼운 정보를 먼저,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017470284356011279,
+        "width" : 0.24827586414106456,
+        "x" : 0.22528735516859327,
+        "y" : 0.29941860456375613
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.016210739614994935,
+      "text" : "무거운 정보는 나중에 말하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02188372039794928,
+        "width" : 0.47816091717211667,
+        "x" : 0.11954023525302208,
+        "y" : 0.388000000412831
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "Is this a pen?에서 적용되는 것은 규칙 1이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020490956624348966,
+        "width" : 0.80459770706970823,
+        "x" : 0.11954022683474903,
+        "y" : 0.41555555537453248
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "This is a pen.이 의문문으로 Is this a pen?이 되는 이유는 is가 가장 하고 싶은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022124689737955783,
+        "width" : 0.17711027765072854,
+        "x" : 0.10110003350950966,
+        "y" : 0.4431527713872373
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "말이기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024654524061414884,
+        "width" : 0.59817178675226357,
+        "x" : 0.121630905639302,
+        "y" : 0.49555520639011796
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 왜 Is this a pen?에서 is가 '가장 하고 싶은 말'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.16781608699578607,
+        "x" : 0.098850577063409634,
+        "y" : 0.52470930250697734
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "이 되는 것일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.59540228434588172,
+        "x" : 0.11954023702919447,
+        "y" : 0.55232558158853784
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "그 이유는 이것이 펜인지 아닌지를 헷갈려 해서 질문한 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02328940582275385,
+        "width" : 0.63678158788238393,
+        "x" : 0.080459780648962392,
+        "y" : 0.5784883722645785
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "• 으로, '이것이 펜인가, 그렇지 않으면 펜이 아닌가?'라는 화자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.040216844346788183,
+        "width" : 0.088436808096540975,
+        "x" : 0.73688380250878671,
+        "y" : 0.51914047766430793
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "rsa pen?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.061829155815972148,
+        "width" : 0.12680908932799873,
+        "x" : 0.72678112922035454,
+        "y" : 0.54371645984977257
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "isnot & pen?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.34942528232408143,
+        "x" : 0.1011494276853849,
+        "y" : 0.60755555533173067
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "의 마음이 반영된 것이기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021865632798936607,
+        "width" : 0.80459770706970823,
+        "x" : 0.11954022680653199,
+        "y" : 0.63511111148241706
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "즉, 화자는 This is a pen.인지 This is not a pen.인지 확신을 갖지 못하고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021806201510959244,
+        "width" : 0.2275862123728134,
+        "x" : 0.10114942243045155,
+        "y" : 0.66133333345922019
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "망설이고 있는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.79999998283117968,
+        "x" : 0.1218390889158464,
+        "y" : 0.7106666666420135
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 화자 마음의 스포트라이트가 is를 비추면서 이것이 가장 하고 싶은 말이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022131729125976607,
+        "width" : 0.12887443402983806,
+        "x" : 0.10108002433759787,
+        "y" : 0.73820739120910583
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "되는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021987080044216567,
+        "width" : 0.44827588130988483,
+        "x" : 0.11954022020298861,
+        "y" : 0.78779069756712672
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서 중요한 사실 한 가지를 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026111843532986123,
+        "width" : 0.80490150934533233,
+        "x" : 0.1193999680731094,
+        "y" : 0.81213949663600338
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "동사가 주어 앞에 오는, 이른바 우리가 '의문문의 어순'으로 배우는 것은 엄밀하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02481072150336372,
+        "width" : 0.74286515333816816,
+        "x" : 0.098718866806827191,
+        "y" : 0.84007960385542169
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "게 말하면 의문문의 어순이 아니라 '동사를 강조하는 어순'이라는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.80919543130823668,
+        "x" : 0.11494251410281853,
+        "y" : 0.86918604613381789
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "'의문문의 어순'이라는 것은 동사를 강조하고자 동사를 문장 맨 앞에 가져온 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.027586205934505753,
+        "x" : 0.071264368182172425,
+        "y" : 0.92296511615452015
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 1,
+      "text" : "22"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    643
+  ],
+  "pdf_page_index" : 20,
+  "pdf_page_number" : 21
+}

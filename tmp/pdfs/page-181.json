@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.6682134533604831,
+        "x" : 0.16241299467938716,
+        "y" : 0.07688888866573429
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.1011333914559721,
+      "text" : "He is difficult to get along with. 그는 잘 지내기 어려운 사람이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018631561279296882,
+        "width" : 0.77979788272938844,
+        "x" : 0.16462657643350534,
+        "y" : 0.098845859134164216
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.36180904522613067,
+      "text" : "- 의미상으로 생각했을 때, '함께 잘 지내기 어렵다'라는 것은, 그와 지내기 '쉬움•어려움'을 평가하는 요소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01618346320258246,
+        "width" : 0.41299304285793437,
+        "x" : 0.18561484736320286,
+        "y" : 0.1204444441244229
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.21052631578947367,
+      "text" : "가 된다. 따라서 이 문장은 tough 구문으로 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023385482788085943,
+        "width" : 0.43427803634751772,
+        "x" : 0.21092384976408127,
+        "y" : 0.16658731520485948
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.96837209302325578,
+      "text" : "가주어 it 구문과 tough 구문의 의미 차이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.80974476049977828,
+        "x" : 0.13457077506836287,
+        "y" : 0.20784883740329507
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "He is ditticult to get along with.와 It is ditticult to get along With"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916020711262973,
+        "width" : 0.83294660419437061,
+        "x" : 0.11368911078788162,
+        "y" : 0.23244444450030355
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "him.은 단지 형태만 바꿔서 쓴 문장으로, 둘 다 거의 같은 의미라고 생각하는 사람"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0218565894232855,
+        "width" : 0.49187933739195477,
+        "x" : 0.11368910148963754,
+        "y" : 0.25866666648242576
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "도 있을 것이다. 그러나 실제로는 의미가 다르다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022827095031738187,
+        "width" : 0.78906284629875889,
+        "x" : 0.13679763006862891,
+        "y" : 0.31296319164256081
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.082621082621082614,
+      "text" : "먼저 tough 구문에서 주어에 it가 아니라 사람이나 사물이 오는 경우를 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.80974476049977839,
+        "x" : 0.13457077508271709,
+        "y" : 0.34156976763617375
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이 형태가 뜻하는 바는 정보의 주역이 상황(it)이 아니라 사람 또는 사물이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021979328579372792,
+        "width" : 0.83062648908466319,
+        "x" : 0.11368907551141665,
+        "y" : 0.36755555523620709
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "것이다. 따라서 이번에만 있는 상황이 아니라 그 사람 또는 사물이 가지고 있는 변"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021984496222601901,
+        "width" : 0.31786542310782356,
+        "x" : 0.1136890980712613,
+        "y" : 0.39534883710228086
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "하지 않는 성질에 초점을 둔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.65893273319758416,
+        "x" : 0.16009279801628315,
+        "y" : 0.44476744205419638
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "He is difticult to get along with. 그는 잘 지내기 어려운 사람이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883287217859,
+        "width" : 0.50812066260804523,
+        "x" : 0.16473317206477373,
+        "y" : 0.47093023277145063
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.27536231884057971,
+      "text" : "* 그는 항상 그러한 사람이다. 라는 변하지 않는 성질에 초점을 둔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026141728719075497,
+        "width" : 0.80995738793772165,
+        "x" : 0.13445792097101475,
+        "y" : 0.51195215483418566
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이와는 달리, 가주어 it는 '상황'을 의미하기 때문에 상황(i0)이 주어가 되면 항상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023304909600151857,
+        "width" : 0.83062648908466319,
+        "x" : 0.113689075530666,
+        "y" : 0.54355555533529942
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그렇지는 않지만, 이번에 (현재형) 또는 그 당시에 (과거형) 그러한 상황이었다는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020458656311035162,
+        "width" : 0.21809744327626329,
+        "x" : 0.1136890972672867,
+        "y" : 0.57111111149342519
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "것을 나타낼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010231266021728413,
+        "width" : 0.030162413576815997,
+        "x" : 0.11368909472938009,
+        "y" : 0.62354651182208398
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 16,
+      "red_ink_fraction" : 1,
+      "text" : "예운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.39443155924479167,
+        "x" : 0.15777261932448097,
+        "y" : 0.62044444439935309
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "It is difhicult to get along with him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021930262247721322,
+        "width" : 0.29279213763297873,
+        "x" : 0.15988805857072341,
+        "y" : 0.64244231461592893
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "(이번에) 그와 잘 지내기는 어렵다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016028423733181474,
+        "width" : 0.48491877562610819,
+        "x" : 0.16241300186739308,
+        "y" : 0.6671111115013576
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.32057416267942584,
+      "text" : "* 예를 들어. 한 사람이 강하게 이번 프로젝트에 반대하며, 매우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016175710890028228,
+        "width" : 0.46403713361591314,
+        "x" : 0.18329465813892334,
+        "y" : 0.68604651126884397
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.34666666666666668,
+      "text" : "비협조적이라면, '이번 상황으로 인해' 그러하다는 것을 나타낼"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014708010355631518,
+        "width" : 0.06264501260527483,
+        "x" : 0.18329466288032578,
+        "y" : 0.70622222193374151
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012172172546386806,
+        "width" : 0.065208067116162449,
+        "x" : 0.74929851853423879,
+        "y" : 0.61600693696030162
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "결사반대!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.42227376302083336,
+        "x" : 0.15313225992294249,
+        "y" : 0.74709302344595763
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "It was difficult to get along with him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020297576056586331,
+        "width" : 0.28821272613308951,
+        "x" : 0.16220059034006595,
+        "y" : 0.76951437423939595
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "(그때) 그와 잘 지내기는 어려웠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.64965196974734041,
+        "x" : 0.16241299413169138,
+        "y" : 0.7950581394732914
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.38898756660746003,
+      "text" : "※ 과거를 돌이켜보며 '그 당시 상황에서는 그와 잘 지내기 어려웠다. 라는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.83062648908466308,
+        "x" : 0.11368907554040719,
+        "y" : 0.84156976706409115
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "물론 그의 변함없는 성격이나 성질을 나타내는 문장을 만들기 위해, 앞의 가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.32946636659879214,
+        "x" : 0.11368909042186533,
+        "y" : 0.86918604612549621
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "주어 it 문장을 사용해도 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012000000000000011,
+        "width" : 0.037122969931744521,
+        "x" : 0.083526681979216671,
+        "y" : 0.92711111111177968
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 1,
+      "text" : "188"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 181,
+  "pdf_page_number" : 182
+}

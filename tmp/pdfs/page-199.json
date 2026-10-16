@@ -1,0 +1,220 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021569132699094884,
+        "width" : 0.64452899586070667,
+        "x" : 0.053323825021421072,
+        "y" : 0.078418887639187806
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.1018957345971564,
+      "text" : "예문 You couldn't say such a thing in such a circumstance!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020755598581038148,
+        "width" : 0.54936322298916895,
+        "x" : 0.097414013920964659,
+        "y" : 0.10312721509817546
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "(너라면/일반 사람들이라면,) 그런 상황에서 그런 말을 못할 거야!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019272271996593759,
+        "width" : 0.78166077353737573,
+        "x" : 0.099883265253928891,
+        "y" : 0.12493566605432571
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.51109215017064846,
+      "text" : "* '만일 그러한 상황에 있다면'이라는 맥락이다. 여기에서 you는 일반 사람들을 나타내거나 대화 상대를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.169767444783991,
+        "x" : 0.12558139377245633,
+        "y" : 0.14818101166345943
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.5714285714285714,
+      "text" : "직접 지칭할 수도 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023857404409305394,
+        "width" : 0.68881437995217054,
+        "x" : 0.053305541701488532,
+        "y" : 0.19421763629702693
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.15360501567398119,
+      "text" : "에e This is the last thing | would eat. 난이것을 절대 먹지 않을 거야"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018277871471225615,
+        "width" : 0.77934074401855469,
+        "x" : 0.10219980331866697,
+        "y" : 0.21921798266787973
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.54963898916967513,
+      "text" : "* the last thing S + V를 직역하면 'S가 V하는 마지막 것'을 뜻한다. 실현 가능성이 높은 순서대로 나열"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017681160751654157,
+        "width" : 0.76068279959938745,
+        "x" : 0.12314213616036085,
+        "y" : 0.23917327767601093
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.52762923351158642,
+      "text" : "할 때 마지막에 오는 것, 즉 가장 가능성이 낮은 것을 말한다. | would eat.로 나타낸 이유는 실제로 절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018588329271182924,
+        "width" : 0.76307565515691589,
+        "x" : 0.12309793599040919,
+        "y" : 0.25836920073369518
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.42490494296577946,
+      "text" : "대 먹지 않을 것이지만, 만약 먹는다고 생각하면'이라는 뜻으로 '만약 먹는다고 하면'을 나타내기 위해서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017232331324173678,
+        "width" : 0.44906399466774682,
+        "x" : 0.12312478266643537,
+        "y" : 0.27974704200443445
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.35535714285714287,
+      "text" : "이다. would는 '비현실적인 것을 예상 하기 위해 사용되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026223406076642863,
+        "width" : 0.38139533996582031,
+        "x" : 0.044186048983498143,
+        "y" : 0.32697426774399108
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.23994452149791956,
+      "text" : "CB A:Howsitgoing?요즘어때?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019746206667746957,
+        "width" : 0.46090225739912549,
+        "x" : 0.099800883958148248,
+        "y" : 0.3554295109188641
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "B:|couldn't be better! 더할 나위 없이 좋아!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021442247473675291,
+        "width" : 0.78398955952037475,
+        "x" : 0.10220831198551644,
+        "y" : 0.38027509987232611
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.43763676148796499,
+      "text" : "* 직역하면 \"(실제로 더 좋아질 수 있다고 생각하지 않지만.) 만일 이 이상 좋아지려한다 해도, 더 좋아질"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421398,
+        "width" : 0.15813953226262872,
+        "x" : 0.12325581514954433,
+        "y" : 0.40406976723500576
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.38297872340425532,
+      "text" : "수는 없을 거야. 이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014622144182910968,
+        "width" : 0.34446326169100672,
+        "x" : 0.56964488731912144,
+        "y" : 0.92716166294790214
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.90355329949238583,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지 않다 207"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 199,
+  "pdf_page_number" : 200
+}

@@ -1,0 +1,550 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026534100002712724,
+        "width" : 0.83089738128878543,
+        "x" : 0.05091627168791811,
+        "y" : 0.074284419821682879
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "을 만들어 나가자. 이제 다음으로는 '매우 예외적인 경우를 제외하고, 어떤 주제의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020555555555555549,
+        "width" : 0.45475637016566933,
+        "x" : 0.051044089043960329,
+        "y" : 0.10444444479151571
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "에세이에도 사용 가능한 형식'을 소개하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.21809744327626329,
+        "x" : 0.14153132468061613,
+        "y" : 0.16133333375373904
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.97162162162162158,
+      "text" : "에세이의 3가지 파트"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.81206496218417545,
+        "x" : 0.071925755438473973,
+        "y" : 0.19600000009380547
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.53776775648252539,
+      "text" : "에세이의 '형식'은 introcluction(도입부, 서론), main body(본론), conclusion"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02048708089192719,
+        "width" : 0.39211135756039445,
+        "x" : 0.048723903492354226,
+        "y" : 0.22529069729214091
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "(결론)의 3가지 파트로 구성되어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025448021782769059,
+        "width" : 0.81022923246343082,
+        "x" : 0.071685509648603596,
+        "y" : 0.25119488282168234
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "TOEIC Speaking & Writing Test, TOEFL, IELTS 등의 다양한 영어 시험에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939276801215324,
+        "width" : 0.59860787898936163,
+        "x" : 0.051044092225571019,
+        "y" : 0.27761627881546558
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "서 위의 3가지 구성 요소로 에세이를 쓰는 것이 일반적이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023379347059461875,
+        "width" : 0.81451814259197686,
+        "x" : 0.071851898951902207,
+        "y" : 0.30641162182816162
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 \"Which do you think is better, working at the oftice or"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025912724812825472,
+        "width" : 0.83343254792774835,
+        "x" : 0.050801018870947137,
+        "y" : 0.33078671652187941
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "working from home?\"(사무실에서 일하는 것과 집에서 일하는 것 중 어느 것이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025804770575629354,
+        "width" : 0.83337281139184383,
+        "x" : 0.053156119473853521,
+        "y" : 0.35810049572498215
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "더 좋다고 생각하는가?)이라는 주제로 글을 작성해 보자. 먼저 도입부의 형식을 소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.10440835073484596,
+        "x" : 0.053364270023439089,
+        "y" : 0.38933333362654721
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "개하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017710938347710425,
+        "width" : 0.14857182063109486,
+        "x" : 0.053324298386984881,
+        "y" : 0.44027243736494404
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "도입부의 형식"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013853931003146691,
+        "width" : 0.10001878670766842,
+        "x" : 0.11124350676249911,
+        "y" : 0.49379977866762204
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.68390804597701149,
+      "text" : "단락의 시작은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.11832946344470301,
+        "x" : 0.099767982791991464,
+        "y" : 0.51155555565897548
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.80000000000000004,
+      "text" : "4차 정도 띄운다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022478925916883608,
+        "width" : 0.52014662289450353,
+        "x" : 0.12975854101644857,
+        "y" : 0.55646051181267209
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.76672104404567698,
+      "text" : "More and more people are discussing 주"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023007154676649377,
+        "width" : 0.53852201421210111,
+        "x" : 0.11358433173247373,
+        "y" : 0.58262983355325193
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.27384615384615385,
+      "text" : "제를 추상화한 문구. Some people think 의견 A"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022342341105143326,
+        "width" : 0.54093770777925532,
+        "x" : 0.11115984362342339,
+        "y" : 0.61067857748129806
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.041608876560332873,
+      "text" : "is better, while others think 의견 B is better."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02316468471950961,
+        "width" : 0.52714272357047876,
+        "x" : 0.11347507456643537,
+        "y" : 0.63766233823557739
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.2851805728518057,
+      "text" : "Considering that 이유 ① S+V ~, 이유 ② StV ~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025660275777180996,
+        "width" : 0.53876654442320482,
+        "x" : 0.11344762498360737,
+        "y" : 0.66306124730985339
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.22704081632653061,
+      "text" : "and 이유 ③ S+V ~, 자신의 의견(의견 A 또는 B 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021587507459852384,
+        "width" : 0.13965917276152484,
+        "x" : 0.11578526268269652,
+        "y" : 0.69414810671451244
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "어느 쪽인지)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01732692803276914,
+        "width" : 0.51999589635970744,
+        "x" : 0.32236614914507589,
+        "y" : 0.48310330044688421
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.63007159904534604,
+      "text" : "1. 더욱 더 많은 사람들이 화제로 삼아 논의하고 있다.= 읽는 이에게 '이 주제"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016464602152506558,
+        "width" : 0.39938588243849737,
+        "x" : 0.33858107593741871,
+        "y" : 0.50125116067538167
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.68488745980707399,
+      "text" : "는 읽을 만한 가치가 있다'는 것을 어필(넓은 곳(general)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015064703199598517,
+        "width" : 0.13992735950659352,
+        "x" : 0.70033579768890419,
+        "y" : 0.57670011971272817
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.10714285714285714,
+      "text" : "2. 이야기의 초점이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015193780687120184,
+        "width" : 0.12124857801072142,
+        "x" : 0.7189658667954878,
+        "y" : 0.5921816720813019
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.24113475177304963,
+      "text" : "다. 의견 A와 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.12296983434798869,
+        "x" : 0.71925754215315185,
+        "y" : 0.60888888909691452
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.36871508379888268,
+      "text" : "건 B에 사용하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.1229698343479888,
+        "x" : 0.71925754212520421,
+        "y" : 0.62488888881488103
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.30177514792899407,
+      "text" : "표현은 문제에 주"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01392884318033849,
+        "width" : 0.12329755201407355,
+        "x" : 0.71910227694516182,
+        "y" : 0.64008003336809971
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.21893491124260356,
+      "text" : "어진 주제의 영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122503,
+        "width" : 0.12296983434798869,
+        "x" : 0.71925754225966954,
+        "y" : 0.65552325572508041
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.30434782608695654,
+      "text" : "표현을 그대로 사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.12296983434798869,
+        "x" : 0.71925754210906812,
+        "y" : 0.67151162783475271
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.042944785276073622,
+      "text" : "용하면 실수를 줄"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013500586615668331,
+        "width" : 0.076745908480164049,
+        "x" : 0.71916764889187834,
+        "y" : 0.6872904043461221
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.074468085106382975,
+      "text" : "일 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017629861619737341,
+        "width" : 0.37637987069204348,
+        "x" : 0.3570394079813265,
+        "y" : 0.74412991474176571
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.51993355481727577,
+      "text" : "3. 자신의 의견과 그렇게 생각하는 이유이다(좁은 범위"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015895821465386262,
+        "width" : 0.36217339698304524,
+        "x" : 0.37343957946858858,
+        "y" : 0.76184306558458714
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0.27586206896551724,
+      "text" : "(specific》) '자신의 의견'은 문제에 주어진 주제 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.33410672668024161,
+        "x" : 0.37587007044058168,
+        "y" : 0.78044444437903682
+      },
+      "confidence" : 1,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0.36206896551724138,
+      "text" : "을 가능한 한 그대로 사용하면 실수가 줄어든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015450169881184861,
+        "width" : 0.37378397190824469,
+        "x" : 0.12748158633672418,
+        "y" : 0.84072048501306118
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0.59852670349907922,
+      "text" : "4. 이유 3가지를 빠르게 떠올리는 것이 중요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015375530666775217,
+        "width" : 0.31113337523548312,
+        "x" : 0.14140458426412247,
+        "y" : 0.85842562463698835
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0.65148063781321186,
+      "text" : "Comparison Game으로 그 힘을 단련하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016818520439995654,
+        "width" : 0.49447926189882541,
+        "x" : 0.42213757087103887,
+        "y" : 0.92865236787272809
+      },
+      "confidence" : 0.5,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0.9421613394216134,
+      "text" : "13장 설득을 위한 영어: '형식'을 만들어 영어로 사고하는 훈련 425"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 411,
+  "pdf_page_number" : 412
+}

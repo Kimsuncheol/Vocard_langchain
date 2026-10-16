@@ -1,0 +1,370 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03510787624782985,
+        "width" : 0.3847694775736924,
+        "x" : 0.13835054880555456,
+        "y" : 0.10925020661383023
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99785023289143671,
+      "text" : "맺음말을 대신한 감사의 글"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025104646470811676,
+        "width" : 0.81464739860372337,
+        "x" : 0.13674840316912873,
+        "y" : 0.18794152047372359
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이 책을 선택해 주시고, 끝까지 읽어 주셔서 감사합니다. 마지막으로, 출판에 앞"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024669261508517781,
+        "width" : 0.33952281762522163,
+        "x" : 0.11566410435336272,
+        "y" : 0.21676456184687809
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "서서 감사의 마음을 적겠습니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021904392666286965,
+        "width" : 0.8097447604997785,
+        "x" : 0.13689096056408484,
+        "y" : 0.24844444463468696
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "십수 년 전에, 학원에서 영문법을 가르치면서 영문법이란 무엇인지 좀 더 깊이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027283008151584243,
+        "width" : 0.83792066641733154,
+        "x" : 0.11350318752345384,
+        "y" : 0.27701550385990936
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "있게 탐구하고자 했던 무렵, 우연히 시부야에 있는 서점에서 Friedrich Uingerer"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021941860622829878,
+        "width" : 0.83062648908466308,
+        "x" : 0.11600926102071814,
+        "y" : 0.30799999993451954
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "와 Hans-jorg Schmid 저자가 쓴 『인지 언어학 입문』(대수관서점)이라는 책을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027999999999999914,
+        "width" : 0.83990720924756201,
+        "x" : 0.11136890098560896,
+        "y" : 0.33555555521303015
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "보고 큰 깨달음을 얻어 매우 충격을 받았습니다. 이를 계기로 도쿄대학교의 니시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020525839911566868,
+        "width" : 0.83062648908466308,
+        "x" : 0.11600926112078369,
+        "y" : 0.36755555580843735
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "무라 요시키 교수님과 오호리 토시오 교수님께서 진행하신 '인지 언어학의 학습"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030702857123480864,
+        "width" : 0.83128038771609047,
+        "x" : 0.11564490248019414,
+        "y" : 0.39199422751782098
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "방법' 세미나에 참가하게 되었고, 니시무라 교수님의 추천으로 도쿄 언어 연구소"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.8329466041943705,
+        "x" : 0.1136891103424586,
+        "y" : 0.42577777776206438
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "에 들어가면서, 언어학 연구를 시작하게 됩니다. 도쿄 언어 연구소는 대학원에 다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020493540445963521,
+        "width" : 0.83294660419437061,
+        "x" : 0.11368911069690102,
+        "y" : 0.45639534845772434
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "닐 여유가 없는 일반 사회인들도 일본 언어학계 정상에 있는 강사진의 강의를 저"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025236785888671953,
+        "width" : 0.8285195208610372,
+        "x" : 0.11589483989448662,
+        "y" : 0.4851289413852673
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "렴하게 들을 수 있는 꿈같은 장소입니다. 5년 정도 다니면서 인지 언어학, 일본어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026376283433702241,
+        "width" : 0.83081816544769516,
+        "x" : 0.11589826436239574,
+        "y" : 0.51449776404812853
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "학, 음성학, 생성 문법 등을 배우는 과정을 통해 의미 있는 시간을 보내며, 지식을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02197157626681856,
+        "width" : 0.4083526827764849,
+        "x" : 0.11600927334146287,
+        "y" : 0.54488888894150378
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "쌓았으며,이론 언어학상도 받았습니다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.80974476049977828,
+        "x" : 0.13457077505647694,
+        "y" : 0.60444444424332389
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "언젠가 저의 책을 낼 기회가 오면, 니시무라 교수님께서 책의 추천 글을 써 주셨"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024392530653211786,
+        "width" : 0.83542315976839543,
+        "x" : 0.11128058437926928,
+        "y" : 0.63362985202800637
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "으면 하는 꿈을 가지고 있었지만, 막상 실제로 책을 쓰고 추천 글을 부탁드릴 단"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02331136915418841,
+        "width" : 0.83758700756316495,
+        "x" : 0.10904872347515517,
+        "y" : 0.66424418622052939
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "계가 되니, 말씀 드리기 두려운 마음에 도저히 스스로 부탁드리지 못했습니다. 대"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020463824801974728,
+        "width" : 0.8329466041943705,
+        "x" : 0.11136892509295346,
+        "y" : 0.69331395310915656
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "신에 편집자님에게 추천 글 작성을 부탁하는 편지를 전달해 주십사 요청 드리게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021963824801974785,
+        "width" : 0.83526680587876778,
+        "x" : 0.11136891700561909,
+        "y" : 0.72222222180149498
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "되었습니다. 그 이유는 교수님께서 제가 만든 책의 이론이 깊이가 얕다고 생각하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023273902045355954,
+        "width" : 0.8329466041943705,
+        "x" : 0.11136892515806981,
+        "y" : 0.75288888847141966
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "셔서 추천 글을 거절하시지는 않을지 걱정이 되었고, 온화하셨지만 이론에 관해서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.8329466041943705,
+        "x" : 0.11136892512258896,
+        "y" : 0.7817777773786081
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "는 항상 엄격하셨던 교수님의 얼굴이 생각났기 때문입니다. 이번에 니시무라 교수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.8329466041943705,
+        "x" : 0.11136892515230717,
+        "y" : 0.81244444406669525
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "님께 받은 추천 글은 저에게 있어서 매우 자랑스러운 일이자 평생 간직할 보물입"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021985788133409345,
+        "width" : 0.062645012605274816,
+        "x" : 0.10904872341507334,
+        "y" : 0.84156976716160348
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395467122392,
+        "width" : 0.039443155383387357,
+        "x" : 0.078886310823387526,
+        "y" : 0.9287790696646947
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.9550561797752809,
+      "text" : "436"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 422,
+  "pdf_page_number" : 423
+}

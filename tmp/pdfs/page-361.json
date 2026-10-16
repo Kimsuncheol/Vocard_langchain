@@ -1,0 +1,595 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021364580328428695,
+        "width" : 0.36397617513483221,
+        "x" : 0.097744774831989456,
+        "y" : 0.076585072842206059
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "| want you to take over this job."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015997384056990027,
+        "width" : 0.28438227826898749,
+        "x" : 0.10256410558647154,
+        "y" : 0.1031886627571913
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "난 네가 이 일을 이어받았으면 해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018316115184206172,
+        "width" : 0.58543556386774231,
+        "x" : 0.10472495721343188,
+        "y" : 0.12286495432091915
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.53551912568306015,
+      "text" : "> '덮어서'라는 것은 모든 것을 커버하는 것이다. take over A는 A를 모두 커버"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021407072474409539,
+        "width" : 0.35009453513405542,
+        "x" : 0.13031709434700831,
+        "y" : 0.14280191345417892
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.42011834319526625,
+      "text" : "하여 '이어받다. 계승하다, 장악하다'를 뜻한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395172038102,
+        "width" : 0.086247086524963379,
+        "x" : 0.6573426573414598,
+        "y" : 0.077034883749868888
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "덮듯이 전체를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010290285673048571,
+        "width" : 0.086247086524963379,
+        "x" : 0.65967365941817102,
+        "y" : 0.091569767496866517
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "모두 take하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023771854498620848,
+        "width" : 0.64606597206809302,
+        "x" : 0.095396857307307611,
+        "y" : 0.18222266113565966
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "I'll stay in Egypt for the project over the next six months."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022914361066792899,
+        "width" : 0.58553847399624903,
+        "x" : 0.1046904043145867,
+        "y" : 0.20795755598003529
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "앞으로 6개월에 걸쳐, 저는 그 프로젝트를 위해 이집트에 머물 거예요"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017293748441684409,
+        "width" : 0.52248235182328651,
+        "x" : 0.10706506615759101,
+        "y" : 0.231030853297431
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.3936842105263158,
+      "text" : "* 기간'을 나타내는 over이다. for의 기간은 '어떤 행위와 맞바꿔 그만"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019092069884334872,
+        "width" : 0.49919618259776721,
+        "x" : 0.13037815533541097,
+        "y" : 0.24991561297690945
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.29584352078239606,
+      "text" : "큼의 기간을 소비하는'이미지이고, over의 기간은 '그만큼의 기간을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014734432906361117,
+        "width" : 0.34965033964677295,
+        "x" : 0.13286713776106887,
+        "y" : 0.27180232567419371
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.36303630363036304,
+      "text" : "덮는'이미지로 '~의 기간에 걸쳐 라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011739725766718223,
+        "width" : 0.04443248835476965,
+        "x" : 0.72605343492923002,
+        "y" : 0.23622539674414278
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "over"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015423069388809441,
+        "width" : 0.12503712827509095,
+        "x" : 0.71480959778152986,
+        "y" : 0.28882179543284348
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "the next 6 months"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032218120497238156,
+        "width" : 0.18805495175448331,
+        "x" : 0.038982584607105929,
+        "y" : 0.31874802493041754
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.98842592592592593,
+      "text" : "•넘어서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349426539809,
+        "width" : 0.40326339548284351,
+        "x" : 0.055944059730434509,
+        "y" : 0.35901162760498773
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.18567103935418769,
+      "text" : "OE There is a bridge over the river."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018685815606738099,
+        "width" : 0.32668880982832477,
+        "x" : 0.10708510853169738,
+        "y" : 0.38254303937631617
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "그 강을 가로지르는 다리가 하나 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018118974062275028,
+        "width" : 0.50850954922762792,
+        "x" : 0.1094009422672812,
+        "y" : 0.40442705883582031
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.41240875912408759,
+      "text" : "- 여기에서 over는 '(강을) 덮어서'라고 해석할 수 있고, '(강을) 건너"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488352448673,
+        "width" : 0.26573426073247741,
+        "x" : 0.13053613298707464,
+        "y" : 0.42587209311109553
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.53076923076923077,
+      "text" : "서, 가로질러'라고도 해석할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023181611188646922,
+        "width" : 0.57152431661432446,
+        "x" : 0.058047709004263079,
+        "y" : 0.44487642023799601
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.23629242819843341,
+      "text" : "예e He lives over the river. 그는 그강건너에 살고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017545232105508513,
+        "width" : 0.47111532904885034,
+        "x" : 0.095456567345347368,
+        "y" : 0.47191670001795638
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.46543778801843316,
+      "text" : "*강을 건너서(over) 다다른 곳에 그가 살고 있다는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860229384099,
+        "width" : 0.26806525750593707,
+        "x" : 0.060606065825917502,
+        "y" : 0.49418604661801913
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.36511156186612576,
+      "text" : "예문 It'sall over! 끝났어!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020747180529882447,
+        "width" : 0.78128459236838599,
+        "x" : 0.1093770187405244,
+        "y" : 0.51620362382133467
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.33554817275747506,
+      "text" : "* 격투기 경기에서 녹아웃이나 한판으로 경기가 결정되는 순간, 아나운서가 외치는 말이다. 경기라는 고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348541286796307,
+        "width" : 0.76022885062477807,
+        "x" : 0.13039113666397861,
+        "y" : 0.5362853757288305
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.45977011494252873,
+      "text" : "비를 넘긴 끝에, 종료라는 점이 있는 이미지이다. '종료'를 나타내는 over의 예시로는, game over(게임"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019928270784281832,
+        "width" : 0.76022755015980115,
+        "x" : 0.13270894406369546,
+        "y" : 0.55634558299581727
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.39267015706806285,
+      "text" : "종료), Our love is over.(우리의 사랑은 끝났다.), I must get over her.(난 그녀를 잊어야겠어. get"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017968638160779871,
+        "width" : 0.33594703674316406,
+        "x" : 0.13038501008380193,
+        "y" : 0.57819572878657255
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.51412429378531077,
+      "text" : "over: 극복하다. (불행 등을) 잊다) 등이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029229406554472925,
+        "width" : 0.32634032856334338,
+        "x" : 0.053613051419293983,
+        "y" : 0.62488928264355292
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.95231213872832365,
+      "text" : "e come over, go over"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019591928689853599,
+        "width" : 0.3360080502249978,
+        "x" : 0.055807709291029912,
+        "y" : 0.66407923935324942
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.27036395147313691,
+      "text" : "예문 Come over here. 이리와."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01809926620091451,
+        "width" : 0.78337201205166895,
+        "x" : 0.11180561799150529,
+        "y" : 0.68858442224374172
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.38723404255319149,
+      "text" : "- Come here.에는 '둘 사이의 거리를 넘어서'라는 over의 의미가 있다. '움직이기 귀찮겠지만. 힘을 내서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017447010408575547,
+        "width" : 0.75990676879882812,
+        "x" : 0.13286712838486556,
+        "y" : 0.70930232569474294
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.41130298273155413,
+      "text" : "와 달라는' 느낌이 있다. over there(저쪽으로, 저쪽에)도 같은 느낌으로 '여기에서의 공간적 거리를 넘"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488352448673,
+        "width" : 0.29836830225857824,
+        "x" : 0.13519813418539614,
+        "y" : 0.7296511628283574
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0.50704225352112675,
+      "text" : "어. 저쪽으로'라는 심리적 이미지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019355577953733993,
+        "width" : 0.43853482333096583,
+        "x" : 0.06513689859228565,
+        "y" : 0.75000028854112499
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.14209115281501342,
+      "text" : "Me He went over to the headquarters."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016006396237044807,
+        "width" : 0.19114219058643686,
+        "x" : 0.11188811223258907,
+        "y" : 0.7776162787269072
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "그는 본사로 넘어갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017572416469415097,
+        "width" : 0.40124325318769971,
+        "x" : 0.11407300744934933,
+        "y" : 0.79788191976906164
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0.41075268817204302,
+      "text" : "> over의 '넘어서'라는 이미지에 의해 go to보다는 '힘"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014724133392685412,
+        "width" : 0.37995338439941406,
+        "x" : 0.13519813298258929,
+        "y" : 0.81831395357727665
+      },
+      "confidence" : 0.5,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0.31088082901554404,
+      "text" : "내서 가다'라는 느낌이 있다. over에는 '둘 사이의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014747306242572034,
+        "width" : 0.37995338439941406,
+        "x" : 0.13519813289773655,
+        "y" : 0.83866279078993933
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0.40173410404624277,
+      "text" : "거리를 넘어서' 또는 '우울한 기분을 넘어서(극복해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488352448673,
+        "width" : 0.15850815989754416,
+        "x" : 0.13519813438504222,
+        "y" : 0.85901162799366282
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0.23076923076923078,
+      "text" : "서)'라는 의미가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016002534236181476,
+        "width" : 0.053613055836070678,
+        "x" : 0.57109556987583754,
+        "y" : 0.87643932648614309
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "80 t0"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015875263062063993,
+        "width" : 0.10205617817965418,
+        "x" : 0.74972109719142954,
+        "y" : 0.87700773514082897
+      },
+      "confidence" : 0.5,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0.44155844155844154,
+      "text" : "90 over to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0162607637309099,
+        "width" : 0.43626889315518469,
+        "x" : 0.48699552973998939,
+        "y" : 0.92367894194825551
+      },
+      "confidence" : 1,
+      "observation_index" : 38,
+      "red_ink_fraction" : 0.89213483146067418,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 373"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 361,
+  "pdf_page_number" : 362
+}

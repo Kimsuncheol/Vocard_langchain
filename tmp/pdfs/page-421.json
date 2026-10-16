@@ -1,0 +1,85 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015765236748589428,
+        "width" : 0.18611826795212766,
+        "x" : 0.25960348610865092,
+        "y" : 0.082708111997820244
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "활용도 낮은 파티 드레스"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019746512518988735,
+        "width" : 0.11811898955216649,
+        "x" : 0.29372113508064401,
+        "y" : 0.096862237994809419
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "같은 영어보다,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666717,
+        "width" : 0.18561485777509978,
+        "x" : 0.53132250158145911,
+        "y" : 0.081333333070807812
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "활용도 높은 캐주얼한 옷"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014666666666666606,
+        "width" : 0.078886310766774659,
+        "x" : 0.58468677492667376,
+        "y" : 0.097333333201728545
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "같은 영어!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.494199539076352,
+        "x" : 0.41995359461952814,
+        "y" : 0.92711111099946109
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.92500000000000004,
+      "text" : "13장 설득을 위한 영어: '형식'을 만들어 영어로 사고하는 훈련 435"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    643
+  ],
+  "pdf_page_index" : 421,
+  "pdf_page_number" : 422
+}

@@ -1,0 +1,505 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020504013923563491,
+        "width" : 0.49425286616286485,
+        "x" : 0.062068969127790322,
+        "y" : 0.075581395263854101
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.95899280575539569,
+      "text" : "•인간의 사고방식에 매우 중요한 메타포"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.80919543130823668,
+        "x" : 0.080459755495306942,
+        "y" : 0.11191860456911484
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "시간은 볼 수 없고, 만질 수도 없다. 볼 수도 만질 수도 없는 것을 인간은 어떻게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021986689856043906,
+        "width" : 0.49453082936390202,
+        "x" : 0.061923759569765799,
+        "y" : 0.13800457265105304
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이해하고, 이것을 어떻게 머릿속에 넣는 것일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021905776868935578,
+        "width" : 0.80919543130823668,
+        "x" : 0.080459755495306942,
+        "y" : 0.167151162945401
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.060945273631840796,
+      "text" : "이를 돕는 것이 메타포(은유)라는 비유의 일종이다. 인간은 볼 수도 만질 수도 없"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020535049065152133,
+        "width" : 0.82758624241824907,
+        "x" : 0.062068947641450128,
+        "y" : 0.19476744177866401
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "는 추상적인 개념을 구체적으로 보거나 만질 수 있는 것에 비유해서 이해하는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020498841682787039,
+        "width" : 0.82758624241824896,
+        "x" : 0.059770097066737603,
+        "y" : 0.2223837208484476
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 즉, 인간은 볼 수도 만질 수도 없는 시간을 장소에 비유해서 이해하고 있는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957202,
+        "width" : 0.078160920391270539,
+        "x" : 0.062068964964007128,
+        "y" : 0.24999999988339006
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023266158494236633,
+        "width" : 0.43908047575487869,
+        "x" : 0.059770106835829021,
+        "y" : 0.30813953527203619
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.99396499698249852,
+      "text" : "• 시제는 물리적인 시간과 다르다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890259298141257,
+        "width" : 0.80459770706970812,
+        "x" : 0.082758617601551732,
+        "y" : 0.3575581396892098
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "영어의 현재형, 과거형, 현재완료형, 진행형과 같은 시제는 항상 학습자를 괴롭"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021854051067311531,
+        "width" : 0.057471263257763062,
+        "x" : 0.062068965935773636,
+        "y" : 0.38517441869437286
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "힌다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025763441235145179,
+        "width" : 0.72682140581047827,
+        "x" : 0.08259348967014736,
+        "y" : 0.40890551645459849
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "많은 학습자가 시제는 '물리적인 시간'을 의미한다고 착각하기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021817842836481804,
+        "width" : 0.57931033535513365,
+        "x" : 0.082758625309054659,
+        "y" : 0.44039145932677792
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "생각해 보면 물리적인 시간을 말로 표현하기는 쉽지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024622050044375454,
+        "width" : 0.64415593958772854,
+        "x" : 0.077906254498465416,
+        "y" : 0.46504006876120196
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "'현재'는 시시각각 변해서 그 순간이 지나면 과거가 되어 버린다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020930132407734892,
+        "width" : 0.8047318814005362,
+        "x" : 0.082689082037127479,
+        "y" : 0.49368397813106824
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "몇 초 전부터 몇 초 후까지를 현재는 의미하는 것일까? 현재는 점을 말하는 것인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021807498354928678,
+        "width" : 0.82758624241824885,
+        "x" : 0.059770097063396234,
+        "y" : 0.52179715264683924
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "가, 폭을 말하는 것인가? 과거는 몇 초 전에 시작된 것을 가르키는 말이고, 미래는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843705737293884,
+        "width" : 0.42298852676413068,
+        "x" : 0.062068954904120975,
+        "y" : 0.54937722433088276
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "몇 초 후에 시작될 것을 가리키는 말일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916121350488593,
+        "width" : 0.55402298080937951,
+        "x" : 0.080459773846697613,
+        "y" : 0.60453736685905168
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 의문이 시간을 이해하는 데 도움이 되지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02195232958131843,
+        "width" : 0.49885059040139335,
+        "x" : 0.082758612728138017,
+        "y" : 0.63211743769747231
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "인간은 이러한 방식으로 시제를 파악하지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0221913989328405,
+        "width" : 0.73356652025096702,
+        "x" : 0.08035320359918223,
+        "y" : 0.65808121624880744
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "사실 시제를 '장소'로 파악하면 놀라울 정도로 명확하게 이해할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011721012855339774,
+        "width" : 0.057471263257763083,
+        "x" : 0.37931034526288093,
+        "y" : 0.72093023273123213
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "현실과의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209299365821336,
+        "width" : 0.029885057323257302,
+        "x" : 0.39540229880005717,
+        "y" : 0.73255813964653438
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "거리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.057471263257763083,
+        "x" : 0.52643678204449007,
+        "y" : 0.72238372091284553
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "현실과의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209299365820225,
+        "width" : 0.029885057323257302,
+        "x" : 0.54252873539009561,
+        "y" : 0.73255813957386007
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "거리"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088967971530249379,
+        "width" : 0.057471263257763028,
+        "x" : 0.30114942577772769,
+        "y" : 0.82695729556346176
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이제까지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011752047996928194,
+        "width" : 0.048275863068013236,
+        "x" : 0.30574712582806235,
+        "y" : 0.84011627923801513
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "자신이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011689977289518816,
+        "width" : 0.075862069002519072,
+        "x" : 0.29195402285147037,
+        "y" : 0.85174418622566039
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "지나온 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011767565991954831,
+        "width" : 0.073563217613767495,
+        "x" : 0.46206896579452517,
+        "y" : 0.83852313146639168
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 1,
+      "text" : "현실(현재)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015766970203440311,
+        "width" : 0.096997042413166978,
+        "x" : 0.4503520533509292,
+        "y" : 0.84967465440521839
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 1,
+      "text" : "자신이 존재하는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.064367817424017648,
+        "x" : 0.46666666588569239,
+        "y" : 0.86337209300796514
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 1,
+      "text" : "현실 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.064367817424017759,
+        "x" : 0.60919540151787621,
+        "y" : 0.8269572954274359
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "앞에 있어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011767565991954831,
+        "width" : 0.071264366225015863,
+        "x" : 0.60459770183412576,
+        "y" : 0.83852313146438229
+      },
+      "confidence" : 0.5,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "아직 보이지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.059770114646514605,
+        "x" : 0.61149425293687587,
+        "y" : 0.8500889679568373
+      },
+      "confidence" : 0.5,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "않는 세계"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105572,
+        "width" : 0.47126437373637486,
+        "x" : 0.43678160612031836,
+        "y" : 0.93313953489036461
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0.97214484679665736,
+      "text" : "3장 동사 ② 시제: 실제로 우리는 시간을 이렇게 파악하고 있다 61"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    642
+  ],
+  "pdf_page_index" : 57,
+  "pdf_page_number" : 58
+}

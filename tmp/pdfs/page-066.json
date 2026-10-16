@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022634875827365453,
+        "width" : 0.62699436031712807,
+        "x" : 0.13119986358515714,
+        "y" : 0.070461685411669417
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 과거분사(여기에서는 eaten)는 무엇을 나타내는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026553671942816881,
+        "width" : 0.80663399635820687,
+        "x" : 0.1289482948464348,
+        "y" : 0.09699798749369215
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.065573770491803282,
+      "text" : "과거분사가 나타내는 것은 다 먹은 후의 상태이다. 예를 들어, \"지금 어떤 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.82488479937081283,
+        "x" : 0.11059907493056903,
+        "y" : 0.12354651161153629
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "를 가지고 있니(have)?\"라고 물었을 때 \"지금은 다 먹고 난 후의 상태를 가지고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025096477932400219,
+        "width" : 0.37142750641859129,
+        "x" : 0.108091929000089,
+        "y" : 0.15086166300116721
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "있다.\"라는 표현이 have eaten이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011680878533257277,
+        "width" : 0.027649770502647317,
+        "x" : 0.11059907777991033,
+        "y" : 0.20488888875528977
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.97841726618705038,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.47465439811243831,
+        "x" : 0.14516127994474809,
+        "y" : 0.20203488390640845
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "Ihave eaten lunch. 나는 (이미) 점심을 먹었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014732557508680522,
+        "width" : 0.55529953024451251,
+        "x" : 0.15898617946380852,
+        "y" : 0.22800000040888024
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.48620689655172411,
+      "text" : "• eaten lunch(점심을 먹은 후의 상태)를 have하고 있다(=지금 가지고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016138242933485203,
+        "width" : 0.048387094344339521,
+        "x" : 0.17741935587122504,
+        "y" : 0.24563953446224718
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.29545454545454547,
+      "text" : "있다)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024604101392957878,
+        "width" : 0.80660352182321049,
+        "x" : 0.12666548359267124,
+        "y" : 0.29353902134353893
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "이것이 과거형 I ate lunch.와 어떻게 다른지에 대해 생각해 보자. 과거형은 '현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025008172776963988,
+        "width" : 0.8251058688789229,
+        "x" : 0.10819041814519952,
+        "y" : 0.31909162427967552
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "재와 아무 관계가 없다'는 것을 기억하자. 과거형 문장은 '그것이 과거에 언제 이루"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021829457600911484,
+        "width" : 0.26267280094378082,
+        "x" : 0.10599078834864693,
+        "y" : 0.3488372091934705
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "어졌는지'에 초점을 둔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012000000000000011,
+        "width" : 0.027649770502647317,
+        "x" : 0.11059907781648411,
+        "y" : 0.39955555562035561
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01747545199924061,
+        "width" : 0.30875576433577223,
+        "x" : 0.15207373062101176,
+        "y" : 0.39822222249156369
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "A: When did you eat lunch?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016021964179144921,
+        "width" : 0.2142857173602235,
+        "x" : 0.47465437622772244,
+        "y" : 0.39822222221281722
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "너는 언제 점심 먹었니?!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017536176045735652,
+        "width" : 0.48847924839122003,
+        "x" : 0.15207373974279625,
+        "y" : 0.42577777751723911
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "B: | ate 30 minutes ago. 나는 30분 전에 먹었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014751937866210874,
+        "width" : 0.29953917596168678,
+        "x" : 0.15668202481532104,
+        "y" : 0.45058139555835264
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.453125,
+      "text" : "* 30분 전에 먹은 것이고 현재는 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016180878533257337,
+        "width" : 0.38248847132845559,
+        "x" : 0.17511521122375079,
+        "y" : 0.47093023219834929
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.39867841409691629,
+      "text" : "\"지금 현재 로부터 분리되어 있다는 감각이 중요하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025748141818576431,
+        "width" : 0.80672894949973561,
+        "x" : 0.12657941019765215,
+        "y" : 0.51372075572656972
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "한편, 현재완료에서는 '지금 어떤 상태를 갖고(have하고) 있는가'에 초점을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024979788886176246,
+        "width" : 0.42663858303398272,
+        "x" : 0.10580538313925494,
+        "y" : 0.543442324006567
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "둔다. 그것이 언제인지는 언급되지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.33640552945802848,
+        "x" : 0.14976958439540972,
+        "y" : 0.59155555584492225
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "A: Hey, let's go out for lunch."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483204311794734,
+        "width" : 0.22119816402117859,
+        "x" : 0.48156681649307026,
+        "y" : 0.59288888907406101
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이봐, 점심 먹으러 가자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.48387096496495952,
+        "x" : 0.15207373379564437,
+        "y" : 0.62044444466712123
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "B: Oh, lve already eaten it. 아, 난 벌써먹었어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014671834309895937,
+        "width" : 0.6428571305591062,
+        "x" : 0.15437788622032472,
+        "y" : 0.7848837211443358
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.52494331065759636,
+      "text" : "* 지금 어떤 상태를 갖고(have) 있는가에 초점을 두며, 언제 먹었는지는 중요하지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021937984890407991,
+        "width" : 0.43317971814670753,
+        "x" : 0.12442396569167524,
+        "y" : 0.83139534873247956
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이제 동작동사의 현재완료를 정리해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021877260843912727,
+        "width" : 0.8041474809095116,
+        "x" : 0.12442395516289861,
+        "y" : 0.85901162779995521
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "eat은 동작동사이다. '먹다'라는 동작에 의해 음식은 없어지고 배고픔은 채워지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483204311794734,
+        "width" : 0.61981567038467467,
+        "x" : 0.10368663473720895,
+        "y" : 0.88662790659826107
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "는 변화가 일어나므로, 이것이 동작동사라는 것을 알 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.027649770502647331,
+        "x" : 0.073732718309631518,
+        "y" : 0.92577777790560178
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.98333333333333328,
+      "text" : "70"
+    }
+  ],
+  "page_size_points" : [
+    405,
+    643
+  ],
+  "pdf_page_index" : 66,
+  "pdf_page_number" : 67
+}

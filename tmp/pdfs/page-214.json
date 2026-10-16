@@ -1,0 +1,580 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022885476991375109,
+        "width" : 0.63293600489950574,
+        "x" : 0.10914797409065623,
+        "y" : 0.075409168155521011
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.19690265486725664,
+      "text" : "예e It is raining now. 지금비가 오고 있어. 직설법의 현재 진행형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01468488839173232,
+        "width" : 0.37209300505809295,
+        "x" : 0.16046512526711401,
+        "y" : 0.10319767423614157
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.40552995391705071,
+      "text" : "* 100%의 현실에서, 지금 비가 오고 있는 중이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.73488371324675039,
+        "x" : 0.10930232954388784,
+        "y" : 0.12354651153919693
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.09095554420030659,
+      "text" : "예E Ifit was(were) raining now, you wouldn't go out, would you?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.48604651122351317,
+        "x" : 0.20000000015022368,
+        "y" : 0.14970930200271626
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "지금 비가 오고 있다면 너는 외출하지 않을 거야, 그렇지?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017566001287983024,
+        "width" : 0.18604650252904642,
+        "x" : 0.73488372536338376,
+        "y" : 0.14813167282346495
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.042586750788643532,
+      "text" : "가정법 과거의 진행형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021559662666185031,
+        "width" : 0.57459469874020652,
+        "x" : 0.15806019843056093,
+        "y" : 0.17129093489394087
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.35737179487179488,
+      "text" : "> 실제로는 100% 비가 내리고 있지 않지만, 만약 지금 내리고 있다고 하면...."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021854051067311642,
+        "width" : 0.81395345399861996,
+        "x" : 0.13023257532101587,
+        "y" : 0.21797153016402449
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 직설법과 가정법은 현실인지 아닌지가 정반대가 된다. 이를 직설법의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020555739725187649,
+        "width" : 0.67441860970608525,
+        "x" : 0.10930232294757022,
+        "y" : 0.24688612081491201
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "shall과, shall을 가정법으로 한 should에 대입하면 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029067874379005265,
+        "width" : 0.81445616806334575,
+        "x" : 0.1322934365029301,
+        "y" : 0.26809393625947808
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "참고로 다시 한 번 설명하자면,이 should는 '~해야 한다'라는 의미의 should"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021962674911336189,
+        "width" : 0.83488373063568377,
+        "x" : 0.1093023206175206,
+        "y" : 0.30071174353225483
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "가 아니다. 이는 직설법인 shall을 가정법으로 사용하기 위해 shall의 과거형인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021998882293701172,
+        "width" : 0.27441860535885199,
+        "x" : 0.10697674392400117,
+        "y" : 0.32829181519417627
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "should를 사용한 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011658942147930285,
+        "width" : 0.034883721941217069,
+        "x" : 0.1116279063338312,
+        "y" : 0.38078291806701448
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.98064516129032253,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018232574666522172,
+        "width" : 0.25853963998647833,
+        "x" : 0.15330473849062995,
+        "y" : 0.37720231548595984
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "It shall rain tomorrow."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957202,
+        "width" : 0.28139534974709535,
+        "x" : 0.1581395343105112,
+        "y" : 0.40258007075131474
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "내일은 틀림없이 비가 올 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164156,
+        "width" : 0.06046511440874841,
+        "x" : 0.47209302408526638,
+        "y" : 0.40116279095400986
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "직설법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014695232873285335,
+        "width" : 0.40465117451811794,
+        "x" : 0.16046511030558064,
+        "y" : 0.42571174404397238
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.50471698113207553,
+      "text" : "> shall은 '운명적으로 그렇게 흘러가다'라는 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.39534883417634881,
+        "x" : 0.18139535025832046,
+        "y" : 0.44331395316586741
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.45232815964523282,
+      "text" : "98%는 현실로 그렇게 될 것이라는 생각을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088967971530248269,
+        "width" : 0.079069767922078094,
+        "x" : 0.69767441878314707,
+        "y" : 0.38656583633011354
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "90% 8% 80%"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020493668593545844,
+        "width" : 0.63720929181134256,
+        "x" : 0.15581395863866593,
+        "y" : 0.48532028496961721
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "If it should rain tomorrow, the game would be Canceled."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020519531494357812,
+        "width" : 0.43720930050580931,
+        "x" : 0.16279069846674776,
+        "y" : 0.5101744185201339
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "만에 하나 내일 비가 온다면, 경기는 취소될 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017524620816376735,
+        "width" : 0.060465114408748466,
+        "x" : 0.64651162872585832,
+        "y" : 0.50872093048889355
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "가정법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020478151022751523,
+        "width" : 0.53720931789474269,
+        "x" : 0.13023255039492518,
+        "y" : 0.55959302316628867
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "shall을 직설법으로 사용하면 98%는 현실로 그렇게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02449161471845418,
+        "width" : 0.55836395524505877,
+        "x" : 0.10918676991350736,
+        "y" : 0.58558617597399609
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "된다'라는 의미이다. 그리고 직설법과 가정법은 현실인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010997938515876937,
+        "width" : 0.065434067337601265,
+        "x" : 0.87658529189343914,
+        "y" : 0.58243707721479199
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "혹시 모르니"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011890981545227608,
+        "width" : 0.063855684720552808,
+        "x" : 0.87630639915341024,
+        "y" : 0.5941347468516921
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "이걸 걸어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011658942147930285,
+        "width" : 0.048837210717703861,
+        "x" : 0.88604651077657903,
+        "y" : 0.60755813969800132
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "둬야지."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.56046510354066514,
+        "x" : 0.10930233184161868,
+        "y" : 0.61476868326945877
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "지 아닌지가 정반대가 되므로 이 직설법의 shall을 가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022924876297920282,
+        "width" : 0.56301692951778404,
+        "x" : 0.10686081589212702,
+        "y" : 0.64005856629518543
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "정법의 should로 해서 'if+should ~'의 형태로 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.19534884287081555,
+        "x" : 0.72558139061110383,
+        "y" : 0.64098837197207514
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "* 맑은 날씨를 불러온다는 일본 인형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302759679641,
+        "width" : 0.83255813468215811,
+        "x" : 0.11162790929379078,
+        "y" : 0.66715116256994955
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "하면, '실제로는 98% 현실이 되지 않지만, 만에 하나 나머지 2%의 가능성으로 현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026266710613970234,
+        "width" : 0.83751302431111985,
+        "x" : 0.10914906755667304,
+        "y" : 0.69311403962160956
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "실이 된다면'이라는 발상이 생긴다. 이 '2%의 현실이 될 가능성'이 '만에 하나 ~하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021833361255740757,
+        "width" : 0.44418604489405267,
+        "x" : 0.10930232951033793,
+        "y" : 0.72238372090640035
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "게 된다면'이라는 의미를 만들어 낸 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025147291264924321,
+        "width" : 0.53984784944105013,
+        "x" : 0.13008856002315797,
+        "y" : 0.77431300554540095
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "'if+should 형태는 도치 형태에서도 자주 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906582109437,
+        "width" : 0.034883721941217055,
+        "x" : 0.11162790634528294,
+        "y" : 0.83139534898607703
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 33,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003483,
+        "width" : 0.51283294590789708,
+        "x" : 0.15116278325141988,
+        "y" : 0.82695729554409381
+      },
+      "confidence" : 0.5,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "If he should call me, tell him l'm for the plan.듏"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023054097470863844,
+        "width" : 0.51657408798522075,
+        "x" : 0.16029638329780321,
+        "y" : 0.85330532214541266
+      },
+      "confidence" : 0.5,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "+ Should he Call me, tell him l'm for the plan."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02363749840081375,
+        "width" : 0.78627748842592582,
+        "x" : 0.15804475471181184,
+        "y" : 0.87786389149328203
+      },
+      "confidence" : 1,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "(그럴 일이 없다고는 생각하지만) 만에 하나 그가 나에게 전화하는 일이 생기면, 내가 그 계획"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011700322619536574,
+        "width" : 0.037209301592617636,
+        "x" : 0.081395349087412097,
+        "y" : 0.93313953504470104
+      },
+      "confidence" : 1,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0.91764705882352937,
+      "text" : "222"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    642
+  ],
+  "pdf_page_index" : 214,
+  "pdf_page_number" : 215
+}

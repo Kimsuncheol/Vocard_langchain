@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02190498624529158,
+        "width" : 0.54082438151041667,
+        "x" : 0.059882736380828125,
+        "y" : 0.079903679197495858
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.18624338624338624,
+      "text" : "예문 I should have done that! 난 그것을 했어야 했어!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01473214285714286,
+        "width" : 0.78060043010305846,
+        "x" : 0.10854505043073266,
+        "y" : 0.10892857132703693
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.44005449591280654,
+      "text" : "* 보통 '슈드해브'가 아니라 '슈대브'로 발음한다. 그만큼 고정된 표현으로 자리를 잡았다. 부정 표현으로 |"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01617524879319332,
+        "width" : 0.71131639412954351,
+        "x" : 0.12702078665347302,
+        "y" : 0.12936046513343413
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.43088418430884184,
+      "text" : "shouldn t have done that!(그것을 하지 말았어야 했어!)도 많이 쓰인다. 발음은 슈는대브이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024067751850400665,
+        "width" : 0.59146230711159142,
+        "x" : 0.078419176280043856,
+        "y" : 0.17219434597108907
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이 외에 '더 잘할 수 있었는데!'와 같은 표현도 많이 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372053418853,
+        "width" : 0.55658197064771708,
+        "x" : 0.057736728212194749,
+        "y" : 0.2252906976899911
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.18716577540106952,
+      "text" : "예문 ㅣ could have done better! 난 더 잘할 수 있었는데!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01473214285714286,
+        "width" : 0.78060043010305846,
+        "x" : 0.10854505042806561,
+        "y" : 0.25133928581101861
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.54430379746835444,
+      "text" : "* 보통 '쿠드해브'가 아니라 '쿠대브로 발음한다. 관용적인 표현으로 사용되어 done 뒤의 목적에(예: Ht나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01453488383974344,
+        "width" : 0.28406467302471189,
+        "x" : 0.12702078115408511,
+        "y" : 0.27034883714363067
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.47619047619047616,
+      "text" : "that)는 발화하지 않는 것이 보통이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802324908120396,
+        "width" : 0.29099307229332894,
+        "x" : 0.064665126555414093,
+        "y" : 0.32122093056011136
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.99398948159278733,
+      "text" : "를 가정법의 관용 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019209871973310144,
+        "width" : 0.049872037197681185,
+        "x" : 0.66912177898828928,
+        "y" : 0.3154854153166422
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "구불구불"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019827455282211304,
+        "width" : 0.16654276746384639,
+        "x" : 0.14767549851551248,
+        "y" : 0.39924324864566918
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.96437659033078882,
+      "text" : "| wish + 가정법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348480769458,
+        "width" : 0.81062358017508873,
+        "x" : 0.078521928042117772,
+        "y" : 0.43604651180341203
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "이루어질 수 없는 허상일 뿐이라는 것을 알면서도 소망하는 것을 나타내는 표현"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802324908120285,
+        "width" : 0.60277134239250885,
+        "x" : 0.057736730534021521,
+        "y" : 0.46366279103000307
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "이다. I wish 뒤에, if절에서 if를 제외한 절을 붙이면 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018916113036019366,
+        "width" : 0.33949191046099292,
+        "x" : 0.094688224770391835,
+        "y" : 0.51160714258760176
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "I wish + if you were here now"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836694444872,
+        "width" : 0.32332562385721414,
+        "x" : 0.076212476617172578,
+        "y" : 0.53924418628753001
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "* | wish you were here now."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019129727567945287,
+        "width" : 0.39748716963098407,
+        "x" : 0.10379717857414326,
+        "y" : 0.56241891981770653
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "나는 이루어지지 않는다는 것을 알면서 바란다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016144102811813443,
+        "width" : 0.29099307229332888,
+        "x" : 0.14318706651826174,
+        "y" : 0.58705357158003757
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "+ 만약 당신이 지금 여기에 있다면"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019196428571428559,
+        "width" : 0.36720555082280582,
+        "x" : 0.14549653163979573,
+        "y" : 0.60892857156053359
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "• 난 지금 당신이 여기에 있었으면 좋겠어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836694444872,
+        "width" : 0.13163971596575796,
+        "x" : 0.67436489947340594,
+        "y" : 0.58430232569347529
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "O0"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016154485089438286,
+        "width" : 0.53348730641899378,
+        "x" : 0.057736716188198561,
+        "y" : 0.65535714279348412
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.11795252225519288,
+      "text" : "예문 | wish + if he had not left his wallet at home"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019225427082606661,
+        "width" : 0.48528083097850172,
+        "x" : 0.076082305908901054,
+        "y" : 0.68142197166267771
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "- | wish he had not left his wallet at home."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017587209599358666,
+        "width" : 0.39722865760749115,
+        "x" : 0.10392608680056539,
+        "y" : 0.70624999959814205
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "나는 이루어지지 않는다는 것을 알면서 바란다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018968022721154387,
+        "width" : 0.44803696219802747,
+        "x" : 0.14318706151457836,
+        "y" : 0.72812500035113215
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "+ 만약 (그때) 그가 지갑을 집에 두고 가지 않았다면."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019392320087977755,
+        "width" : 0.49452293882978726,
+        "x" : 0.14538074227227848,
+        "y" : 0.74955083911538645
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "->(그때) 그가 지갑을 집에 두고 가지 않았다면 좋았을 걸."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020556477989469246,
+        "width" : 0.81293304659796106,
+        "x" : 0.076212460421648601,
+        "y" : 0.80087209327768316
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "wish 외에 희망이나 기대를 나타내는 표현에는 hope와 expect가 있는데."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836694444872,
+        "width" : 0.59122401027814719,
+        "x" : 0.055427255721402668,
+        "y" : 0.82848837234606643
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "wish만이 가정법과 잘 쓰이는 이유를 설명하도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026858441318784454,
+        "width" : 0.63789564633200346,
+        "x" : 0.076001292509588939,
+        "y" : 0.85111527399204945
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.050445103857566766,
+      "text" : "hope는 '실제로 그렇게 되기를 희망하다'를 뜻하는 동사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014742525134767814,
+        "width" : 0.34642033137328243,
+        "x" : 0.56812932713860886,
+        "y" : 0.93168604640377173
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.96273291925465843,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지않다 209"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    640
+  ],
+  "pdf_page_index" : 201,
+  "pdf_page_number" : 202
+}

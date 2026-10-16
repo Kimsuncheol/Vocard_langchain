@@ -1,0 +1,310 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022012187835366959,
+        "width" : 0.77314818989146838,
+        "x" : 0.074074053229741602,
+        "y" : 0.075581395163364817
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 be going to를 사용하든 will을 사용하든, 둘 다 틀린 말은 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325937199662,
+        "width" : 0.35185185345736414,
+        "x" : 0.07407407317131795,
+        "y" : 0.10319767423198156
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 전달되는 느낌이 달라진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.81250000000000011,
+        "x" : 0.071759258885245245,
+        "y" : 0.12923351133982908
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "\"반드시 괜찮아질 거야!\"라고 상대방을 강하게 안심시키고 싶을 때, 두 문장 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377313,
+        "width" : 0.2939814871007746,
+        "x" : 0.053240737880457641,
+        "y" : 0.15843023220938401
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "어느 문장을 사용할 것인가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023343903920654774,
+        "width" : 0.60648146542635828,
+        "x" : 0.074074082032711389,
+        "y" : 0.21212121237164938
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이미 알고 있겠지만, will을 쓰면 좀 더 가벼운 느낌이 든다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813993022123,
+        "width" : 0.81712965531782666,
+        "x" : 0.069444431334822976,
+        "y" : 0.23837209299588902
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "\"'어디까지나 생각만 하고 있을 뿐'이라는 느낌이 있기 때문이다. 이러한 것이 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021864506862592892,
+        "width" : 0.83333336223255516,
+        "x" : 0.053240726200041409,
+        "y" : 0.26737967935788554
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "쁘다는 것은 아니다. 매우 심각하지 않은 이야기를 할 때나 밝은 방향으로 대화를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024398400821787791,
+        "width" : 0.8311972184614701,
+        "x" : 0.053164495132972125,
+        "y" : 0.29480955077878535
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "나누고 싶을 때는 will을 사용해서 Everythingll be all right.(다 괜찮아질 거"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021838597860353248,
+        "width" : 0.44675926728682086,
+        "x" : 0.053240736608743469,
+        "y" : 0.3226381464977659
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "야)라고 말하는 것이 적절하다고 생각한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011734133310708939,
+        "width" : 0.057870371775193719,
+        "x" : 0.5115740732501346,
+        "y" : 0.37344028527475592
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "괜찮아~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01177558754429664,
+        "width" : 0.050925926728682125,
+        "x" : 0.51620370319209641,
+        "y" : 0.38502673801929665
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "괘찮아!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021890415864832202,
+        "width" : 0.81018517234108667,
+        "x" : 0.07638889519586653,
+        "y" : 0.51598837191197044
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "한편, Everything's gonna be all right. 문장은 드라마나 영화에서 크게 다친"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020566471970229983,
+        "width" : 0.83564818989146838,
+        "x" : 0.053240719739055399,
+        "y" : 0.54360465082353349
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "사람이나 사고로 어딘가에 갇힌 사람에게 이 대사를 하는 경우가 있다. be going"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023369812922894306,
+        "width" : 0.83564810319380345,
+        "x" : 0.050925947405523413,
+        "y" : 0.56976744178532723
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "to를 사용함으로써, '이제 곧 구조될 거야. 반드시 그렇게 될 거야!라는 느낌이 전"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023374994383351222,
+        "width" : 0.6875,
+        "x" : 0.055555552295524807,
+        "y" : 0.595811051954245
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "해지는 것이다. '정신 차려! 반드시 괜찮아질 거야!라는 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333522,
+        "width" : 0.069444445046511538,
+        "x" : 0.28472222178229978,
+        "y" : 0.64825581407557753
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "죽는 건가..."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012032085561497374,
+        "width" : 0.048611109906976924,
+        "x" : 0.50925925972388419,
+        "y" : 0.6466131907538013
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "반드시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013138394942258103,
+        "width" : 0.060185183178294743,
+        "x" : 0.49768518607751927,
+        "y" : 0.65843023268022849
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "괜찮아질"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011760042312948471,
+        "width" : 0.043981481682170531,
+        "x" : 0.51388888864193938,
+        "y" : 0.6700581394862406
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "거야!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01853389366000302,
+        "width" : 0.44931455091996625,
+        "x" : 0.46282581271034623,
+        "y" : 0.93135289336273774
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.91205211726384361,
+      "text" : "8장 동사 ② 조동사: 사실을 말하는가, 생각을 말하는가? 253"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    641
+  ],
+  "pdf_page_index" : 244,
+  "pdf_page_number" : 245
+}

@@ -1,0 +1,280 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033549201870303968,
+        "width" : 0.12529002536426892,
+        "x" : 0.13689095031090498,
+        "y" : 0.090116279146353451
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99896640826873384,
+      "text" : "Mus 60"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.034010357704026828,
+        "width" : 0.32729606194929639,
+        "x" : 0.13681600581114059,
+        "y" : 0.12616342563259564
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99879848952969452,
+      "text" : "shall은 '운명'이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017462550533199561,
+        "width" : 0.48259860819036315,
+        "x" : 0.13689095100922677,
+        "y" : 0.21218861195720473
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99784343325425917,
+      "text" : "• 좀처럼 이해하기 힘든 shall을 알기 쉽게 파악하자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021931639769747546,
+        "width" : 0.8097447482022373,
+        "x" : 0.13457078233739656,
+        "y" : 0.30813953500523761
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "현대 영어에서 shall은 일반적으로 널리 사용되는 조동사라고는 할 수 없다. 법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02189543153891782,
+        "width" : 0.81670535694469115,
+        "x" : 0.11136889914137865,
+        "y" : 0.3357558141080389
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "률 용어나 다소 문어적인 표현, 또는 관용어처럼 정해진 표현으로 사용될 뿐이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020524704583599118,
+        "width" : 0.81438515403053979,
+        "x" : 0.13225057832375986,
+        "y" : 0.36337209294106776
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "그렇지만 현대 영어에서 shall을 무시해도 될 만큼 사용하지 않는 것은 아니고,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468625033,
+        "width" : 0.83294660394841968,
+        "x" : 0.1113689252879711,
+        "y" : 0.39098837177465406
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "사용되는 것이 문어적인 표현이라고 해도, 그 표현에 대한 지식의 유무는 학습자의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021905776868935578,
+        "width" : 0.83294660394841979,
+        "x" : 0.11136892528403243,
+        "y" : 0.41715116294518706
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이해에 대한 평가와 관련되어 있다. 따라서 이번 학습에서는 이해가 필요한 정도로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.2923433780670166,
+        "x" : 0.11136891409581763,
+        "y" : 0.4461743774326985
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "만 shall을 설명할 예정이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.39211138811978419,
+        "x" : 0.10904871417747417,
+        "y" : 0.50436046550382363
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.99169139465875367,
+      "text" : "를 shall의 기본적인 의미: 운명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844604879087462,
+        "width" : 0.46229592236605555,
+        "x" : 0.1296885992064899,
+        "y" : 0.5508426029037331
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.20308483290488433,
+      "text" : "shall의 기본 의미는 '운명'이라고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021926466680506351,
+        "width" : 0.81438515403053979,
+        "x" : 0.12993039271459422,
+        "y" : 0.57994186061958486
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "'분명히 이렇게 될 것이다. 이것은 운명이다.'라고 화자가 신념을 나타내는 것이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.28306265310807666,
+        "x" : 0.10904871978639621,
+        "y" : 0.60898576491402423
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "shall의 기본적인 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013778629676302945,
+        "width" : 0.070797020738775085,
+        "x" : 0.424112461854663,
+        "y" : 0.65064869961163074
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "Shall은 운명"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.069605567238547605,
+        "x" : 0.42691415327167753,
+        "y" : 0.661337209148674
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "정해진 흐름"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020488496352769281,
+        "width" : 0.80974474820223719,
+        "x" : 0.13225059602801803,
+        "y" : 0.83852313161974701
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "미국 민권 운동의 상징이 된 We Shall Overcome(우리는 승리하리라)이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021859223308088094,
+        "width" : 0.83294660394841968,
+        "x" : 0.11136892526463592,
+        "y" : 0.86337209317484465
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "노래를 직역하면 '우리는 반드시 어려움을 극복한다'로 '극복하는 것이 우리의 운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.039443154226649887,
+        "x" : 0.08120649700935488,
+        "y" : 0.92732558136433541
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 1,
+      "text" : "266"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 257,
+  "pdf_page_number" : 258
+}

@@ -1,0 +1,295 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028013627794053808,
+        "width" : 0.64545150236649962,
+        "x" : 0.12974668252373425,
+        "y" : 0.072134681282606028
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.98440134907251264,
+      "text" : "- 명사만 있으면 '재질, 명사에 d나 복수형 어미가 붙으면 '형태'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.81206495111638843,
+        "x" : 0.078886315717907843,
+        "y" : 0.10888888869575919
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이처럼 a라는 관사는 단순히 '1개의 '라는 의미를 나타내는 것이 아니라, 책상, 스"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837958441779,
+        "width" : 0.83294660394841968,
+        "x" : 0.058004656211059054,
+        "y" : 0.13808139496980498
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "마트폰처럼 우리가 재질이 아닌 형태로 인식하는 것이 하나의 '형태'를 갖춘 상태로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021857881334092832,
+        "width" : 0.28074245019392535,
+        "x" : 0.058004647223222919,
+        "y" : 0.16569767410201042
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "존재한다는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022617852105034753,
+        "width" : 0.81228689713911573,
+        "x" : 0.078781210155683054,
+        "y" : 0.19159680880947449
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "그 형태가 복사된 것처럼 같은 형태로 여러 개(복수) 존재할 때, 복수형을 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020510335286458292,
+        "width" : 0.058004639365456315,
+        "x" : 0.060324826348533284,
+        "y" : 0.22222222232638622
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813598632824,
+        "width" : 0.81206495111638854,
+        "x" : 0.078886317884072549,
+        "y" : 0.24709302342829365
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "다시 한 번 설명하면, a는 '온전하게 갖추어진 형태가 1개 존재하다', 복수형은"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022883010016547245,
+        "width" : 0.84003769267689099,
+        "x" : 0.053311181948801203,
+        "y" : 0.27321443862616646
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "'온전하게 갖추어진 형태가 동일하게 복사된 것처럼 여러 개 존재하다'를 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021998708089192576,
+        "width" : 0.058004639365456329,
+        "x" : 0.060324826469630694,
+        "y" : 0.30377906948718492
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021966407775878771,
+        "width" : 0.30394430594010791,
+        "x" : 0.078886317737602685,
+        "y" : 0.32977777818751774
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이것이 가산 명사의 세계이다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023892605251736088,
+        "width" : 0.81226565621115943,
+        "x" : 0.078795656561809035,
+        "y" : 0.35586151106211639
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "반대로 말하면, 형태가 아닌 재질로 인식되는 사물인 불가산 명사는 하나의 온전"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022626915825737837,
+        "width" : 0.83082459189675073,
+        "x" : 0.06022688868927905,
+        "y" : 0.38350964737864734
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "한 형태가 있는 것을 의미하는 관사 a가 붙지 않고, 그 형태가 복사된 것처럼 여러"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021996124267578132,
+        "width" : 0.57772623408924462,
+        "x" : 0.058004632576045871,
+        "y" : 0.41133720918645111
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "개 존재하는 것을 나타내는 복수형 어미가 붙지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02407959662543413,
+        "width" : 0.81220834905450989,
+        "x" : 0.078794826256838077,
+        "y" : 0.43828704415928055
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "water, bread 처럼 관사 a나 복수형 어미가 붙지 않는 그대로의 명사를 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027160070631239153,
+        "width" : 0.81253780018199573,
+        "x" : 0.080991012215271177,
+        "y" : 0.49157880011627619
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "조금 더 깊이 학습하면, 명사는 아무것도 붙지 않고 그대로인 상태에서 dog가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025195436265733506,
+        "width" : 0.83311982588334521,
+        "x" : 0.060261233591136332,
+        "y" : 0.52004417342613729
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "'개고기'를 나타내는 것처럼, 재질에 주목하는 표현이다. 반대로, 명사 앞에 a가 붙"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444376,
+        "width" : 0.83294660394841979,
+        "x" : 0.060324841805525976,
+        "y" : 0.54933333307308985
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "기 때문에 형태에 주목하게 되는 것이다. a dog를 생각하면, 한 마리의 개 모양을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023797495524088608,
+        "width" : 0.7008816545659845,
+        "x" : 0.060218192408206667,
+        "y" : 0.57544608548129728
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "떠올리게 된다. 그리고 dogs는 형태가 여러 개 있다는 것을 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017012268066406322,
+        "width" : 0.38307250629771838,
+        "x" : 0.5335490260226593,
+        "y" : 0.92717932923507917
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.90121580547112456,
+      "text" : "9장 명사: 동사가 '나무'라면, 명사는 '나무 열매' 283"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 273,
+  "pdf_page_number" : 274
+}

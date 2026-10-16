@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.36890951386580229,
+        "x" : 0.20417633343757524,
+        "y" : 0.077034884088700406
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.97957516339869277,
+      "text" : "영어의 진행형: 동작을 하고 있는 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255812772735696,
+        "width" : 0.80974476049977828,
+        "x" : 0.13457076910045893,
+        "y" : 0.11046511663688796
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "한국어의 '~하고 있다'는 의미는 어떤 상태가 변함없이 계속됨을 나타내는 것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021833278483379792,
+        "width" : 0.53132250630263744,
+        "x" : 0.11368909475730651,
+        "y" : 0.14098837232415029
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 그렇다면 영어의 진행형은 무엇을 나타내는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.80974476049977828,
+        "x" : 0.13457077969376346,
+        "y" : 0.16548358434636168
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.11852704257767549,
+      "text" : "이미 학습한 현재완료 부분에서 설명한 바와 같이 '동작을 하고 있는 중'을 나타"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02047393802212949,
+        "width" : 0.058004641701989143,
+        "x" : 0.11600927993377412,
+        "y" : 0.19609582947795667
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010379480279010256,
+        "width" : 0.062645012605274886,
+        "x" : 0.45475637989225814,
+        "y" : 0.23380656627130647
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "식사 시작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.046403709032856844,
+        "x" : 0.67749420135364113,
+        "y" : 0.23982558149084587
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "식사 끝"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015481178804954476,
+        "width" : 0.097762607006316449,
+        "x" : 0.5241898305631385,
+        "y" : 0.24995864516818478
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.8571428571428571,
+      "text" : "-eat/ate"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016061885227856676,
+        "width" : 0.21809744327626329,
+        "x" : 0.44083526898296416,
+        "y" : 0.30079858021271999
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.31990521327014215,
+      "text" : "eating/ 식사하고 있는 중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014725472721888511,
+        "width" : 0.072023881411721447,
+        "x" : 0.54751474191496252,
+        "y" : 0.32548610070171857
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.92307692307692313,
+      "text" : "eaten/"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764824,
+        "width" : 0.14849187972697797,
+        "x" : 0.64269141501080262,
+        "y" : 0.32697426807540964
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "식사가 끝난 후의 상태"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.17865429600925314,
+        "x" : 0.25058004445477017,
+        "y" : 0.3473824314598235
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.80927835051546393,
+      "text" : "We are eating lunch."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894457,
+        "width" : 0.81206496218417556,
+        "x" : 0.13457076717131536,
+        "y" : 0.4112688553981616
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "위의 그림에서 eat/ate라는 동작동사의 '동사원형, 현재형, 과거형'은 '먹기 시작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.82830628740026602,
+        "x" : 0.11600927151641763,
+        "y" : 0.43877551046290508
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "부터 끝까지의 과정 전체'를 의미한다. 이 과정 전체 중 '먹고 있는 중, 아직 다 먹지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021895183539538676,
+        "width" : 0.51044082100509758,
+        "x" : 0.11368909924223082,
+        "y" : 0.46656976752228019
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "않은' 부분만 떼어 내서 표현하는 것이 진행형이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.80974476049977839,
+        "x" : 0.13689096071467974,
+        "y" : 0.49418604625176066
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "즉, 한국어 '~하고 있다'의 의미 중, 영어의 현재 진행형을 의미하는 것은 '동작하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024373762778931218,
+        "width" : 0.68697609326518172,
+        "x" : 0.11592779983633629,
+        "y" : 0.51927152700994528
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "는 중인 상태가 계속되고 있다'라는 의미에서의 '~하고 있다'뿐이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024844720496894346,
+        "width" : 0.68445473528922873,
+        "x" : 0.11368910180144134,
+        "y" : 0.57985803015191062
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.993869455463397,
+      "text" : "• '~하고 있다'의 굴레에서 벗어나 진행형을 이해하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021926136067618063,
+        "width" : 0.81206496218417568,
+        "x" : 0.13689095267950271,
+        "y" : 0.62936046534886725
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "진행형이 '동작을 하고 있는 중•동작의 미완료 상태'를 나타내는 것을 알게 되면,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021939033095352167,
+        "width" : 0.65197212814439276,
+        "x" : 0.11136892090460183,
+        "y" : 0.65552325586841809
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "'~하고 있다' 외의 진행형이 나타내는 의미도 이해하기 쉬워진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.54292342814993355,
+        "x" : 0.16009281039688572,
+        "y" : 0.70930232594286924
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "It seems the kids are understanding my English."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.40371227940769061,
+        "x" : 0.16241300186243893,
+        "y" : 0.73546511628680256
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "아이들이 저의 영어를 이해하고 있는 것 같아요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016024483762807074,
+        "width" : 0.61020880083665774,
+        "x" : 0.16705337217884872,
+        "y" : 0.75726744152044301
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.43088418430884184,
+      "text" : "> '이해하기 시작'과 '이해 완료' 사이에 있는 것으로. 이해하고 있는 중을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0089053570325118292,
+        "width" : 0.05568445083942819,
+        "x" : 0.39907192748051795,
+        "y" : 0.81540697660867678
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "이해하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01023503416073257,
+        "width" : 0.030162413576815983,
+        "x" : 0.41067285355961985,
+        "y" : 0.82697426812214225
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "시작"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.064965198056917584,
+        "x" : 0.5893271456440381,
+        "y" : 0.82830523516436994
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "이해 완료"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014036758240071001,
+        "width" : 0.10470439288633082,
+        "x" : 0.44068724660779557,
+        "y" : 0.88178976039903301
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0.73913043478260865,
+      "text" : "이해하는 도중"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011698840462008531,
+        "width" : 0.064965198056917695,
+        "x" : 0.60324825932884973,
+        "y" : 0.88226744170929439
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.86904761904761907,
+      "text" : "이해했다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011636934982746538,
+        "width" : 0.027842228125173146,
+        "x" : 0.085846867270465532,
+        "y" : 0.93167701858068641
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 28,
+      "red_ink_fraction" : 1,
+      "text" : "94"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 90,
+  "pdf_page_number" : 91
+}

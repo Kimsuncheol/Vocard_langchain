@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01950152447081932,
+        "width" : 0.40374147246705844,
+        "x" : 0.16997928898107123,
+        "y" : 0.07360158349094581
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "그의 가족은 그를 죽었다고 생각하고 단념했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421398,
+        "width" : 0.7832167753127226,
+        "x" : 0.17249417632965267,
+        "y" : 0.098837209103575185
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.28143712574850299,
+      "text" : "* 그의 상태와 죽은 상태가 균형을 이룬 동등한 상태이다. A가 대명사인 경우, 대명사는 알려진 정보로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016152163575789302,
+        "width" : 0.62937062146656875,
+        "x" : 0.20046620430079762,
+        "y" : 0.11756876698828733
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.1683673469387755,
+      "text" : "'가벼운 정보(이미 알고 있는 정보여서 뇌가 처리하기 쉬움)이기 때문에 up 앞에 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.3473193394152867,
+        "x" : 0.14452214836665958,
+        "y" : 0.15552325568799108
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "그 밖에 다음과 같은 표현이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.6923076923076924,
+        "x" : 0.12121212106183292,
+        "y" : 0.20348837246195584
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.12385321100917432,
+      "text" : "예e It's cold for this time of the year. (한 해의)이 시기치고는 춥다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534883406062793,
+        "width" : 0.37762238157440792,
+        "x" : 0.17249417040959009,
+        "y" : 0.22965116294315369
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.16666666666666666,
+      "text" : "* 평상시 이 기간과 오늘의 추위를 비교하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022803612060005252,
+        "width" : 0.49917876414763623,
+        "x" : 0.11871005678829544,
+        "y" : 0.27556394433037834
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.95423563777994158,
+      "text" : "• '기간'을 나타내는 for와 during의 차이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020562926751909294,
+        "width" : 0.72261073446681356,
+        "x" : 0.14219113615140286,
+        "y" : 0.31395348825048497
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "for는 '기간'의 의미가 있다. during이라는 전치사도 '기간'을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147795,
+        "width" : 0.81351977399951048,
+        "x" : 0.14219116178192284,
+        "y" : 0.34011627880820972
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "두 표현의 차이점을 살펴보면, for가 나타내는 '기간'의 이미지가 무엇인지 알 수"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020744236571236696,
+        "width" : 0.11207219746038107,
+        "x" : 0.12112007830023584,
+        "y" : 0.36753485800982078
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "있게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021832450047571728,
+        "width" : 0.81134789621728087,
+        "x" : 0.14443228699295721,
+        "y" : 0.39386085827426021
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "형식적인 특징으로는 for 뒤에 오는 기간에는 the 등의 한정을 나타내는 말이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020510049022820165,
+        "width" : 0.75058279010305373,
+        "x" : 0.12121210133393477,
+        "y" : 0.42280390458038686
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "붙지 않는데, during의 경우는 일반적으로 한정을 나타내는 말이 붙는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019106859005756149,
+        "width" : 0.79254080834891383,
+        "x" : 0.12354311553112919,
+        "y" : 0.47071872201201148
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.11041503523884104,
+      "text" : "여문 | stayed at the hotel for two months. 나는 그 호텔에 두 달 동안 머물렀다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.54545454150251516,
+        "x" : 0.12354312543021026,
+        "y" : 0.49854651199635081
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.16621253405994552,
+      "text" : "에문 | stayed at the hotel during the two months."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016107024401822989,
+        "width" : 0.31701631899233218,
+        "x" : 0.16783216672402398,
+        "y" : 0.52470930198488541
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그 2개월간 그 호텔에 머물렀다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02246535808085981,
+        "width" : 0.81137380572805373,
+        "x" : 0.13976396770592531,
+        "y" : 0.57101653294896682
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "during은 during summer vacation(여름휴가 동안에)처럼 '그것이 '어느' 기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024536841087036687,
+        "width" : 0.38067487841657754,
+        "x" : 0.12087686714535348,
+        "y" : 0.59625416972317635
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "간에 행해졌는지'를 설명하는 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021813932518675583,
+        "width" : 0.81351977399951036,
+        "x" : 0.14219116182200184,
+        "y" : 0.62644188119515709
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 '다른 2개월을 말하는 것이 아닌, 그때 당시의 2개월'처럼 한정하는 말이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021280823498567636,
+        "width" : 0.13322785641053461,
+        "x" : 0.12103175931725266,
+        "y" : 0.65360377427601246
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "있어야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021888735448774677,
+        "width" : 0.73426571055355239,
+        "x" : 0.14219115393532944,
+        "y" : 0.70348837232555217
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 for가 나타내는 기간에는 왜 한정하는 말이 붙지 않는 것일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.81818183398993949,
+        "x" : 0.13752912954191354,
+        "y" : 0.75581395322648615
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "for가 나타내는 '기간'은 '교환'에서 파생된 것이라고 할 수 있다. 즉, '어떤 행위를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.83682981311765481,
+        "x" : 0.11888113062693856,
+        "y" : 0.78482697408694002
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "하는 것과 그만큼의 기간을 맞바꿔, 그 기간을 소비했다'라는 감각을 바탕으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.058275059757069661,
+        "x" : 0.12121212033271227,
+        "y" : 0.81233362927183372
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.57342655366642181,
+        "x" : 0.12121213096893459,
+        "y" : 0.86468500407738491
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.098726114649681534,
+      "text" : "예e He has been practicing taekwondo for & years."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016116052575098738,
+        "width" : 0.31235430247423657,
+        "x" : 0.16783217266432468,
+        "y" : 0.89086069193888762
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "그는 태권도를 8년째 연습하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.039627039874041523,
+        "x" : 0.088578088367175054,
+        "y" : 0.92587209308604945
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.9285714285714286,
+      "text" : "366"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    644
+  ],
+  "pdf_page_index" : 354,
+  "pdf_page_number" : 355
+}

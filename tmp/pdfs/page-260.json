@@ -1,0 +1,220 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020446854348508459,
+        "width" : 0.36046511476690124,
+        "x" : 0.051162791493143539,
+        "y" : 0.078488371958537639
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "는 상황에서도 사용하게 된 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025136532990828853,
+        "width" : 0.81201952153986157,
+        "x" : 0.06958331710336875,
+        "y" : 0.10264676448534837
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이를 Shall we ~?로 표현하면, '우리가 ~하는 것이 필연적인 흐름일까요?'가 직"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031275359105513822,
+        "width" : 0.70058319785378198,
+        "x" : 0.050781320713502769,
+        "y" : 0.12633704710717208
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "역이다. 이 의미가 '같이 ~하지 않겠나요?라는 뜻으로 쓰이게 되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302128789301,
+        "width" : 0.81395348635586828,
+        "x" : 0.069767443101135682,
+        "y" : 0.18313953477620615
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이렇게 무언가 같이 하는 것을 '흐름 • 상황' 때문으로, 그 원인을 돌리는 의미에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.83255811171098204,
+        "x" : 0.051162804688906487,
+        "y" : 0.21206743560207353
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "자신의 의지를 전면에 드러내는 것을 피할 수 있다. '상황상 우리 이제 ~하는 것이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024722597719613826,
+        "width" : 0.79556534507057874,
+        "x" : 0.053362656595886661,
+        "y" : 0.23967568333226441
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "좋겠네요. 그렇게 할까요?'와 같은 느낌이다. 내가 즐겨 쓰는 표현 중 하나이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020705740115445792,
+        "width" : 0.30272858793085272,
+        "x" : 0.097502919182833866,
+        "y" : 0.29062629374985516
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "Hey, it's time. Shall we go?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021981214778869829,
+        "width" : 0.2564326849850741,
+        "x" : 0.10669775846552158,
+        "y" : 0.31410063397960242
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이봐, 시간이 됐어. 이제 갈까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027116145935329405,
+        "width" : 0.52164853702891967,
+        "x" : 0.074094352242555839,
+        "y" : 0.36158100287584638
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "의문문으로 쓰이면서, 거의 같은 의미로 쓰이는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030269661728216657,
+        "width" : 0.83788048137317994,
+        "x" : 0.04848964989535378,
+        "y" : 0.38548676301348983
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "lets보다 더 정중한 느낌을 준다. let's의 표현을 부드럽게 하려고 부가 의문문에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021945482032322272,
+        "width" : 0.46279070594094018,
+        "x" : 0.051162786794497789,
+        "y" : 0.41860465137574732
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "shall we를 사용하는 것도 그러한 이유이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019110727860214727,
+        "width" : 0.3441860459067605,
+        "x" : 0.05581395370848434,
+        "y" : 0.46802325617949769
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.17543859649122806,
+      "text" : "예e Let's give it a try, shall We?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020152157137853122,
+        "width" : 0.22375351732427423,
+        "x" : 0.40678029007987765,
+        "y" : 0.46644614030077403
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "시도해 봅시다, 할까요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017874272607974251,
+        "width" : 0.44693799452348193,
+        "x" : 0.46724341651771295,
+        "y" : 0.92724844072083301
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.90361445783132532,
+      "text" : "8장 동사 ② 조동사: 사실을 말하는가, 생각을 말하는가? 269"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 260,
+  "pdf_page_number" : 261
+}

@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032095712274843313,
+        "width" : 0.12731481240996234,
+        "x" : 0.13425926047678211,
+        "y" : 0.091569767490736198
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99943342776203969,
+      "text" : "Must 40"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.04141672480573011,
+        "width" : 0.35629473747091089,
+        "x" : 0.13323593658613606,
+        "y" : 0.12612576259935293
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99949710837314554,
+      "text" : "tough 구문 공략 ①"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.58564816738696812,
+        "x" : 0.13425924952457149,
+        "y" : 0.21352313139257451
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99844985273600995,
+      "text" : "• 왜 He is impossible.(그는 불가능해.)이라고 말할 수 없을까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029009028261666625,
+        "width" : 0.58378689813275719,
+        "x" : 0.10859338472245478,
+        "y" : 0.30563809077444692
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.98994974874371855,
+      "text" : "를 의미와 형태가 모두 '알맞는' 문장을 만들다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.23148147907662897,
+        "x" : 0.16203703812372255,
+        "y" : 0.38517441827910193
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "아래 문장을 읽어 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019709303709960158,
+        "width" : 0.11498345990552972,
+        "x" : 0.81163993427481917,
+        "y" : 0.37913357816074345
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "* toolarge!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.49537037518007532,
+        "x" : 0.14814814564284148,
+        "y" : 0.43594306078779765
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "This fridge is too large to get in the kitchen."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.032407406204981157,
+        "x" : 0.10879629678176868,
+        "y" : 0.4593023258306812
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 7,
+      "red_ink_fraction" : 1,
+      "text" : "X"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.52314816738696812,
+        "x" : 0.13888887917208739,
+        "y" : 0.46352313139059276
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.0023603461841070024,
+      "text" : "It is too large to get this fridge in the kitchen."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020395242446682227,
+        "width" : 0.40774622707502217,
+        "x" : 0.1549450015586645,
+        "y" : 0.48403044047053156
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이 냉장고는 너무 커서 부엌에 들어가지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.8078703318927305,
+        "x" : 0.12962965113366112,
+        "y" : 0.53469750861229381
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "문법의 형태만 놓고 보면 모두 맞는 문장 같아 보이지만, 위 문장은 맞고 아래"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022019572953736688,
+        "width" : 0.25462962481992468,
+        "x" : 0.10879629861031431,
+        "y" : 0.56250000014405499
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "문장은 의미가 어색하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026471149878994016,
+        "width" : 0.79181687375332455,
+        "x" : 0.1295427283244768,
+        "y" : 0.58852357014356438
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "말이란, '의미와 그 의미를 나타내기 위한 문법 형식(=말의 형태)의 조합'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021947157340541867,
+        "width" : 0.8078703318927305,
+        "x" : 0.12962964874887392,
+        "y" : 0.61773255829410534
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "따라서 의미가 이상하면 당연히 그 말의 형태도 인정받지 못한다. 형태에 맞춰 어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156203,
+        "width" : 0.76620366522606387,
+        "x" : 0.1087963154227356,
+        "y" : 0.64534883712709334
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "느 단어든 바꿔 쓴다고 해서 자연스러운 의미를 가진 문장이 되지는 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020504013923563491,
+        "width" : 0.73148150072030138,
+        "x" : 0.12731480596260067,
+        "y" : 0.70058139524084051
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "This fridge is too large to get in the kitchen. 문장부터 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024944960434665875,
+        "width" : 0.81749925545766833,
+        "x" : 0.12482252940358363,
+        "y" : 0.72366152466517852
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "'냉장고'는 크기를 잴 수 있어 크기가 '크다'라고 느껴지는 것은 매우 자연스럽다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021885086208900062,
+        "width" : 0.82870366522606387,
+        "x" : 0.10879631542514334,
+        "y" : 0.75436046527051137
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "그렇기 때문에 This fridge is too large(이 냉장고는 너무 크다)라는 냉장고의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.83101849927969862,
+        "x" : 0.10879630371663228,
+        "y" : 0.7789145910475298
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "크기를 평가하는 설명이 있고, '무엇을 하는 데 너무 커서 ~할 수 없는 것인가'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023365947275399312,
+        "width" : 0.82894079330119663,
+        "x" : 0.10868290058687387,
+        "y" : 0.80735446540125788
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.03724604966139955,
+      "text" : "보충 설명을 나타내는 to get in the kitchen이 이어서 나온다.(참고로 t00는 '너"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026548623190231546,
+        "width" : 0.8313525044326241,
+        "x" : 0.10863719648111904,
+        "y" : 0.83416457446522252
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "무 (~한)'라는 해석으로는 충분하지 않고, 'to0+형용사+to 부정사'로 쓰여 '너무"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020524704583599118,
+        "width" : 0.60416666666666674,
+        "x" : 0.10648148141071427,
+        "y" : 0.86337209293851491
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "~해서 ~할 수 없다'라는 부정적인 의미까지 지닌 표현이다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537407,
+        "width" : 0.039351851551245279,
+        "x" : 0.0787037039986829,
+        "y" : 0.92571174364818798
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.98809523809523814,
+      "text" : "182"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    642
+  ],
+  "pdf_page_index" : 175,
+  "pdf_page_number" : 176
+}

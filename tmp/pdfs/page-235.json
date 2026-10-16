@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025640334947253374,
+        "width" : 0.83745981417490201,
+        "x" : 0.11613590874910891,
+        "y" : 0.067975386502900026
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "doors are on your right.(내리실 문은 오른쪽입니다.)와 같이, 일반적으로 '항상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02195232958131843,
+        "width" : 0.4627906821052572,
+        "x" : 0.11860465883494684,
+        "y" : 0.095930232709970698
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다'라는 의미의 현재형을 사용해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023407023148180328,
+        "width" : 0.68859641572349084,
+        "x" : 0.13710598720674991,
+        "y" : 0.1234385074110449
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "기차 안내 방송에도 동일한 will의 사용법이 등장하는 경우가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020893507580740267,
+        "width" : 0.50270776123742433,
+        "x" : 0.16260628228434881,
+        "y" : 0.17215911089782865
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "We will soon be arriving at Yongsan Station."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02030463235658253,
+        "width" : 0.404973869649773,
+        "x" : 0.16496117095476193,
+        "y" : 0.19778023088502739
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "우리 열차는 잠시 후 용산역에 도착하겠습니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988537812148157,
+        "width" : 0.81627904995214562,
+        "x" : 0.13488373069059381,
+        "y" : 0.40969750852709097
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이 문장 또한 원래대로라면 항상 행해지다'라고 정해진 것이기 때문에 The"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024334145610442781,
+        "width" : 0.83515317215878737,
+        "x" : 0.11381947071576459,
+        "y" : 0.43776790126119869
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "urains arrives at Yongsan Station.(그 기차는 용산역에 도착합니다.)과 같이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021864396397329289,
+        "width" : 0.43720930050580931,
+        "x" : 0.11627907055780082,
+        "y" : 0.46656976759362423
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "현재형을 사용해야 한다고 생각할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021807498354928789,
+        "width" : 0.39069768574163111,
+        "x" : 0.13488371515709144,
+        "y" : 0.52179715264274062
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 이 영어 방송은 틀리지 않았다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021843705737293884,
+        "width" : 0.53023257350649922,
+        "x" : 0.13488371313807831,
+        "y" : 0.54937722433231639
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "그렇다면 여기에서 will은 무엇을 나타내는 것일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020504013923563491,
+        "width" : 0.28372092396445425,
+        "x" : 0.13488372348794472,
+        "y" : 0.57558139522567364
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "역시나 미래를 나타내는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024693666403828085,
+        "width" : 0.54005758171407592,
+        "x" : 0.13466411487827659,
+        "y" : 0.62895221844752336
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "물론 '미래'를 나타낸다는 의견도 괜찮다고 생각한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.81395345399862007,
+        "x" : 0.13488373982239535,
+        "y" : 0.65697674438688269
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 이는 분명한 어조로 단언하는 것을 피하고, '예상하건데'라는 의미를 포함"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022534007279474078,
+        "width" : 0.70019626889133735,
+        "x" : 0.1138651479008268,
+        "y" : 0.68535490879100758
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "시킴으로써 거리를 두고 '정중함'을 나타내는 표현이라고 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455516063,
+        "width" : 0.36279070818865738,
+        "x" : 0.10930232020638186,
+        "y" : 0.74110320293755882
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.97338403041825095,
+      "text" : "• '정중함, 공손함'을 더하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.36279070818865738,
+        "x" : 0.11395348300100476,
+        "y" : 0.781976743864082
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.18412348401323042,
+      "text" : "예문 A; How much do | owe you?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.2069767356937767,
+        "x" : 0.1883720971558476,
+        "y" : 0.80516014219951737
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "얼마를 드려야 하나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022014399864495382,
+        "width" : 0.2604651165823651,
+        "x" : 0.16046511600117624,
+        "y" : 0.83430232572367624
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "B: That' be 20 dollars."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01915524099221011,
+        "width" : 0.13962463639740252,
+        "x" : 0.18135047240265695,
+        "y" : 0.86033517017834649
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "20달러입니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017793594306049876,
+        "width" : 0.041860463612439669,
+        "x" : 0.75581395377517557,
+        "y" : 0.76290035596957062
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "20"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.039534883961039061,
+        "x" : 0.083720929996224644,
+        "y" : 0.92437722395922128
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.98989898989898994,
+      "text" : "244"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    642
+  ],
+  "pdf_page_index" : 235,
+  "pdf_page_number" : 236
+}

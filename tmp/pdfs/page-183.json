@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.037773600676729968,
+        "width" : 0.13498312776738949,
+        "x" : 0.13410526867676539,
+        "y" : 0.093100202462981896
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99919387343812982,
+      "text" : "Must 42"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.038141450848019343,
+        "width" : 0.3670839829878374,
+        "x" : 0.13676236620685236,
+        "y" : 0.13590327310540529
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99866631101627101,
+      "text" : "have, get 사역 구분"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023899107216940219,
+        "width" : 0.75659933957186609,
+        "x" : 0.14143278933221237,
+        "y" : 0.21507036575829308
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.9994060582062958,
+      "text" : "• hoveLt get에 '~시키다,~하게 하다', '~당하다'라는 의미가 생긴 이유는 무엇일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024926549599263992,
+        "width" : 0.81206495111638843,
+        "x" : 0.13457077258109001,
+        "y" : 0.3095930230290368
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "have나 get을 사용해서 '~시키다, ~하게 하다' 또는 '~당하다'라는 뜻을 나타내"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021983364722906851,
+        "width" : 0.16473318230022083,
+        "x" : 0.11368909317957349,
+        "y" : 0.34011627921058829
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "는 구문이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011721012855339663,
+        "width" : 0.03016241301189769,
+        "x" : 0.116009280617021,
+        "y" : 0.3923487543363493
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 5,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021402077318510515,
+        "width" : 0.6405062241987749,
+        "x" : 0.15538186457969605,
+        "y" : 0.38784040371636985
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "Ihad my son carry my bag. 나는 아들에게 내 가방을 들게 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011757220661937073,
+        "width" : 0.030162413011897704,
+        "x" : 0.11600928068331201,
+        "y" : 0.41992882556931699
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 7,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022535544697500187,
+        "width" : 0.27426645972511987,
+        "x" : 0.15753060486403409,
+        "y" : 0.41461516511730934
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "| got Andy to fix my car."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.32250579920682043,
+        "x" : 0.43851508172990994,
+        "y" : 0.4141459074449555
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "나는 앤디에게 내 차를 고치게 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164045,
+        "width" : 0.22737819498235531,
+        "x" : 0.15777261931586553,
+        "y" : 0.44476744214449471
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "Ihad my car stolen."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483324111992718,
+        "width" : 0.22505801374262036,
+        "x" : 0.4106728493632531,
+        "y" : 0.44172597825969495
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "나는 내 차를 도난당했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.751740108836781,
+        "x" : 0.13457078078427828,
+        "y" : 0.49555160161611622
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "특히 세 번째 예문은 영어 학습자들이 아래와 같이 잘못 쓰는 경우가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837367156314,
+        "width" : 0.032482596960934737,
+        "x" : 0.11600928143703713,
+        "y" : 0.54505813934290759
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "X"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021157117076615939,
+        "width" : 0.24477906660600141,
+        "x" : 0.1410533919717315,
+        "y" : 0.54551900253230823
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.015296367112810707,
+      "text" : "I was stolen my Car."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020498841682787039,
+        "width" : 0.8097447482022373,
+        "x" : 0.13689096687895114,
+        "y" : 0.59738372084764568
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "왜 have나 get을 사용해서 이러한 의미가 생기는 것일까? 이러한 문장 구조와"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021916122198953336,
+        "width" : 0.38051041689786036,
+        "x" : 0.11600929595942237,
+        "y" : 0.62354651156773766
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "의미가 발생하게 된 원인을 살펴보자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022015304327859475,
+        "width" : 0.59190442345359107,
+        "x" : 0.13443793525841743,
+        "y" : 0.6774521378565822
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이 구문에서 have가 쓰인 경우는 전형적인 5형식 문장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020472978781975071,
+        "width" : 0.058004639365456315,
+        "x" : 0.11368909550083948,
+        "y" : 0.70639534869843279
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029585821348577235,
+        "width" : 0.69187381050803454,
+        "x" : 0.11583718963186,
+        "y" : 0.75251315203755009
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.22946859903381642,
+      "text" : "CB I had myson = (Carry my bag). myson은 가방을 들고 나르는 입장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014679715302491125,
+        "width" : 0.25290023196827288,
+        "x" : 0.23201856142942257,
+        "y" : 0.78336298899927292
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.76571428571428568,
+      "text" : "have했던 상황의 내용 동사원형"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026635976872834477,
+        "width" : 0.71479303186590015,
+        "x" : 0.13677663352436686,
+        "y" : 0.82534486425108011
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "직역하면, \"나는 '내 아들=내 가방을 들다'라는 상황을 가졌다.\"가 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024416589227859609,
+        "width" : 0.81006977774880162,
+        "x" : 0.1367289621198611,
+        "y" : 0.85484912063960017
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "동사 had는 주어 I에서 나오는 힘이기 때문에 '나의 의도에 의해 그러한 상황을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023576512455515952,
+        "width" : 0.76566123962402344,
+        "x" : 0.11600928950740047,
+        "y" : 0.88211743774567064
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "가졌다=나의 의도에 의해 아들이 가방을 들게 했다'라는 의미가 될 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011700322619536574,
+        "width" : 0.039443154226649901,
+        "x" : 0.085846868246303831,
+        "y" : 0.93313953504227864
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 1,
+      "text" : "190"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 183,
+  "pdf_page_number" : 184
+}

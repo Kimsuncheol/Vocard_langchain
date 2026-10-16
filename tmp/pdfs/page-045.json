@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020088954001480031,
+        "width" : 0.35545728981243413,
+        "x" : 0.11034751827419731,
+        "y" : 0.075960721561766587
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.18142548596112312,
+      "text" : "예문 I watched TV for two hours."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017562724048306499,
+        "width" : 0.28613639649124256,
+        "x" : 0.15649200880531203,
+        "y" : 0.10315755312497843
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "나는 텔레비전을 2시간 동안 봤다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.44700461600903219,
+        "x" : 0.15668202368263184,
+        "y" : 0.12644188111590793
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.32017543859649122,
+      "text" : "> 텔레비전을 보는 것과 2시간을 교환하여 시간을 소비했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021922267213159707,
+        "width" : 0.79723503016218344,
+        "x" : 0.10368662938895432,
+        "y" : 0.17151162805927211
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.96905393457117595,
+      "text" : "• '대신 ~해 주는 동작'은 4형식에서 3형식으로 바꿀 때 for를 사용한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022386302118716062,
+        "width" : 0.70303447739484437,
+        "x" : 0.12890979289461954,
+        "y" : 0.20876480597062153
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이제 4형식에서 3형식 문장으로 바꿔 쓰는 설명으로 돌아가도록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.53225806728529368,
+        "x" : 0.15207373122441339,
+        "y" : 0.26598837246257445
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "to가 아닌 for를 사용하여 3형식으로 바꿔 쓰는 경우"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.49769585846848624,
+        "x" : 0.14746543448823507,
+        "y" : 0.29059449877095822
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "① 동사 자체에 '건네주다'라는 이미지가 없을 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.64976958584684863,
+        "x" : 0.1474654371668607,
+        "y" : 0.31677018650065136
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "② 4형식에서 동사에 '대신해서 ~해 주다'라는 이미지가 있을 때"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023571063484252752,
+        "width" : 0.80897378183786051,
+        "x" : 0.12430399096740634,
+        "y" : 0.37283529544810401
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "for를 사용하는 대표적인 동사로는 buy(사다), cook(요리하다), make(만"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024480650460920961,
+        "width" : 0.82504225246681617,
+        "x" : 0.10821050023581757,
+        "y" : 0.39948092771218446
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "들다), save(남겨 두다, 아끼다) 등이 있는데, 이 동사들은 4형식에서 '대신 ~해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022509071397485148,
+        "width" : 0.2565050514103156,
+        "x" : 0.10566850480608048,
+        "y" : 0.42675268917182052
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "주다'라는 이미지가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348089399189,
+        "width" : 0.70506911136933026,
+        "x" : 0.15207373913149336,
+        "y" : 0.47674418641639638
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.0016094420600858369,
+      "text" : "| bought him some clothes. -*| bought some clothes for him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017488289217876929,
+        "width" : 0.26728110440840364,
+        "x" : 0.15207373339170566,
+        "y" : 0.50576752470793129
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그에게 옷을 좀 사 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01464450771869974,
+        "width" : 0.57834102668172038,
+        "x" : 0.11290321926236185,
+        "y" : 0.52750665491163384
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.24273858921161826,
+      "text" : "(① 동사 'buy(사다)는 '사서 손에 넣다'라는 이미지는 있어도 '누군가에게 건네"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017142162983038833,
+        "width" : 0.18719057493571992,
+        "x" : 0.13342052381510869,
+        "y" : 0.54547727979876781
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.29850746268656714,
+      "text" : "주다'라는 이미지는 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016103155547364634,
+        "width" : 0.54147463341134849,
+        "x" : 0.11290323617299419,
+        "y" : 0.56686046477822627
+      },
+      "confidence" : 0.5,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.25651302605210419,
+      "text" : "② 문장에서 그의 옷인데, 내가 그를 대신해서 돈을 냈다는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020539676392088979,
+        "width" : 0.24523363502384404,
+        "x" : 0.15162449219696306,
+        "y" : 0.6279091251503921
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "l cooked him dinner."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021520839714855855,
+        "width" : 0.3094427052429457,
+        "x" : 0.39834614305013438,
+        "y" : 0.62688571952117711
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.0013315579227696406,
+      "text" : "•| cooked dinner for him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0058139536162870042,
+        "width" : 0.020737327436186948,
+        "x" : 0.52304147441554716,
+        "y" : 0.64970930222932421
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 1,
+      "text" : "7"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017486999599724218,
+        "width" : 0.29953917169369726,
+        "x" : 0.15207373200657789,
+        "y" : 0.65838509339681939
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "나는 그에게 저녁을 요리해 주었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0146548255101282,
+        "width" : 0.81566816241429319,
+        "x" : 0.11290324575282781,
+        "y" : 0.6787790699203049
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.2719546742209632,
+      "text" : "① 동사 'cook(요리하다)'은 '음식 재료를 익혀서 먹을 수 있는 상태로 만들다'라는 이미지는 있어도 '누군가에게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421509,
+        "width" : 0.21428572041743585,
+        "x" : 0.13364054981304344,
+        "y" : 0.69912790677268455
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.29189189189189191,
+      "text" : "건네주다'라는 이미지는 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395742421509,
+        "width" : 0.62211980162458236,
+        "x" : 0.11290323271305433,
+        "y" : 0.71947674398681383
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.28249566724436742,
+      "text" : "② 문장에서 그가 먹을 식사인데. 내가 그를 대신해서 요리해 주었다는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021918398358701241,
+        "width" : 0.80645159628823837,
+        "x" : 0.1244239713560184,
+        "y" : 0.76441881070340612
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "그 외에 make는 '~에게 만들어 주다'->'~을 대신해서 만들어 주다', save는 '~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021703364686195825,
+        "width" : 0.70063998494637836,
+        "x" : 0.10361621640022067,
+        "y" : 0.79083124161131979
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "을 위해서 남겨 두다' -*'~을 대신해서 남겨 두다'라는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.64976958584684874,
+        "x" : 0.1036866365696633,
+        "y" : 0.84738243099051613
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.96876654314452093,
+      "text" : "• '건네주다라는 이미지를 가진 동사라면, to를 사용한다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021883576129957283,
+        "width" : 0.80414745475672467,
+        "x" : 0.12442396827837644,
+        "y" : 0.88509316781456859
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 to를 사용하는 동사를 살펴보자. 아래에 제시된 동사들에는 보통 동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011978704525288375,
+        "width" : 0.027649768126497123,
+        "x" : 0.071428572053215608,
+        "y" : 0.92857142837098017
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.92537313432835822,
+      "text" : "48"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    644
+  ],
+  "pdf_page_index" : 45,
+  "pdf_page_number" : 46
+}

@@ -1,0 +1,475 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024587177659096571,
+        "width" : 0.3477369563871639,
+        "x" : 0.12337074075259707,
+        "y" : 0.075460582376906671
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9482496194824962,
+      "text" : "- 시간을 나타내는 on, in, at 비교"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030942102819813466,
+        "width" : 0.81438800344439999,
+        "x" : 0.069517175571142287,
+        "y" : 0.10671553165796466
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "이번에는 시간을 나타내는 on, in, at을 비교해 보자. at은 '계속해서 움직이는 점"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032033652886946595,
+        "width" : 0.83751424153645826,
+        "x" : 0.048585694500703352,
+        "y" : 0.13192628288136099
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "을 가리키다'라는 이미지에서, 7시에 ~하고, 10시에는 ~하고....를 나타내어, '각 시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941337,
+        "width" : 0.41958039982026801,
+        "x" : 0.051282064192430074,
+        "y" : 0.16548358432040655
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "점에 무엇을 하는지를 말할 때 사용된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031333280223179605,
+        "width" : 0.81665491174768523,
+        "x" : 0.069526221095894347,
+        "y" : 0.18774619692631944
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "in의 경우, '테두리 안'을 나타내기 때문에 시간을 테두리, 범위로 파악하여 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028297329541318916,
+        "width" : 0.83491042264845983,
+        "x" : 0.051091221818117746,
+        "y" : 0.21758242574476416
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "된다. 예를 들어, '2023년에'는 in 2023, '5월에'는 in May로 나타낸다. 이 또한 1년"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027542961310155656,
+        "width" : 0.83280644865117515,
+        "x" : 0.053304247886254132,
+        "y" : 0.24402523766366024
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "을 365일 동안, 한 달을 31일 동안이라는 '넓이를 가진 테두리'의 이미지로 파악하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022790123534181417,
+        "width" : 0.21004951237952946,
+        "x" : 0.051152401271607702,
+        "y" : 0.27566889154564089
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "여 나타낸 표현이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.72261073446681356,
+        "x" : 0.074592068558152091,
+        "y" : 0.30079858029742657
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 '어느 기간 내에서'라는 '테두리 안'의 이미지도 in으로 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023723978010446678,
+        "width" : 0.83488207868701036,
+        "x" : 0.053349962407108292,
+        "y" : 0.3493452360304059
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.098995695839311337,
+      "text" : "에e He improved a lot in a short period of time. 그는 단기간에 매우 향상되었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021900342012149854,
+        "width" : 0.81351977399951036,
+        "x" : 0.074592094581307555,
+        "y" : 0.40106477401823926
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.019927536231884056,
+      "text" : "'지금부터 시간을 계산해서 ~ 후'를 말할 때도 in을 사용한다. '지금부터'라는 시"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021852623601877896,
+        "width" : 0.32634033029235671,
+        "x" : 0.053613053568440379,
+        "y" : 0.43023255821995454
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "작점이 있다는 것이 포인트이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022531025369503688,
+        "width" : 0.61338162761807768,
+        "x" : 0.055730117270430604,
+        "y" : 0.47536978757768045
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.16630196936542668,
+      "text" : "예문 Pll see you in two weeks. (지금으로부터) 2주 뒤에 만나."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010356265882950688,
+        "width" : 0.30536129943325996,
+        "x" : 0.37995338353657515,
+        "y" : 0.50872093014172548
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "••••••••••••••••."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.027972028466031751,
+        "x" : 0.37296037262013099,
+        "y" : 0.5203488368877387
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.95652173913043481,
+      "text" : "*"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209302128788968,
+        "width" : 0.034965034224029301,
+        "x" : 0.3682983688145588,
+        "y" : 0.54651162780780471
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.2857142857142857,
+      "text" : "now"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012199440357847924,
+        "width" : 0.074816885836783253,
+        "x" : 0.6548992488085067,
+        "y" : 0.54331888415932339
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "2 weeks"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02020486477950878,
+        "width" : 0.3219584712275752,
+        "x" : 0.37753360903097039,
+        "y" : 0.5580736377697566
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.99678456591639875,
+      "text" : "8...•••••••••••••••••••"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024212381114130377,
+        "width" : 0.81141075721153844,
+        "x" : 0.079145624921004604,
+        "y" : 0.5987949655233511
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "말 그대로라면 '2주간의 범위 내에'지만, 범위의 안이 아닌 바깥 테두리를 가리키"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026347173032447491,
+        "width" : 0.68793420166711183,
+        "x" : 0.058098043760966459,
+        "y" : 0.62533380259080562
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "는 의미이다. 참고로 '어느 시점부터 ~ 후'의 경우, later를 사용한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011747848913536307,
+        "width" : 0.030303031291037875,
+        "x" : 0.058275057664504366,
+        "y" : 0.68168604633085883
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 20,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016108313173769706,
+        "width" : 0.3030302911742121,
+        "x" : 0.10023310773457222,
+        "y" : 0.67732558170715362
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "| saw him two weeks later."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.20279719686915737,
+        "x" : 0.4219114248469546,
+        "y" : 0.67435669910170792
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "난 그를 2주 뒤에 봤어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028937630031419803,
+        "width" : 0.81650710581374641,
+        "x" : 0.076600927592899243,
+        "y" : 0.71474578985836945
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "on은 on the stage(무대 위에)라는 이미지로 시간을 나타낸다. 'on + 날짜' 또"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027544319471005552,
+        "width" : 0.83495885082799137,
+        "x" : 0.058048083371471451,
+        "y" : 0.74154640618522283
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "는 'on+ 요일'의 형태로 쓰인다. 예를 들어 on Tuesday는 '화요일이라는 무대 위"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028317753572641657,
+        "width" : 0.83277497468171313,
+        "x" : 0.06030401465670359,
+        "y" : 0.76935919296045752
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "에서'라는 느낌이다. in the morning이나 in the afternoon 등은 '오전 중에, 오"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028331077088268874,
+        "width" : 0.83734278665308948,
+        "x" : 0.058030141504826133,
+        "y" : 0.79616479437664223
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "후 중에'처럼 시간의 테두리라는 이미지를 가졌으나, '화요일 아침'처럼 요일과 함"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026582966680112063,
+        "width" : 0.83490964014645652,
+        "x" : 0.060407915432647237,
+        "y" : 0.82595771833879073
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "께 나타낼 경우, on Tuesday morning으로 on이 우선시된다. 역사적으로 원래"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.83449882659477392,
+        "x" : 0.060606064607248072,
+        "y" : 0.85448092242258333
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "시간을 나타내는 전치사는 on이었던 것으로 생각된다. 시간을 무대(장소)로 파악"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020449433584814103,
+        "width" : 0.19580419382818068,
+        "x" : 0.06060606149006962,
+        "y" : 0.8837209300988299
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "했다고 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016612478559167476,
+        "width" : 0.43849925505809284,
+        "x" : 0.48238438887459756,
+        "y" : 0.92430033970087655
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0.95510204081632655,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 351"
+    }
+  ],
+  "page_size_points" : [
+    401,
+    644
+  ],
+  "pdf_page_index" : 339,
+  "pdf_page_number" : 340
+}

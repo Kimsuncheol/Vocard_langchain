@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030623851461334395,
+        "width" : 0.12993039611383533,
+        "x" : 0.13689095044462912,
+        "y" : 0.095829636178075273
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99840255591054317,
+      "text" : "Mus 37"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032034780033521226,
+        "width" : 0.3132250630263741,
+        "x" : 0.13921113573352595,
+        "y" : 0.13220940481202281
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.9973004242190513,
+      "text" : "be동사 정리하기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.44315544831837328,
+        "x" : 0.14153132794831527,
+        "y" : 0.21511627928621124
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99733169129720856,
+      "text" : "• be동사는 여러 문장에서 무슨 기능을 하는가?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.80974476049977839,
+        "x" : 0.13457077509448859,
+        "y" : 0.31233362933656994
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "이번 학습에서는 be동사가 무엇인지, 그리고 문법에서 다양하게 쓰이는 be동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026831518577704383,
+        "width" : 0.83094421819592212,
+        "x" : 0.11355265345807902,
+        "y" : 0.33709010816799512
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "가 무슨 의미를 가지며 어떤 기능을 하는지 살펴보고, 지금까지 배운 지식들을 '점"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025602868730871586,
+        "width" : 0.26741248597490025,
+        "x" : 0.1134432843109609,
+        "y" : 0.36259018921232866
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "에서 선으로'연결해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.81206496218417556,
+        "x" : 0.13225058149986119,
+        "y" : 0.42147293740893643
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "be동사는 가장 기본적이지만, 영어 학습에서 그 의미 학습에 대한 중요성은 잘"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021950640504933561,
+        "width" : 0.25522041050254873,
+        "x" : 0.1136890990926287,
+        "y" : 0.44897959175649349
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "언급되지 않는 동사이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024061307086284622,
+        "width" : 0.81453883394281912,
+        "x" : 0.12983821937886597,
+        "y" : 0.47380739707448638
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "'문법상 필요하기 때문에 사용되지만, 문장의 의미 파악에는 별로 중요하지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021924846449465352,
+        "width" : 0.33642690672096631,
+        "x" : 0.11368909645390204,
+        "y" : 0.50133096704984925
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "않다.라고 생각되는 경향이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023281608520616115,
+        "width" : 0.80974476049977828,
+        "x" : 0.13457077435733653,
+        "y" : 0.52906976701991781
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, 진행형이나 수동태에서 'be동사+-ing, 'be동사+과거분사'의 형식이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023276449201798832,
+        "width" : 0.8306264890846633,
+        "x" : 0.11368907556060032,
+        "y" : 0.55811889988701191
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "쓰이는데, 왜 be동사가 사용되는지, 그리고 be동사가 무슨 기능을 하는지에 대한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024395574588318758,
+        "width" : 0.18172934241328681,
+        "x" : 0.11563184839449113,
+        "y" : 0.58445918943249353
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "설명은 거의 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026342727065403637,
+        "width" : 0.80996855607269502,
+        "x" : 0.13445280567088716,
+        "y" : 0.60800273333813659
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "또한 T am a student를 \"나는 학생이다.\"라고 해석할 때 '~(이)다'가 무엇을 나"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026751155227078938,
+        "width" : 0.8309190249612145,
+        "x" : 0.11353193326939028,
+        "y" : 0.63750245484064771
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "타내는지에 대한 설명은 없다. I am in Tokyo.라는 문장의 경우, \"나는 도쿄에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027559842276382751,
+        "width" : 0.82867033397052314,
+        "x" : 0.11582791756644159,
+        "y" : 0.66215738915903233
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "있다.\"라는 뜻으로, 여기에서는 '있다'라는 의미가 된다. 이렇게 경우에 따라 의미가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021859071692641896,
+        "width" : 0.74013922941600185,
+        "x" : 0.11368908602999668,
+        "y" : 0.69331395371613713
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "달라지는 be동사의 정체가 무엇인지에 대한 설명을 거의 찾아볼 수 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02191452865803678,
+        "width" : 0.77494199495788996,
+        "x" : 0.13457076588421935,
+        "y" : 0.72227151761002473
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "여기에서는 이러한 be동사의 근본적인 의미와 기능에 대해 살펴보도록 하자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026901410973590334,
+        "width" : 0.42045846492686167,
+        "x" : 0.11111231484325779,
+        "y" : 0.7776817412463839
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.98799999999999999,
+      "text" : "be동사:~한 상태로 존재하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021862940547100362,
+        "width" : 0.46171693193151597,
+        "x" : 0.13457077070974746,
+        "y" : 0.82697426836334376
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "be동사의 정체는 '~한 상태로 존재하다'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327418008,
+        "width" : 0.56380511344747342,
+        "x" : 0.13689094758794151,
+        "y" : 0.85314995555870443
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.0021276595744680851,
+      "text" : "참고로 한국어의 '학생이다'에서 '~(이)다'는 '학생인 상"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.58700695714206563,
+        "x" : 0.11600928232513889,
+        "y" : 0.88226744159494541
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "태로 존재하다'라는 것을 나타낸다. 즉, '어제, 오늘, 내일"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013309671694764935,
+        "width" : 0.039443155383387343,
+        "x" : 0.083526682060336491,
+        "y" : 0.9285714287371809
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.96470588235294119,
+      "text" : "170"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    644
+  ],
+  "pdf_page_index" : 163,
+  "pdf_page_number" : 164
+}

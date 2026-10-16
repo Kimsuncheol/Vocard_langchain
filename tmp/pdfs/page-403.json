@@ -1,0 +1,400 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025505748920794824,
+        "width" : 0.57642675088652473,
+        "x" : 0.074272209779260814,
+        "y" : 0.069395694779562866
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "why를 반복하다보면, 문제를 깊이 파고드는 효과가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028045645864741342,
+        "width" : 0.5972069273603724,
+        "x" : 0.055681742312504078,
+        "y" : 0.094326149588329078
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "있다. '이야기의 깊이가 얕은' 경우, 그 이유 중 하나는 why"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030281528975455441,
+        "width" : 0.60000090903424208,
+        "x" : 0.053178005693851581,
+        "y" : 0.12269011711098288
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "의 질문 횟수가 적은 것에 있다. 하지만 why만으로는 대화"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026727848407128163,
+        "width" : 0.5973325039478059,
+        "x" : 0.055675197427271693,
+        "y" : 0.15103197584462658
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "가 끊길 수도 있기 때문에, 나는 다음 3가지 질문 중에 선택"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325463737726,
+        "width" : 0.31002331456394061,
+        "x" : 0.058275057752994727,
+        "y" : 0.18023255804263283
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "해서 묻고 답하도록 지도한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860033704737,
+        "width" : 0.2843822722739362,
+        "x" : 0.079254085786108888,
+        "y" : 0.23546511645117096
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.41577825159914711,
+      "text" : "예를 들면? (For example?)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020489755928990716,
+        "width" : 0.46441685020500889,
+        "x" : 0.081318315884540998,
+        "y" : 0.26191190434359923
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.37658674188998592,
+      "text" : "그것이 무슨 의미인가? (What does it mean?)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022267278372767096,
+        "width" : 0.52961118441101507,
+        "x" : 0.081383627824043292,
+        "y" : 0.29201019739496625
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.41335044929396664,
+      "text" : "그러면 어떻게 되는가? (Then, what will happen?)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015990941952436333,
+        "width" : 0.053613053991439563,
+        "x" : 0.7948717949856321,
+        "y" : 0.079941860854301772
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0.91891891891891897,
+      "text" : "Why?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01674723604102768,
+        "width" : 0.06058837133096473,
+        "x" : 0.80064697456079315,
+        "y" : 0.11154118102311328
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.58823529411764708,
+      "text" : "?? ?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024796313042139029,
+        "width" : 0.49690144856770829,
+        "x" : 0.079022599965841878,
+        "y" : 0.36933555790615724
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "자, 그러면 위의 질문을 활용한 대화를 살펴보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021199755074174709,
+        "width" : 0.17529423490483709,
+        "x" : 0.083744260100894433,
+        "y" : 0.42235364149484766
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "A: 예를 들면요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026053590546868399,
+        "width" : 0.78381087932180848,
+        "x" : 0.083625968612777921,
+        "y" : 0.44444515827133846
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "B: 예를 들어, 일부 어르신들은 에어컨을 켜기 싫어해서 열사병에 걸리는 경"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027758261885503899,
+        "width" : 0.75124935934729609,
+        "x" : 0.11625108159582465,
+        "y" : 0.47186385862012614
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "우가 있는데, 아이스크림을 먹으면 에어컨을 사용하지 않아도 체온을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02510385150723915,
+        "width" : 0.61571724533189276,
+        "x" : 0.11636483690131995,
+        "y" : 0.50182807750107172
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "낮출 수 있어요. 그래서 열사병을 예방하는 효과가 있어요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026510739516200088,
+        "width" : 0.27381790918661347,
+        "x" : 0.085693138127737586,
+        "y" : 0.53156064098963685
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.003134796238244514,
+      "text" : "A: 그러면 어떻게 되나요?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028260939317293454,
+        "width" : 0.78383832349844862,
+        "x" : 0.085966248155140645,
+        "y" : 0.55731635095971177
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "B: 고령자가 열사병으로 사망하는 사고를 예방하게 되어, 열사병으로 인해"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020467069273391258,
+        "width" : 0.56410258408133873,
+        "x" : 0.11888110935195521,
+        "y" : 0.58709106984321191
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "발생할 수 있는 건강 피해를 예방하는 것도 가능해요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027675718885939449,
+        "width" : 0.51575161548371007,
+        "x" : 0.083588684851465936,
+        "y" : 0.66740884568973713
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "자, 이번에는 이것을 하나의 문단으로 만들어 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024252169749886421,
+        "width" : 0.76497871994126787,
+        "x" : 0.10702296520902047,
+        "y" : 0.72202367377637067
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "아이스크림이 케이크보다 더 좋아요. 왜냐하면 차갑기 때문이에요. 차가운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026430076039227424,
+        "width" : 0.78142340910350183,
+        "x" : 0.090655459123640605,
+        "y" : 0.74871419648833737
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "음식을 먹으면 체온이 내려가요. 일부 어르신들은 여름에 에어컨 사용을 기피"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024210519225696503,
+        "width" : 0.78365816156914891,
+        "x" : 0.088380279456127905,
+        "y" : 0.77577278479870815
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "하여 열사병에 걸릴 수 있어요. 어르신들이 아이스크림을 먹으면 에어컨 사용"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024599335027099434,
+        "width" : 0.78134090342420204,
+        "x" : 0.090685479070547109,
+        "y" : 0.80340224388583303
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "없이 체온이 떨어져서 열사병을 예방할 수 있어요. 이를 통해 열사병에 의한 노"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024686351273567886,
+        "width" : 0.78590113863031907,
+        "x" : 0.088402832567325798,
+        "y" : 0.83079657444674382
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "인의 사망 사고를 방지할 수 있을 뿐만 아니라, 열사병으로 인해 발생할 수 있"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349072524659,
+        "width" : 0.4102564169160019,
+        "x" : 0.090909087462063415,
+        "y" : 0.86191860452798019
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "는 건강 피해를 예방하는 것도 가능해요."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018850353520913576,
+        "width" : 0.49235229492187504,
+        "x" : 0.43099014259055413,
+        "y" : 0.91832334030670337
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.87473460721868368,
+      "text" : "13장 설득을 위한 영어: '형식'을 만들어 영어로 사고하는 훈련 417"
+    }
+  ],
+  "page_size_points" : [
+    403,
+    646
+  ],
+  "pdf_page_index" : 403,
+  "pdf_page_number" : 404
+}

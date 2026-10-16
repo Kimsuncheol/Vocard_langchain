@@ -1,0 +1,325 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02489950212095815,
+        "width" : 0.83682987906716078,
+        "x" : 0.051282030124539239,
+        "y" : 0.07412790720625928
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.041392285983066796,
+      "text" : "by the arm.으로 나타냄으로써, '팔을 잡아당기며, 결과적으로 그의 몸 전체를 잡"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029296628781697254,
+        "width" : 0.26183837110346014,
+        "x" : 0.053229997813150416,
+        "y" : 0.098723778361299752
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.0061538461538461538,
+      "text" : "아당기는 것을 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026875017808666191,
+        "width" : 0.81166692213578651,
+        "x" : 0.076704505458587799,
+        "y" : 0.12747672464767512
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "참고로 신체 부위 앞에는 the가 붙는 것이 일반적이다. 이 문장에서 arm은 다른"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023796015772326262,
+        "width" : 0.83470526608553808,
+        "x" : 0.05583149172606601,
+        "y" : 0.15513970775423735
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "사람의 arm이 아니라 방금 말한 him의 arm이라는 것을 나타낸다. 흔히 by the"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027798567484375813,
+        "width" : 0.83738621798428625,
+        "x" : 0.053329180336348904,
+        "y" : 0.18125834166231791
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "arm이 아니라 by his arm으로 표현하는 사람들도 있다. 이러한 실수를 하지 않"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020483775859802322,
+        "width" : 0.21212120489640671,
+        "x" : 0.05594405951216961,
+        "y" : 0.21352785163463328
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "도록 조심해야 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0254313226930869,
+        "width" : 0.25712674314325512,
+        "x" : 0.1488068090733328,
+        "y" : 0.26634257597147837
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.97631578947368425,
+      "text" : "정도'의 by와 '단위'의 by"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026913325835075441,
+        "width" : 0.80929912220347999,
+        "x" : 0.079036086520878471,
+        "y" : 0.29926756068901805
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "앞에서 학습한 '동작의 매개'를 나타내는 by는 문장의 내용이 진행됨에 따라 '넓"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022104332449160102,
+        "width" : 0.37062935395674268,
+        "x" : 0.058275067194122829,
+        "y" : 0.32979664047597712
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "은 정보에서 좁은 정보'로 흘러간다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029008108150843093,
+        "width" : 0.81414621526544728,
+        "x" : 0.078880672604566063,
+        "y" : 0.35325917568342757
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "pull him처럼 '사람 전체를 당기다'에서 by the arm처럼 '구체적으로 어느 부"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325463737726,
+        "width" : 0.83449883894486854,
+        "x" : 0.05827505618854141,
+        "y" : 0.38372093028156606
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "분을 당길 것인지'를 나타내는 흐름으로 정보가 좁아진다. 이와 같은 정보의 흐름"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020454217858487334,
+        "width" : 0.34498834609985352,
+        "x" : 0.058275057977379335,
+        "y" : 0.41279069803027368
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "을 다른 용법에서도 볼 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025637043144300264,
+        "width" : 0.6648992191661488,
+        "x" : 0.06035472566925866,
+        "y" : 0.45808238743435492
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.20057929036929761,
+      "text" : "여e Sales have increased by 5%. 매출은 5% 증가했다. 정도의 by"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018101795914951091,
+        "width" : 0.62496085600419482,
+        "x" : 0.11175198971482429,
+        "y" : 0.48510516951901828
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.53562945368171022,
+      "text" : "*'증가했다'에서 '구체적으로 얼마나 증가했는지'를 나타내는 좁은 정보로 흘러간다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023482202956573217,
+        "width" : 0.64846008474176586,
+        "x" : 0.062741170309105018,
+        "y" : 0.50660645889501177
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.2171280276816609,
+      "text" : "세e l'm paid by the year. 나는 연봉으로 급여를 받는다. 단위의 by"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018203108000818591,
+        "width" : 0.78105172243985266,
+        "x" : 0.11179577022376294,
+        "y" : 0.53157884040820202
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.61630036630036633,
+      "text" : "> '지불되다'에서 '구체적으로 어떤 방식으로 지불되는지'를 나타내는 좁은 정보로 흘러간다. the year의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021343349251043087,
+        "width" : 0.73697627674449584,
+        "x" : 0.13269222140461673,
+        "y" : 0.55067592706792323
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.51422550052687044,
+      "text" : "the는 'week나 month와 같은 다른 단위가 아니라, year라는 단위라고 한정 하여 나타내는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025700945225993088,
+        "width" : 0.81142702969637792,
+        "x" : 0.083799410813138048,
+        "y" : 0.5972754899770355
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "위 문장들에서도 '증가했기는 하나, 구체적으로 몇 %를 거쳐서(경유) 증가했는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025319962876755864,
+        "width" : 0.83240136233243067,
+        "x" : 0.06282801719792154,
+        "y" : 0.62447973668279466
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "지', '지불되기는 하나, 구체적으로 어느 단위를 거쳐서(경유) 지불되는지'를 설명하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026718104233476092,
+        "width" : 0.49455833435058594,
+        "x" : 0.062715762573504433,
+        "y" : 0.65152685158677004
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "는 것으로 보아,by는'경유'의 이미지를 가진다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015870462783557193,
+        "width" : 0.43385744094848627,
+        "x" : 0.4870401706300585,
+        "y" : 0.92286691190706427
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.90909090909090906,
+      "text" : "11장 전치사: 전치사를 파악하면 숙어를 공략할 수 있다 383"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    646
+  ],
+  "pdf_page_index" : 371,
+  "pdf_page_number" : 372
+}

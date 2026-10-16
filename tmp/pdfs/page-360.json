@@ -1,0 +1,445 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031200950507474623,
+        "width" : 0.12784388932314786,
+        "x" : 0.1382274979713691,
+        "y" : 0.093268383344425443
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99825682742591515,
+      "text" : "Must 85"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031364840327265386,
+        "width" : 0.26375885443253955,
+        "x" : 0.13905771236661077,
+        "y" : 0.13218697061521234
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99807460890493382,
+      "text" : "over의 이미지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757905,
+        "width" : 0.63720928538929322,
+        "x" : 0.13953489207193376,
+        "y" : 0.21511627908621667
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99865478392466789,
+      "text" : "• 한 가지 이미지에서 '넘어서'와 '덮어서'라는 2가지의 의미가 나온다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018575582021934989,
+        "width" : 0.067401468753814697,
+        "x" : 0.16981089299604005,
+        "y" : 0.32584302323375725
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.95294117647058818,
+      "text" : "0ver"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024269906207324166,
+        "width" : 0.48193992267955438,
+        "x" : 0.33698708849840048,
+        "y" : 0.31594234934330068
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "왼쪽 그림은 over가 지닌 기본적인 이미지이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023513753327417897,
+        "width" : 0.61162788217717956,
+        "x" : 0.33720932051606134,
+        "y" : 0.34294587400536702
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.056087551299589603,
+      "text" : "이 그림이 나타내고자 하는 것은 over가 '넘어서'와 '건너서'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023883829734551831,
+        "width" : 0.49108392542058765,
+        "x" : 0.31610359803084331,
+        "y" : 0.37152120859280258
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "라는 의미와, '덮어서'라는 의미도 있다는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020510049022820054,
+        "width" : 0.80930233001708984,
+        "x" : 0.13488371855109496,
+        "y" : 0.42280390457952466
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "하나의 단어나 구문에 여러 개의 의미가 있을 때, 그 원인이 되는 것 중 하나는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02752297984464247,
+        "width" : 0.83757140419699927,
+        "x" : 0.10678881290107531,
+        "y" : 0.4448267406852553
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "\"한 개의 현상을 다른 측면에서 보는' 것이다. 이 그림에 있는 ''는 바로 그 '한 개"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022819229640469896,
+        "width" : 0.38893925059925427,
+        "x" : 0.11136223296719683,
+        "y" : 0.47584340448543938
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "념에 대한 여러 가지 해석'을 의미한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021815222136828405,
+        "width" : 0.56046511910178443,
+        "x" : 0.13255813800989005,
+        "y" : 0.50436046534747447
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그림을 참고하면서, 아래 예문의 이미지를 상상해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017480551508960218,
+        "width" : 0.074418604373931913,
+        "x" : 0.2000000000300883,
+        "y" : 0.56104651161851637
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.96373056994818651,
+      "text" : "덮어서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829696,
+        "width" : 0.67906977913596411,
+        "x" : 0.1558139475234033,
+        "y" : 0.60026619360768141
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "She spread a map over the table. 그녀는 식탁 위에 지도를 펼쳤다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010268566771323706,
+        "width" : 0.027906975962898942,
+        "x" : 0.1139534886464575,
+        "y" : 0.63081395337846236
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019126990249755615,
+        "width" : 0.43293051286177198,
+        "x" : 0.15565608831812983,
+        "y" : 0.62568435674185174
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "The actor is famous all over the world."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860425757794,
+        "width" : 0.2999999956651167,
+        "x" : 0.1627906997236592,
+        "y" : 0.65261627908223929
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "그 배우는 전 세계적으로 유명하다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627907232573897,
+        "width" : 0.037209302186965942,
+        "x" : 0.11162790691039301,
+        "y" : 0.67877906959107737
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.98657718120805371,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017746228926353136,
+        "width" : 0.61860466003417969,
+        "x" : 0.15813953033040046,
+        "y" : 0.67568766664303803
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "We need to have the tree cut that hangs over the road."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016159902130912229,
+        "width" : 0.4372093027288263,
+        "x" : 0.15813953456323546,
+        "y" : 0.7018633540131467
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "도로에 늘어져 뻗어 있는 그 나무를 벨 필요가 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016180536867563156,
+        "width" : 0.78139530528675416,
+        "x" : 0.16046513794088932,
+        "y" : 0.72383720896531156
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.30254350736278446,
+      "text" : "* 나뭇가지가 도로를 완전히 덮고 있는지, 반쯤 또는 3분의 1정도 덮고 있는지는, 이 over만으로 표현할"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017276775762901542,
+        "width" : 0.64900645342740149,
+        "x" : 0.18131860722136184,
+        "y" : 0.74147077479577495
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.25636942675159236,
+      "text" : "수 없다. 알 수 있는 것은 단지 통행에 방해가 될 정도 나무가 도로에 뻗어 있다는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906386367792,
+        "width" : 0.034883721308274704,
+        "x" : 0.11162790670051383,
+        "y" : 0.76744186061495556
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.98630136986301364,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019077196095829585,
+        "width" : 0.60465114766901185,
+        "x" : 0.15348837942653404,
+        "y" : 0.76441881083461294
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "The ball flew over my head. 그 공은 내 머리 위로 날아갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014640638864241384,
+        "width" : 0.7837209701538087,
+        "x" : 0.15813951480681665,
+        "y" : 0.79059449835185824
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.2857142857142857,
+      "text" : "* 단순히 '머리 위를 넘어서'가 아닌, '머리 위를 덮듯이 넘어서'라는 의미로, 자칫 공에 머리를 맞을 뻔한 영"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01796286362086974,
+        "width" : 0.74205025759610255,
+        "x" : 0.18130130594956875,
+        "y" : 0.80849933669112506
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.19619326500732065,
+      "text" : "향이 있는 이미지이다. 덮는 것에 의한 영향이 없이, 단지 '~ 위에, ~위로'를 나타내면 above가 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020485595357872866,
+        "width" : 0.48627120798284362,
+        "x" : 0.11148849344871659,
+        "y" : 0.83100299558494661
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.11558935361216729,
+      "text" : "예e He raised the filag high above his head."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015999979325491687,
+        "width" : 0.27441861412741919,
+        "x" : 0.15813953004046374,
+        "y" : 0.85755813918938606
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "그는 깃발을 머리 위로 높이 들었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014692226975177802,
+        "width" : 0.70465118234807789,
+        "x" : 0.16046510638690725,
+        "y" : 0.88065661007418483
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.29467084639498431,
+      "text" : "-어느 정도의 높이인지가 아닌 덮는 느낌이 있는지를 보았을 때, above에는 덮는 느낌이 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.039534883065657181,
+        "x" : 0.079069767653217937,
+        "y" : 0.92587209320596209
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0.97435897435897434,
+      "text" : "372"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 360,
+  "pdf_page_number" : 361
+}

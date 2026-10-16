@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023596007102553274,
+        "width" : 0.82504577207498242,
+        "x" : 0.10591758188106376,
+        "y" : 0.069729658500127245
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이 긴 여자아이), the man who talked about you(너에 대해 이야기했던 그 남"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837445452905,
+        "width" : 0.83179723897899094,
+        "x" : 0.10599078137140017,
+        "y" : 0.097383720807864282
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "자)처럼 짧은 명사를 자세하게 설명하는 긴 형용사 덩어리는 명사 뒤에 붙는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02436488607655396,
+        "width" : 0.5026202195136692,
+        "x" : 0.10353279813376805,
+        "y" : 0.12327150790454988
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.064202334630350189,
+      "text" : "(이를 '후치수식'이라고 한다. Must 76 내용 참고)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021128128985969497,
+        "width" : 0.36903696824729698,
+        "x" : 0.19566600886406788,
+        "y" : 0.17985472892936194
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.95217391304347831,
+      "text" : "② '추상적인 정보'가 먼저 오는 패턴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022899974630063102,
+        "width" : 0.80212350837289026,
+        "x" : 0.12661274043541915,
+        "y" : 0.21777733421117151
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "앞서 나온 It is difficult to finish this work in a day. 문장에서는 it이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021943489216869727,
+        "width" : 0.3598618433612979,
+        "x" : 0.10347919239815506,
+        "y" : 0.24411546393069217
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.060941828254847646,
+      "text" : "'가주어(=형식적 주어)'가 사용된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024109661843571439,
+        "width" : 0.80676080674226458,
+        "x" : 0.12656712660212646,
+        "y" : 0.26932777736890623
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "가주어 또는 가목적어 it은 기존 영어 교육에서 말하는 '의미가 없는 형식적인"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02369808071782975,
+        "width" : 0.13955878406637329,
+        "x" : 0.10773063279796589,
+        "y" : 0.29763640203219288
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "말'이 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020470069167671134,
+        "width" : 0.49769585846848624,
+        "x" : 0.12442396052382139,
+        "y" : 0.32558139520532592
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "it은 '상황'이라는 제대로 된 의미를 지닌 말이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025150456466607074,
+        "width" : 0.80667805302830531,
+        "x" : 0.12662050582061396,
+        "y" : 0.35076631695797122
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "It is difficult는 '상황이 어렵다'고 말하는 것이다. 이것에 대해서는 Must 40 내"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021959667832003094,
+        "width" : 0.24654376624170402,
+        "x" : 0.10829493874934767,
+        "y" : 0.38065661081992774
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "용에서 설명할 예정이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026135912593107102,
+        "width" : 0.36226910511987953,
+        "x" : 0.12652919533783963,
+        "y" : 0.43181662165856616
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "it은 ② '추상적인 정보'에 해당한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027102202150603771,
+        "width" : 0.80906014100408752,
+        "x" : 0.12884953516679273,
+        "y" : 0.45882315244059213
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들면, 비가 오는 것, 늦잠을 자는 것, 친구와 싸우는 것은 모두 '상황'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020408163265306145,
+        "width" : 0.44930875754054589,
+        "x" : 0.10829493004139688,
+        "y" : 0.48979591835238456
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "모든 상황을 추상화한 것이 가주어 it이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021903910463429543,
+        "width" : 0.80436738734506852,
+        "x" : 0.12892568873477406,
+        "y" : 0.51645496536841939
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 추상적이고 가벼운 정보인 it을 주어로 한 It is difficult 뒤에 it의 구체"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024990340726187332,
+        "width" : 0.5324845240253604,
+        "x" : 0.10817448288817719,
+        "y" : 0.54477686050317009
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "적인 내용인 to finish this work in a day가 온다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021915818276189603,
+        "width" : 0.62672808468760988,
+        "x" : 0.12903226806326121,
+        "y" : 0.56965394874783426
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "듣는 사람이 '어려운 상황이란 어떤 상황일까?'라고 생각하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023870381826622489,
+        "width" : 0.64788805482759759,
+        "x" : 0.10807725450347248,
+        "y" : 0.59735800398283401
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "며 미리 다음에 어떤 내용이 올지 마음의 준비를 하기 때문에 to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0225287651529118,
+        "width" : 0.6478229420765208,
+        "x" : 0.108110198860109,
+        "y" : 0.62553777015924639
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "finish ~라는 구체적이고 무거운 정보를 편안하게 받아들이고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020470069167671134,
+        "width" : 0.23502303712311007,
+        "x" : 0.11059908042648835,
+        "y" : 0.65394853558781774
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "처리할 수 있는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022439101150634522,
+        "width" : 0.39674628535403489,
+        "x" : 0.20024561486566508,
+        "y" : 0.7076196913475834
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.97024952015355082,
+      "text" : "③ '이미 알려진 정보'가 먼저 오는 패턴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025905131870598064,
+        "width" : 0.80675368168183015,
+        "x" : 0.1311754483327747,
+        "y" : 0.74093100653656951
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어 \"그것을 누구에게 주었니?\"라는 문장에 대해 생각해 보자. '그것'이라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028093759423351572,
+        "width" : 0.82767157145525672,
+        "x" : 0.11033363660246526,
+        "y" : 0.76795322006064493
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "는 대명사를 사용하고 있기 때문에, 말하는 사람과 듣는 사람 모두 '그것'이 무엇"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02812293491854323,
+        "width" : 0.60404421005570941,
+        "x" : 0.11037233265996135,
+        "y" : 0.79616991912132828
+      },
+      "confidence" : 0.5,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "인지를 이미 알고 있는 것으로, 이는 '이미 알려진 정보'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024673445836145946,
+        "width" : 0.8066337574718706,
+        "x" : 0.13124190719041809,
+        "y" : 0.82426059013883113
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "그리고 그 대답으로 \"나는 그것을 아델에게 주었어.\"라고 할 때, I gave it to"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026355415926428205,
+        "width" : 0.6893143150876847,
+        "x" : 0.10807484204655761,
+        "y" : 0.85302452473807955
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "Adele.이라고 말하지만, I gave Adele it.이라고는 말하지 않는다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021959668678209199,
+        "width" : 0.80645159628823859,
+        "x" : 0.13364056138517627,
+        "y" : 0.880656610146756
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "왜냐하면 it은 이미 알려진 정보로 가벼운 정보이기 때문에 먼저 말한다. 한편,"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.025345621229727056,
+        "x" : 0.082949309085597306,
+        "y" : 0.92441860480479943
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.98275862068965514,
+      "text" : "26"
+    }
+  ],
+  "page_size_points" : [
+    406,
+    644
+  ],
+  "pdf_page_index" : 24,
+  "pdf_page_number" : 25
+}

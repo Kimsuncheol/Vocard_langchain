@@ -1,0 +1,565 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941235,
+        "width" : 0.061784894278879912,
+        "x" : 0.10983981818321449,
+        "y" : 0.073975044395841683
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.49009900990099009,
+      "text" : "제4 장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302048844695,
+        "width" : 0.26315789812066581,
+        "x" : 0.20137299488989593,
+        "y" : 0.071220930216493339
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "동사 ③ 현재분사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026302698036778649,
+        "width" : 0.41418765635972615,
+        "x" : 0.19908466113611195,
+        "y" : 0.10160427837554864
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "ing은 이것에서부터 생각하자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022908919635303504,
+        "width" : 0.21138787001706244,
+        "x" : 0.079678787897214068,
+        "y" : 0.16136793326199461
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "24 ing란 무엇인가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016120507755381541,
+        "width" : 0.041189930412206754,
+        "x" : 0.38443935962227183,
+        "y" : 0.16569767440817484
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "114"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023267053240335844,
+        "width" : 0.62282810854108139,
+        "x" : 0.21031001762865151,
+        "y" : 0.18430962650831262
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "진행형, 동명사, 분사의 형용사적 용법 및 분사구문 모두 이것에서부터 생각하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.51029749666706903,
+        "x" : 0.080091526138942354,
+        "y" : 0.22370766479995507
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "25 MEGAFEPS -ing 암기하지 마라! ①: to 부정사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016084234982250867,
+        "width" : 0.19679633151279405,
+        "x" : 0.20137300060515903,
+        "y" : 0.2455436718978582
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "\"*가 만들어 내는 의미"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941124,
+        "width" : 0.038901602284292069,
+        "x" : 0.68421052603176702,
+        "y" : 0.22816399303440371
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "118"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018903121166263248,
+        "width" : 0.48054920153671443,
+        "x" : 0.080091531839227584,
+        "y" : 0.28342245986869496
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "26 MEGAFEPS -ing 암기하지 마라! ②: 동명사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020535380657556335,
+        "width" : 0.41876430725783448,
+        "x" : 0.20366132594774183,
+        "y" : 0.30213903726358149
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "'동시 발생'과 '머리에 떠오르는 영상'으로 이해하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.015988372013955532,
+        "width" : 0.043478261218981795,
+        "x" : 0.65446224227380423,
+        "y" : 0.28633720929483486
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "122"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021761190445027889,
+        "width" : 0.27521107705791348,
+        "x" : 0.077504963098014426,
+        "y" : 0.3405101049639474
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "27 분사구문의 읽기 방법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017493678074256946,
+        "width" : 0.041189930412206754,
+        "x" : 0.44622425683813766,
+        "y" : 0.3430232558662738
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "126"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021864856203184568,
+        "width" : 0.48095591684405725,
+        "x" : 0.20344473536661442,
+        "y" : 0.36285415123550913
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "여러 의미와 용법에 현혹되지 말고 ing의 본질에 주목하라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338681041,
+        "width" : 0.2997711695981829,
+        "x" : 0.077803202262231932,
+        "y" : 0.40240641751946526
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "28 분사구문을 만드는 방법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860069778103,
+        "width" : 0.043478261218981795,
+        "x" : 0.47139588071774019,
+        "y" : 0.40552325596572292
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "130"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021697219467843087,
+        "width" : 0.5725481697682584,
+        "x" : 0.20341947886737605,
+        "y" : 0.42284617445978001
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "같은 말을 두 번 하지 마라! 말하지 않아도 알 수 있는 말은 생략하라!"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01472660989472363,
+        "width" : 0.059496568829825763,
+        "x" : 0.10526315711826789,
+        "y" : 0.49108734368196894
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.29629629629629628,
+      "text" : "제5장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024955436720142554,
+        "width" : 0.26315789812066581,
+        "x" : 0.19679633685614306,
+        "y" : 0.48975044524487255
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "동사 ④ 과거분사:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026341561540137781,
+        "width" : 0.28832952092202863,
+        "x" : 0.19679633782461425,
+        "y" : 0.51871657768751989
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이미지부터 이해하자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024228682492505982,
+        "width" : 0.4101405625932672,
+        "x" : 0.075287260071605064,
+        "y" : 0.5770937433058374
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "29 수동태 ①'마음'이 수동태를 만든다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860069778103,
+        "width" : 0.043478261218981795,
+        "x" : 0.57894736832807037,
+        "y" : 0.58284883728238679
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "136"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022650532543977975,
+        "width" : 0.53370520773898344,
+        "x" : 0.2011155331962988,
+        "y" : 0.60032390435963046
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "수동태를 단순히 형태만 바꿔 놓은 것이라고 생각해서는 안 된다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021455164686668859,
+        "width" : 0.37805265790960763,
+        "x" : 0.075288440233674175,
+        "y" : 0.63882844488702784
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "30 수동태 ② 책임을 모호하게 하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017540313768301785,
+        "width" : 0.043478261218981795,
+        "x" : 0.5469107548596166,
+        "y" : 0.64244186053820074
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "140"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02013953781807909,
+        "width" : 0.39161347807123414,
+        "x" : 0.19894022242222864,
+        "y" : 0.66118540307777085
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "명확히 밝히는 것을 피하고, 객관성을 추구하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021247652975208142,
+        "width" : 0.35056189204869648,
+        "x" : 0.075280866562659338,
+        "y" : 0.6987215563865371
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "31 수동태③ 전치사를 공략하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020459892490543363,
+        "width" : 0.30014053087555959,
+        "x" : 0.19433451643429231,
+        "y" : 0.71952675091882212
+      },
+      "confidence" : 0.5,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "by 외에 사용되는 수동태의 전치사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0161515982180781,
+        "width" : 0.043478261218981795,
+        "x" : 0.51945080067388061,
+        "y" : 0.70187165748972336
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "144"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022272825666077467,
+        "width" : 0.4993290418989203,
+        "x" : 0.072996710037967871,
+        "y" : 0.75947489931218171
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "32 과거분사: She has gone.이 아닌 She is gone."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017488496613800031,
+        "width" : 0.36384441075700047,
+        "x" : 0.19450800047467096,
+        "y" : 0.78197674437720743
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "gone이 사전에 형용사라고 적혀 있는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027172593509449672,
+        "width" : 0.4285566351386938,
+        "x" : 0.072893800115248028,
+        "y" : 0.81494938103575154
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "33 ~시키다, ~하게 하다'를 뜻하는 동사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01612309848561011,
+        "width" : 0.041189930412206754,
+        "x" : 0.59267734593043375,
+        "y" : 0.82122093013885555
+      },
+      "confidence" : 1,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "152"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.47368420375866832,
+        "x" : 0.1945080121742781,
+        "y" : 0.84001782570005468
+      },
+      "confidence" : 0.5,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "Surprise가 '놀라다'가 아닌 '놀라게 하다'를 뜻하는 이유"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017483314303365804,
+        "width" : 0.043478261218981795,
+        "x" : 0.66819221943818263,
+        "y" : 0.76158645286815119
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "148"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941124,
+        "width" : 0.050343250960446451,
+        "x" : 0.86270022795227097,
+        "y" : 0.93449197867212308
+      },
+      "confidence" : 0.5,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0.95999999999999996,
+      "text" : "목차 7"
+    }
+  ],
+  "page_size_points" : [
+    407,
+    641
+  ],
+  "pdf_page_index" : 6,
+  "pdf_page_number" : 7
+}

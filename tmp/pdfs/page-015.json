@@ -1,0 +1,520 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02053875986735032,
+        "width" : 0.64908256959379385,
+        "x" : 0.091743118856445025,
+        "y" : 0.074127906595253035
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "이는 단지 한국어와 영어의 말하는 방식이 다르기 때문은 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023440307617187406,
+        "width" : 0.8007394169153792,
+        "x" : 0.091601693495528116,
+        "y" : 0.099349887232175305
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "한국어와 영어가 다른 표현 방식을 사용하게 된 이유는 '세상을 인식하는 방식에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.30275229121861841,
+        "x" : 0.071100918533590754,
+        "y" : 0.12933333375598655
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "일관된 차이'가 있기 때문이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.3600917344682672,
+        "x" : 0.091743123491872067,
+        "y" : 0.15688888878249141
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "그것은 다음과 같은 차이를 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020194125705295107,
+        "width" : 0.49799668387080842,
+        "x" : 0.093892951162222377,
+        "y" : 0.20297978479001832
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "한국어: 자신이 카메라가 되어 바깥 풍경을 비추는 언어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020319624159071181,
+        "width" : 0.484149718552493,
+        "x" : 0.093945151130447879,
+        "y" : 0.2325003990117076
+      },
+      "confidence" : 1,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "영어: 외부에서 또 다른 내가 나 자신을 바라보는 언어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02034883795844189,
+        "width" : 0.8004587580648701,
+        "x" : 0.091743097980077279,
+        "y" : 0.28779069729530671
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "한국어는 나 자신이 카메라가 되어 비춰지는 바깥 세상을 말하는 화자의 언어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02192635684543176,
+        "width" : 0.82339451822002285,
+        "x" : 0.071100905916248486,
+        "y" : 0.31540697664245543
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "이다. 화자인 카메라는 풍경 안에 있지 않으므로 자신의 존재가 드러나지 않아 언"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021865632798936607,
+        "width" : 0.38761468951621747,
+        "x" : 0.071100912035035796,
+        "y" : 0.34302325570679892
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "어로 표현되지 않는 경우가 종종 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024298246595594541,
+        "width" : 0.80292510986328125,
+        "x" : 0.091642809541544912,
+        "y" : 0.36689550898268286
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "이러한 영향으로 영어의 I와 달리 한국어의 '나는'이라는 주어가 언어화되지 않는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.35779815845275198,
+        "x" : 0.071100920657395456,
+        "y" : 0.3982222221956333
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "경우가 종종 있는 것인지도 모른다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023555555555555552,
+        "width" : 0.80045875806486999,
+        "x" : 0.094036675882584977,
+        "y" : 0.42133333336779255
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "한국어의 \"여기가 어디지?\"라는 문장에서도 '여기'와 '어디'라는 '카메라에 비친 풍"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021837209065755148,
+        "width" : 0.35779815845275192,
+        "x" : 0.071100920693038902,
+        "y" : 0.45200000032532051
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "경 또는 장소'만이 언어화되어 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019111111111111079,
+        "width" : 0.36926603853032824,
+        "x" : 0.094036705390064063,
+        "y" : 0.50711111151905308
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "한편 영어는 또 다른 내가 외부에서"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017549096001519104,
+        "width" : 0.064220182011636484,
+        "x" : 0.56192660573730091,
+        "y" : 0.51889534858393394
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "한국어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017549096001519104,
+        "width" : 0.043577981798836429,
+        "x" : 0.77522935760975609,
+        "y" : 0.51889534869126841
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "영어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021899225023057745,
+        "width" : 0.30963301926516418,
+        "x" : 0.071100921873240089,
+        "y" : 0.53333333317312059
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "나 자신을 바라보는 언어이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.3692660385303283,
+        "x" : 0.094036705390799155,
+        "y" : 0.56250000019112434
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "위에서 언급한 Where am I?의 예"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010379844665527327,
+        "width" : 0.057339448607369725,
+        "x" : 0.69036697288330928,
+        "y" : 0.55066666669588449
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "Where"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01656976742214622,
+        "width" : 0.058171320497319878,
+        "x" : 0.68893869839135935,
+        "y" : 0.56032477922938184
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "am I?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025361007690429704,
+        "width" : 0.39278647604953038,
+        "x" : 0.070800183427384936,
+        "y" : 0.5849564120739289
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "시로 보았을 때, 지도상에서 '현 위치'라"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0088888888888888351,
+        "width" : 0.041284403104460687,
+        "x" : 0.64678899104576792,
+        "y" : 0.60311111122918415
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "여기가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.008720930311414965,
+        "width" : 0.050458715203103077,
+        "x" : 0.64220183493885907,
+        "y" : 0.61627906970724933
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "어디지?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0175167956882053,
+        "width" : 0.38761468951621747,
+        "x" : 0.073394489988898401,
+        "y" : 0.61911111136207808
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "는 의미로 쓰이는 You are here. 표"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020549096001519107,
+        "width" : 0.26376147752397516,
+        "x" : 0.071100912497336771,
+        "y" : 0.64389534845313068
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0,
+      "text" : "시를 쉽게 이해할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925286,
+        "width" : 0.3692660385303283,
+        "x" : 0.094036705390799155,
+        "y" : 0.67151162809810117
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "외부에서 지도 위에 있는 나 자신을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022172090318467785,
+        "width" : 0.25740089845121578,
+        "x" : 0.070875872794957537,
+        "y" : 0.69740425365140946
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "바라보고 있는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025972106085883295,
+        "width" : 0.79839462108826365,
+        "x" : 0.093928259487041185,
+        "y" : 0.72156509575566186
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "한국어로 \"나는 길을 잃었어.\"는 영어로 I am lost.라고 말한다. 이는 지도상에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022262705485026069,
+        "width" : 0.82354607742823915,
+        "x" : 0.071025021734489463,
+        "y" : 0.75120411062598114
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "있던 내가 사라지면서 자신을 잃어버린 것을 외부에 있는 또 다른 내가 바라보고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021881137424045183,
+        "width" : 0.15366972162482445,
+        "x" : 0.071100918887511314,
+        "y" : 0.7804444440517061
+      },
+      "confidence" : 1,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "있는 느낌이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025890894571940049,
+        "width" : 0.80077224902892385,
+        "x" : 0.093878214467046833,
+        "y" : 0.83207854974843254
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, find는 중학 영어 수준의 동사이지만, 우리가 잘 구사하기 어려운 단"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027705849541558192,
+        "width" : 0.8237455560919944,
+        "x" : 0.070917031784636597,
+        "y" : 0.85679197316713829
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "어 중 하나이다. 왜냐하면 이 또한 '외부에서 나 자신을 바라보는' 동사이기 때문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014688629998101277,
+        "width" : 0.64908256959379396,
+        "x" : 0.071100916872383152,
+        "y" : 0.89955555582784641
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "• 이노우에 코코『'만약 '오른쪽이나 '왼쪽'이 없었다면,, 대수관서점(TAISHUK AN Publishing)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333308,
+        "width" : 0.23165137044499429,
+        "x" : 0.68807339729716199,
+        "y" : 0.92711111099230104
+      },
+      "confidence" : 0.5,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0.84501845018450183,
+      "text" : "1장 영어 세계의 3가지 법칙 17"
+    }
+  ],
+  "page_size_points" : [
+    407,
+    643
+  ],
+  "pdf_page_index" : 15,
+  "pdf_page_number" : 16
+}

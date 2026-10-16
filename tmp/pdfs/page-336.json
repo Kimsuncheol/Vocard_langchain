@@ -1,0 +1,355 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.031139122633747296,
+        "width" : 0.13067304004322397,
+        "x" : 0.14217861718271071,
+        "y" : 0.097731629658935004
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.99890710382513659,
+      "text" : "Must 79"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.03749999796368475,
+        "width" : 0.60927152633666992,
+        "x" : 0.13907284361974462,
+        "y" : 0.13333333388274093
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99879590608067426,
+      "text" : "'접촉'을 나타내는 on의 의미 확장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017493585674788203,
+        "width" : 0.2830626531080766,
+        "x" : 0.14385150395640256,
+        "y" : 0.21797153030091487
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99923254029163466,
+      "text" : "• 우리는 중력 속에 살고 있다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302759679641,
+        "width" : 0.30394430594010791,
+        "x" : 0.12064965596266065,
+        "y" : 0.31249999960645591
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99026763990267641,
+      "text" : "•'접촉'을 나타내는 on"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026015867117885172,
+        "width" : 0.3464540351520885,
+        "x" : 0.13894823406705487,
+        "y" : 0.35930254770948822
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0.033232628398791542,
+      "text" : "on의 근본적인 의미는 '접촉'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020488496352769392,
+        "width" : 0.81438515403053968,
+        "x" : 0.13921113517799366,
+        "y" : 0.39098837200978509
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.019104477611940299,
+      "text" : "식탁 위에 올라가 있거나 천장에 붙어 있거나 벽에 붙어 있는 것 등이 모두 on"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462633451957313,
+        "width" : 0.055684452707117235,
+        "x" : 0.11832946725910685,
+        "y" : 0.41859430569399647
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017493585674788092,
+        "width" : 0.50348026102239429,
+        "x" : 0.16473318723489233,
+        "y" : 0.46797153030413285
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "There is a cup on the table. 식탁 위에 컵이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020760374985555718,
+        "width" : 0.51312294873324305,
+        "x" : 0.16457069402295346,
+        "y" : 0.49323645743996658
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "There were two fans revolving on the Ceiling."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017793594306049876,
+        "width" : 0.38515082272616297,
+        "x" : 0.16705335977380942,
+        "y" : 0.51868327362777333
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "천장에는 두 대의 선풍기가 돌아가고 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.50348026102239429,
+        "x" : 0.12296984618110313,
+        "y" : 0.54492882555871058
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.11151870873074102,
+      "text" : "에e There was a Crucifix hanging on the wall."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020396395510201781,
+        "width" : 0.37620449066162115,
+        "x" : 0.16690087580778218,
+        "y" : 0.56688934046172423
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "벽에는 그리스도의 십자가상이 걸려 있었다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013742934766613368,
+        "width" : 0.17713689804077148,
+        "x" : 0.70956971878092645,
+        "y" : 0.47483544478607875
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "There is a cup on the table"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023691766202662001,
+        "width" : 0.74032072587446729,
+        "x" : 0.13914378544135031,
+        "y" : 0.61587593852843803
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "이 표현들은 on이 '접촉하고 있다'라는 의미를 지니면서 생겨난 용법이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024052500300560165,
+        "width" : 0.59885514866222034,
+        "x" : 0.13911030016080081,
+        "y" : 0.64314963348864185
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그럼에도 불구하고 on은 '~ 위에'라는 의미로 많이 쓰인다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021874740878882304,
+        "width" : 0.52204175428910693,
+        "x" : 0.14153132691470222,
+        "y" : 0.67296511643190005
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "이는 우리가 중력 속에 살고 있는 것과 연관이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021957502670559625,
+        "width" : 0.36426912654529919,
+        "x" : 0.14153133198547099,
+        "y" : 0.69912790699833349
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "물건이 어떻게 하면 평면에 붙을까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026886396136572288,
+        "width" : 0.80996417999267578,
+        "x" : 0.14142138898939074,
+        "y" : 0.72343776740832721
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "생각해 보면, 아무것도 하지 않고 달라붙는 경우는 '위에 놓을 때'이다. 접착제로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021885086208900173,
+        "width" : 0.83062648773193359,
+        "x" : 0.12064963305480542,
+        "y" : 0.7543604652708592
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "붙이거나 못으로 박지 않으면, 보통 천장이나 벽에 물건이 붙지 않는다. 이 때문에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023899399937259758,
+        "width" : 0.73806823383678088,
+        "x" : 0.11357040499692563,
+        "y" : 0.77991721306207207
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.095779220779220783,
+      "text" : "'접촉을 나타내는 on'이 '~ 위에'라는 의미로 가장 많이 사용되는 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019128113879003594,
+        "width" : 0.31322505257346411,
+        "x" : 0.21113689355085496,
+        "y" : 0.83852313138902967
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0.96318289786223277,
+      "text" : "'접촉하고 있다'에서 의미 확장"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325265687594,
+        "width" : 0.81670535694469104,
+        "x" : 0.13457075524709727,
+        "y" : 0.87500000015370893
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "'접촉하고 있다'는 것은 '떨어져 있지 않다'라는 것을 말한다. 부사의 on 용법에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.037122970277612868,
+        "x" : 0.090487238643096116,
+        "y" : 0.9331395348527074
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0.989247311827957,
+      "text" : "348"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 336,
+  "pdf_page_number" : 337
+}

@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023712101507313843,
+        "width" : 0.64673315395008435,
+        "x" : 0.19524241747148482,
+        "y" : 0.071064871618608194
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.96005154639175261,
+      "text" : "- 목표• 목적을 나타내는 for: '용산행은 왜 for Yongsan일까?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021572954166009572,
+        "width" : 0.81177217310125172,
+        "x" : 0.14178957726927505,
+        "y" : 0.10742522942927024
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "목표나 행선지라는 뜻을 나타낼 때, for와 to를 혼동해서 사용하는 경우를 흔히"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021879707275499038,
+        "width" : 0.83023253354159265,
+        "x" : 0.12325582604251117,
+        "y" : 0.13517441883474546
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "볼 수 있다. 두 표현은 'for: 도달하지 않았다' 'to: 도달해 있다'라는 의미 차이가"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020439115793385532,
+        "width" : 0.058139535513791182,
+        "x" : 0.12093023210744548,
+        "y" : 0.16279069749981878
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027065504729060219,
+        "width" : 0.81429446827281604,
+        "x" : 0.13936020906681679,
+        "y" : 0.18736274015687093
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "t0 부정사 학습 부분(Must 36 내용)에서 설명했듯이, [O는 '앞으로 향하다'와"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147795,
+        "width" : 0.83720926804976037,
+        "x" : 0.11860466818442218,
+        "y" : 0.21511627881070772
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "'도달하다'의 2가지 의미를 지닌다. 전치사로 to가 사용될 때는 대부분 '도달하다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022182786157941448,
+        "width" : 0.12790697271173651,
+        "x" : 0.12093023454305842,
+        "y" : 0.24401064763639058
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "의 의미이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022467718149775773,
+        "width" : 0.26834212649952283,
+        "x" : 0.12048009675278415,
+        "y" : 0.29109172106479708
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.24673202614379086,
+      "text" : "예문 |went to Yongsan."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017283592799541392,
+        "width" : 0.17038617350838398,
+        "x" : 0.39054726144462087,
+        "y" : 0.29258566818218701
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "나는 용산에 갔다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215293,
+        "width" : 0.11395349285819314,
+        "x" : 0.17209302091790465,
+        "y" : 0.31976744206956376
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.24615384615384617,
+      "text" : "* 도착해 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0188953480893993,
+        "width" : 0.62325581637295813,
+        "x" : 0.12093023075348842,
+        "y" : 0.34011627942170108
+      },
+      "confidence" : 0.5,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.18362573099415205,
+      "text" : "예문 Pll go to Yongsan tomorrow. 나는내일 용산에갈것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017476556569787416,
+        "width" : 0.33060047843239526,
+        "x" : 0.16960155171492783,
+        "y" : 0.36484902135300801
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.47474747474747475,
+      "text" : "- '용산에 도착하는 것'을 내일 할 생각이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023557910056059228,
+        "width" : 0.56542522257024597,
+        "x" : 0.14172406275814442,
+        "y" : 0.41108548039203974
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.030656934306569343,
+      "text" : "이처럼 'to+장소'는 장소에 도달해 있는 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024345150010820493,
+        "width" : 0.28655700250105426,
+        "x" : 0.1416530454538526,
+        "y" : 0.46413063967268164
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0.11822660098522167,
+      "text" : "한편 for는 '목표'를 말한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026314974042728312,
+        "width" : 0.81162790818647901,
+        "x" : 0.14186046343167752,
+        "y" : 0.49112688578288899
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, \"금메달이 목표입니다. \"라고 말하는 사람은 아직 금메달을 따지 못한"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021865520629612001,
+        "width" : 0.7279070073908025,
+        "x" : 0.11860463572205598,
+        "y" : 0.52173913029344221
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "사람이다. 다시 말해, 목표에는 도달하지 않았다'라는 의미가 담겨 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020462330612548207,
+        "width" : 0.66976742310957471,
+        "x" : 0.16279070693883035,
+        "y" : 0.56965394857146956
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "Ileft my house for Yongsan. 나는 용산으로 가기 위해 집을 나섰다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014318114164770468,
+        "width" : 0.12624841386621649,
+        "x" : 0.37869478277318519,
+        "y" : 0.61057257492134398
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "for Yongsan"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255814465147906,
+        "width" : 0.81162790818647901,
+        "x" : 0.13953488299944572,
+        "y" : 0.73110465090358068
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "위 예문에서는 집을 나왔을 뿐, 용산에는 아직 도착하지 않았다는 의미가 담겨"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021305473483338555,
+        "width" : 0.058984480120918961,
+        "x" : 0.11818217841681831,
+        "y" : 0.75824261203355714
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020562926751909405,
+        "width" : 0.058139535513791168,
+        "x" : 0.11860465071403464,
+        "y" : 0.81395348820314561
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024826942552162001,
+        "width" : 0.80955349315296521,
+        "x" : 0.13941964666021889,
+        "y" : 0.78266433964619242
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "기차에 표시되는 '~행이 'to+목적지'가 아니라 'for+목적지'인 이유는 여기에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023441542326716469,
+        "width" : 0.81179462779651979,
+        "x" : 0.13944445394738259,
+        "y" : 0.83721891207209609
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "예를 들어, '용산행' 열차는 용산을 향해 달리고 있는 것이고, 용산에는 아직 도착"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026398602902836354,
+        "width" : 0.83044346896084864,
+        "x" : 0.11849596522718658,
+        "y" : 0.86344191309272322
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "하지 않았다. 도착하면 '용산행'의 목적은 끝나고, 그 표시는 사라지게 된다. 그렇기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081394896215404,
+        "width" : 0.039534883065657167,
+        "x" : 0.088372093226307624,
+        "y" : 0.92441860483075444
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 1,
+      "text" : "362"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    644
+  ],
+  "pdf_page_index" : 350,
+  "pdf_page_number" : 351
+}

@@ -1,0 +1,385 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.038943589952256885,
+        "width" : 0.12823827700181439,
+        "x" : 0.14225449652189148,
+        "y" : 0.08809459199698666
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0.9996083039561301,
+      "text" : "Must 71"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.032003877427842942,
+        "width" : 0.19257541136308151,
+        "x" : 0.15081206214373141,
+        "y" : 0.12933333252270007
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0.99844285269386479,
+      "text" : "존재문 ②:"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030523254394531185,
+        "width" : 0.38051041689786047,
+        "x" : 0.14617170464354567,
+        "y" : 0.1642441865381995
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0.99829322409967569,
+      "text" : "have 언어와 be 언어"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016000000000000014,
+        "width" : 0.5266821167685769,
+        "x" : 0.14617170251954345,
+        "y" : 0.21511111106809788
+      },
+      "confidence" : 0.5,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0.99908863066757803,
+      "text" : "• have의 '있다 와 there is의 '있다'를 구분하여 사용하자"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024455925835503489,
+        "width" : 0.81232365694912989,
+        "x" : 0.14138523532224118,
+        "y" : 0.30746711407662752
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "이전 학습에서 설명한 there is/are 구문에 대해 이야기해 보자. 학습자들이 영"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222143,
+        "width" : 0.83294660394841968,
+        "x" : 0.12064966774571059,
+        "y" : 0.33555555580872554
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "어로 대화하거나 글쓰기를 할 때, 이 구문을 '과용'하는 것을 흔히 볼 수 있다. '~"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025656385633680445,
+        "width" : 0.83096694946289062,
+        "x" : 0.12047018726406446,
+        "y" : 0.36163361249924098
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "이 있다'라는 해석이 떠오르면, 해석대로 there is/are 구문을 사용하려는 경향이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022222222222222254,
+        "width" : 0.058004639365456315,
+        "x" : 0.12064965249824632,
+        "y" : 0.3893333334504514
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027890870836046022,
+        "width" : 0.65956878662109375,
+        "x" : 0.14125154957171804,
+        "y" : 0.41264305441613103
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 실제로는 한국어의 '있다'와 영어의 '있다'는 약간 다르다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023581988864474823,
+        "width" : 0.5991206169128418,
+        "x" : 0.13430404839207147,
+        "y" : 0.47083531716218219
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "'영어는 have 언어이며 한국어는 be 언어'라고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027453517489963053,
+        "width" : 0.81942064111882984,
+        "x" : 0.13669482792514848,
+        "y" : 0.49561532776470218
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "be동사의 근본적인 의미는 '~라는 상태로 존재하다'이며, There is a cup of"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020444444444444487,
+        "width" : 0.83526680686257104,
+        "x" : 0.11600928774937264,
+        "y" : 0.52755555548485111
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "tea on the table.(탁자 위에 차 한 잔이 있다.) 또는 He is in Seoul.(그는 서울"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023257105509440157,
+        "width" : 0.83526680686257104,
+        "x" : 0.11832947353425073,
+        "y" : 0.55377777802875283
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "에 있다.)과 같이 be동사로 '있다'를 나타낸다. 한국어에서는 존재하는 것을 '있다'"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021864340888129385,
+        "width" : 0.23897912285544659,
+        "x" : 0.11832946397331957,
+        "y" : 0.58133333361732453
+      },
+      "confidence" : 0.5,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "라는 동사로 표현한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028048465304904457,
+        "width" : 0.80300175059925427,
+        "x" : 0.13909262886463383,
+        "y" : 0.60675391952952529
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "그러나 영어는 존재하는 것을 have, 즉 '가지고 있다'로 나타내는 경우가 많다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017777777777777781,
+        "width" : 0.44083525917746802,
+        "x" : 0.11832946988430856,
+        "y" : 0.65822222210886994
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.17258883248730963,
+      "text" : "예a I'm sorry.Ihave a party tomorrow."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348442925397,
+        "width" : 0.24593966657465155,
+        "x" : 0.16241299722196645,
+        "y" : 0.68168604669941568
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0.0625,
+      "text" : "미안해. 난 내일 파티가 있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906799316357,
+        "width" : 0.034802783619273803,
+        "x" : 0.1183294665623662,
+        "y" : 0.70930232557321005
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0.9941860465116279,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01911111111111119,
+        "width" : 0.54292340712113818,
+        "x" : 0.16241300809836368,
+        "y" : 0.70622222257745626
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "She has a younger brother and a younger sister."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016102067735460079,
+        "width" : 0.37819025733254175,
+        "x" : 0.16473317741648241,
+        "y" : 0.73244444423842003
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "그녀에게는 남동생 1명과 여동생 1명이 있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022382150438096771,
+        "width" : 0.81229556690562865,
+        "x" : 0.13677420351712738,
+        "y" : 0.78042782011744649
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "there is/are 구문은 새로운 정보의 존재를 나타내는 구문이다. 위 have 예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021941860622829878,
+        "width" : 0.30858469009399414,
+        "x" : 0.11600927896315144,
+        "y" : 0.80799999993199478
+      },
+      "confidence" : 1,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "역시 새로운 정보를 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020453488667805941,
+        "width" : 0.7401391809636898,
+        "x" : 0.16241300794947081,
+        "y" : 0.85600000007137567
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "A: Why don't we play tennis tomorrow? 우리 내일 테니스 치는게 어때?"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348836263020864,
+        "width" : 0.68445474451238453,
+        "x" : 0.16241299514519988,
+        "y" : 0.88517441887430348
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.0020100502512562816,
+      "text" : "B:I'm sorry.Ihave a party tomorrow. 미안해. 난 내일 파티가 있어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013333333333333419,
+        "width" : 0.039443154226649901,
+        "x" : 0.085846868246303831,
+        "y" : 0.92577777792145788
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.9882352941176471,
+      "text" : "312"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    643
+  ],
+  "pdf_page_index" : 302,
+  "pdf_page_number" : 303
+}

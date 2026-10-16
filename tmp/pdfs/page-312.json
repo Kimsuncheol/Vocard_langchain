@@ -1,0 +1,430 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.033345637224330926,
+        "width" : 0.81450783122669568,
+        "x" : 0.069427081911537805,
+        "y" : 0.06659709999170349
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "I bought an old paint.의 경우, ①은 '세상에는 그림이란 것이 많이 있지만'을"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.030035770710217902,
+        "width" : 0.83516961877996276,
+        "x" : 0.050929111420012857,
+        "y" : 0.094660076299714069
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "나타낸다. old가 붙음으로써, ②는 '여기에서 말하는 그림은 '오래된' 성질을 가진"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025955891165720613,
+        "width" : 0.83477705175226391,
+        "x" : 0.051145719140685261,
+        "y" : 0.12545612683266349
+      },
+      "confidence" : 1,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "것으로, 새것을 말하는 것이 아니라는 것'을 나타내며, 그림의 정보를 구체적으로"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021878282193909526,
+        "width" : 0.23310021920637655,
+        "x" : 0.053613061997433299,
+        "y" : 0.15544729845006711
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "한정하는 기능을 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02359490103168338,
+        "width" : 0.41520482843572443,
+        "x" : 0.07442676611014433,
+        "y" : 0.20918950113255896
+      },
+      "confidence" : 0.5,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "한편, 서술적 용법의 특징은 아래와 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023440314564058595,
+        "width" : 0.65294131365689367,
+        "x" : 0.10940967820596482,
+        "y" : 0.25768444256604273
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0.83384972889233155,
+      "text" : "서술적 용법이란, 명사여기에서는 this paint)의 모습을 단지 묘사한 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025716602538305544,
+        "width" : 0.74143340370871802,
+        "x" : 0.069838234231132681,
+        "y" : 0.31063331405217842
+      },
+      "confidence" : 0.5,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0,
+      "text" : "\"다른 것이 아닌, 이것을 말하다'라고 정보의 범위를 '좁히는' 기능은 없다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026130259828930691,
+        "width" : 0.81161481683904479,
+        "x" : 0.076717807111931838,
+        "y" : 0.33933629640473606
+      },
+      "confidence" : 1,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "제시된 예문으로는 이해하기 어려울 수 있다. 사실 학교에서 배우는 영어 문법에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024088411018635125,
+        "width" : 0.83479413119229395,
+        "x" : 0.053474007020341947,
+        "y" : 0.36681812361690902
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "서 학생들이 어려워하는 것 중 하나인, 관계 대명사의 계속적 용법을 예로 들면, 이"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020381022808929838,
+        "width" : 0.35897434841502796,
+        "x" : 0.055944061335415345,
+        "y" : 0.39680232569770912
+      },
+      "confidence" : 1,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0,
+      "text" : "를 파악하는 것이 상당히 쉬워진다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021788272739406978,
+        "width" : 0.29414491219954053,
+        "x" : 0.13034696233055446,
+        "y" : 0.45192942335919284
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.98089171974522293,
+      "text" : "- 관계 대명사의 제한적 용법"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022143489813994721,
+        "width" : 0.63869463313709607,
+        "x" : 0.074592077935193887,
+        "y" : 0.48671390647580293
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "우선 '어제 빨간 옷을 입고 있던 여자'라는 문구를 생각해 보자."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025029531298114582,
+        "width" : 0.81607688557017921,
+        "x" : 0.072169675466873251,
+        "y" : 0.51204128342460631
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "'어제 빨간 옷을 입고 있던 여자'라는 문구에서, '어제 빨간 옷을 입고 있던'이라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021880857705858792,
+        "width" : 0.83449883894486865,
+        "x" : 0.055944053625010912,
+        "y" : 0.54207263093763347
+      },
+      "confidence" : 1,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "부분은 어떤 '여자'인지를 설명하는 형용사의 덩어리이다. 그리고 이는 한정하는 기"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802324442023013,
+        "width" : 0.11421911282972856,
+        "x" : 0.055944057221499352,
+        "y" : 0.57122093058422108
+      },
+      "confidence" : 1,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0,
+      "text" : "능을 한다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813639178724,
+        "width" : 0.81118878451260656,
+        "x" : 0.079254092556408792,
+        "y" : 0.59593023270953793
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "먼저 ①에 적용해 보면, 세상에는 '여자'라는 인간이 많이 있다. 그리고 ②에서 보"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029168812335329419,
+        "width" : 0.83262825012207042,
+        "x" : 0.058016275132965346,
+        "y" : 0.6192494478911913
+      },
+      "confidence" : 0.5,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "면. '어제 빨간 옷을 입고 있던'이라는 형용사 덩어리가, 세상에 있는 여자들 중에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02214348981399461,
+        "width" : 0.83682987906716089,
+        "x" : 0.05361303237718848,
+        "y" : 0.6510186006069677
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "'지금 이야기하는 여성은 어제 빨간 옷을 입고 있던 여자를 말하고, 다른 색상의 옷"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020512338440644151,
+        "width" : 0.8321677988225763,
+        "x" : 0.058275074936976139,
+        "y" : 0.67877906989945269
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "을 입은 여자를 말하는 것이 아니라는 것'을 나타낸다. 즉, 여자라는 정보의 범위를"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021719413061285553,
+        "width" : 0.32450012727217242,
+        "x" : 0.058013891678063013,
+        "y" : 0.70612151836853831
+      },
+      "confidence" : 1,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "구체적으로 좁혀서 말하고 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022143489813994721,
+        "width" : 0.31934731656854803,
+        "x" : 0.079254080561404136,
+        "y" : 0.73383525277825856
+      },
+      "confidence" : 0.5,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "이를 영어로 하면, 다음과 같다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011714163662798094,
+        "width" : 0.030303031206130988,
+        "x" : 0.058275057706957824,
+        "y" : 0.78633720932804885
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0.99305555555555558,
+      "text" : "예운"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.01889534942653992,
+        "width" : 0.47552446885542443,
+        "x" : 0.10023310362266337,
+        "y" : 0.78197674387825944
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "a woman who wore a red dress yesterday"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014712546545388561,
+        "width" : 0.037296037782322267,
+        "x" : 0.1561771558084982,
+        "y" : 0.80813953492603918
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0.55319148936170215,
+      "text" : "명사"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014712546545388561,
+        "width" : 0.2074592113494873,
+        "x" : 0.28438228231785201,
+        "y" : 0.80813953497339275
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.41762452107279696,
+      "text" : "형용사절(=관계 대명사절)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024658322228701124,
+        "width" : 0.81392062794078468,
+        "x" : 0.079037898984914298,
+        "y" : 0.85062952386339508
+      },
+      "confidence" : 0.5,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.061174551386623165,
+      "text" : "이와 같이 한정적 용법의 기능을 하는 관계 대명사절을 제한적 용법이라고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027273875828650818,
+        "width" : 0.71593952178955078,
+        "x" : 0.060400265354218968,
+        "y" : 0.87705421138779327
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "한다. 여기에서 '제한'은 바로 '한정'과 같은 의미로, 표현이 다를 뿐이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017103668226405966,
+        "width" : 0.31988087567416101,
+        "x" : 0.59879396625260028,
+        "y" : 0.92138587466853461
+      },
+      "confidence" : 0.5,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0.85835694050991507,
+      "text" : "10장 형용사와 부사: '수식하다'의 진실 323"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    645
+  ],
+  "pdf_page_index" : 312,
+  "pdf_page_number" : 313
+}

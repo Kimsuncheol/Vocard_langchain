@@ -1,0 +1,580 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.63888887925581495,
+        "x" : 0.10648148617456163,
+        "y" : 0.073975044895612352
+      },
+      "confidence" : 0.5,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "Ifl had known the truth, | would have been nicer to him."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022548519141321277,
+        "width" : 0.53037179600108753,
+        "x" : 0.10635278912906608,
+        "y" : 0.096546267021942134
+      },
+      "confidence" : 0.5,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "만약 내가 (그때) 진실을 알았더라면, 그에게 더 친절했을 거야."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020522427006413824,
+        "width" : 0.361111120744185,
+        "x" : 0.083333328397969197,
+        "y" : 0.149709301982761
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 as if의 경우는 그렇지 않다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021988869563356106,
+        "width" : 0.81018517234108667,
+        "x" : 0.083333339666606415,
+        "y" : 0.17587209284144634
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "고등학교 영어 수업이나, 대입 입시 학원에서 '가정법에는 시제 일치가 없다'라는"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022001824064475706,
+        "width" : 0.3842592672868208,
+        "x" : 0.062499995868266864,
+        "y" : 0.2034883719081777
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "설명을 들은 학습자들도 있을 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022014778565595527,
+        "width" : 0.48148146542635828,
+        "x" : 0.081018526435909788,
+        "y" : 0.23110465097905908
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "이 설명이 무엇을 뜻하는지 설명하도록 하겠다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895348125600675,
+        "width" : 0.38888887925581506,
+        "x" : 0.12731481952162352,
+        "y" : 0.28779069802408808
+      },
+      "confidence" : 1,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.95944503735325504,
+      "text" : "- 시제 일치: 주절의 시점에서 본 시제"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023292086766152909,
+        "width" : 0.66666668111627758,
+        "x" : 0.081018511176736585,
+        "y" : 0.32263814580761552
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0,
+      "text" : "시제 일치란, '자동적으로 동사의 시제가 변화하는 규칙이 아니다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020414513912642818,
+        "width" : 0.21626784584738989,
+        "x" : 0.094518340451022087,
+        "y" : 0.37078557320914207
+      },
+      "confidence" : 0.5,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "Ithink he liked it."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333633,
+        "width" : 0.037037036635658951,
+        "x" : 0.12037037045531869,
+        "y" : 0.39970930242711389
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.33333333333333331,
+      "text" : "주절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333633,
+        "width" : 0.055555554953488406,
+        "x" : 0.2129629631482558,
+        "y" : 0.39970930244410274
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0.45833333333333331,
+      "text" : "종속절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441860069778103,
+        "width" : 0.28703704747286707,
+        "x" : 0.45370369837748081,
+        "y" : 0.37209302344548223
+      },
+      "confidence" : 1,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0,
+      "text" : "그가 그것을 좋아했다고 생각해."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.012076476465996966,
+        "width" : 0.088111021301963077,
+        "x" : 0.46983337837528633,
+        "y" : 0.39512455234769184
+      },
+      "confidence" : 1,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0.75,
+      "text" : "he liked it"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011700451692795322,
+        "width" : 0.057870371775193608,
+        "x" : 0.65509259166834466,
+        "y" : 0.39527629245468499
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 1,
+      "text" : "Ithink"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333522,
+        "width" : 0.020833332430232665,
+        "x" : 0.67824074109584043,
+        "y" : 0.40843023259737976
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 14,
+      "red_ink_fraction" : 1,
+      "text" : "•"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906996511173,
+        "width" : 0.013888888738372129,
+        "x" : 0.7499999999595176,
+        "y" : 0.40843023240290721
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0,
+      "text" : "〉"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0087209300348890517,
+        "width" : 0.034722222523255852,
+        "x" : 0.67129629626152021,
+        "y" : 0.42151162791860197
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 16,
+      "red_ink_fraction" : 1,
+      "text" : "noW"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338680929,
+        "width" : 0.2939814871007746,
+        "x" : 0.099537034110468714,
+        "y" : 0.44028520511981517
+      },
+      "confidence" : 0.5,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "I thought he had liked it."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333522,
+        "width" : 0.034722222523255797,
+        "x" : 0.14583333288189063,
+        "y" : 0.46656976745929835
+      },
+      "confidence" : 0.5,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0.27777777777777779,
+      "text" : "주절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395052333522,
+        "width" : 0.055555554953488406,
+        "x" : 0.26851851870381133,
+        "y" : 0.46656976756038193
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0.5,
+      "text" : "종속절"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.019162210338681041,
+        "width" : 0.326388879255815,
+        "x" : 0.451388893596326,
+        "y" : 0.44028520512171165
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "그가 그것을 좋아했었다고 생각했어."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.011627906996511062,
+        "width" : 0.11805554953488434,
+        "x" : 0.4398148179698263,
+        "y" : 0.46075581379825614
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "he had liked it"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010262508868321141,
+        "width" : 0.074074073271317875,
+        "x" : 0.64814814843005197,
+        "y" : 0.46212121221351976
+      },
+      "confidence" : 0.5,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "I thought"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0072881690958603862,
+        "width" : 0.032407408410852545,
+        "x" : 0.70833333271587007,
+        "y" : 0.48691860456590685
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "nOW"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014705882352941124,
+        "width" : 0.78703706914728322,
+        "x" : 0.10416665050046098,
+        "y" : 0.50579322667571536
+      },
+      "confidence" : 0.5,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.29523809523809524,
+      "text" : "('절은 전체 큰 문장 안에 포함된 작은 'S+V ~를 말한다. 주절이란, 문장의 메인이 되는 'S +V ~이다. 종"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.016172324909883407,
+        "width" : 0.73842594840309839,
+        "x" : 0.1064814701225707,
+        "y" : 0.52616279073456995
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0.32898172323759789,
+      "text" : "속절은 작게 들어 있는 절로, 여기에서는 think/thought의 목적어 역할을 하는 'S +V ~를 말한다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.024709302048844695,
+        "width" : 0.8125,
+        "x" : 0.081018516454475401,
+        "y" : 0.5697674417929226
+      },
+      "confidence" : 0.5,
+      "observation_index" : 26,
+      "red_ink_fraction" : 0,
+      "text" : "위 문장의 경우, 일반적으로 '주절 동사의 시제가 과거면, 종속절 동사는 이에 따"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02049910873440286,
+        "width" : 0.83333336223255494,
+        "x" : 0.060185170612209966,
+        "y" : 0.60026737991330104
+      },
+      "confidence" : 1,
+      "observation_index" : 27,
+      "red_ink_fraction" : 0,
+      "text" : "라 주절보다 더 이전의 과거를 나타낸다'라는 느낌이 있다. 그래서 많은 학습자들"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020348837881377313,
+        "width" : 0.83333336223255516,
+        "x" : 0.060185170615796112,
+        "y" : 0.62645348803309786
+      },
+      "confidence" : 1,
+      "observation_index" : 28,
+      "red_ink_fraction" : 0,
+      "text" : "이 주절 동사인 시제의 변화에 따라서 종속절 동사도 자동적으로 시제가 바뀐다고"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023572183972799032,
+        "width" : 0.15752553939819336,
+        "x" : 0.060126119122628711,
+        "y" : 0.6539115824017403
+      },
+      "confidence" : 0.5,
+      "observation_index" : 29,
+      "red_ink_fraction" : 0,
+      "text" : "생각하게 된다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.0219810973726704,
+        "width" : 0.81018517234108667,
+        "x" : 0.081018524818060697,
+        "y" : 0.70930232540013893
+      },
+      "confidence" : 1,
+      "observation_index" : 30,
+      "red_ink_fraction" : 0,
+      "text" : "하지만 화자의 마음이 되어 시제 일치를 파악하다보면, 이러한 규칙을 생각하지"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.02199405187379011,
+        "width" : 0.388888879255815,
+        "x" : 0.060185189883087874,
+        "y" : 0.73691860446644741
+      },
+      "confidence" : 1,
+      "observation_index" : 31,
+      "red_ink_fraction" : 0,
+      "text" : "않고 더욱 자연스럽게 이해할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022007005524932843,
+        "width" : 0.81481482765891344,
+        "x" : 0.078703697196886538,
+        "y" : 0.7645348835379101
+      },
+      "confidence" : 0.5,
+      "observation_index" : 32,
+      "red_ink_fraction" : 0,
+      "text" : "I think he liked it. 문장의 경우, 과거에 그(he)의 그때 모습에 대해 '그는 그것"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022797744329387859,
+        "width" : 0.8265780535611239,
+        "x" : 0.060104091093270154,
+        "y" : 0.7897536648198078
+      },
+      "confidence" : 0.5,
+      "observation_index" : 33,
+      "red_ink_fraction" : 0,
+      "text" : "을 좋아했다(he liked it)'라고 지금 내가 판단하고 있는(I think) 것을 나타낸다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.028486977711505879,
+        "width" : 0.81526184082031261,
+        "x" : 0.076185866544534436,
+        "y" : 0.81565861414134122
+      },
+      "confidence" : 1,
+      "observation_index" : 34,
+      "red_ink_fraction" : 0,
+      "text" : "I thought he had liked it. 문장의 경우, 지금의 자신이 '그때의 나는 그렇게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021921506327528761,
+        "width" : 0.83101853457364183,
+        "x" : 0.060185180326026308,
+        "y" : 0.84581105185364369
+      },
+      "confidence" : 1,
+      "observation_index" : 35,
+      "red_ink_fraction" : 0,
+      "text" : "판단했다(I thought)'라고 돌이켜보는 것으로, 그 판단한 내용은 '내가 판단했던"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021802325937199662,
+        "width" : 0.83333336223255516,
+        "x" : 0.060185170604034048,
+        "y" : 0.87499999981863719
+      },
+      "confidence" : 1,
+      "observation_index" : 36,
+      "red_ink_fraction" : 0,
+      "text" : "과거의 그 시점에서, 그는 이미 그것을 좋아한 상태를 have하고 있었다(he had"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014731791355180657,
+        "width" : 0.34722221981395374,
+        "x" : 0.56944444553605289,
+        "y" : 0.93003565061883908
+      },
+      "confidence" : 1,
+      "observation_index" : 37,
+      "red_ink_fraction" : 0.98989898989898994,
+      "text" : "7장 동사 ⑥ 가정법: 실제로는 그렇지 않다 217"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    641
+  ],
+  "pdf_page_index" : 209,
+  "pdf_page_number" : 210
+}

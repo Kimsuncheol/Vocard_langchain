@@ -1,0 +1,415 @@
+{
+  "observations" : [
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020514359253581249,
+        "width" : 0.058004639365456329,
+        "x" : 0.10672853865060516,
+        "y" : 0.072508896582774596
+      },
+      "confidence" : 1,
+      "observation_index" : 0,
+      "red_ink_fraction" : 0,
+      "text" : "있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.029749215285548969,
+        "width" : 0.81013202667236328,
+        "x" : 0.12740864269847138,
+        "y" : 0.094889569437097254
+      },
+      "confidence" : 1,
+      "observation_index" : 1,
+      "red_ink_fraction" : 0,
+      "text" : "영어로 이를 표현하려면, \"나는 어떤 상황을 가지고 있다. 그것은 '내 차 = 도난당"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027908394769417422,
+        "width" : 0.83108711242675792,
+        "x" : 0.10649878332403509,
+        "y" : 0.12481394113515587
+      },
+      "confidence" : 0.5,
+      "observation_index" : 2,
+      "red_ink_fraction" : 0,
+      "text" : "한 ' 상황이다.'로 생각해야 한다. 이러한 생각에서 I had my car stolen.이라는 문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021967847152112641,
+        "width" : 0.25522041320800781,
+        "x" : 0.1067285403763759,
+        "y" : 0.15552325596122374
+      },
+      "confidence" : 1,
+      "observation_index" : 3,
+      "red_ink_fraction" : 0,
+      "text" : "장이 생겨나게 된 것이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022711303310462228,
+        "width" : 0.81225768002596765,
+        "x" : 0.12518971621582961,
+        "y" : 0.20438023140888051
+      },
+      "confidence" : 1,
+      "observation_index" : 4,
+      "red_ink_fraction" : 0,
+      "text" : "물론 이 구문에서 과거분사가 반드시 피해를 나타내는 것은 아니다. 기본적인 의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.025680185637015907,
+        "width" : 0.64058611609719018,
+        "x" : 0.10659503539508891,
+        "y" : 0.2309064410939603
+      },
+      "confidence" : 0.5,
+      "observation_index" : 5,
+      "red_ink_fraction" : 0,
+      "text" : "미는 'S가 (O = ~시키다, ~하게 하다)라는 상황을 가지다'이다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013345195729537296,
+        "width" : 0.03016241301189769,
+        "x" : 0.1067285382446312,
+        "y" : 0.28336298945630212
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 6,
+      "red_ink_fraction" : 0.98601398601398604,
+      "text" : "예문"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164267,
+        "width" : 0.31090487133372913,
+        "x" : 0.15081206538311775,
+        "y" : 0.28197674447463195
+      },
+      "confidence" : 0.5,
+      "observation_index" : 7,
+      "red_ink_fraction" : 0.022309711286089239,
+      "text" : "| had the wall= (painted)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017441859873164267,
+        "width" : 0.60324824940074573,
+        "x" : 0.15313225569082337,
+        "y" : 0.30959302354831553
+      },
+      "confidence" : 1,
+      "observation_index" : 8,
+      "red_ink_fraction" : 0,
+      "text" : "나는 (누군가를 시켜) 벽에 페인트를 칠했다. (벽이 페인트칠되게 했다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624811,
+        "width" : 0.40835267847234558,
+        "x" : 0.10440834743694817,
+        "y" : 0.35610465084028609
+      },
+      "confidence" : 0.5,
+      "observation_index" : 9,
+      "red_ink_fraction" : 0.15764925373134328,
+      "text" : "예문 She had her shoes =(repaired)."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014736613344891625,
+        "width" : 0.55684453790838073,
+        "x" : 0.15313225529722144,
+        "y" : 0.38517441842363753
+      },
+      "confidence" : 1,
+      "observation_index" : 10,
+      "red_ink_fraction" : 0,
+      "text" : "그녀는 (누군가를 시켜) 구두를 수선했다.(구두가 수선되게 했다.)"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023217041721547593,
+        "width" : 0.74030009183016676,
+        "x" : 0.10432453730978551,
+        "y" : 0.43307682441473316
+      },
+      "confidence" : 0.5,
+      "observation_index" : 11,
+      "red_ink_fraction" : 0.96632591701743842,
+      "text" : "•9 get+사람 +to 부정사: ~에게 부탁하거나 설득하여~하게 하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020498841682786928,
+        "width" : 0.64037123593417089,
+        "x" : 0.1229698343590612,
+        "y" : 0.47238372084728408
+      },
+      "confidence" : 0.5,
+      "observation_index" : 12,
+      "red_ink_fraction" : 0,
+      "text" : "get에서 사역을 나타낼 때, to 부정사를 사용하는 구문이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.010324422574976566,
+        "width" : 0.060324826023795408,
+        "x" : 0.77726218083408616,
+        "y" : 0.50711743790537844
+      },
+      "confidence" : 0.30000001192092896,
+      "observation_index" : 13,
+      "red_ink_fraction" : 0,
+      "text" : "다녀올게"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.017462550533199561,
+        "width" : 0.42227376591075555,
+        "x" : 0.10440836058979337,
+        "y" : 0.52034883749846517
+      },
+      "confidence" : 0.5,
+      "observation_index" : 14,
+      "red_ink_fraction" : 0.17895771878072764,
+      "text" : "예론 ㅣ got Jim to ldrive me to schooll."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.014534884076101595,
+        "width" : 0.14385150779377334,
+        "x" : 0.16937354978226485,
+        "y" : 0.54796511599766351
+      },
+      "confidence" : 1,
+      "observation_index" : 15,
+      "red_ink_fraction" : 0.27272727272727271,
+      "text" : "얻었다 도달하다"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.020303741468653547,
+        "width" : 0.4691475087946112,
+        "x" : 0.15062283657343381,
+        "y" : 0.56552622241227779
+      },
+      "confidence" : 1,
+      "observation_index" : 16,
+      "red_ink_fraction" : 0,
+      "text" : "나는 짐에게 부탁해 학교까지 차로 데려다 달라고 했다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.023255813164218875,
+        "width" : 0.81206495111638843,
+        "x" : 0.12529003006361544,
+        "y" : 0.62500000038300696
+      },
+      "confidence" : 1,
+      "observation_index" : 17,
+      "red_ink_fraction" : 0,
+      "text" : "이 구문에서는 단순히 '~시키다, ~하게 하다'의 의미보다는, 부탁하거나 설득하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022067314365156188,
+        "width" : 0.34149148247458716,
+        "x" : 0.10422220179933744,
+        "y" : 0.65243616044868624
+      },
+      "confidence" : 1,
+      "observation_index" : 18,
+      "red_ink_fraction" : 0,
+      "text" : "여 '~하게 하다'라는 느낌이 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.026527509994778375,
+        "width" : 0.80998923561789771,
+        "x" : 0.12517983769730875,
+        "y" : 0.67879246589713804
+      },
+      "confidence" : 0.5,
+      "observation_index" : 19,
+      "red_ink_fraction" : 0,
+      "text" : "먼저 I got Jim은 말 그대로 '나는 짐을 얻었다'라는 말이다. 그리고 그 후에"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021910949109712141,
+        "width" : 0.83526680686257115,
+        "x" : 0.10208817791442204,
+        "y" : 0.70774021330510839
+      },
+      "confidence" : 1,
+      "observation_index" : 20,
+      "red_ink_fraction" : 0,
+      "text" : "drive me to school이라는 행동에 to(도달하다)한 것이다. 짐을 붙잡아 부탁하"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.027761924309238406,
+        "width" : 0.8333631862293589,
+        "x" : 0.10189705743136888,
+        "y" : 0.73219764211851357
+      },
+      "confidence" : 0.5,
+      "observation_index" : 21,
+      "red_ink_fraction" : 0,
+      "text" : "여, drive me to school에 도달한 것이다. tO 부정사의 to가 지닌 의미인 '도"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021864396397329289,
+        "width" : 0.8375870097767224,
+        "x" : 0.097447794264686916,
+        "y" : 0.76156583599900673
+      },
+      "confidence" : 1,
+      "observation_index" : 22,
+      "red_ink_fraction" : 0,
+      "text" : "'먼저 사람을 구해서 부탁하고, 원하는 행위에 도달하다'라는 '설득과 실현 사이의"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.022019572953736577,
+        "width" : 0.40371231599287555,
+        "x" : 0.10440834305281815,
+        "y" : 0.79048042688146603
+      },
+      "confidence" : 1,
+      "observation_index" : 23,
+      "red_ink_fraction" : 0,
+      "text" : "시간 차이'를 나타내 준다고 할 수 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.018895349468624922,
+        "width" : 0.35266822034662421,
+        "x" : 0.19257540247248867,
+        "y" : 0.84738372060809775
+      },
+      "confidence" : 1,
+      "observation_index" : 24,
+      "red_ink_fraction" : 0.95267745952677463,
+      "text" : "보어가 형용사나 과거분사인 패턴"
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.021973019392889204,
+        "width" : 0.74013918096368958,
+        "x" : 0.12296985266699947,
+        "y" : 0.88372093038351252
+      },
+      "confidence" : 1,
+      "observation_index" : 25,
+      "red_ink_fraction" : 0,
+      "text" : "get이 사용된 5형식 문장에서, 보어가 형용사나 과거분사인 패턴도 있다."
+    },
+    {
+      "alternatives" : [
+
+      ],
+      "bbox" : {
+        "height" : 0.013081395329105461,
+        "width" : 0.041763340884988953,
+        "x" : 0.071925754035463765,
+        "y" : 0.92877906973642832
+      },
+      "confidence" : 1,
+      "observation_index" : 26,
+      "red_ink_fraction" : 1,
+      "text" : "192"
+    }
+  ],
+  "page_size_points" : [
+    402,
+    642
+  ],
+  "pdf_page_index" : 185,
+  "pdf_page_number" : 186
+}
