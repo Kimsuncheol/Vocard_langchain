@@ -1,0 +1,218 @@
+{
+  "dataset_id": "vocard-devils100-qa-v1",
+  "dataset_manifest_sha256": "8ccd6d07b52305c5bd6dc7151a69f7f78baa36ab451d746a2d1d24a190f01331",
+  "run_id": "89a1d093-4ca3-4dbd-9b00-e46ca48e01e8",
+  "split": "tuning",
+  "questions_per_candidate": 20,
+  "heldout_live_runs": 0,
+  "label_status": "agent_authored_pending_human_review",
+  "retrieval_mode": "offline_ocr_lexical",
+  "source_pdf_sha256": "514a96147830253fdf551d42c67f6adb865d3a0475ef85b863b49a77dd167f91",
+  "corpus": {
+    "pdf_pages": 425,
+    "chunks": 632,
+    "review_status": "unreviewed OCR; frozen app asset lesson metadata"
+  },
+  "configuration": {
+    "candidates": [
+      {
+        "candidate_id": "qwen25_3b",
+        "provider": "ollama",
+        "model": "qwen2.5:3b",
+        "input_usd_per_million": null,
+        "cached_input_usd_per_million": null,
+        "output_usd_per_million": null
+      },
+      {
+        "candidate_id": "qwen3_4b",
+        "provider": "ollama",
+        "model": "qwen3:4b",
+        "input_usd_per_million": null,
+        "cached_input_usd_per_million": null,
+        "output_usd_per_million": null
+      }
+    ],
+    "ks": [
+      1,
+      3,
+      5
+    ],
+    "generation_k": 3,
+    "max_fallback": 2,
+    "min_score": 0,
+    "chunk_size": 1000,
+    "context_chars": 5000,
+    "max_tokens": 600,
+    "local_context_tokens": 8192,
+    "timeout": 120,
+    "embedding_input_usd_per_million": null,
+    "prices_as_of": null,
+    "price_source": null
+  },
+  "grading_provenance": {
+    "grading_type": "model",
+    "grader": "Codex agent (exact build unavailable)",
+    "method": "unblinded agent rubric review",
+    "also_authored_draft_rubrics": true,
+    "independent_human_reviews": 0,
+    "independent_model_reviews": 0,
+    "human_grades": 0,
+    "grading_guide_sha256": "7b7aebfc8e39e99e0732a77cd309b47d324e4d2dcf159a12aceb9dfdc9c25168",
+    "notes": "Exact agent build/full context/token cost unavailable. Scores are provisional; a human grammar reviewer has not validated labels, targets or grades.",
+    "grading_implementation_sha256": "980e186999cbf22d2876ccb350a82140a6ab248744be4db780c3b52705d1f997"
+  },
+  "automatic_metrics": {
+    "qwen25_3b": {
+      "n": 20,
+      "errors": 16,
+      "page_recall_at_k": {
+        "1": 0.8529411764705882,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "retrieval_scored_cases": 17,
+      "citation_provenance": 1,
+      "citation_provenance_coverage": 2,
+      "status_accuracy": 0.15,
+      "abstention_precision": 0.5,
+      "abstention_recall": 0.3333333333333333,
+      "false_abstention_rate": 0.058823529411764705,
+      "status_confusion": {
+        "answered -> error": 14,
+        "answered -> insufficient_evidence": 1,
+        "insufficient_evidence -> error": 1,
+        "clarification_needed -> error": 1,
+        "answered -> answered": 2,
+        "insufficient_evidence -> insufficient_evidence": 1
+      },
+      "latency_ms": {
+        "mean": 14615.977964700687,
+        "p50": 15756.182124998304,
+        "p95": 18299.062457997934
+      },
+      "retrieval_latency_ms": 1.4990791500167688,
+      "cost_usd_per_question": 0.0,
+      "cost_coverage": 1.0,
+      "total_known_cost_usd": 0.0,
+      "cost_usd_per_answered": 0.0
+    },
+    "qwen3_4b": {
+      "n": 20,
+      "errors": 17,
+      "page_recall_at_k": {
+        "1": 0.8529411764705882,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "retrieval_scored_cases": 17,
+      "citation_provenance": 1,
+      "citation_provenance_coverage": 1,
+      "status_accuracy": 0.15,
+      "abstention_precision": 1.0,
+      "abstention_recall": 0.6666666666666666,
+      "false_abstention_rate": 0.0,
+      "status_confusion": {
+        "answered -> error": 16,
+        "answered -> answered": 1,
+        "insufficient_evidence -> insufficient_evidence": 2,
+        "clarification_needed -> error": 1
+      },
+      "latency_ms": {
+        "mean": 23391.25841670011,
+        "p50": 24371.784332997777,
+        "p95": 27044.199082996784
+      },
+      "retrieval_latency_ms": 1.4990791500167688,
+      "cost_usd_per_question": 0.0,
+      "cost_coverage": 1.0,
+      "total_known_cost_usd": 0.0,
+      "cost_usd_per_answered": 0.0
+    }
+  },
+  "semantic_grades": [
+    {
+      "grading_type": "model",
+      "grader_id": "model:codex-agent-unblinded",
+      "candidate_id": "qwen25_3b",
+      "graded_cases": 20,
+      "total_cases": 20,
+      "grading_coverage": 1.0,
+      "answer_correctness": 0.1375,
+      "rubric_score_before_status_gate": 0.1625,
+      "citation_support": 0.5,
+      "supported_citations": 1,
+      "graded_citations": 2,
+      "unsupported_claim_rate": 0.5,
+      "claim_scored_answers": 2,
+      "self_grading_cases": 0,
+      "grader_known_cost_usd": 0,
+      "grader_cost_coverage": 0.0
+    },
+    {
+      "grading_type": "model",
+      "grader_id": "model:codex-agent-unblinded",
+      "candidate_id": "qwen3_4b",
+      "graded_cases": 20,
+      "total_cases": 20,
+      "grading_coverage": 1.0,
+      "answer_correctness": 0.15,
+      "rubric_score_before_status_gate": 0.15,
+      "citation_support": 1,
+      "supported_citations": 1,
+      "graded_citations": 1,
+      "unsupported_claim_rate": 0,
+      "claim_scored_answers": 1,
+      "self_grading_cases": 0,
+      "grader_known_cost_usd": 0,
+      "grader_cost_coverage": 0.0
+    }
+  ],
+  "paired_correctness_comparisons": [
+    {
+      "grading_type": "model",
+      "grader_id": "model:codex-agent-unblinded",
+      "a": "qwen25_3b",
+      "b": "qwen3_4b",
+      "n_pairs": 20,
+      "n_groups": 5,
+      "mean_delta": 0.0125,
+      "ci95": [
+        -0.2125,
+        0.2
+      ]
+    }
+  ],
+  "model_digests": {
+    "qwen2.5:3b": "357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b",
+    "qwen3:4b": "359d7dd4bcdab3d86b87d73ac27966f4dbb9f5efdfcc75d34a8764a09474fae7",
+    "granite3.3:8b": "fd429f23b90980ed1bef53b990894e7b0199331f6ae90c5650240a7d5b70f1f7"
+  },
+  "model_digests_unchanged_before_after": true,
+  "provider_api_cost_scope": "Ollama API charges only; excludes local hardware, energy, hosting and agent/human grading.",
+  "cloud_availability": {
+    "models": [
+      "gpt-4.1-mini-2025-04-14",
+      "gpt-4.1-2025-04-14"
+    ],
+    "valid_answers": 0,
+    "attempted_questions_per_model": 20,
+    "followup_diagnostic_http_status": 429,
+    "followup_diagnostic_type": "OpenAIRateLimitError",
+    "serving_cost_usd": null,
+    "semantic_grades": "not graded; no accepted responses"
+  },
+  "limitations": [
+    "Tuning results only; no final held-out inference.",
+    "600-token generation budget and 5000-character context budget; results do not establish quality at larger budgets.",
+    "Local OCR lexical retrieval is not production embedding retrieval.",
+    "Only five lesson groups; confidence intervals are unstable.",
+    "Most responses failed the actual answer schema/citation validator.",
+    "Agent-authored rubrics and agent grades require independent human validation."
+  ],
+  "raw_artifacts": {
+    "directory": "output/evaluation/local-tuning-v2",
+    "predictions_sha256": "20fc366ec50ebd73e1a56289a80a6635447f0d891630ef874ce8b6a3edeb4c2d",
+    "agent_model_grades_sha256": "fc1f0661eeb225d482f99cd6b068b4f082505bde8b7bbcec164fd970f046322e",
+    "report_sha256": "cfd52f30ca8502c1f4d5a0860604f0d645efd5bf6d5ab611e0380fb3dd1aca45"
+  }
+}

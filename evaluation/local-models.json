@@ -1,0 +1,12 @@
+{
+  "candidates": [
+    {"candidate_id": "qwen25_3b", "provider": "ollama", "model": "qwen2.5:3b"},
+    {"candidate_id": "qwen3_4b", "provider": "ollama", "model": "qwen3:4b"}
+  ],
+  "ks": [1, 3, 5],
+  "generation_k": 3,
+  "context_chars": 5000,
+  "max_tokens": 600,
+  "local_context_tokens": 8192,
+  "timeout": 120
+}

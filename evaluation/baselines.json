@@ -1,0 +1,8 @@
+{
+  "candidates": [
+    {"candidate_id": "extractive", "provider": "extractive_baseline", "model": "extractive-baseline-v1"},
+    {"candidate_id": "always_abstain", "provider": "abstain_baseline", "model": "abstain-baseline-v1"}
+  ],
+  "ks": [1, 3, 5],
+  "generation_k": 5
+}

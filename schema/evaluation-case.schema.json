@@ -1,0 +1,221 @@
+{
+  "$defs": {
+    "Attack": {
+      "additionalProperties": false,
+      "properties": {
+        "target": {
+          "const": "retrieved_text",
+          "title": "Target",
+          "type": "string"
+        },
+        "payload": {
+          "maxLength": 4000,
+          "minLength": 1,
+          "title": "Payload",
+          "type": "string"
+        }
+      },
+      "required": [
+        "target",
+        "payload"
+      ],
+      "title": "Attack",
+      "type": "object"
+    },
+    "Criterion": {
+      "additionalProperties": false,
+      "properties": {
+        "criterion_id": {
+          "title": "Criterion Id",
+          "type": "string"
+        },
+        "description": {
+          "minLength": 1,
+          "title": "Description",
+          "type": "string"
+        },
+        "weight": {
+          "exclusiveMinimum": 0,
+          "title": "Weight",
+          "type": "number"
+        }
+      },
+      "required": [
+        "criterion_id",
+        "description",
+        "weight"
+      ],
+      "title": "Criterion",
+      "type": "object"
+    },
+    "HistoryMessage": {
+      "additionalProperties": false,
+      "properties": {
+        "role": {
+          "enum": [
+            "user",
+            "assistant"
+          ],
+          "title": "Role",
+          "type": "string"
+        },
+        "content": {
+          "maxLength": 10000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Content",
+          "type": "string"
+        }
+      },
+      "required": [
+        "role",
+        "content"
+      ],
+      "title": "HistoryMessage",
+      "type": "object"
+    },
+    "Provenance": {
+      "additionalProperties": false,
+      "properties": {
+        "author_type": {
+          "enum": [
+            "agent",
+            "human"
+          ],
+          "title": "Author Type",
+          "type": "string"
+        },
+        "review_status": {
+          "enum": [
+            "pending_human_review",
+            "human_reviewed"
+          ],
+          "title": "Review Status",
+          "type": "string"
+        },
+        "human_reviewer": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Human Reviewer"
+        }
+      },
+      "required": [
+        "author_type",
+        "review_status",
+        "human_reviewer"
+      ],
+      "title": "Provenance",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "case_id": {
+      "title": "Case Id",
+      "type": "string"
+    },
+    "group_id": {
+      "title": "Group Id",
+      "type": "string"
+    },
+    "course_id": {
+      "title": "Course Id",
+      "type": "string"
+    },
+    "unit_id": {
+      "title": "Unit Id",
+      "type": "string"
+    },
+    "lesson_number": {
+      "minimum": 1,
+      "title": "Lesson Number",
+      "type": "integer"
+    },
+    "lesson_title": {
+      "title": "Lesson Title",
+      "type": "string"
+    },
+    "question": {
+      "maxLength": 4000,
+      "minLength": 1,
+      "title": "Question",
+      "type": "string"
+    },
+    "history": {
+      "items": {
+        "$ref": "#/$defs/HistoryMessage"
+      },
+      "maxItems": 20,
+      "title": "History",
+      "type": "array"
+    },
+    "answerability": {
+      "enum": [
+        "answerable",
+        "unanswerable",
+        "needs_clarification"
+      ],
+      "title": "Answerability",
+      "type": "string"
+    },
+    "expected_source_pages": {
+      "items": {
+        "type": "integer"
+      },
+      "title": "Expected Source Pages",
+      "type": "array"
+    },
+    "rubric": {
+      "items": {
+        "$ref": "#/$defs/Criterion"
+      },
+      "minItems": 1,
+      "title": "Rubric",
+      "type": "array"
+    },
+    "tags": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Tags",
+      "type": "array"
+    },
+    "attack": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Attack"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "label_provenance": {
+      "$ref": "#/$defs/Provenance"
+    }
+  },
+  "required": [
+    "case_id",
+    "group_id",
+    "course_id",
+    "unit_id",
+    "lesson_number",
+    "lesson_title",
+    "question",
+    "history",
+    "answerability",
+    "expected_source_pages",
+    "rubric",
+    "tags",
+    "attack",
+    "label_provenance"
+  ],
+  "title": "Case",
+  "type": "object"
+}

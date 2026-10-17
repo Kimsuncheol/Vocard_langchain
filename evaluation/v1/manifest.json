@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "dataset_id": "vocard-devils100-qa-v1",
+  "created_at": "2026-10-17",
+  "source": {
+    "title": "영문법 악마의 100법칙",
+    "sha256": "514a96147830253fdf551d42c67f6adb865d3a0475ef85b863b49a77dd167f91",
+    "pdf_page_count": 425,
+    "page_index_base": 1
+  },
+  "label_status": "agent_authored_pending_human_review",
+  "spot_checked_pdf_pages": [
+    24,
+    73,
+    118,
+    128,
+    260
+  ],
+  "split_policy": "Lesson groups, including follow-ups and attacks, are disjoint. Heldout is not used for tuning.",
+  "files": {
+    "tuning.jsonl": "dfbd09317de8de74045fbf8f05ab833a3f9638b386f41f62af5a460ba3b64d82",
+    "heldout.jsonl": "b85a42505bf7764d93b3fb5aa5b9ab3bd12b8e607a062abfb8927989754230ff"
+  },
+  "counts": {
+    "tuning": 20,
+    "heldout": 20
+  },
+  "asset_sources": [
+    {
+      "name": "devils_grammar_unit_01.json",
+      "sha256": "5ab0ab7699f708bb5c8a7f9b138dc3f9639d2b5d87a0257928d08e87a6499a1d"
+    },
+    {
+      "name": "devils_grammar_unit_02.json",
+      "sha256": "727b359ed9bfb5b6b39ca038cb15ac09a47c445118eef369133be0f12041f49d"
+    },
+    {
+      "name": "devils_grammar_unit_03.json",
+      "sha256": "360f51fea73d70a44894b46af9363083f8d7a71983ac86db27202ffa3144f16a"
+    },
+    {
+      "name": "devils_grammar_unit_04.json",
+      "sha256": "5f5a7ed53189f981c85b88e63ad6ebea380076d9f9941b979971eb39089a0895"
+    },
+    {
+      "name": "devils_grammar_unit_05.json",
+      "sha256": "1fa533412ae6aa935d98dec109d850eea55520f9130ec67e3363ec927babf4c0"
+    },
+    {
+      "name": "devils_grammar_unit_06.json",
+      "sha256": "cb91f29859cc1d1ea9b3c975b5154e43704a7dff2c7fae5bf63cbb010add062b"
+    },
+    {
+      "name": "devils_grammar_unit_07.json",
+      "sha256": "fda1fe505a648cee6d71d1873b0fec49b7a612278d1416809575741def6d4cff"
+    },
+    {
+      "name": "devils_grammar_unit_08.json",
+      "sha256": "a75afb1fcbd51be8d91cd92e21598c2c76d7d73ddd731dbe806630eeec480c3b"
+    },
+    {
+      "name": "devils_grammar_unit_09.json",
+      "sha256": "1446ae8032e15df61c3b978a08dbb00fc1a007c67d578956e65f71c41a645f79"
+    },
+    {
+      "name": "devils_grammar_unit_10.json",
+      "sha256": "c60f40d6bee670bd11df46b3846c6bf51b7285ebffa8aab5264e3e453db58711"
+    },
+    {
+      "name": "devils_grammar_unit_11.json",
+      "sha256": "2d6c6914ccacb998a4c6a8bcaf67dddc80534dfe04a5829da1a3672f9f6c7fd3"
+    },
+    {
+      "name": "devils_grammar_unit_12.json",
+      "sha256": "509e72010c0377a458cb346a1e71d68921032e28ad76efdebc8dc19ef6c14818"
+    },
+    {
+      "name": "devils_grammar_unit_13.json",
+      "sha256": "550a8771e9aa6e637304ddf36c56a8976daa42c01e1269a255b5e2589785f47b"
+    }
+  ],
+  "reference_ocr_sha256": "1c8e67f705c59156a60d2ddd2aa522c2402c73f09921fa5113beaee9eb698fb1",
+  "reference_metadata_policy": "All 100 lesson ranges from frozen app assets, applied after OCR chunking; reference only, not a reviewed production index."
+}

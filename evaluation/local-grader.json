@@ -1,0 +1,7 @@
+{
+  "candidates": [
+    {"candidate_id": "independent_judge", "provider": "ollama", "model": "granite3.3:8b"}
+  ],
+  "max_tokens": 1800,
+  "timeout": 180
+}

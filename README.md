@@ -5,6 +5,9 @@ worker uses LangChain documents, text splitting, and OpenAI embeddings to build 
 immutable index in private S3. A LangChain `BaseRetriever` resolves the active index
 at query time. There is no administrator dashboard or in-request ingestion worker.
 
+Fixed Q&A fixtures, held-out evaluation, model comparison, grading provenance and
+measurement commands are in [evaluation/README.md](evaluation/README.md).
+
 ## Install and configure
 
 Use Python 3.11 or newer (tested with Python 3.14):

@@ -1,0 +1,182 @@
+{
+  "$defs": {
+    "CitationScore": {
+      "additionalProperties": false,
+      "properties": {
+        "chunk_id": {
+          "title": "Chunk Id",
+          "type": "string"
+        },
+        "supported": {
+          "title": "Supported",
+          "type": "boolean"
+        },
+        "reason": {
+          "minLength": 1,
+          "title": "Reason",
+          "type": "string"
+        }
+      },
+      "required": [
+        "chunk_id",
+        "supported",
+        "reason"
+      ],
+      "title": "CitationScore",
+      "type": "object"
+    },
+    "CriterionScore": {
+      "additionalProperties": false,
+      "properties": {
+        "criterion_id": {
+          "title": "Criterion Id",
+          "type": "string"
+        },
+        "score": {
+          "enum": [
+            0.0,
+            0.5,
+            1.0
+          ],
+          "title": "Score",
+          "type": "number"
+        },
+        "reason": {
+          "minLength": 1,
+          "title": "Reason",
+          "type": "string"
+        }
+      },
+      "required": [
+        "criterion_id",
+        "score",
+        "reason"
+      ],
+      "title": "CriterionScore",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "criteria": {
+      "items": {
+        "$ref": "#/$defs/CriterionScore"
+      },
+      "title": "Criteria",
+      "type": "array"
+    },
+    "citation_support": {
+      "items": {
+        "$ref": "#/$defs/CitationScore"
+      },
+      "title": "Citation Support",
+      "type": "array"
+    },
+    "unsupported_claims": {
+      "title": "Unsupported Claims",
+      "type": "boolean"
+    },
+    "notes": {
+      "title": "Notes",
+      "type": "string"
+    },
+    "run_id": {
+      "title": "Run Id",
+      "type": "string"
+    },
+    "case_id": {
+      "title": "Case Id",
+      "type": "string"
+    },
+    "candidate_id": {
+      "title": "Candidate Id",
+      "type": "string"
+    },
+    "prediction_sha256": {
+      "title": "Prediction Sha256",
+      "type": "string"
+    },
+    "grading_type": {
+      "enum": [
+        "human",
+        "model"
+      ],
+      "title": "Grading Type",
+      "type": "string"
+    },
+    "grader_id": {
+      "minLength": 1,
+      "title": "Grader Id",
+      "type": "string"
+    },
+    "graded_at": {
+      "title": "Graded At",
+      "type": "string"
+    },
+    "grader_model": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Grader Model"
+    },
+    "grader_prompt_sha256": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Grader Prompt Sha256"
+    },
+    "usage": {
+      "anyOf": [
+        {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Usage"
+    },
+    "cost_usd": {
+      "anyOf": [
+        {
+          "minimum": 0,
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Cost Usd"
+    }
+  },
+  "required": [
+    "criteria",
+    "citation_support",
+    "unsupported_claims",
+    "notes",
+    "run_id",
+    "case_id",
+    "candidate_id",
+    "prediction_sha256",
+    "grading_type",
+    "grader_id",
+    "graded_at",
+    "grader_model",
+    "grader_prompt_sha256",
+    "usage",
+    "cost_usd"
+  ],
+  "title": "Grade",
+  "type": "object"
+}
