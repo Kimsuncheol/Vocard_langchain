@@ -521,3 +521,21 @@ opens its OCR text and a chat grounded in excerpts from that part. Conversations
 and drafts stay separate per part for the current browser session. Source text
 comes from `output/pdf/textbook-extraction/textbook.json`; set
 `VOCARD_GRAMMAR_PATH` to use another extraction file. The OCR draft is unreviewed.
+
+## Vocabulary tutoring
+
+The vocabulary study **Explain this word** action uses the Firebase-authenticated
+`POST /ai/vocabulary/explain` endpoint. It reuses Vocard's selected `VocabularyWord`
+entry, course ID, meanings and paired examples/translations. The tutor explains
+the sentence-specific meaning first, then nuance and bilingual examples, with
+explicit labels distinguishing app-supplied Vocard data, retrieved book passages
+and AI-generated content. Ambiguous senses produce alternatives or a focused
+clarification. Correct/incorrect source markers are preserved and validated.
+
+Vocabulary tutoring works without a mapped book; an explicit course-to-book map
+adds fresh, authorized active-index evidence. Follow-ups send only bounded,
+untrusted context from Flutter screen memory. Closing the screen discards it;
+there is no server conversation or content persistence. The grammar answering
+contract remains independent and evidence-only. See the complete
+[vocabulary API contract](docs/vocabulary-tutor-api.md), including request limits,
+source labels, retrieval authorization, errors and privacy behavior.

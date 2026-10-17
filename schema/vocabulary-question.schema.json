@@ -1,0 +1,122 @@
+{
+  "$defs": {
+    "VocabularyEntry": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "maxLength": 200,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Id",
+          "type": "string"
+        },
+        "courseId": {
+          "maxLength": 100,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Courseid",
+          "type": "string"
+        },
+        "word": {
+          "maxLength": 200,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Word",
+          "type": "string"
+        },
+        "meaning": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Meaning",
+          "type": "string"
+        },
+        "explanation": {
+          "default": "",
+          "maxLength": 4000,
+          "title": "Explanation",
+          "type": "string"
+        },
+        "exampleSentences": {
+          "items": {
+            "maxLength": 2000,
+            "minLength": 1,
+            "pattern": "\\S",
+            "type": "string"
+          },
+          "maxItems": 20,
+          "title": "Examplesentences",
+          "type": "array"
+        },
+        "exampleTranslations": {
+          "items": {
+            "maxLength": 2000,
+            "minLength": 1,
+            "pattern": "\\S",
+            "type": "string"
+          },
+          "maxItems": 20,
+          "title": "Exampletranslations",
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "courseId",
+        "word",
+        "meaning"
+      ],
+      "title": "VocabularyEntry",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "question": {
+      "maxLength": 4000,
+      "minLength": 1,
+      "pattern": "\\S",
+      "title": "Question",
+      "type": "string"
+    },
+    "selected_entry": {
+      "$ref": "#/$defs/VocabularyEntry"
+    },
+    "sentence": {
+      "anyOf": [
+        {
+          "maxLength": 2000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Sentence"
+    },
+    "prior_explanation": {
+      "anyOf": [
+        {
+          "maxLength": 2000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Prior Explanation"
+    }
+  },
+  "required": [
+    "question",
+    "selected_entry"
+  ],
+  "title": "VocabularyQuestion",
+  "type": "object"
+}

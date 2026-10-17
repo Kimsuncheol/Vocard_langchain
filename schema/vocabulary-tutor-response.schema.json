@@ -1,0 +1,375 @@
+{
+  "$defs": {
+    "Citation": {
+      "additionalProperties": false,
+      "properties": {
+        "chunk_id": {
+          "maxLength": 200,
+          "minLength": 1,
+          "title": "Chunk Id",
+          "type": "string"
+        },
+        "quote": {
+          "maxLength": 10000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Quote",
+          "type": "string"
+        },
+        "book_id": {
+          "title": "Book Id",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "integer"
+        },
+        "index_version": {
+          "title": "Index Version",
+          "type": "string"
+        },
+        "source_pages": {
+          "items": {
+            "type": "integer"
+          },
+          "title": "Source Pages",
+          "type": "array"
+        },
+        "source_page_labels": {
+          "items": {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          "title": "Source Page Labels",
+          "type": "array"
+        },
+        "course_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Course Id"
+        },
+        "unit_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Unit Id"
+        },
+        "lesson_number": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Lesson Number"
+        }
+      },
+      "required": [
+        "chunk_id",
+        "quote",
+        "book_id",
+        "version",
+        "index_version",
+        "source_pages",
+        "source_page_labels",
+        "course_id",
+        "unit_id",
+        "lesson_number"
+      ],
+      "title": "Citation",
+      "type": "object"
+    },
+    "ContextualMeaning": {
+      "additionalProperties": false,
+      "properties": {
+        "part_of_speech": {
+          "maxLength": 100,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Part Of Speech",
+          "type": "string"
+        },
+        "explanation_ko": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Explanation Ko",
+          "type": "string"
+        },
+        "source_ids": {
+          "items": {
+            "maxLength": 2000,
+            "minLength": 1,
+            "pattern": "\\S",
+            "type": "string"
+          },
+          "maxItems": 8,
+          "minItems": 1,
+          "title": "Source Ids",
+          "type": "array"
+        }
+      },
+      "required": [
+        "part_of_speech",
+        "explanation_ko",
+        "source_ids"
+      ],
+      "title": "ContextualMeaning",
+      "type": "object"
+    },
+    "LabeledTutorExample": {
+      "additionalProperties": false,
+      "properties": {
+        "english": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "English",
+          "type": "string"
+        },
+        "translation": {
+          "anyOf": [
+            {
+              "maxLength": 2000,
+              "minLength": 1,
+              "pattern": "\\S",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Translation"
+        },
+        "source_id": {
+          "maxLength": 220,
+          "minLength": 1,
+          "title": "Source Id",
+          "type": "string"
+        },
+        "is_correct": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Is Correct"
+        },
+        "label": {
+          "title": "Label",
+          "type": "string"
+        }
+      },
+      "required": [
+        "english",
+        "translation",
+        "source_id",
+        "is_correct",
+        "label"
+      ],
+      "title": "LabeledTutorExample",
+      "type": "object"
+    },
+    "Nuance": {
+      "additionalProperties": false,
+      "properties": {
+        "register": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Register",
+          "type": "string"
+        },
+        "connotation": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Connotation",
+          "type": "string"
+        },
+        "collocations": {
+          "items": {
+            "maxLength": 2000,
+            "minLength": 1,
+            "pattern": "\\S",
+            "type": "string"
+          },
+          "maxItems": 8,
+          "title": "Collocations",
+          "type": "array"
+        },
+        "comparisons": {
+          "items": {
+            "maxLength": 2000,
+            "minLength": 1,
+            "pattern": "\\S",
+            "type": "string"
+          },
+          "maxItems": 6,
+          "title": "Comparisons",
+          "type": "array"
+        },
+        "source_ids": {
+          "items": {
+            "maxLength": 2000,
+            "minLength": 1,
+            "pattern": "\\S",
+            "type": "string"
+          },
+          "maxItems": 8,
+          "minItems": 1,
+          "title": "Source Ids",
+          "type": "array"
+        }
+      },
+      "required": [
+        "register",
+        "connotation",
+        "collocations",
+        "comparisons",
+        "source_ids"
+      ],
+      "title": "Nuance",
+      "type": "object"
+    },
+    "TutorSource": {
+      "additionalProperties": false,
+      "properties": {
+        "source_id": {
+          "title": "Source Id",
+          "type": "string"
+        },
+        "kind": {
+          "enum": [
+            "vocard_data",
+            "book_passage",
+            "model_generated"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "label": {
+          "title": "Label",
+          "type": "string"
+        },
+        "citation": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/Citation"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        }
+      },
+      "required": [
+        "source_id",
+        "kind",
+        "label"
+      ],
+      "title": "TutorSource",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "status": {
+      "enum": [
+        "answered",
+        "ambiguous",
+        "clarification_needed"
+      ],
+      "title": "Status",
+      "type": "string"
+    },
+    "contextual_meaning": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/ContextualMeaning"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "interpretations": {
+      "items": {
+        "$ref": "#/$defs/ContextualMeaning"
+      },
+      "title": "Interpretations",
+      "type": "array"
+    },
+    "nuance": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Nuance"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "examples": {
+      "items": {
+        "$ref": "#/$defs/LabeledTutorExample"
+      },
+      "title": "Examples",
+      "type": "array"
+    },
+    "suggested_follow_up_questions": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Suggested Follow Up Questions",
+      "type": "array"
+    },
+    "clarification_question": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Clarification Question"
+    },
+    "sources": {
+      "items": {
+        "$ref": "#/$defs/TutorSource"
+      },
+      "title": "Sources",
+      "type": "array"
+    }
+  },
+  "required": [
+    "status",
+    "contextual_meaning",
+    "interpretations",
+    "nuance",
+    "examples",
+    "suggested_follow_up_questions",
+    "clarification_question",
+    "sources"
+  ],
+  "title": "TutorResponse",
+  "type": "object"
+}

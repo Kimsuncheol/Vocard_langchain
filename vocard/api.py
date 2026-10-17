@@ -19,6 +19,7 @@ from vocard.pipeline import ActiveBookRetriever, embeddings_for
 from vocard.retrieval import ActiveIndexChanged, BookAccessDenied
 from vocard.storage import PrivateS3
 from vocard.student_api import student_router
+from vocard.vocabulary import tutor_model
 
 
 class SearchRequest(BaseModel):
@@ -48,6 +49,7 @@ def create_app(
     embedding_factory=embeddings_for,
     answer_model_factory=answer_model,
     firebase_token_verifier=None,
+    vocabulary_model_factory=tutor_model,
 ):
     settings = settings or Settings.from_env()
     repository = repository or Repository(settings.db_path)
@@ -80,6 +82,7 @@ def create_app(
             embedding_factory,
             answer_model_factory,
             firebase_token_verifier,
+            vocabulary_model_factory,
         )
     )
 
