@@ -71,7 +71,7 @@ def test_local_ollama_payload(monkeypatch):
     )
     client = TestClient(create_chat_app(LocalChatModel))
     response = client.post("/api/chat", json={"question": "Hi"})
-    assert response.json() == {"answer": "Hello"}
+    assert response.json()["answer"] == "Hello"
 
 
 def test_grammar_navigation_and_chat_context(tmp_path):
@@ -160,7 +160,7 @@ def test_hosted_gemini_auth_and_payload(monkeypatch):
     assert client.post("/api/chat", json=body, auth=("vocard", "bad")).status_code == 401
     assert not calls
     response = client.post("/api/chat", json=body, auth=("vocard", "test-long-password"))
-    assert response.json() == {"answer": "Hello Gemini"}
+    assert response.json()["answer"] == "Hello Gemini"
     assert client.get("/", headers={"host": "evil.example"}).status_code == 400
 
 
@@ -229,14 +229,15 @@ def test_chat_runs_without_langchain_or_langsmith():
             assert client.get('/healthz').status_code == 200
             auth = ('vocard', 'test-long-password')
             response = client.post('/api/chat', json={'question': 'Hi'}, auth=auth)
-            assert response.json() == {'answer': 'Hello'}
+            assert response.json()['answer'] == 'Hello'
+            assert len(response.json()['follow_up_questions']) == 3
             assert response.headers['cache-control'] == 'no-store'
             response = client.post('/api/chat', json={'question': ''}, auth=auth)
             assert response.status_code == 422
             assert response.json() == {'detail': 'Invalid question request'}
         """
     )
-    result = subprocess.run([sys.executable, '-c', script], capture_output=True, text=True)
+    result = subprocess.run([sys.executable, "-c", script], capture_output=True, text=True)
     assert result.returncode == 0, result.stdout + result.stderr
 
 
@@ -257,6 +258,7 @@ def test_gemini_http_errors_show_safe_configuration_hints(monkeypatch):
         (503, "temporarily unavailable"),
         (418, "Check server configuration"),
     ]:
+
         class Model:
             async def ainvoke(self, messages, status=status):
                 httpx.Response(
@@ -267,7 +269,8 @@ def test_gemini_http_errors_show_safe_configuration_hints(monkeypatch):
 
         with TestClient(create_chat_app(Model)) as client:
             response = client.post(
-                "/api/chat", json={"question": "private-question"},
+                "/api/chat",
+                json={"question": "private-question"},
                 auth=("vocard", "test-long-password"),
             )
         assert response.status_code == 502
@@ -276,3 +279,51 @@ def test_gemini_http_errors_show_safe_configuration_hints(monkeypatch):
         assert "secret" not in response.text
         assert "private-question" not in response.text
         assert response.headers["cache-control"] == "no-store"
+
+
+def test_generated_followups_are_returned_by_chat():
+    import json
+
+    questions = [
+        "When does a gerund follow enjoy?",
+        "How does a gerund differ from an infinitive?",
+        "Can you give a practice question about gerunds?",
+    ]
+
+    class Model:
+        async def ainvoke(self, messages):
+            assert "exactly three distinct questions" in messages[0][1]
+            return SimpleNamespace(
+                text=json.dumps(
+                    {
+                        "answer": "Use a gerund after enjoy.",
+                        "follow_up_questions": questions,
+                    }
+                )
+            )
+
+    with TestClient(create_chat_app(Model)) as client:
+        response = client.post("/api/chat", json={"question": "Explain gerunds"})
+    assert response.json() == {
+        "answer": "Use a gerund after enjoy.",
+        "follow_up_questions": questions,
+    }
+
+
+def test_followups_are_guaranteed_for_unstructured_or_incomplete_output():
+    import json
+
+    from vocard.chat import chat_response
+
+    for text in [
+        "Plain explanation",
+        '{"answer": "Explanation", "follow_up_questions": null}',
+        json.dumps({"answer": "Explanation", "follow_up_questions": ["Why?", "Why?", 7, ""]}),
+        '```json\n{"answer":"Explanation","follow_up_questions":[]}\n```',
+    ]:
+        result = chat_response(text, "동명사를 설명해 주세요", "동명사")
+        questions = result["follow_up_questions"]
+        assert len(questions) == len(set(questions)) == 3
+        assert any("동명사" in question for question in questions)
+        assert any("연습 문제" in question for question in questions)
+        assert result["answer"] in {"Plain explanation", "Explanation"}

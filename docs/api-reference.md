@@ -424,7 +424,7 @@ App factory: `vocard.chat:create_chat_app`. Default provider is local Ollama, wi
 | GET / | HTML playground UI |
 | GET /api/parts | parts array with id, title and page_count |
 | GET /api/parts/{part_id} | id, title and PDF-page text |
-| POST /api/chat | answer string |
+| POST /api/chat | answer string and follow_up_questions array (three strings) |
 
 ```json
 {"part_id":"part-1", "question":"Explain gerunds."}
@@ -432,7 +432,7 @@ App factory: `vocard.chat:create_chat_app`. Default provider is local Ollama, wi
 
 `part_id` is optional/null or a string of at most 100 characters. `question` is required, nonblank, 1-10000 characters. This route accepts one independent question; `messages` and conversation history are rejected. Q&A responses/errors have no-store behavior. Browser display state is temporary; it is not replayed in requests.
 
-When a part is selected, reference excerpts come from that part within a 14000-character budget. The source is an unreviewed OCR draft, not the production index. Unknown part IDs return 404; unavailable grammar content returns 503. The answer is free-form text and does not use production citation validation.
+When a part is selected, reference excerpts come from that part within a 14000-character budget. The source is an unreviewed OCR draft, not the production index. Unknown part IDs return 404; unavailable grammar content returns 503. The answer is explanatory text and does not use production citation validation. Every successful response includes three follow-up questions. The model is asked for self-contained, answer-specific questions in the user’s language, including a practice request. If structured output is missing or incomplete, topic-based questions fill the missing entries. The browser displays these as clickable prompts and preserves them in tab memory when switching parts.
 
 Ollama is called at loopback port 11434 with `stream=false`, a 180-second timeout and default model `qwen2.5:3b`. Optional Gemini uses `VOCARD_CHAT_PROVIDER=gemini`, `GEMINI_API_KEY` and `VOCARD_GEMINI_MODEL` (default `gemini-2.5-flash-lite`), with a 90-second timeout.
 
