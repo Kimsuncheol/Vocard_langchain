@@ -190,3 +190,51 @@ def test_provider_quota_error_is_safe():
     response = client.post("/api/chat", json={"question": "Hi"})
     assert response.status_code == 429
     assert "secret" not in response.text
+
+
+def test_chat_runs_without_langchain_or_langsmith():
+    """Exercise the Render app factory without the full API's optional SDKs."""
+    import subprocess
+    import sys
+    import textwrap
+
+    script = textwrap.dedent(
+        """
+        import importlib.abc
+        import os
+        import sys
+        from types import SimpleNamespace
+
+        class BlockInferenceSDKs(importlib.abc.MetaPathFinder):
+            def find_spec(self, fullname, path=None, target=None):
+                if fullname.split('.')[0] in {'langchain_core', 'langsmith'}:
+                    raise ModuleNotFoundError(fullname)
+
+        sys.meta_path.insert(0, BlockInferenceSDKs())
+        os.environ.update(
+            RENDER='true',
+            VOCARD_CHAT_PROVIDER='gemini',
+            VOCARD_CHAT_USERNAME='vocard',
+            VOCARD_CHAT_PASSWORD='test-long-password',
+            GEMINI_API_KEY='test-key',
+        )
+        from fastapi.testclient import TestClient
+        from vocard.chat import create_chat_app
+
+        class Model:
+            async def ainvoke(self, messages):
+                return SimpleNamespace(text='Hello')
+
+        with TestClient(create_chat_app(Model)) as client:
+            assert client.get('/healthz').status_code == 200
+            auth = ('vocard', 'test-long-password')
+            response = client.post('/api/chat', json={'question': 'Hi'}, auth=auth)
+            assert response.json() == {'answer': 'Hello'}
+            assert response.headers['cache-control'] == 'no-store'
+            response = client.post('/api/chat', json={'question': ''}, auth=auth)
+            assert response.status_code == 422
+            assert response.json() == {'detail': 'Invalid question request'}
+        """
+    )
+    result = subprocess.run([sys.executable, '-c', script], capture_output=True, text=True)
+    assert result.returncode == 0, result.stdout + result.stderr
