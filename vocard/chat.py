@@ -1,4 +1,4 @@
-"""Text Q&A with local Ollama or authenticated hosted Gemini."""
+"""Text Q&A with local/remote Ollama or authenticated hosted Gemini."""
 
 import json
 import os
@@ -68,7 +68,11 @@ class LocalChatModel:
     async def ainvoke(self, messages):
         async with httpx.AsyncClient(timeout=180, trust_env=False) as client:
             response = await client.post(
-                "http://127.0.0.1:11434/api/chat",
+                os.getenv("VOCARD_OLLAMA_BASE_URL", "http://127.0.0.1:11434").rstrip("/") + "/api/chat",
+                headers=(
+                    {"Authorization": "Bearer " + os.environ["OLLAMA_API_KEY"]}
+                    if os.getenv("OLLAMA_API_KEY") else {}
+                ),
                 json={
                     "model": os.getenv("VOCARD_CHAT_MODEL", "qwen2.5:3b"),
                     "messages": [{"role": role, "content": content} for role, content in messages],
@@ -119,6 +123,10 @@ def create_chat_app(model_factory=None, grammar_path=None):
         raise ValueError("Hosted chat requires a username and password of at least 16 characters")
     if provider == "gemini" and not os.getenv("GEMINI_API_KEY"):
         raise ValueError("GEMINI_API_KEY is required for Gemini")
+    if provider == "ollama" and hosted:
+        base_url = os.getenv("VOCARD_OLLAMA_BASE_URL", "")
+        if not base_url.startswith("https://") or not os.getenv("OLLAMA_API_KEY"):
+            raise ValueError("Hosted Ollama requires an HTTPS VOCARD_OLLAMA_BASE_URL and OLLAMA_API_KEY")
     security = HTTPBasic(auto_error=False)
 
     async def authorize(request: Request):

@@ -327,3 +327,52 @@ def test_followups_are_guaranteed_for_unstructured_or_incomplete_output():
         assert any("동명사" in question for question in questions)
         assert any("연습 문제" in question for question in questions)
         assert result["answer"] in {"Plain explanation", "Explanation"}
+
+
+def test_hosted_ollama_endpoint_and_auth(monkeypatch):
+    import httpx
+    import json
+
+    original = httpx.AsyncClient
+    monkeypatch.setenv("RENDER", "true")
+    monkeypatch.setenv("VOCARD_CHAT_PROVIDER", "ollama")
+    monkeypatch.setenv("VOCARD_CHAT_USERNAME", "vocard")
+    monkeypatch.setenv("VOCARD_CHAT_PASSWORD", "test-long-password")
+    monkeypatch.setenv("VOCARD_OLLAMA_BASE_URL", "https://ollama.com/")
+    monkeypatch.setenv("OLLAMA_API_KEY", "secret-cloud-key")
+    monkeypatch.setenv("VOCARD_CHAT_MODEL", "test-cloud-model")
+
+    def handle(request):
+        assert str(request.url) == "https://ollama.com/api/chat"
+        assert request.headers["authorization"] == "Bearer secret-cloud-key"
+        assert json.loads(request.content)["model"] == "test-cloud-model"
+        return httpx.Response(200, json={"message": {"content": "Hello"}})
+
+    monkeypatch.setattr(
+        httpx, "AsyncClient", lambda **kw: original(transport=httpx.MockTransport(handle), **kw)
+    )
+    client = TestClient(create_chat_app())
+    assert client.get("/healthz").status_code == 200
+    assert client.post("/api/chat", json={"question": "Hi"}).status_code == 401
+    response = client.post(
+        "/api/chat", json={"question": "Hi"}, auth=("vocard", "test-long-password")
+    )
+    assert response.json()["answer"] == "Hello"
+    assert "secret-cloud-key" not in response.text
+
+
+def test_hosted_ollama_rejects_missing_key_or_insecure_endpoint(monkeypatch):
+    import pytest
+
+    monkeypatch.setenv("RENDER", "true")
+    monkeypatch.setenv("VOCARD_CHAT_PROVIDER", "ollama")
+    monkeypatch.setenv("VOCARD_CHAT_USERNAME", "vocard")
+    monkeypatch.setenv("VOCARD_CHAT_PASSWORD", "test-long-password")
+    monkeypatch.setenv("VOCARD_OLLAMA_BASE_URL", "https://ollama.com")
+    monkeypatch.delenv("OLLAMA_API_KEY", raising=False)
+    with pytest.raises(ValueError, match="Hosted Ollama requires"):
+        create_chat_app()
+    monkeypatch.setenv("OLLAMA_API_KEY", "test-key")
+    monkeypatch.setenv("VOCARD_OLLAMA_BASE_URL", "http://localhost:11434")
+    with pytest.raises(ValueError, match="Hosted Ollama requires"):
+        create_chat_app()

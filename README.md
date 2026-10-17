@@ -503,8 +503,11 @@ ollama pull qwen2.5:3b
 Open http://127.0.0.1:8001. Enter sends; Shift+Enter adds a newline.
 New chat or refreshing clears displayed messages. Each request sends only the
 current question, with bounded input and output. Missing references require clarification. This is general AI Q&A, not textbook
-retrieval. The chat endpoint calls only local Ollama at 127.0.0.1:11434; no
-OpenAI key is used and there are no API fees. Keep this unauthenticated test app
+retrieval. By default, the chat endpoint calls local Ollama at 127.0.0.1:11434 without API fees.
+For remote Ollama, set `VOCARD_OLLAMA_BASE_URL` (server origin, without `/api/chat`),
+`VOCARD_CHAT_MODEL`, and `OLLAMA_API_KEY` (sent as a Bearer token). Render requires
+an HTTPS endpoint, a provider key, and the existing chat login. See the
+[Render guide](deploy/render/README.md) for Ollama Cloud setup. No OpenAI key is used. Keep this unauthenticated test app
 bound to loopback, separate from the authenticated ingestion API.
 
 The playground now includes a grammar sidebar with the textbook's 13 chapters

@@ -1,33 +1,52 @@
-# Render Free + Gemini
+# Render Free + Ollama Cloud
 
-Deploy the browser textbook chat using the root `render.yaml` Blueprint.
-No Ollama, S3, SQLite, worker or disk is required. The tracked textbook JSON
-is read from the deployed source. Chats clear on refresh as before.
+The root `render.yaml` runs the lightweight browser textbook chat on Render Free.
+Inference runs in Ollama Cloud; no Ollama installation, model downloads, S3,
+SQLite, worker, or persistent disk is needed on Render. The tracked textbook
+JSON ships with the source. Chats clear on refresh.
 
-1. Create a Gemini API key at https://aistudio.google.com/apikey using a project
-   on the free tier. Leave billing disabled to avoid paid usage. Confirm model
-   access and quotas in AI Studio; availability and allowances vary.
-2. Push these changes to your GitHub repository. In https://dashboard.render.com,
-   choose New > Blueprint and connect the repository. Select the branch containing
-   `render.yaml`. Confirm the service plan is Free.
-3. Supply `GEMINI_API_KEY` when prompted. Keep it in Render's environment settings,
-   never in the repository, browser code, or chat messages.
-4. After deployment, retrieve the generated `VOCARD_CHAT_PASSWORD` from the service
-   environment settings. Open its HTTPS `.onrender.com` URL and log in as `vocard`.
-5. Confirm `/healthz` returns 200, opening `/` without credentials returns 401,
-   and authenticated textbook navigation and a Gemini answer work. Test from your
-   phone using mobile data. Confirm a bad password cannot reach `/api/chat`.
+1. Create an Ollama API key at https://ollama.com/settings/keys.
+2. Choose an available cloud model from https://ollama.com/search?c=cloud.
+   Use its direct API model name from `https://ollama.com/api/tags`;
+   local model names such as `qwen2.5:3b` are not automatically cloud models.
+3. Push the changes to your repository and create a Render Blueprint using
+   `render.yaml`, with the Free service plan. For an existing service, update
+   its environment settings to match the Blueprint.
+4. Set `OLLAMA_API_KEY` and `VOCARD_CHAT_MODEL` when prompted.
+   `VOCARD_CHAT_PROVIDER=ollama` and
+   `VOCARD_OLLAMA_BASE_URL=https://ollama.com` are configured by the Blueprint.
+   Remove the old `GEMINI_API_KEY` if switching an existing service.
+5. Retrieve the generated `VOCARD_CHAT_PASSWORD` from Render's environment
+   settings and sign in at the service HTTPS URL as `vocard`.
+6. Verify `/healthz` returns 200, unauthenticated `/` returns 401, and an
+   authenticated textbook question returns an answer. Test from mobile data.
 
-The app refuses to start in hosted mode without authentication and a Gemini key.
-Gemini quota exhaustion returns 429, without automatic paid fallback or retries.
-Render Free sleeps after 15 idle minutes, so the next visit can be slow.
-The health endpoint does not make paid or quota-consuming AI calls.
+The Ollama base URL is the server origin, without `/api/chat`. The server sends
+`Authorization: Bearer <OLLAMA_API_KEY>` to it. Keep keys in Render environment
+settings; never put them in browser code or source control. Hosted Ollama
+requires HTTPS, a provider key, and a chat username/password (at least 16
+characters for the password). A custom Ollama host must expose an authenticated
+HTTPS gateway accepting this Bearer token. Never expose a bare Ollama port.
 
-Gemini free-tier inputs/outputs may be used to improve Google's products;
-questions and selected textbook excerpts are sent to Google. This deployment
-uses shared password access, not individual user accounts.
+Local development defaults to `http://127.0.0.1:11434`, `qwen2.5:3b`, and no
+provider key. On Render, loopback refers to the Render container, not your Mac.
+For local inference on your Mac with a Render frontend, configure an authenticated
+HTTPS tunnel origin and its token instead; the Mac must stay awake and online.
+
+Render Free sleeps after 15 idle minutes and can take about a minute to wake.
+It provides 512 MB RAM and no persistent disk, so do not run model inference
+there. Free instance hours, bandwidth, and build limits still apply. Ollama
+Cloud has separate plan limits and pricing; check your account before use.
+Questions and selected textbook excerpts are sent to the configured provider.
+This app uses shared password access, not individual accounts.
+
+Provider calls have a 180-second timeout. Quota exhaustion returns 429 without
+automatic retries or a paid-provider fallback. The health check makes no AI call
+and does not verify provider credentials or model access. Gemini remains
+available through the previous provider environment variables if needed.
 
 References:
-- https://ai.google.dev/gemini-api/docs/pricing
-- https://ai.google.dev/gemini-api/docs/rate-limits
+- https://docs.ollama.com/cloud
+- https://ollama.com/pricing
 - https://render.com/docs/free
+- https://render.com/docs/compute-plans
