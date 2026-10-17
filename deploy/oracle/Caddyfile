@@ -1,0 +1,11 @@
+{$VOCARD_DOMAIN} {
+    basic_auth {
+        {$VOCARD_LOGIN} {$VOCARD_PASSWORD_HASH}
+    }
+    request_body {
+        max_size 256KB
+    }
+    reverse_proxy 127.0.0.1:8001 {
+        header_up Host localhost
+    }
+}

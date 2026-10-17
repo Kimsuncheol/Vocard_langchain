@@ -50,7 +50,6 @@ def main():
         if name == "ask":
             search.add_argument("--language", choices=("ko", "en"), default="ko")
             search.add_argument("--practice", action="store_true")
-            search.add_argument("--history-json", type=Path)
     lesson = commands.add_parser("lesson", help="Exact lookup by lesson number or title")
     lesson.add_argument("book_id")
     lesson.add_argument("--lesson-number", type=int)
@@ -132,9 +131,6 @@ def main():
                             {
                                 "language": args.language,
                                 "include_practice_examples": args.practice,
-                                "history": json.loads(args.history_json.read_text())
-                                if args.history_json
-                                else [],
                             }
                             if args.command == "ask"
                             else {}

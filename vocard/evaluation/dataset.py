@@ -5,7 +5,13 @@ from typing import Literal
 
 from pydantic import BaseModel, ConfigDict, Field, model_validator
 
-from vocard.answering import HistoryMessage
+
+# Frozen offline benchmark fixtures, never accepted by the live API.
+class HistoryMessage(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+    role: Literal["user", "assistant"]
+    content: str = Field(min_length=1, max_length=10000)
+
 
 DEFAULT_DATASET = Path(__file__).resolve().parents[2] / "evaluation" / "v1"
 

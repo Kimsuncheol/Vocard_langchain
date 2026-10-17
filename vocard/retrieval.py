@@ -8,6 +8,7 @@ from langchain_core.retrievers import BaseRetriever
 from pydantic import AliasChoices, ConfigDict, Field, model_validator
 
 from vocard.ingestion import InputRejected
+from vocard.privacy import private_inference
 from vocard.vectors import check_vector, embeddings_for, similarity
 
 
@@ -49,6 +50,11 @@ class ActiveBookRetriever(BaseRetriever):
             if value is not None and not value.strip():
                 raise ValueError("Lesson title, course and unit must not be blank")
         return self
+
+    @private_inference
+    def invoke(self, input, config=None, **kwargs):
+        # Do not inherit caller callbacks that can capture query or returned chunks.
+        return super().invoke(input, config={"callbacks": []})
 
     def _snapshot(self):
         if self.book_id not in self.authorized_book_ids:

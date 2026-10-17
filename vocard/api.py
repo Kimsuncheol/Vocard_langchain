@@ -2,13 +2,12 @@ from contextlib import asynccontextmanager
 from typing import Annotated, Literal
 
 from fastapi import Depends, FastAPI, File, Form, HTTPException, Query, UploadFile
-from pydantic import AliasChoices, BaseModel, ConfigDict, Field, model_validator
+from pydantic import AliasChoices, BaseModel, ConfigDict, Field
 
 from vocard.answering import (
     AnsweringPipeline,
     AnswerResponse,
     GenerationUnavailable,
-    HistoryMessage,
     InvalidAnswer,
     answer_model,
 )
@@ -38,15 +37,8 @@ class SearchRequest(BaseModel):
 
 
 class AnswerRequest(SearchRequest):
-    history: list[HistoryMessage] = Field(default_factory=list, max_length=20)
     language: Literal["ko", "en"] = "ko"
     include_practice_examples: bool = False
-
-    @model_validator(mode="after")
-    def history_limit(self):
-        if sum(len(m.content) for m in self.history) > 40000:
-            raise ValueError("Conversation history is too long")
-        return self
 
 
 def create_app(
@@ -75,7 +67,11 @@ def create_app(
         redoc_url=None,
         openapi_url=None,
     )
+    from vocard.privacy import PrivateRequestBoundary, configure_private_logging
+
+    configure_private_logging()
     app.add_middleware(AdminBoundary, settings=settings)
+    app.add_middleware(PrivateRequestBoundary)
     app.include_router(
         student_router(
             settings,
@@ -137,7 +133,6 @@ def create_app(
         try:
             return AnsweringPipeline(retriever, settings, answer_model_factory).invoke(
                 request.query,
-                history=request.history,
                 language=request.language,
                 include_practice_examples=request.include_practice_examples,
             )

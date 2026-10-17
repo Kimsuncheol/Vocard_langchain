@@ -82,7 +82,7 @@ def run(
         "config": config.model_dump(),
         "python": platform.python_version(),
         "case_ids": [c.case_id for c in cases],
-        "history_policy": "identical fixed histories; last two user turns expand query",
+        "history_policy": "stateless; legacy fixture history ignored",
         "timing_policy": "shared retrieval once per case; rotating candidate order",
         "cost_policy": "full query retrieval + generation per question, no amortization; "
         "index build, human/model judging, local compute and hosting excluded",
@@ -96,9 +96,7 @@ def run(
             if active != corpus.index_version:
                 raise ValueError("Index changed during evaluation; discard this incomplete run")
             start = time.perf_counter()
-            query = "\n".join(
-                [h.content for h in case.history if h.role == "user"][-2:] + [case.question]
-            )
+            query = case.question
             retrieval_error = None
             try:
                 docs = corpus.retrieve(case, query, max_k)
@@ -137,7 +135,7 @@ def run(
                                 settings_for(settings, config, candidate),
                                 lambda _, model_adapter=adapter: model_adapter,
                             )
-                            .invoke(case.question, history=case.history, retrieval_query=query)
+                            .invoke(case.question)
                             .model_dump()
                         )
                     except Exception as exc:

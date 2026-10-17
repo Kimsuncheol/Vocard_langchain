@@ -37,8 +37,6 @@ class Settings:
     firebase_project_id: str | None = None
     course_books: dict[str, str] = field(default_factory=dict)
     ai_daily_quota: int = 50
-    ai_history_messages: int = 20
-    ai_history_chars: int = 40000
 
     def __post_init__(self):
         if not self.bucket or len(self.jwt_secret.encode()) < 32:
@@ -86,10 +84,8 @@ class Settings:
                 for k, v in self.course_books.items()
             )
             or not 1 <= self.ai_daily_quota <= 10000
-            or not 2 <= self.ai_history_messages <= 20
-            or not 1000 <= self.ai_history_chars <= 40000
         ):
-            raise ValueError("Invalid AI course mapping, quota or history limits")
+            raise ValueError("Invalid AI course mapping, quota limits")
 
     def pipeline(
         self,
@@ -159,6 +155,4 @@ class Settings:
             firebase_project_id=os.getenv("VOCARD_FIREBASE_PROJECT_ID") or None,
             course_books=json.loads(os.getenv("VOCARD_COURSE_BOOKS", "{}")),
             ai_daily_quota=int(os.getenv("VOCARD_AI_DAILY_QUOTA", "50")),
-            ai_history_messages=int(os.getenv("VOCARD_AI_HISTORY_MESSAGES", "20")),
-            ai_history_chars=int(os.getenv("VOCARD_AI_HISTORY_CHARS", "40000")),
         )

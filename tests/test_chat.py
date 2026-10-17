@@ -5,7 +5,7 @@ from fastapi.testclient import TestClient
 from vocard.chat import create_chat_app
 
 
-def test_chat_history_and_text():
+def test_independent_question_and_text():
     captured = []
 
     class Model:
@@ -17,13 +17,7 @@ def test_chat_history_and_text():
     assert client.get("/").status_code == 200
     response = client.post(
         "/api/chat",
-        json={
-            "messages": [
-                {"role": "user", "content": "Hello"},
-                {"role": "assistant", "content": "Hi"},
-                {"role": "user", "content": "한국어로?"},
-            ]
-        },
+        json={"question": "한국어로?"},
     )
     assert response.status_code == 200
     assert response.json()["answer"].startswith("안녕하세요")
@@ -47,7 +41,7 @@ def test_provider_errors_do_not_expose_secrets():
         raise RuntimeError("secret-provider-credential")
 
     client = TestClient(create_chat_app(broken))
-    response = client.post("/api/chat", json={"messages": [{"role": "user", "content": "Hi"}]})
+    response = client.post("/api/chat", json={"question": "Hi"})
     assert response.status_code == 502
     assert "secret-provider-credential" not in response.text
 
@@ -76,7 +70,7 @@ def test_local_ollama_payload(monkeypatch):
         httpx, "AsyncClient", lambda **kw: original(transport=httpx.MockTransport(handle), **kw)
     )
     client = TestClient(create_chat_app(LocalChatModel))
-    response = client.post("/api/chat", json={"messages": [{"role": "user", "content": "Hi"}]})
+    response = client.post("/api/chat", json={"question": "Hi"})
     assert response.json() == {"answer": "Hello"}
 
 
@@ -111,7 +105,7 @@ def test_grammar_navigation_and_chat_context(tmp_path):
     assert client.get("/api/parts/unknown").status_code == 404
     response = client.post(
         "/api/chat",
-        json={"part_id": "part-1", "messages": [{"role": "user", "content": "What is a gerund?"}]},
+        json={"part_id": "part-1", "question": "What is a gerund?"},
     )
     assert response.status_code == 200
     assert "A gerund ends in -ing." in captured[0][1]
@@ -119,7 +113,7 @@ def test_grammar_navigation_and_chat_context(tmp_path):
     assert (
         client.post(
             "/api/chat",
-            json={"part_id": "unknown", "messages": [{"role": "user", "content": "Hi"}]},
+            json={"part_id": "unknown", "question": "Hi"},
         ).status_code
         == 404
     )
@@ -149,7 +143,7 @@ def test_hosted_gemini_auth_and_payload(monkeypatch):
         assert "test-secret-key" not in str(request.url)
         payload = json.loads(request.content)
         assert payload["systemInstruction"]["parts"][0]["text"].startswith("You are Vocard")
-        assert [c["role"] for c in payload["contents"]] == ["user", "model", "user"]
+        assert [c["role"] for c in payload["contents"]] == ["user"]
         return httpx.Response(
             200, json={"candidates": [{"content": {"parts": [{"text": "Hello Gemini"}]}}]}
         )
@@ -161,13 +155,7 @@ def test_hosted_gemini_auth_and_payload(monkeypatch):
     assert client.get("/healthz").status_code == 200
     for path in ["/", "/api/parts", "/api/parts/part-1"]:
         assert client.get(path).status_code == 401
-    body = {
-        "messages": [
-            {"role": "user", "content": "Hi"},
-            {"role": "assistant", "content": "Hello"},
-            {"role": "user", "content": "Again"},
-        ]
-    }
+    body = {"question": "Again"}
     assert client.post("/api/chat", json=body).status_code == 401
     assert client.post("/api/chat", json=body, auth=("vocard", "bad")).status_code == 401
     assert not calls
@@ -199,6 +187,6 @@ def test_provider_quota_error_is_safe():
             response.raise_for_status()
 
     client = TestClient(create_chat_app(Model))
-    response = client.post("/api/chat", json={"messages": [{"role": "user", "content": "Hi"}]})
+    response = client.post("/api/chat", json={"question": "Hi"})
     assert response.status_code == 429
     assert "secret" not in response.text
