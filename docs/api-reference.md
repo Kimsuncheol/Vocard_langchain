@@ -486,7 +486,9 @@ Configure `VOCARD_FIREBASE_WEB_API_KEY` with the public Firebase web API key
 already bundled in the client. In this mode, signature, expiry, audience and
 issuer are verified with Google's Firebase certificate endpoint, then Google's
 `accounts:lookup` checks the account identity, disabled state and `validSince`
-against token `auth_time`. A service-account credential is not needed. Without
+against token `auth_time`. A service-account credential is not needed. Fixed authentication errors distinguish
+signature-verification, account-lookup and account-status availability failures;
+they never include tokens or account values. Without
 this setting the existing Admin SDK verifier, including revocation checks,
 remains in use. No project override or UID is accepted from the client.
 See [Firebase REST reference](https://firebase.google.com/docs/reference/rest/auth#section-get-account-info)

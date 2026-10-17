@@ -91,6 +91,8 @@ class FirebaseRestTokenVerifier:
             claims = self.verify_token(token)
         except ValueError as exc:
             raise HTTPException(401, "Invalid or expired Firebase ID token") from exc
+        except Exception as exc:
+            raise HTTPException(503, "Firebase signature verification is unavailable") from exc
         if claims.get("iss") != "https://securetoken.google.com/" + self.project_id:
             raise HTTPException(401, "Invalid Firebase token issuer")
         uid = claims.get("sub")
@@ -103,11 +105,11 @@ class FirebaseRestTokenVerifier:
                 json={"idToken": token},
             )
         except httpx.HTTPError as exc:
-            raise HTTPException(503, "Student authentication is unavailable") from exc
+            raise HTTPException(503, "Firebase account lookup is unavailable") from exc
         if response.status_code in (400, 401, 403):
             raise HTTPException(401, "Invalid or expired Firebase ID token")
         if response.status_code != 200:
-            raise HTTPException(503, "Student authentication is unavailable")
+            raise HTTPException(503, "Firebase account lookup is unavailable")
         try:
             users = response.json()["users"]
             if len(users) != 1 or users[0]["localId"] != uid:
@@ -118,7 +120,7 @@ class FirebaseRestTokenVerifier:
             if not isinstance(auth_time, (int, float)):
                 raise ValueError("Invalid authentication time")
         except (KeyError, ValueError, TypeError) as exc:
-            raise HTTPException(503, "Student authentication is unavailable") from exc
+            raise HTTPException(503, "Firebase account status is unavailable") from exc
         if user.get("disabled") or auth_time < valid_since:
             raise HTTPException(401, "Invalid or revoked Firebase ID token")
         return {**claims, "uid": uid}
