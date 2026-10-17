@@ -128,3 +128,77 @@ def test_grammar_navigation_and_chat_context(tmp_path):
 def test_missing_grammar_is_actionable(tmp_path):
     client = TestClient(create_chat_app(grammar_path=tmp_path / "missing.json"))
     assert client.get("/api/parts").status_code == 503
+
+
+def test_hosted_gemini_auth_and_payload(monkeypatch):
+    import json
+
+    import httpx
+
+    monkeypatch.setenv("VOCARD_CHAT_PROVIDER", "gemini")
+    monkeypatch.setenv("GEMINI_API_KEY", "test-secret-key")
+    monkeypatch.setenv("VOCARD_CHAT_USERNAME", "vocard")
+    monkeypatch.setenv("VOCARD_CHAT_PASSWORD", "test-long-password")
+    monkeypatch.setenv("RENDER_EXTERNAL_HOSTNAME", "vocard-test.onrender.com")
+    calls = []
+    original = httpx.AsyncClient
+
+    def handle(request):
+        calls.append(request)
+        assert request.headers["x-goog-api-key"] == "test-secret-key"
+        assert "test-secret-key" not in str(request.url)
+        payload = json.loads(request.content)
+        assert payload["systemInstruction"]["parts"][0]["text"].startswith("You are Vocard")
+        assert [c["role"] for c in payload["contents"]] == ["user", "model", "user"]
+        return httpx.Response(
+            200, json={"candidates": [{"content": {"parts": [{"text": "Hello Gemini"}]}}]}
+        )
+
+    monkeypatch.setattr(
+        httpx, "AsyncClient", lambda **kw: original(transport=httpx.MockTransport(handle), **kw)
+    )
+    client = TestClient(create_chat_app(), base_url="https://vocard-test.onrender.com")
+    assert client.get("/healthz").status_code == 200
+    for path in ["/", "/api/parts", "/api/parts/part-1"]:
+        assert client.get(path).status_code == 401
+    body = {
+        "messages": [
+            {"role": "user", "content": "Hi"},
+            {"role": "assistant", "content": "Hello"},
+            {"role": "user", "content": "Again"},
+        ]
+    }
+    assert client.post("/api/chat", json=body).status_code == 401
+    assert client.post("/api/chat", json=body, auth=("vocard", "bad")).status_code == 401
+    assert not calls
+    response = client.post("/api/chat", json=body, auth=("vocard", "test-long-password"))
+    assert response.json() == {"answer": "Hello Gemini"}
+    assert client.get("/", headers={"host": "evil.example"}).status_code == 400
+
+
+def test_hosted_configuration_fails_closed(monkeypatch):
+    import pytest
+
+    monkeypatch.setenv("RENDER", "true")
+    monkeypatch.delenv("VOCARD_CHAT_USERNAME", raising=False)
+    monkeypatch.delenv("VOCARD_CHAT_PASSWORD", raising=False)
+    with pytest.raises(ValueError, match="requires a username"):
+        create_chat_app()
+
+
+def test_provider_quota_error_is_safe():
+    import httpx
+
+    class Model:
+        async def ainvoke(self, messages):
+            response = httpx.Response(
+                429,
+                request=httpx.Request("POST", "https://example.com"),
+                text="secret-provider-details",
+            )
+            response.raise_for_status()
+
+    client = TestClient(create_chat_app(Model))
+    response = client.post("/api/chat", json={"messages": [{"role": "user", "content": "Hi"}]})
+    assert response.status_code == 429
+    assert "secret" not in response.text

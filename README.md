@@ -1,5 +1,9 @@
 # Vocard administrator book ingestion
 
+For a password-protected browser chat on Render Free using Gemini, see
+[the Render deployment guide](deploy/render/README.md). The root `render.yaml`
+deploys that chat separately from the ingestion services described below.
+
 FastAPI accepts administrator-authorized uploads and records durable jobs. A separate
 worker uses LangChain documents, text splitting, and OpenAI embeddings to build an
 immutable index in private S3. A LangChain `BaseRetriever` resolves the active index

@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: vocard-chat
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements-chat.txt
+    startCommand: uvicorn vocard.chat:create_chat_app --factory --host 0.0.0.0 --port $PORT
+    healthCheckPath: /healthz
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.8
+      - key: VOCARD_CHAT_PROVIDER
+        value: gemini
+      - key: VOCARD_GEMINI_MODEL
+        value: gemini-2.5-flash-lite
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: VOCARD_CHAT_USERNAME
+        value: vocard
+      - key: VOCARD_CHAT_PASSWORD
+        generateValue: true
