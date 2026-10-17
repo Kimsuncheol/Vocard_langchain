@@ -182,9 +182,31 @@ def create_chat_app(model_factory=None, grammar_path=None):
         except httpx.HTTPStatusError as exc:
             if exc.response.status_code == 429:
                 raise HTTPException(429, "AI quota reached. Try again later.") from exc
-            raise HTTPException(
-                502, "AI provider request failed. Check server configuration."
-            ) from exc
+            status = exc.response.status_code
+            if provider == "gemini":
+                hints = {
+                    400: (
+                        "Request rejected. Check GEMINI_API_KEY, input size, "
+                        "and region/billing eligibility."
+                    ),
+                    401: "Authentication failed. Check GEMINI_API_KEY in Render Environment.",
+                    403: (
+                        "Access denied. Check API key restrictions "
+                        "and Gemini API project permissions."
+                    ),
+                    404: (
+                        "Model unavailable. Check VOCARD_GEMINI_MODEL "
+                        "and model access in Google AI Studio."
+                    ),
+                }
+                hint = hints.get(status, "Check server configuration.")
+                if status >= 500:
+                    hint = "Gemini is temporarily unavailable. Try again later."
+                # Only expose our fixed hints and numeric status, never provider bodies.
+                detail = f"Gemini request failed (HTTP {status}). {hint}"
+            else:
+                detail = f"AI provider request failed (HTTP {status}). Check server configuration."
+            raise HTTPException(502, detail) from exc
         except Exception as exc:
             raise HTTPException(
                 502, "AI request failed. Check server configuration, then retry."

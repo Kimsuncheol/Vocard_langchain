@@ -238,3 +238,41 @@ def test_chat_runs_without_langchain_or_langsmith():
     )
     result = subprocess.run([sys.executable, '-c', script], capture_output=True, text=True)
     assert result.returncode == 0, result.stdout + result.stderr
+
+
+def test_gemini_http_errors_show_safe_configuration_hints(monkeypatch):
+    import httpx
+
+    monkeypatch.setenv("VOCARD_CHAT_PROVIDER", "gemini")
+    monkeypatch.setenv("GEMINI_API_KEY", "test-secret-key")
+    monkeypatch.setenv("VOCARD_CHAT_USERNAME", "vocard")
+    monkeypatch.setenv("VOCARD_CHAT_PASSWORD", "test-long-password")
+
+    for status, hint in [
+        (400, "input size"),
+        (401, "GEMINI_API_KEY"),
+        (403, "permissions"),
+        (404, "VOCARD_GEMINI_MODEL"),
+        (500, "temporarily unavailable"),
+        (503, "temporarily unavailable"),
+        (418, "Check server configuration"),
+    ]:
+        class Model:
+            async def ainvoke(self, messages, status=status):
+                httpx.Response(
+                    status,
+                    request=httpx.Request("POST", "https://example.com"),
+                    text="secret-provider-details test-secret-key private-question",
+                ).raise_for_status()
+
+        with TestClient(create_chat_app(Model)) as client:
+            response = client.post(
+                "/api/chat", json={"question": "private-question"},
+                auth=("vocard", "test-long-password"),
+            )
+        assert response.status_code == 502
+        assert f"HTTP {status}" in response.json()["detail"]
+        assert hint in response.json()["detail"]
+        assert "secret" not in response.text
+        assert "private-question" not in response.text
+        assert response.headers["cache-control"] == "no-store"

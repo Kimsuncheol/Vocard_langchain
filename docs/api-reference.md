@@ -436,7 +436,7 @@ When a part is selected, reference excerpts come from that part within a 14000-c
 
 Ollama is called at loopback port 11434 with `stream=false`, a 180-second timeout and default model `qwen2.5:3b`. Optional Gemini uses `VOCARD_CHAT_PROVIDER=gemini`, `GEMINI_API_KEY` and `VOCARD_GEMINI_MODEL` (default `gemini-2.5-flash-lite`), with a 90-second timeout.
 
-Local mode without configured credentials is unauthenticated and must remain loopback-only. Hosted/Gemini mode requires HTTP Basic username and a password of at least 16 characters. Health remains public; other routes require credentials when authentication is configured. Connection failures return 503, timeout 504, quota 429 and other provider failures 502. Keep this prototype separate from production tutoring; provider retention is independent.
+Local mode without configured credentials is unauthenticated and must remain loopback-only. Hosted/Gemini mode requires HTTP Basic username and a password of at least 16 characters. Health remains public; other routes require credentials when authentication is configured. Connection failures return 503, timeout 504, quota 429 and other provider failures 502. Gemini HTTP failures other than quota return 502 with the upstream numeric HTTP status and a fixed troubleshooting hint: 400 (key/input/region/billing), 401 (key authentication), 403 (key restrictions/project permissions), 404 (model availability), or 5xx (temporary provider failure). Provider response bodies and credentials are never included. Keep this prototype separate from production tutoring; provider retention is independent.
 
 <!-- page -->
 # Configuration and source map
