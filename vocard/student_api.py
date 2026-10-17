@@ -14,6 +14,13 @@ from vocard.answering import (
 from vocard.retrieval import ActiveBookRetriever
 from vocard.student_auth import FirebaseTokenVerifier, student_dependency
 from vocard.usage import UsageCounters
+from vocard.vocabulary import (
+    VOCABULARY_COURSES,
+    TutorResponse,
+    VocabularyQuestion,
+    VocabularyTutor,
+    tutor_model,
+)
 
 
 class StudentQuestion(BaseModel):
@@ -24,7 +31,15 @@ class StudentQuestion(BaseModel):
     lesson_number: int | None = Field(default=None, ge=1, strict=True)
 
 
-def student_router(settings, repository, storage, embedding_factory, model_factory, verifier=None):
+def student_router(
+    settings,
+    repository,
+    storage,
+    embedding_factory,
+    model_factory,
+    verifier=None,
+    vocabulary_model_factory=tutor_model,
+):
     router = APIRouter(prefix="/ai")
     usage = UsageCounters(repository, settings)
     verified_uid = student_dependency(
@@ -69,5 +84,37 @@ def student_router(settings, repository, storage, embedding_factory, model_facto
             raise HTTPException(502, "Generated answer failed validation") from exc
         except GenerationUnavailable as exc:
             raise HTTPException(503, "Answer generation is unavailable") from exc
+
+    @router.post("/vocabulary/explain", response_model=TutorResponse)
+    def explain_word(request: VocabularyQuestion, uid: Annotated[str, Depends(verified_uid)]):
+        course_id = request.selected_entry.courseId
+        if course_id not in VOCABULARY_COURSES:
+            raise HTTPException(403, "Vocabulary course is not available")
+        book_id = settings.course_books.get(course_id)
+        retriever = (
+            None
+            if book_id is None
+            else ActiveBookRetriever(
+                repository=repository,
+                storage=storage,
+                embedding_factory=embedding_factory,
+                book_id=book_id,
+                authorized_book_ids=frozenset({book_id}),
+                top_k=settings.top_k,
+                max_fallback=settings.max_fallback,
+                min_score=settings.min_score,
+            )
+        )
+        usage.reserve(uid)
+        try:
+            return VocabularyTutor(settings, retriever, vocabulary_model_factory).invoke(request)
+        except KeyError as exc:
+            raise HTTPException(503, "Mapped vocabulary book has no active index") from exc
+        except InvalidAnswer as exc:
+            raise HTTPException(502, "Generated tutor response failed validation") from exc
+        except GenerationUnavailable as exc:
+            raise HTTPException(503, "Vocabulary tutor is unavailable") from exc
+        except ValueError as exc:
+            raise HTTPException(422, "Tutor context is too large") from exc
 
     return router

@@ -88,3 +88,23 @@ provider-side caching. See [OpenAI data controls](https://developers.openai.com/
 The separate playground may use Ollama or Google Gemini. Their runtime, hosting
 and provider retention settings must be reviewed independently. Nothing in this
 application's stateless contract establishes zero retention by those providers.
+
+## Vocabulary tutor temporary context
+
+The vocabulary extension (`POST /ai/vocabulary/explain`) accepts an untrusted
+selected vocabulary entry, optional sentence, question and optional
+`prior_explanation` of at most 2000 characters. This explicit per-request excerpt
+is the latest relevant explanation held by Flutter; it is not server history or
+trusted evidence. Suggested and free-text follow-ups use the same request shape.
+Changing the sentence clears it. Closing the tutor screen or changing accounts
+clears it and discards pending results. No prior questions, message arrays or
+conversation identifiers are accepted. The grammar Q&A route remains unchanged
+and does not accept this temporary-context field.
+
+The vocabulary route uses the same content-free counters and privacy boundary.
+It may answer from model knowledge without a mapped book, with explicit generated
+labels. Book citations require fresh authorized retrieval and exact source
+validation. The current question, selected entry, sentence and temporary excerpt
+reach the generation provider; query embedding receives only the word, sentence
+and question when a book is mapped. The separate provider-retention discussion
+above applies to both routes. See [vocabulary API documentation](vocabulary-tutor-api.md).
