@@ -358,6 +358,9 @@ def test_hosted_ollama_endpoint_and_auth(monkeypatch):
         "/api/chat", json={"question": "Hi"}, auth=("vocard", "test-long-password")
     )
     assert response.json()["answer"] == "Hello"
+    page = client.get("/", auth=("vocard", "test-long-password"))
+    assert "remote Ollama provider" in page.text
+    assert "LOCAL AI" not in page.text
     assert "secret-cloud-key" not in response.text
 
 

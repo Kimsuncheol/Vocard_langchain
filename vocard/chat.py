@@ -176,6 +176,13 @@ def create_chat_app(model_factory=None, grammar_path=None):
                 "Answers use Google Gemini. Questions and textbook excerpts are sent to Google; "
                 "free-tier data may be used to improve Google products.",
             )
+        if provider == "gemini" or os.getenv("VOCARD_OLLAMA_BASE_URL", "http://127.0.0.1:11434").startswith("https://"):
+            html = html.replace("GRAMMAR LIBRARY · LOCAL AI", "GRAMMAR LIBRARY · AI CHAT")
+        if provider == "ollama" and os.getenv("VOCARD_OLLAMA_BASE_URL", "").startswith("https://"):
+            html = html.replace(
+                "Answers run locally through Ollama.",
+                "Answers use a remote Ollama provider. Questions and textbook excerpts are sent to that provider.",
+            )
         return html
 
     @app.get("/api/parts")
