@@ -1,5 +1,9 @@
 # Vocard administrator book ingestion
 
+For a password-protected browser chat on Render Free using Gemini, see
+[the Render deployment guide](deploy/render/README.md). The root `render.yaml`
+deploys that chat separately from the ingestion services described below.
+
 FastAPI accepts administrator-authorized uploads and records durable jobs. A separate
 worker uses LangChain documents, text splitting, and OpenAI embeddings to build an
 immutable index in private S3. A LangChain `BaseRetriever` resolves the active index
@@ -374,17 +378,16 @@ OCR references: [Tesseract CLI](https://tesseract-ocr.github.io/tessdoc/Command-
 index, then uses LangChain structured output to generate an answer. It accepts
 the same lesson/course/unit filters, `top_k`, score threshold and bounded fallback
 settings as search. Access comes from the verified administrator JWT, never from
-the prompt or history. For example:
+the question. For example:
 
 ```sh
 .venv/bin/vocard ask grammar-book '동명사의 목적어를 설명해 줘' \
   --current-lesson 7 --no-book-fallback --top-k 4
-# Optional: --practice, --language en, --history-json conversation.json
+# Optional: --practice, --language en
 ```
 
-An API request can include history as `[{"role":"user","content":"..."},
-{"role":"assistant","content":"..."}]`. History is bounded to 20 messages and
-40,000 characters and helps resolve references; it is not supporting evidence.
+Each request is independent. History, previous messages and conversation IDs are
+rejected, including on the administrator answering route. The CLI has no history option.
 The response always has `answer`, `status`, `citations`, `source_examples`, and
 `practice_examples`. Status is `answered`, `insufficient_evidence`, or
 `clarification_needed`; a clarification contains one focused question.
@@ -410,9 +413,8 @@ English sentences in prose are rejected rather than displayed without a label.
 No retrieved evidence (including no full chunk fitting the context budget)
 returns `insufficient_evidence` without calling the generation model. A generated
 answer without citations also abstains. Untrusted PDF text, metadata, question
-and history are serialized as data in one human message; a separate constant
-system message defines the rules. History is never promoted to system messages,
-and the model has no tools. Citation/quote validation proves provenance; semantic
+are serialized as data in one human message; a separate constant
+system message defines the rules, and the model has no tools. Citation/quote validation proves provenance; semantic
 support and resistance to prompt injection still depend on model behavior.
 
 Configure `VOCARD_ANSWER_MODEL` (default `gpt-4.1-mini`),
@@ -426,15 +428,15 @@ schema is in `schema/answer-response.schema.json`. Structured generation uses
 
 Tests use a deterministic structured generator without provider calls. They
 cover forged/unretrieved IDs, quotes, metadata, source examples, abstention,
-clarification, practice labels, history/PDF data boundaries, authorization,
+clarification, practice labels, question/PDF data boundaries, authorization,
 generation failures, active-index races, and CLI-to-HTTP answering.
 
 ## Firebase lesson API for Flutter
 
 The Flutter app in `../Vocard` uses `POST /ai/answer`, independent of administrator
 ingestion/search routes. It sends a Firebase **ID token** as `Authorization:
-Bearer ...`, plus `question`, nullable `conversation_id`, `course_id`, `unit_id`,
-and a positive `lesson_number`. The server verifies the token and revocation with
+Bearer ...`, plus `question` and optional `course_id`, `unit_id`,
+and positive `lesson_number`. The server verifies the token and revocation with
 [Firebase Admin SDK](https://firebase.google.com/docs/auth/admin/verify-id-tokens)
 and obtains the UID from those verified claims. Anonymous sessions are denied;
 client UIDs, book IDs, history, and retrieval overrides are rejected.
@@ -457,38 +459,35 @@ uploading a book does not authorize or publish it automatically. Use a TLS endpo
 Flutter web deployments need a same-origin gateway or an explicit gateway CORS
 allowlist. No Firebase or cloud resources are deployed by this change.
 
-The response extends the structured answer with a server-created UUID
-`conversation_id`. History is stored durably in the existing private SQLite
-database under the verified UID and fixed book/course/unit/lesson scope. Other
-users receive 404 for that ID. `GET /ai/conversations/{id}` loads an owned chat;
-`GET /ai/conversations?course_id=...&unit_id=...&lesson_number=...` returns the latest
-owned chat for that scope, or `{"conversation":null}`. IDs alone grant no access.
+The response contains `answer`, `status`, `citations`, `source_examples`, and
+`practice_examples`; it has no conversation ID. `GET /ai/conversations` and the
+conversation-by-ID endpoint no longer exist. Unknown fields, including
+`conversation_id`, `history`, `messages`, and `previous_messages`, receive 422
+without echoing the rejected input.
 
-`VOCARD_AI_HISTORY_MESSAGES` defaults to 20 (10 complete exchanges), and
-`VOCARD_AI_HISTORY_CHARS` to 40000 serialized characters, including response
-metadata. Oldest complete turns are discarded to satisfy both limits; a single
-oversized turn is not retained. Responses retain citations for display, but only
-bounded question/answer prose enters the next model prompt as untrusted history.
-Prior citation objects are never passed as new evidence. Each follow-up runs the
-retriever again against the active book version; the last two user questions
-expand the retrieval query for short follow-ups. Course/unit scope remains fixed.
-A lesson without indexed evidence returns `insufficient_evidence` without a model
-call. The model may ask one focused question when references remain ambiguous.
+If the course is omitted, a single unique book in the server course mapping can
+be selected. Multiple books require a focused course clarification; an empty map
+denies access. Optional unit/lesson filters refine retrieval within that book.
+Every scoped question invokes retrieval against the current active version, using
+only that question. Previously displayed answers never enter retrieval or the
+model prompt. Context-dependent questions such as “왜 그런가요?” ask for the missing
+sentence/rule. The model also receives instructions to clarify missing references.
 
-`VOCARD_AI_DAILY_QUOTA` defaults to 50 admitted questions per UID per UTC day,
-shared across conversations and API restarts. Reservations are atomic and count
-failed generation attempts too; 429 means the daily quota is reached. Concurrent
-questions in one chat receive 409. A 15-minute fenced lease allows recovery after
-a crashed request; stale workers cannot overwrite a newer turn. Provider failures
-do not append history. The Flutter client refreshes a rejected token once, aborts
-timed-out connections, and offers history reload because a server request can
-finish after the client disconnects. Keep the database on durable storage and
-share it across processes as required by the existing SQLite deployment model.
+`VOCARD_AI_DAILY_QUOTA` defaults to 50 admitted questions per verified UID per UTC
+day. Atomic reservations survive API restarts and count failed generation attempts
+and clarification requests. Only `(uid, day, count)` is stored for this feature.
+Firebase authentication, private PDFs/book indexes and resolved citations remain.
+There are no conversation leases or content persistence. The Flutter client keeps
+at most ten displayed exchanges in screen memory, clears them on account change
+and disposal, and sends only the current question plus optional lesson context.
+Opening the screen performs no history request. Offline/timeout/authentication/
+quota errors preserve the draft in that screen for retry. Each retry is independent.
 
-Tests verify UID isolation, verified-token handling, course mapping, new active
-evidence on follow-ups, bounded durable history, atomic quotas, request fencing,
-and recovery after provider failure. Firebase/OpenAI live services are not called
-in tests.
+See [application privacy and provider retention](docs/ai-privacy.md) for the
+content-free telemetry policy, deployment controls and legacy data migration.
+Tests cover independent requests, fresh active versions, forbidden history fields,
+optional context, authentication, atomic UID quotas, database content absence,
+tracing/cache isolation, sanitized errors and Flutter disposal.
 
 ## Standalone local playground
 
@@ -502,8 +501,8 @@ ollama pull qwen2.5:3b
 ```
 
 Open http://127.0.0.1:8001. Enter sends; Shift+Enter adds a newline.
-New chat or refreshing clears history. The latest ten exchanges are sent as
-context, with bounded input and output. This is general AI Q&A, not textbook
+New chat or refreshing clears displayed messages. Each request sends only the
+current question, with bounded input and output. Missing references require clarification. This is general AI Q&A, not textbook
 retrieval. The chat endpoint calls only local Ollama at 127.0.0.1:11434; no
 OpenAI key is used and there are no API fees. Keep this unauthenticated test app
 bound to loopback, separate from the authenticated ingestion API.

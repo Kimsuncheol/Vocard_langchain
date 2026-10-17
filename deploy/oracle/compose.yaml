@@ -1,0 +1,49 @@
+# Linux VM only: host networking keeps the existing loopback-only app private.
+services:
+  ollama:
+    image: ollama/ollama:latest
+    network_mode: host
+    environment:
+      OLLAMA_HOST: 127.0.0.1:11434
+      OLLAMA_NUM_PARALLEL: "1"
+      OLLAMA_MAX_LOADED_MODELS: "1"
+    volumes:
+      - models:/root/.ollama
+    restart: unless-stopped
+  chat:
+    build:
+      context: ../..
+    network_mode: host
+    command: ["uvicorn", "vocard.chat:create_chat_app", "--factory", "--host", "127.0.0.1", "--port", "8001"]
+    environment:
+      VOCARD_CHAT_MODEL: qwen2.5:3b
+      VOCARD_GRAMMAR_PATH: /data/textbook.json
+    volumes:
+      - type: bind
+        source: ../../output/pdf/textbook-extraction/textbook.json
+        target: /data/textbook.json
+        read_only: true
+        bind:
+          create_host_path: false
+    depends_on:
+      - ollama
+    restart: unless-stopped
+    init: true
+  proxy:
+    image: caddy:2.10.2-alpine
+    network_mode: host
+    environment:
+      VOCARD_DOMAIN: ${VOCARD_DOMAIN:?Set VOCARD_DOMAIN in deploy/oracle/.env}
+      VOCARD_LOGIN: ${VOCARD_LOGIN:?Set VOCARD_LOGIN}
+      VOCARD_PASSWORD_HASH: ${VOCARD_PASSWORD_HASH:?Set a bcrypt password hash}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - certificates:/data
+      - proxy-config:/config
+    depends_on:
+      - chat
+    restart: unless-stopped
+volumes:
+  models:
+  certificates:
+  proxy-config:

@@ -15,24 +15,24 @@
 <header><div><h1 id="part-title">Grammar study</h1><p>Read a part, then ask about its grammar.</p></div><button id="clear" type="button" hidden>New chat</button></header>
 <div id="welcome"><h2>Your grammar, one part at a time.</h2><p>Select a part from the sidebar to open its content and chat.</p></div>
 <div id="workspace" hidden><section aria-label="Grammar content"><p id="notice">OCR draft · Text may contain recognition errors. Page numbers refer to PDF pages.</p><div id="grammar"></div></section><section id="chat" aria-label="Part chat">
-<section id="messages" aria-label="Conversation" aria-live="polite"><div class="empty"><h2>What would you like to know?</h2><p>Ask a question in English or Korean.<br>Follow up to keep the conversation going.</p></div></section>
+<section id="messages" aria-label="Conversation" aria-live="polite"><div class="empty"><h2>What would you like to know?</h2><p>Ask a question in English or Korean.<br>Each question is independent. Include the sentence you mean.</p></div></section>
 <section id="part-questions" class="followups" aria-label="Questions for this part"></section>
 <form id="form"><label for="question">Your question</label><textarea id="question" maxlength="10000" placeholder="Type your question here…" required></textarea><footer><span>Enter to send · Shift + Enter for a new line</span><button id="send">Send ↗</button></footer></form>
-<p id="status" role="status"></p><small>Text Q&A playground · History clears when you refresh or start a new chat.<br>Answers run locally through Ollama. Chat uses excerpts from this part as reference.</small>
+<p id="status" role="status"></p><small>Text Q&A playground · Displayed messages stay in tab memory only. Each request is independent.<br>Answers run locally through Ollama. Chat uses excerpts from this part as reference.</small>
 </section></div></main>
 <script>
 const form=document.querySelector('#form'),input=document.querySelector('#question'),messages=document.querySelector('#messages'),status=document.querySelector('#status'),send=document.querySelector('#send'),clear=document.querySelector('#clear');
-let history=[],busy=false,selected=null,selectionVersion=0;
+let displayMessages=[],busy=false,selected=null,selectionVersion=0;
 const chats=new Map(),drafts=new Map(),nav=document.querySelector('#parts'),navStatus=document.querySelector('#navigation-status');
 const workspace=document.querySelector('#workspace');
 function emptyChat(){messages.replaceChildren();const p=document.createElement('p');p.className='empty';p.textContent='Ask about this part in English or Korean.';messages.append(p);}
 async function selectPart(id){
  if(busy)return;
  const version=++selectionVersion;
- if(selected){drafts.set(selected,input.value);chats.set(selected,history);}
+ if(selected){drafts.set(selected,input.value);chats.set(selected,displayMessages);}
  navStatus.textContent='Loading grammar…';
  try{const response=await fetch('/api/parts/'+encodeURIComponent(id));if(!response.ok)throw Error('Could not load this part. Select it to retry.');const part=await response.json();if(version!==selectionVersion)return;
- selected=id;history=chats.get(id)||[];input.value=drafts.get(id)||'';
+ selected=id;displayMessages=chats.get(id)||[];input.value=drafts.get(id)||'';
  document.querySelector('#part-title').textContent=part.title;
  const questions=document.querySelector('#part-questions');questions.replaceChildren();
  const questionHeading=document.createElement('strong');questionHeading.textContent='Explore this part';questions.append(questionHeading);
@@ -43,7 +43,7 @@ async function selectPart(id){
  document.querySelector('#welcome').hidden=true;workspace.hidden=false;workspace.style.display='';clear.hidden=false;
  const grammar=document.querySelector('#grammar');grammar.replaceChildren();
  for(const page of part.pages){const article=document.createElement('article');article.className='source-page';const heading=document.createElement('h3');heading.textContent='PDF PAGE '+page.number;const text=document.createElement('p');text.textContent=page.text;article.append(heading,text);grammar.append(article);}
- grammar.scrollTop=0;emptyChat();for(const m of history)bubble(m.role,m.content);
+ grammar.scrollTop=0;emptyChat();for(const m of displayMessages)bubble(m.role,m.content);
  for(const button of nav.querySelectorAll('button'))button.setAttribute('aria-current',String(button.dataset.id===id));
  status.textContent='';navStatus.textContent=part.pages.length+' pages in this part';location.hash=id;
  }catch(error){navStatus.textContent=error.message;}
@@ -54,11 +54,12 @@ loadParts();
 function bubble(role,text){messages.querySelector('.empty')?.remove();const item=document.createElement('article');item.className='message '+role;const label=document.createElement('span');label.className='label';label.textContent=role==='user'?'You':'Vocard';item.append(label,document.createTextNode(text));if(role==='assistant'){
  const suggestions=document.createElement('div');suggestions.className='followups';const heading=document.createElement('strong');heading.textContent='Follow-up questions';suggestions.append(heading);
  const korean=/[가-힣]/.test(text);
- const prompts=korean?['방금 설명한 내용을 더 쉽게 설명해 주세요.','방금 설명한 문법의 예문 3개와 해석을 보여 주세요.','방금 설명한 문법으로 연습 문제를 하나 내 주세요.']:['Can you explain that more simply?','Can you give three examples of that grammar?','Can you give me a practice question about that?'];
+ const topic=document.querySelector('#part-title').textContent;
+ const prompts=korean?[`“${topic}”의 핵심 문법을 쉽게 설명해 주세요.`,`“${topic}”의 예문과 해석을 보여 주세요.`,`“${topic}”에 관한 연습 문제를 내 주세요.`]:[`Explain the grammar in ${topic}.`,`Give examples of the grammar in ${topic}.`,`Give a practice question about ${topic}.`];
  for(const prompt of prompts){const button=document.createElement('button');button.type='button';button.textContent=prompt;button.onclick=()=>{if(busy)return;input.value=prompt;form.requestSubmit();};suggestions.append(button);}item.append(suggestions);
  }messages.append(item);item.scrollIntoView({block:'nearest',behavior:'smooth'});return item;}
-clear.onclick=()=>{history=[];chats.set(selected,[]);drafts.delete(selected);emptyChat();status.textContent='New chat started.';input.value='';input.focus();};
+clear.onclick=()=>{displayMessages=[];chats.set(selected,[]);drafts.delete(selected);emptyChat();status.textContent='New chat started.';input.value='';input.focus();};
 input.addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey&&!e.isComposing){e.preventDefault();if(!busy)form.requestSubmit();}});
-form.onsubmit=async e=>{e.preventDefault();const question=input.value.trim();if(busy||!question||!selected)return;busy=true;document.querySelectorAll('.followups button').forEach(b=>b.disabled=true);send.disabled=clear.disabled=input.disabled=true;nav.querySelectorAll('button').forEach(b=>b.disabled=true);status.textContent='Thinking about this part…';const item=bubble('user',question);const conversation=[...history.slice(-20),{role:'user',content:question}];try{const response=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({part_id:selected,messages:conversation})});const data=await response.json();if(!response.ok)throw Error(typeof data.detail==='string'?data.detail:'Please shorten your question or start a new chat.');bubble('assistant',data.answer);history=[...conversation,{role:'assistant',content:data.answer}];chats.set(selected,history);drafts.delete(selected);input.value='';status.textContent='';}catch(error){item.remove();status.textContent=error.message||'Connection failed. Please retry.';}finally{busy=false;document.querySelectorAll('.followups button').forEach(b=>b.disabled=false);nav.querySelectorAll('button').forEach(b=>b.disabled=false);send.disabled=clear.disabled=input.disabled=false;input.focus();}};
+form.onsubmit=async e=>{e.preventDefault();const question=input.value.trim();if(busy||!question||!selected)return;busy=true;document.querySelectorAll('.followups button').forEach(b=>b.disabled=true);send.disabled=clear.disabled=input.disabled=true;nav.querySelectorAll('button').forEach(b=>b.disabled=true);status.textContent='Thinking about this part…';const item=bubble('user',question);const conversation=[...displayMessages.slice(-18),{role:'user',content:question}];try{const response=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json','Cache-Control':'no-store'},cache:'no-store',body:JSON.stringify({part_id:selected,question})});const data=await response.json();if(!response.ok)throw Error(typeof data.detail==='string'?data.detail:'Please shorten your question or start a new chat.');bubble('assistant',data.answer);displayMessages=[...conversation,{role:'assistant',content:data.answer}];chats.set(selected,displayMessages);drafts.delete(selected);input.value='';status.textContent='';}catch(error){item.remove();status.textContent=error.message||'Connection failed. Please retry.';}finally{busy=false;document.querySelectorAll('.followups button').forEach(b=>b.disabled=false);nav.querySelectorAll('button').forEach(b=>b.disabled=false);send.disabled=clear.disabled=input.disabled=false;input.focus();}};
 </script>
 </html>
