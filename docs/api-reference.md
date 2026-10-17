@@ -469,3 +469,43 @@ Local mode without configured credentials is unauthenticated and must remain loo
 - Detailed vocabulary contract: `docs/vocabulary-tutor-api.md`; operations: `README.md`; source for this PDF: `docs/api-reference.md`.
 
 Verification: repository routes/models and documentation reviewed on 17 October 2026. Automated tests use mocked providers; live model linguistic accuracy and deployment readiness are not established by this reference. Update this Markdown source and regenerate the PDF whenever an API contract changes.
+
+
+## Render mobile deployment (18 October 2026)
+
+The existing `vocard.chat:create_chat_app` can also expose the two Firebase
+student POST routes when `VOCARD_FIREBASE_PROJECT_ID` is configured. It keeps
+HTTP Basic authentication on the browser playground; `/ai/*` independently
+requires a non-anonymous Firebase Bearer ID token. It uses the configured
+Ollama Cloud or Gemini provider and the same strict student DTOs, vocabulary
+provenance validator and grammar quote validator. Invalid outputs receive one
+request-local schema repair attempt, then a sanitized 502. No Q&A content,
+provider output or tokens are stored or logged. Responses remain no-store.
+
+Configure `VOCARD_FIREBASE_WEB_API_KEY` with the public Firebase web API key
+already bundled in the client. In this mode, signature, expiry, audience and
+issuer are verified with Google's Firebase certificate endpoint, then Google's
+`accounts:lookup` checks the account identity, disabled state and `validSince`
+against token `auth_time`. A service-account credential is not needed. Without
+this setting the existing Admin SDK verifier, including revocation checks,
+remains in use. No project override or UID is accepted from the client.
+See [Firebase REST reference](https://firebase.google.com/docs/reference/rest/auth#section-get-account-info)
+and [revocation](https://firebase.google.com/docs/auth/admin/manage-sessions).
+
+This lightweight deployment is distinct from the private indexed ingestion API:
+- Vocabulary uses app context and explicitly labeled model knowledge, without
+  mapped-book retrieval or fabricated textbook citations.
+- Grammar retrieves only pages mapped to the requested course/unit/lesson in
+  `vocard/mobile_lessons.json`, from the existing bundled OCR draft. The manifest
+  must match the PDF source hash. Citations are resolved from the exact included
+  page text and identify `devils-100-ocr-draft`, version 1 and an immutable
+  `bundled-ocr-<content-hash>` snapshot. This is unreviewed OCR, not an active S3
+  vector index. Verified example-pair/practice arrays are empty. Unknown courses
+  return 403; unknown lesson/unit combinations return 404. Missing content is 503.
+- The shared daily per-UID counter uses `VOCARD_MOBILE_DB_PATH` (default
+  `state/mobile.sqlite3`), quota default 50. Render Free's filesystem is ephemeral:
+  counters reset on redeploy/restart; this is not a durable multi-instance quota.
+  Use persistent storage/the indexed deployment when that guarantee is required.
+
+The root Render Blueprint enables this mobile mode. A health-check 200 alone
+still does not establish student route availability or provider readiness.

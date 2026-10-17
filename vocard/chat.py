@@ -130,7 +130,8 @@ def create_chat_app(model_factory=None, grammar_path=None):
     security = HTTPBasic(auto_error=False)
 
     async def authorize(request: Request):
-        if request.url.path == "/healthz" or not (hosted or login or password):
+        if (request.url.path == "/healthz" or request.url.path.startswith("/ai/")
+                or not (hosted or login or password)):
             return
         credentials = await security(request)
         if credentials is None or not (
@@ -277,5 +278,11 @@ def create_chat_app(model_factory=None, grammar_path=None):
             raise HTTPException(
                 502, "AI request failed. Check server configuration, then retry."
             ) from exc
+
+    if os.getenv("VOCARD_FIREBASE_PROJECT_ID"):
+        from vocard.mobile_api import mobile_router
+
+        factory = model_factory or (GeminiChatModel if provider == "gemini" else LocalChatModel)
+        app.include_router(mobile_router(factory, grammar_path=grammar_path))
 
     return app

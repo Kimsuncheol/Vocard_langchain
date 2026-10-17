@@ -50,3 +50,20 @@ References:
 - https://ollama.com/pricing
 - https://render.com/docs/free
 - https://render.com/docs/compute-plans
+
+
+## Flutter student endpoints
+
+Set `VOCARD_FIREBASE_PROJECT_ID=vocard-6f1a5` and
+`VOCARD_FIREBASE_WEB_API_KEY` to this project's public client API key. Rebuild
+using the updated `requirements-chat.txt`; no start-command change is required.
+This enables `/ai/vocabulary/explain` and `/ai/answer` with Firebase Bearer auth,
+while the browser routes retain their existing Basic login. Do not put the
+browser password or provider key in Flutter. Confirm unauthenticated student
+POSTs return 401 (not 404), then test both screens with a signed-in phone.
+
+Vocabulary uses labeled generated explanations. Grammar uses the bundled OCR
+snapshot and exact lesson-page map, with validated quotes and explicit OCR-draft
+book IDs. This is not the private S3/vector-index ingestion deployment. Its
+content-free SQLite quota counter is ephemeral on Render Free. Full contracts
+and deployment differences are in `docs/api-reference.md`.

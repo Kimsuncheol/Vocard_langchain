@@ -7,6 +7,10 @@ services:
     startCommand: uvicorn vocard.chat:create_chat_app --factory --host 0.0.0.0 --port $PORT
     healthCheckPath: /healthz
     envVars:
+      - key: VOCARD_FIREBASE_PROJECT_ID
+        value: vocard-6f1a5
+      - key: VOCARD_FIREBASE_WEB_API_KEY
+        sync: false
       - key: PYTHON_VERSION
         value: 3.12.8
       - key: VOCARD_CHAT_PROVIDER
