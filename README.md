@@ -426,7 +426,68 @@ cover forged/unretrieved IDs, quotes, metadata, source examples, abstention,
 clarification, practice labels, history/PDF data boundaries, authorization,
 generation failures, active-index races, and CLI-to-HTTP answering.
 
-## Local text Q&A playground
+## Firebase lesson API for Flutter
+
+The Flutter app in `../Vocard` uses `POST /ai/answer`, independent of administrator
+ingestion/search routes. It sends a Firebase **ID token** as `Authorization:
+Bearer ...`, plus `question`, nullable `conversation_id`, `course_id`, `unit_id`,
+and a positive `lesson_number`. The server verifies the token and revocation with
+[Firebase Admin SDK](https://firebase.google.com/docs/auth/admin/verify-id-tokens)
+and obtains the UID from those verified claims. Anonymous sessions are denied;
+client UIDs, book IDs, history, and retrieval overrides are rejected.
+
+Configure the API process before enabling this entry point:
+
+```sh
+export VOCARD_FIREBASE_PROJECT_ID=vocard-6f1a5
+# Use your actual reviewed, published book ID:
+export VOCARD_COURSE_BOOKS='{"devils_100":"devils-100"}'
+# Supply Application Default Credentials for Firebase Admin on the server.
+```
+
+All non-anonymous users signed into that Firebase project can access courses in
+this explicit server mapping. An empty mapping denies all student course access.
+The app never chooses a book directly. Index metadata must match `devils_100`,
+the asset unit ID such as `devils-grammar-unit-01`, and the explicit asset lesson
+number (not the unit number or part position). Ingest matching reviewed JSON first;
+uploading a book does not authorize or publish it automatically. Use a TLS endpoint;
+Flutter web deployments need a same-origin gateway or an explicit gateway CORS
+allowlist. No Firebase or cloud resources are deployed by this change.
+
+The response extends the structured answer with a server-created UUID
+`conversation_id`. History is stored durably in the existing private SQLite
+database under the verified UID and fixed book/course/unit/lesson scope. Other
+users receive 404 for that ID. `GET /ai/conversations/{id}` loads an owned chat;
+`GET /ai/conversations?course_id=...&unit_id=...&lesson_number=...` returns the latest
+owned chat for that scope, or `{"conversation":null}`. IDs alone grant no access.
+
+`VOCARD_AI_HISTORY_MESSAGES` defaults to 20 (10 complete exchanges), and
+`VOCARD_AI_HISTORY_CHARS` to 40000 serialized characters, including response
+metadata. Oldest complete turns are discarded to satisfy both limits; a single
+oversized turn is not retained. Responses retain citations for display, but only
+bounded question/answer prose enters the next model prompt as untrusted history.
+Prior citation objects are never passed as new evidence. Each follow-up runs the
+retriever again against the active book version; the last two user questions
+expand the retrieval query for short follow-ups. Course/unit scope remains fixed.
+A lesson without indexed evidence returns `insufficient_evidence` without a model
+call. The model may ask one focused question when references remain ambiguous.
+
+`VOCARD_AI_DAILY_QUOTA` defaults to 50 admitted questions per UID per UTC day,
+shared across conversations and API restarts. Reservations are atomic and count
+failed generation attempts too; 429 means the daily quota is reached. Concurrent
+questions in one chat receive 409. A 15-minute fenced lease allows recovery after
+a crashed request; stale workers cannot overwrite a newer turn. Provider failures
+do not append history. The Flutter client refreshes a rejected token once, aborts
+timed-out connections, and offers history reload because a server request can
+finish after the client disconnects. Keep the database on durable storage and
+share it across processes as required by the existing SQLite deployment model.
+
+Tests verify UID isolation, verified-token handling, course mapping, new active
+evidence on follow-ups, bounded durable history, atomic quotas, request fencing,
+and recovery after provider failure. Firebase/OpenAI live services are not called
+in tests.
+
+## Standalone local playground
 
 Run local AI chat with Ollama, without API keys, S3, or administrator JWTs:
 

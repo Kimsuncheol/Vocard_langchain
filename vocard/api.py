@@ -19,6 +19,7 @@ from vocard.ingestion import IngestionService, InputRejected, validate_book_id
 from vocard.pipeline import ActiveBookRetriever, embeddings_for
 from vocard.retrieval import ActiveIndexChanged, BookAccessDenied
 from vocard.storage import PrivateS3
+from vocard.student_api import student_router
 
 
 class SearchRequest(BaseModel):
@@ -54,6 +55,7 @@ def create_app(
     storage=None,
     embedding_factory=embeddings_for,
     answer_model_factory=answer_model,
+    firebase_token_verifier=None,
 ):
     settings = settings or Settings.from_env()
     repository = repository or Repository(settings.db_path)
@@ -74,6 +76,16 @@ def create_app(
         openapi_url=None,
     )
     app.add_middleware(AdminBoundary, settings=settings)
+    app.include_router(
+        student_router(
+            settings,
+            repository,
+            storage,
+            embedding_factory,
+            answer_model_factory,
+            firebase_token_verifier,
+        )
+    )
 
     @app.exception_handler(InputRejected)
     async def invalid_input(request, exc):

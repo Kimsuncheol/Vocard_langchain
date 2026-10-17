@@ -10,3 +10,4 @@ langchain-openai>=1,<2
 langchain-text-splitters>=1,<2
 PyJWT>=2.10,<3
 httpx>=0.28,<1
+firebase-admin>=7,<8

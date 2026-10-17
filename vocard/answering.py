@@ -152,13 +152,21 @@ class AnsweringPipeline:
         if any(d.metadata["index_version"] != active["index_version"] for d in documents):
             raise ActiveIndexChanged("Active index changed during answering; retry the request")
 
-    def invoke(self, query, *, history=(), language="ko", include_practice_examples=False):
+    def invoke(
+        self,
+        query,
+        *,
+        history=(),
+        language="ko",
+        include_practice_examples=False,
+        retrieval_query=None,
+    ):
         if language not in ("ko", "en"):
             raise ValueError("Unsupported answer language")
         history = [HistoryMessage.model_validate(m) for m in history]
         if len(history) > 20 or sum(len(m.content) for m in history) > 40000:
             raise ValueError("Conversation history is too long")
-        documents = self.retriever.invoke(query)
+        documents = self.retriever.invoke(query if retrieval_query is None else retrieval_query)
         context, included = [], {}
         # Count the whole serialized envelope, including history/escaping/metadata.
         envelope = {
