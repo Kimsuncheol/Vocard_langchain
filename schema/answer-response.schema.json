@@ -1,0 +1,212 @@
+{
+  "$defs": {
+    "Citation": {
+      "additionalProperties": false,
+      "properties": {
+        "chunk_id": {
+          "maxLength": 200,
+          "minLength": 1,
+          "title": "Chunk Id",
+          "type": "string"
+        },
+        "quote": {
+          "maxLength": 10000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Quote",
+          "type": "string"
+        },
+        "book_id": {
+          "title": "Book Id",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "integer"
+        },
+        "index_version": {
+          "title": "Index Version",
+          "type": "string"
+        },
+        "source_pages": {
+          "items": {
+            "type": "integer"
+          },
+          "title": "Source Pages",
+          "type": "array"
+        },
+        "source_page_labels": {
+          "items": {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          "title": "Source Page Labels",
+          "type": "array"
+        },
+        "course_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Course Id"
+        },
+        "unit_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Unit Id"
+        },
+        "lesson_number": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Lesson Number"
+        }
+      },
+      "required": [
+        "chunk_id",
+        "quote",
+        "book_id",
+        "version",
+        "index_version",
+        "source_pages",
+        "source_page_labels",
+        "course_id",
+        "unit_id",
+        "lesson_number"
+      ],
+      "title": "Citation",
+      "type": "object"
+    },
+    "LabeledPracticeExample": {
+      "additionalProperties": false,
+      "properties": {
+        "english": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "English",
+          "type": "string"
+        },
+        "translation": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Translation",
+          "type": "string"
+        },
+        "label": {
+          "const": "새로 만든 연습 예문 (교재 원문 아님)",
+          "default": "새로 만든 연습 예문 (교재 원문 아님)",
+          "title": "Label",
+          "type": "string"
+        }
+      },
+      "required": [
+        "english",
+        "translation"
+      ],
+      "title": "LabeledPracticeExample",
+      "type": "object"
+    },
+    "ResolvedExample": {
+      "additionalProperties": false,
+      "properties": {
+        "chunk_id": {
+          "maxLength": 200,
+          "minLength": 1,
+          "title": "Chunk Id",
+          "type": "string"
+        },
+        "text": {
+          "maxLength": 10000,
+          "minLength": 1,
+          "pattern": "\\S",
+          "title": "Text",
+          "type": "string"
+        },
+        "is_correct": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Is Correct"
+        },
+        "translations": {
+          "items": {},
+          "title": "Translations",
+          "type": "array"
+        }
+      },
+      "required": [
+        "chunk_id",
+        "text",
+        "is_correct",
+        "translations"
+      ],
+      "title": "ResolvedExample",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "answer": {
+      "title": "Answer",
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "answered",
+        "insufficient_evidence",
+        "clarification_needed"
+      ],
+      "title": "Status",
+      "type": "string"
+    },
+    "citations": {
+      "items": {
+        "$ref": "#/$defs/Citation"
+      },
+      "title": "Citations",
+      "type": "array"
+    },
+    "source_examples": {
+      "items": {
+        "$ref": "#/$defs/ResolvedExample"
+      },
+      "title": "Source Examples",
+      "type": "array"
+    },
+    "practice_examples": {
+      "items": {
+        "$ref": "#/$defs/LabeledPracticeExample"
+      },
+      "title": "Practice Examples",
+      "type": "array"
+    }
+  },
+  "required": [
+    "answer",
+    "status"
+  ],
+  "title": "AnswerResponse",
+  "type": "object"
+}

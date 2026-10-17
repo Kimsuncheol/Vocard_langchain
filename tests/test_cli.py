@@ -7,6 +7,7 @@ import threading
 import time
 
 import uvicorn
+from langchain_core.runnables import RunnableLambda
 
 from vocard.api import create_app
 
@@ -14,8 +15,22 @@ from .conftest import TestEmbeddings, make_pdf, token
 
 
 def test_cli_to_live_http_api_and_durable_worker(system, tmp_path):
+    def generate(messages):
+        source = json.loads(messages[-1].content)["evidence"][0]
+        return {
+            "answer": "검색된 교재의 문장입니다.",
+            "status": "answered",
+            "citations": [{"chunk_id": source["chunk_id"], "quote": source["text"]}],
+            "source_examples": [],
+            "practice_examples": [],
+        }
+
     app = create_app(
-        system["settings"], system["repo"], system["storage"], lambda _: TestEmbeddings()
+        system["settings"],
+        system["repo"],
+        system["storage"],
+        lambda _: TestEmbeddings(),
+        lambda _: RunnableLambda(generate),
     )
     sock = socket.socket()
     sock.bind(("127.0.0.1", 0))
@@ -101,6 +116,17 @@ def test_cli_to_live_http_api_and_durable_worker(system, tmp_path):
         )
         assert lookup.returncode == 0, lookup.stderr
         assert json.loads(lookup.stdout)["total_chunks"] == 1
+        answer = subprocess.run(
+            command + ["ask", "cli-book", "Where am I?", "--current-lesson", "7"],
+            env=env,
+            capture_output=True,
+            text=True,
+            timeout=20,
+        )
+        assert answer.returncode == 0, answer.stderr
+        assert json.loads(answer.stdout)["status"] == "answered"
+        citation = json.loads(answer.stdout)["citations"][0]
+        assert citation["book_id"] == "cli-book" and citation["source_pages"] == [1]
         denied_env = {**env, "VOCARD_ADMIN_TOKEN": token(system["settings"], role="reader")}
         denied = subprocess.run(
             command + ["book", "cli-book"],

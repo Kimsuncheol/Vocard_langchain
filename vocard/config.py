@@ -29,6 +29,10 @@ class Settings:
     top_k: int = 4
     max_fallback: int = 2
     min_score: float = 0.0
+    answer_model: str = "gpt-4.1-mini"
+    answer_timeout: int = 60
+    answer_max_tokens: int = 3000
+    answer_context_chars: int = 60000
 
     def __post_init__(self):
         if not self.bucket or len(self.jwt_secret.encode()) < 32:
@@ -62,6 +66,13 @@ class Settings:
             or not -1 <= self.min_score <= 1
         ):
             raise ValueError("Invalid retrieval top_k, fallback limit or score threshold")
+        if (
+            not self.answer_model.strip()
+            or not 1 <= self.answer_timeout <= 300
+            or not 256 <= self.answer_max_tokens <= 16000
+            or not 1000 <= self.answer_context_chars <= 200000
+        ):
+            raise ValueError("Invalid answering model or resource limits")
 
     def pipeline(
         self,
@@ -124,4 +135,8 @@ class Settings:
             top_k=int(os.getenv("VOCARD_TOP_K", "4")),
             max_fallback=int(os.getenv("VOCARD_MAX_FALLBACK", "2")),
             min_score=float(os.getenv("VOCARD_MIN_SCORE", "0")),
+            answer_model=os.getenv("VOCARD_ANSWER_MODEL", "gpt-4.1-mini"),
+            answer_timeout=int(os.getenv("VOCARD_ANSWER_TIMEOUT", "60")),
+            answer_max_tokens=int(os.getenv("VOCARD_ANSWER_MAX_TOKENS", "3000")),
+            answer_context_chars=int(os.getenv("VOCARD_ANSWER_CONTEXT_CHARS", "60000")),
         )

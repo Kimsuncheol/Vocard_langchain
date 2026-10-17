@@ -1,9 +1,17 @@
 from contextlib import asynccontextmanager
-from typing import Annotated
+from typing import Annotated, Literal
 
 from fastapi import Depends, FastAPI, File, Form, HTTPException, Query, UploadFile
-from pydantic import AliasChoices, BaseModel, ConfigDict, Field
+from pydantic import AliasChoices, BaseModel, ConfigDict, Field, model_validator
 
+from vocard.answering import (
+    AnsweringPipeline,
+    AnswerResponse,
+    GenerationUnavailable,
+    HistoryMessage,
+    InvalidAnswer,
+    answer_model,
+)
 from vocard.auth import AdminBoundary, Administrator, administrator_dependency
 from vocard.config import Settings
 from vocard.db import Repository
@@ -28,7 +36,25 @@ class SearchRequest(BaseModel):
     min_score: float | None = Field(default=None, ge=-1, le=1, allow_inf_nan=False)
 
 
-def create_app(settings=None, repository=None, storage=None, embedding_factory=embeddings_for):
+class AnswerRequest(SearchRequest):
+    history: list[HistoryMessage] = Field(default_factory=list, max_length=20)
+    language: Literal["ko", "en"] = "ko"
+    include_practice_examples: bool = False
+
+    @model_validator(mode="after")
+    def history_limit(self):
+        if sum(len(m.content) for m in self.history) > 40000:
+            raise ValueError("Conversation history is too long")
+        return self
+
+
+def create_app(
+    settings=None,
+    repository=None,
+    storage=None,
+    embedding_factory=embeddings_for,
+    answer_model_factory=answer_model,
+):
     settings = settings or Settings.from_env()
     repository = repository or Repository(settings.db_path)
     storage = storage or PrivateS3(settings.bucket)
@@ -70,6 +96,45 @@ def create_app(settings=None, repository=None, storage=None, embedding_factory=e
     @app.get("/healthz")
     def health():
         return {"status": "ok"}
+
+    def scoped_retriever(book_id, request, actor):
+        validate_book_id(book_id)
+        return ActiveBookRetriever(
+            repository=repository,
+            storage=storage,
+            embedding_factory=embedding_factory,
+            book_id=book_id,
+            authorized_book_ids=actor.authorize_book(book_id),
+            top_k=settings.top_k if request.top_k is None else request.top_k,
+            current_lesson=request.current_lesson,
+            current_lesson_title=request.current_lesson_title,
+            course_id=request.course_id,
+            unit_id=request.unit_id,
+            allow_book_fallback=request.allow_book_fallback,
+            max_fallback=settings.max_fallback
+            if request.max_fallback is None
+            else request.max_fallback,
+            min_score=settings.min_score if request.min_score is None else request.min_score,
+        )
+
+    @app.post("/admin/books/{book_id}/answer", response_model=AnswerResponse)
+    def answer(
+        book_id: str, request: AnswerRequest, actor: Annotated[Administrator, Depends(admin)]
+    ):
+        retriever = scoped_retriever(book_id, request, actor)
+        try:
+            return AnsweringPipeline(retriever, settings, answer_model_factory).invoke(
+                request.query,
+                history=request.history,
+                language=request.language,
+                include_practice_examples=request.include_practice_examples,
+            )
+        except KeyError as exc:
+            raise HTTPException(404, "Book has no active index") from exc
+        except InvalidAnswer as exc:
+            raise HTTPException(502, "Generated answer failed validation") from exc
+        except GenerationUnavailable as exc:
+            raise HTTPException(503, "Answer generation is unavailable") from exc
 
     @app.post("/admin/books/{book_id}/ingestions", status_code=202)
     def ingest(
@@ -149,24 +214,7 @@ def create_app(settings=None, repository=None, storage=None, embedding_factory=e
     def search(
         book_id: str, request: SearchRequest, actor: Annotated[Administrator, Depends(admin)]
     ):
-        validate_book_id(book_id)
-        retriever = ActiveBookRetriever(
-            repository=repository,
-            storage=storage,
-            embedding_factory=embedding_factory,
-            book_id=book_id,
-            authorized_book_ids=actor.authorize_book(book_id),
-            top_k=settings.top_k if request.top_k is None else request.top_k,
-            current_lesson=request.current_lesson,
-            current_lesson_title=request.current_lesson_title,
-            course_id=request.course_id,
-            unit_id=request.unit_id,
-            allow_book_fallback=request.allow_book_fallback,
-            max_fallback=settings.max_fallback
-            if request.max_fallback is None
-            else request.max_fallback,
-            min_score=settings.min_score if request.min_score is None else request.min_score,
-        )
+        retriever = scoped_retriever(book_id, request, actor)
         try:
             return {"documents": [d.model_dump() for d in retriever.invoke(request.query)]}
         except KeyError as exc:

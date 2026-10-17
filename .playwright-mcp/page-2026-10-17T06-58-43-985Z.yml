@@ -1,0 +1,13 @@
+- generic [active] [ref=f1e1]:
+  - complementary [ref=f1e2]:
+    - heading "Vocard" [level=2] [ref=f1e3]
+    - paragraph [ref=f1e4]: GRAMMAR LIBRARY · LOCAL AI
+    - navigation "Grammar parts"
+    - status [ref=f1e5]: Loading parts…
+  - main [ref=f1e6]:
+    - generic [ref=f1e8]:
+      - heading "Grammar study" [level=1] [ref=f1e9]
+      - paragraph [ref=f1e10]: Read a part, then ask about its grammar.
+    - generic [ref=f1e11]:
+      - heading "Your grammar, one part at a time." [level=2] [ref=f1e12]
+      - paragraph [ref=f1e13]: Select a part from the sidebar to open its content and chat.

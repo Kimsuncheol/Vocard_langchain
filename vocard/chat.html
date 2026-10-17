@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Vocard · Grammar Q&A</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f5f6fa;color:#202337;font:16px/1.6 system-ui,sans-serif}main{max-width:820px;margin:auto;padding:32px 20px}header{display:flex;align-items:center;justify-content:space-between;gap:20px}h1{font-size:25px;margin:0}header p{margin:2px 0;color:#646b80;font-size:14px}button{font:inherit;cursor:pointer;border-radius:12px;padding:10px 18px;border:1px solid #d9dce7;background:white;color:#30364c}button:disabled{opacity:.5;cursor:wait}#messages{min-height:48vh;margin:28px 0;display:flex;flex-direction:column;gap:18px}.message{padding:18px 22px;border-radius:18px;background:white;border:1px solid #e5e7f0;white-space:pre-wrap;overflow-wrap:anywhere}.message.user{background:#eceafb;margin-left:40px}.label{display:block;font-size:12px;font-weight:700;color:#696081;margin-bottom:6px;text-transform:uppercase;letter-spacing:1px}.empty{text-align:center;margin:auto;color:#666d81}.empty h2{color:#30364c;font-size:27px}form{background:white;padding:16px;border:1px solid #d9dce7;border-radius:18px}label{font-size:13px;color:#646b80}textarea{display:block;resize:vertical;width:100%;min-height:95px;border:0;font:inherit;padding:8px 0;outline-offset:3px}footer{display:flex;justify-content:space-between;align-items:center;gap:12px;font-size:12px;color:#646b80}#send{background:#6050c6;color:white;border:0}#status{min-height:26px;margin:12px 2px;color:#6351a5;font-size:14px}small{display:block;color:#74798b;margin-top:14px}button:focus-visible{outline:3px solid #a89ae8;outline-offset:3px}@media(max-width:500px){main{padding:20px 14px}.message.user{margin-left:16px}header{align-items:flex-start}footer span{max-width:180px}}
+
+[hidden]{display:none!important}body{display:grid;grid-template-columns:270px minmax(0,1fr)}aside{height:100vh;position:sticky;top:0;background:#fff;border-right:1px solid #e1e3ed;padding:24px 16px;overflow:auto}aside h2{font-size:20px;margin:0 8px}aside p{font-size:12px;color:#74798b;margin:6px 8px 18px}nav{display:grid;gap:7px}nav button{text-align:left;font-size:13px;border-color:transparent;padding:12px;line-height:1.5}nav button[aria-current=true]{background:#eceafb;color:#5241ab;border-color:#d4cdee}main{width:100%;max-width:1500px;padding:28px}#workspace{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(300px,1fr);gap:28px;margin-top:25px}#grammar{max-height:calc(100vh - 160px);overflow:auto;padding-right:8px}.source-page{background:white;border:1px solid #e1e3ed;border-radius:14px;margin-bottom:16px;padding:22px}.source-page p{white-space:pre-wrap;overflow-wrap:anywhere;font-size:15px}.source-page h3{font-size:12px;color:#7c719c;margin:0}#chat{min-width:0}#messages{min-height:180px;max-height:48vh;overflow:auto;margin-top:0}#welcome{padding:80px 10px;color:#646b80}#part-title{font-size:20px}#notice{font-size:12px;color:#877241}#navigation-status{font-size:13px;color:#646b80}@media(max-width:1050px){#workspace{grid-template-columns:1fr}#grammar{max-height:45vh}}@media(max-width:650px){body{display:block}aside{position:static;height:auto;max-height:260px;border-bottom:1px solid #ddd}main{padding:20px 14px}#workspace{gap:15px}nav{grid-template-columns:1fr}header{flex-wrap:wrap}}
+.followups{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px;white-space:normal}.followups button{font-size:13px;padding:7px 12px;background:#f5f3ff;border-color:#dfd8fa;color:#5543a8}.followups strong{width:100%;font-size:12px;color:#74798b;font-weight:500}
+.followups{display:grid;gap:8px;margin:14px 0;white-space:normal}.followups strong{font-size:12px;color:#746b96}.followups button{text-align:left;font-size:13px;background:#f7f5ff;border-color:#e0daef;padding:9px 12px}
+</style>
+<aside><h2>Vocard</h2><p>GRAMMAR LIBRARY · LOCAL AI</p><nav id="parts" aria-label="Grammar parts"></nav><p id="navigation-status" role="status">Loading parts…</p></aside>
+<main>
+<header><div><h1 id="part-title">Grammar study</h1><p>Read a part, then ask about its grammar.</p></div><button id="clear" type="button" hidden>New chat</button></header>
+<div id="welcome"><h2>Your grammar, one part at a time.</h2><p>Select a part from the sidebar to open its content and chat.</p></div>
+<div id="workspace" hidden><section aria-label="Grammar content"><p id="notice">OCR draft · Text may contain recognition errors. Page numbers refer to PDF pages.</p><div id="grammar"></div></section><section id="chat" aria-label="Part chat">
+<section id="messages" aria-label="Conversation" aria-live="polite"><div class="empty"><h2>What would you like to know?</h2><p>Ask a question in English or Korean.<br>Follow up to keep the conversation going.</p></div></section>
+<section id="part-questions" class="followups" aria-label="Questions for this part"></section>
+<form id="form"><label for="question">Your question</label><textarea id="question" maxlength="10000" placeholder="Type your question here…" required></textarea><footer><span>Enter to send · Shift + Enter for a new line</span><button id="send">Send ↗</button></footer></form>
+<p id="status" role="status"></p><small>Text Q&A playground · History clears when you refresh or start a new chat.<br>Answers run locally through Ollama. Chat uses excerpts from this part as reference.</small>
+</section></div></main>
+<script>
+const form=document.querySelector('#form'),input=document.querySelector('#question'),messages=document.querySelector('#messages'),status=document.querySelector('#status'),send=document.querySelector('#send'),clear=document.querySelector('#clear');
+let history=[],busy=false,selected=null,selectionVersion=0;
+const chats=new Map(),drafts=new Map(),nav=document.querySelector('#parts'),navStatus=document.querySelector('#navigation-status');
+const workspace=document.querySelector('#workspace');
+function emptyChat(){messages.replaceChildren();const p=document.createElement('p');p.className='empty';p.textContent='Ask about this part in English or Korean.';messages.append(p);}
+async function selectPart(id){
+ if(busy)return;
+ const version=++selectionVersion;
+ if(selected){drafts.set(selected,input.value);chats.set(selected,history);}
+ navStatus.textContent='Loading grammar…';
+ try{const response=await fetch('/api/parts/'+encodeURIComponent(id));if(!response.ok)throw Error('Could not load this part. Select it to retry.');const part=await response.json();if(version!==selectionVersion)return;
+ selected=id;history=chats.get(id)||[];input.value=drafts.get(id)||'';
+ document.querySelector('#part-title').textContent=part.title;
+ const questions=document.querySelector('#part-questions');questions.replaceChildren();
+ const questionHeading=document.createElement('strong');questionHeading.textContent='Explore this part';questions.append(questionHeading);
+ const topic=part.title.replace(/^\d+\s*·\s*/, '');
+ const prompts=[`“${topic}”의 핵심 문법을 쉽게 설명해 주세요.`,`“${topic}”에 나오는 문법의 예문과 해석을 보여 주세요.`,`“${topic}”에서 자주 틀리는 부분은 무엇인가요?`,`“${topic}”에 관한 연습 문제를 하나 내 주세요.`];
+ for(const prompt of prompts){const button=document.createElement('button');button.type='button';button.textContent=prompt;button.onclick=()=>{if(busy)return;input.value=prompt;form.requestSubmit();};questions.append(button);}
+
+ document.querySelector('#welcome').hidden=true;workspace.hidden=false;workspace.style.display='';clear.hidden=false;
+ const grammar=document.querySelector('#grammar');grammar.replaceChildren();
+ for(const page of part.pages){const article=document.createElement('article');article.className='source-page';const heading=document.createElement('h3');heading.textContent='PDF PAGE '+page.number;const text=document.createElement('p');text.textContent=page.text;article.append(heading,text);grammar.append(article);}
+ grammar.scrollTop=0;emptyChat();for(const m of history)bubble(m.role,m.content);
+ for(const button of nav.querySelectorAll('button'))button.setAttribute('aria-current',String(button.dataset.id===id));
+ status.textContent='';navStatus.textContent=part.pages.length+' pages in this part';location.hash=id;
+ }catch(error){navStatus.textContent=error.message;}
+}
+async function loadParts(){try{const response=await fetch('/api/parts');if(!response.ok)throw Error('Grammar unavailable. Check the source file and refresh.');const data=await response.json();for(const part of data.parts){const button=document.createElement('button');button.type='button';button.dataset.id=part.id;button.textContent=part.title;button.onclick=()=>selectPart(part.id);nav.append(button);}navStatus.textContent=data.parts.length+' parts';const id=location.hash.slice(1);if(data.parts.some(p=>p.id===id))selectPart(id);else if(data.parts.length)selectPart(data.parts.find(p=>p.id!=='intro')?.id||data.parts[0].id);}catch(error){navStatus.textContent=error.message;}}
+window.addEventListener('hashchange',()=>{const id=location.hash.slice(1);if(id&&id!==selected&&!busy)selectPart(id);});
+loadParts();
+function bubble(role,text){messages.querySelector('.empty')?.remove();const item=document.createElement('article');item.className='message '+role;const label=document.createElement('span');label.className='label';label.textContent=role==='user'?'You':'Vocard';item.append(label,document.createTextNode(text));if(role==='assistant'){
+ const suggestions=document.createElement('div');suggestions.className='followups';const heading=document.createElement('strong');heading.textContent='Follow-up questions';suggestions.append(heading);
+ const korean=/[가-힣]/.test(text);
+ const prompts=korean?['방금 설명한 내용을 더 쉽게 설명해 주세요.','방금 설명한 문법의 예문 3개와 해석을 보여 주세요.','방금 설명한 문법으로 연습 문제를 하나 내 주세요.']:['Can you explain that more simply?','Can you give three examples of that grammar?','Can you give me a practice question about that?'];
+ for(const prompt of prompts){const button=document.createElement('button');button.type='button';button.textContent=prompt;button.onclick=()=>{if(busy)return;input.value=prompt;form.requestSubmit();};suggestions.append(button);}item.append(suggestions);
+ }messages.append(item);item.scrollIntoView({block:'nearest',behavior:'smooth'});return item;}
+clear.onclick=()=>{history=[];chats.set(selected,[]);drafts.delete(selected);emptyChat();status.textContent='New chat started.';input.value='';input.focus();};
+input.addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey&&!e.isComposing){e.preventDefault();if(!busy)form.requestSubmit();}});
+form.onsubmit=async e=>{e.preventDefault();const question=input.value.trim();if(busy||!question||!selected)return;busy=true;document.querySelectorAll('.followups button').forEach(b=>b.disabled=true);send.disabled=clear.disabled=input.disabled=true;nav.querySelectorAll('button').forEach(b=>b.disabled=true);status.textContent='Thinking about this part…';const item=bubble('user',question);const conversation=[...history.slice(-20),{role:'user',content:question}];try{const response=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({part_id:selected,messages:conversation})});const data=await response.json();if(!response.ok)throw Error(typeof data.detail==='string'?data.detail:'Please shorten your question or start a new chat.');bubble('assistant',data.answer);history=[...conversation,{role:'assistant',content:data.answer}];chats.set(selected,history);drafts.delete(selected);input.value='';status.textContent='';}catch(error){item.remove();status.textContent=error.message||'Connection failed. Please retry.';}finally{busy=false;document.querySelectorAll('.followups button').forEach(b=>b.disabled=false);nav.querySelectorAll('button').forEach(b=>b.disabled=false);send.disabled=clear.disabled=input.disabled=false;input.focus();}};
+</script>
+</html>

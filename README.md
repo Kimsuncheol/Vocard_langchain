@@ -364,3 +364,97 @@ Reference APIs: [LangChain embeddings](https://reference.langchain.com/python/la
 and [S3 conditional object writes](https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutObject.html).
 
 OCR references: [Tesseract CLI](https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html), [PDFium rendering](https://pypdfium2.readthedocs.io/en/stable/python_api.html).
+
+## Authenticated textbook answers
+
+`POST /admin/books/{book_id}/answer` retrieves from the authorized book's active
+index, then uses LangChain structured output to generate an answer. It accepts
+the same lesson/course/unit filters, `top_k`, score threshold and bounded fallback
+settings as search. Access comes from the verified administrator JWT, never from
+the prompt or history. For example:
+
+```sh
+.venv/bin/vocard ask grammar-book '동명사의 목적어를 설명해 줘' \
+  --current-lesson 7 --no-book-fallback --top-k 4
+# Optional: --practice, --language en, --history-json conversation.json
+```
+
+An API request can include history as `[{"role":"user","content":"..."},
+{"role":"assistant","content":"..."}]`. History is bounded to 20 messages and
+40,000 characters and helps resolve references; it is not supporting evidence.
+The response always has `answer`, `status`, `citations`, `source_examples`, and
+`practice_examples`. Status is `answered`, `insufficient_evidence`, or
+`clarification_needed`; a clarification contains one focused question.
+
+Each citation has a retrieved `chunk_id` and a verbatim supporting `quote`.
+The server adds `book_id`, content `version`, `index_version`, 1-based
+`source_pages`, separate `source_page_labels`, course, unit and lesson metadata.
+The model cannot supply these locations. Only chunks actually included in the
+generation context can be cited, even if another ID exists elsewhere in the same
+index. Unknown IDs, changed quotes, forged location fields and changed source
+examples fail closed with HTTP 502. A version promotion during generation returns
+409 so the caller can retry against the new active index.
+
+Explanations default to Korean; source English examples retain their exact text,
+including incorrect markers. `source_examples` copies translations and
+`is_correct` from extraction metadata. Newly generated examples require
+`include_practice_examples: true` (`--practice`) and appear separately with the
+server label **새로 만든 연습 예문 (교재 원문 아님)**. Render that label alongside
+each practice example. The answer prose is not the entire response: clients must
+also render the citations and example fields. For Korean responses, ungrounded
+English sentences in prose are rejected rather than displayed without a label.
+
+No retrieved evidence (including no full chunk fitting the context budget)
+returns `insufficient_evidence` without calling the generation model. A generated
+answer without citations also abstains. Untrusted PDF text, metadata, question
+and history are serialized as data in one human message; a separate constant
+system message defines the rules. History is never promoted to system messages,
+and the model has no tools. Citation/quote validation proves provenance; semantic
+support and resistance to prompt injection still depend on model behavior.
+
+Configure `VOCARD_ANSWER_MODEL` (default `gpt-4.1-mini`),
+`VOCARD_ANSWER_TIMEOUT` (60 seconds per attempt, one retry),
+`VOCARD_ANSWER_MAX_TOKENS` (3000), and `VOCARD_ANSWER_CONTEXT_CHARS` (60000).
+Full chunks are included within the serialized context budget; they are never
+silently truncated. Generation requires `OPENAI_API_KEY`, only when evidence is
+available. Provider failures return sanitized HTTP 503 errors. The response
+schema is in `schema/answer-response.schema.json`. Structured generation uses
+[LangChain's ChatOpenAI structured output](https://reference.langchain.com/python/langchain-openai/chat_models/base/ChatOpenAI/with_structured_output).
+
+Tests use a deterministic structured generator without provider calls. They
+cover forged/unretrieved IDs, quotes, metadata, source examples, abstention,
+clarification, practice labels, history/PDF data boundaries, authorization,
+generation failures, active-index races, and CLI-to-HTTP answering.
+
+## Local text Q&A playground
+
+Run local AI chat with Ollama, without API keys, S3, or administrator JWTs:
+
+```sh
+# Install Ollama from https://ollama.com if needed, then start it.
+ollama pull qwen2.5:3b
+# Optional: set VOCARD_CHAT_MODEL to another installed chat model
+.venv/bin/uvicorn vocard.chat:create_chat_app --factory --host 127.0.0.1 --port 8001
+```
+
+Open http://127.0.0.1:8001. Enter sends; Shift+Enter adds a newline.
+New chat or refreshing clears history. The latest ten exchanges are sent as
+context, with bounded input and output. This is general AI Q&A, not textbook
+retrieval. The chat endpoint calls only local Ollama at 127.0.0.1:11434; no
+OpenAI key is used and there are no API fees. Keep this unauthenticated test app
+bound to loopback, separate from the authenticated ingestion API.
+
+The playground now includes a grammar sidebar with the textbook's 13 chapters
+plus its introduction and contents. Selecting a part displays all of its PDF-page
+text and opens a separate chat for that part. Chats and drafts remain separate
+while switching parts, and clear on refresh. Chat receives bounded excerpts from
+the selected part as reference; this does not use the production vector index.
+The source remains explicitly labeled as an unreviewed OCR draft.
+Set `VOCARD_GRAMMAR_PATH` to use a different extraction JSON; the default is
+`output/pdf/textbook-extraction/textbook.json` relative to the working directory.
+
+The grammar playground has a left sidebar of textbook parts. Selecting a part
+opens its OCR text and a chat grounded in excerpts from that part. Conversations
+and drafts stay separate per part for the current browser session. Source text
+comes from `output/pdf/textbook-extraction/textbook.json`; set
+`VOCARD_GRAMMAR_PATH` to use another extraction file. The OCR draft is unreviewed.

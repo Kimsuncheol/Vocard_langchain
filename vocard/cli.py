@@ -35,17 +35,22 @@ def main():
     commands.add_parser("job").add_argument("job_id")
     commands.add_parser("book").add_argument("book_id")
     commands.add_parser("retry").add_argument("job_id")
-    search = commands.add_parser("search")
-    search.add_argument("book_id")
-    search.add_argument("query")
-    search.add_argument("--top-k", "--k", dest="top_k", type=int)
-    search.add_argument("--current-lesson", type=int)
-    search.add_argument("--current-lesson-title")
-    search.add_argument("--course-id")
-    search.add_argument("--unit-id")
-    search.add_argument("--no-book-fallback", action="store_true")
-    search.add_argument("--max-fallback", type=int)
-    search.add_argument("--min-score", type=float)
+    for name in ("search", "ask"):
+        search = commands.add_parser(name)
+        search.add_argument("book_id")
+        search.add_argument("query")
+        search.add_argument("--top-k", "--k", dest="top_k", type=int)
+        search.add_argument("--current-lesson", type=int)
+        search.add_argument("--current-lesson-title")
+        search.add_argument("--course-id")
+        search.add_argument("--unit-id")
+        search.add_argument("--no-book-fallback", action="store_true")
+        search.add_argument("--max-fallback", type=int)
+        search.add_argument("--min-score", type=float)
+        if name == "ask":
+            search.add_argument("--language", choices=("ko", "en"), default="ko")
+            search.add_argument("--practice", action="store_true")
+            search.add_argument("--history-json", type=Path)
     lesson = commands.add_parser("lesson", help="Exact lookup by lesson number or title")
     lesson.add_argument("book_id")
     lesson.add_argument("--lesson-number", type=int)
@@ -117,11 +122,23 @@ def main():
                     },
                 )
             else:
+                endpoint = "answer" if args.command == "ask" else "search"
                 response = client.post(
-                    f"/admin/books/{args.book_id}/search",
+                    f"/admin/books/{args.book_id}/{endpoint}",
                     json={
                         "query": args.query,
                         "allow_book_fallback": not args.no_book_fallback,
+                        **(
+                            {
+                                "language": args.language,
+                                "include_practice_examples": args.practice,
+                                "history": json.loads(args.history_json.read_text())
+                                if args.history_json
+                                else [],
+                            }
+                            if args.command == "ask"
+                            else {}
+                        ),
                         **{
                             key: getattr(args, key)
                             for key in (
@@ -145,7 +162,7 @@ def main():
                 print(str(args.output))
             else:
                 print(json.dumps(response.json(), ensure_ascii=False, indent=2))
-    except (OSError, httpx.HTTPError) as exc:
+    except (OSError, ValueError, httpx.HTTPError) as exc:
         if isinstance(exc, httpx.HTTPStatusError):
             print(f"API returned {exc.response.status_code}: {exc.response.text}", file=sys.stderr)
         else:
