@@ -539,3 +539,26 @@ there is no server conversation or content persistence. The grammar answering
 contract remains independent and evidence-only. See the complete
 [vocabulary API contract](docs/vocabulary-tutor-api.md), including request limits,
 source labels, retrieval authorization, errors and privacy behavior.
+
+## API reference documents
+
+The maintained API reference is [docs/api-reference.md](docs/api-reference.md);
+its shareable PDF is [output/pdf/vocard-api-documentation.pdf](output/pdf/vocard-api-documentation.pdf).
+Whenever an API contract changes, update this reference, the relevant focused
+contract/schema, and the PDF in the same change, as required by `vocard/AGENTS.md`.
+
+Check route coverage using the project environment:
+
+```sh
+.venv/bin/python tools/build_api_documentation.py --check
+```
+
+Regenerate the PDF in a documentation Python environment with `reportlab` and a
+Korean-capable TrueType font (these are not API runtime dependencies):
+
+```sh
+python tools/build_api_documentation.py --font /path/to/KoreanFont.ttf
+```
+
+On macOS the builder automatically finds AppleGothic; on Linux it checks for
+NanumGothic. Render and inspect the generated PDF before including it in a change.
