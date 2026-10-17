@@ -43,10 +43,22 @@ class IngestionService:
         extraction: BinaryIO | None = None,
         allow_uncertain: bool = False,
         reviewed_extraction: bool = False,
+        course_id: str | None = None,
+        unit_id: str | None = None,
+        chunk_size: int | None = None,
     ):
         validate_book_id(book_id)
         if reviewed_extraction and extraction is None:
             raise InputRejected("A reviewed extraction requires an extracted JSON upload")
+        for value in (course_id, unit_id):
+            if value is not None and (
+                not isinstance(value, str) or not value.strip() or len(value) > 100
+            ):
+                raise InputRejected("Course and unit ids must be 1-100 characters")
+        if chunk_size is not None and (
+            type(chunk_size) is not int or not self.settings.chunk_overlap < chunk_size <= 50000
+        ):
+            raise InputRejected("Chunk size must exceed configured overlap and be <= 50000")
         with SpooledTemporaryFile(max_size=8 * 1024 * 1024) as pdf:
             sha = copy_and_hash(source, pdf, self.settings.max_upload_bytes)
             if pdf.read(5) != b"%PDF-":
@@ -65,7 +77,9 @@ class IngestionService:
             sha,
             source_key,
             extraction_key,
-            self.settings.pipeline(extraction_sha, allow_uncertain, reviewed_extraction),
+            self.settings.pipeline(
+                extraction_sha, allow_uncertain, reviewed_extraction, course_id, unit_id, chunk_size
+            ),
             actor,
             self.settings.max_attempts,
         )

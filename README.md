@@ -86,6 +86,9 @@ trusted service boundary; there is no unauthenticated remote worker interface.
 .venv/bin/vocard book grammar-book
 .venv/bin/vocard retry FAILED_JOB_ID
 .venv/bin/vocard search grammar-book 'Where am I?' --k 4
+.venv/bin/vocard search grammar-book '이 문장의 동명사는?' --current-lesson 26 --top-k 4
+.venv/bin/vocard lesson grammar-book --lesson-number 26
+.venv/bin/vocard lesson grammar-book --title '가정법 과거완료'
 ```
 
 The ingest command returns immediately after private uploads and the database
@@ -94,6 +97,102 @@ transaction, with `job_id`, `book_id`, PDF `sha256`, numeric `book_version`,
 source version history, and immutable index history. Failed-job retry is explicit
 and audited by administrator subject; re-uploading the same failed input returns
 the same failed job rather than spending more embedding requests automatically.
+
+## Grammar-point chunks and lesson retrieval
+
+New indexes group text by reviewed grammar headings, carrying a continuing point
+across PDF page boundaries. A point stays in one chunk when it fits. Larger points
+split at explanation/example boundaries; a preceding explanation and its example
+stay together when their combined text fits. Examples and translations that fit
+within the size limit are kept intact. An oversized example is split only when
+necessary and marked `example_split`. Source spans verify that every original
+character remains covered. PDF page joins add an explicit newline; source wording
+and incorrect examples are preserved.
+
+Configure the character budget with `VOCARD_CHUNK_SIZE` or per ingestion:
+
+```sh
+.venv/bin/vocard ingest grammar-book /absolute/path/book.pdf \
+  --course-id english-grammar --unit-id unit-1 --chunk-size 1200
+```
+
+`VOCARD_CHUNK_OVERLAP` is a maximum context allowance: overlap repeats whole atoms
+when they fit, rather than cutting through an example to force a fixed overlap.
+Course/unit defaults are snapshotted in the job. Reviewed pages can override them
+with `course_id`, `unit_id`, `lesson_number`, and `lesson_title`. Missing course,
+unit or lesson identifiers remain `null`; they are never invented. Clear
+`Must 26` / `Lesson 26` headings supply lesson numbers and titles when available.
+Ambiguous OCR such as `Must O1` does not become a number or inherit the last lesson.
+Supply explicit lesson metadata in reviewed JSON for reliable exact title lookup.
+
+Each new chunk stores `book_id`, `version` (source book version), `course_id`,
+`unit_id`, `lesson_number`, `lesson_title`, one-based `source_pages`, and a stable
+`chunk_id` equal to its LangChain document ID. It also stores `key_point_id`,
+`key_point_title`, exact `source_spans`, and the associated structured grammar,
+including translations and `is_correct`. Printed labels for all contributing
+pages remain in `source_page_labels`. Returned documents additionally carry the
+active `index_version` UUID and `retrieval_scope`.
+
+`ActiveBookRetriever` is a LangChain `BaseRetriever`; use `invoke` / `ainvoke`.
+Trusted application code must supply `authorized_book_ids` from verified account
+authorization. Passing only a selected book ID is insufficient:
+
+```python
+from vocard.retrieval import ActiveBookRetriever
+
+retriever = ActiveBookRetriever(
+    repository=repository,
+    storage=storage,
+    book_id="grammar-book",
+    authorized_book_ids=authorized_book_ids,  # Trusted authorization, not query content.
+    current_lesson=26,
+    course_id="english-grammar",
+    unit_id="unit-1",
+    top_k=4,
+    max_fallback=2,
+    min_score=0.0,
+)
+documents = retriever.invoke("이 문장의 동명사는?")
+exact = retriever.lookup_lesson(lesson_number=26)
+```
+
+The retriever authorizes the selected book before reading storage, resolves the
+active pointer for every call, and verifies index identity plus every row's book,
+source version and source hash. Query text, custom metadata, and caller filters
+cannot select another book or an inactive index. The API rejects book/version
+filter overrides. If publication changes the active index during retrieval, it
+returns HTTP 409 with no stale results; retry the request. Existing immutable
+page-based indexes remain readable under the same book/version checks; re-ingest
+with pipeline revision 3 to obtain grammar-point chunks and lesson metadata.
+
+Lesson preference and fallback are deterministic:
+
+- Rank relevant chunks from `current_lesson` (or `current_lesson_title`) first.
+- Only fill remaining `top_k` slots from the same authorized book and active index,
+  up to `max_fallback`. Both passes apply the same `min_score` threshold.
+- `allow_book_fallback: false` / CLI `--no-book-fallback` disables the second pass.
+  A missing or irrelevant lesson then returns no results. A zero fallback limit
+  also disables it. Results identify `current_lesson`, `same_book_fallback` or `book`.
+- Course/unit filters narrow both passes. Omit them to allow fallback throughout
+  the book. With no current lesson, ordinary book retrieval uses `top_k` directly.
+
+Defaults are `VOCARD_TOP_K=4`, `VOCARD_MAX_FALLBACK=2`, and `VOCARD_MIN_SCORE=0`.
+`POST /admin/books/{book_id}/search` accepts `query`, `top_k` (`k` remains an alias),
+`current_lesson`, `current_lesson_title`, `course_id`, `unit_id`,
+`allow_book_fallback`, `max_fallback`, and `min_score`.
+
+Exact lookup uses `GET /admin/books/{book_id}/lessons?lesson_number=26` or
+`?title=...`, with optional course/unit filters. Matching normalizes Unicode,
+whitespace and case; it never uses substring matching, embeddings or fallback.
+When both number and title are supplied, both must match. Repeated lesson numbers
+or titles across units can be disambiguated with `unit_id`. API results paginate
+with `limit` (default 50), `offset`, `total_chunks`, and `next_offset`.
+
+The signed administrator JWT may include `book_ids: ["grammar-book"]` to restrict
+book access across ingestion, status, extraction, retrieval and exact lookup.
+Omitting that claim preserves the existing global-administrator role. Retrieval
+scope always comes from that verified principal; course/unit query parameters
+only narrow results and do not grant access.
 
 ## Korean/English extraction and review
 
@@ -223,7 +322,8 @@ SQLite migration preserves source versions, queued jobs and active pointers.
    this transaction leaves the active pointer untouched. The old index, validation
    report, and previous-version link remain available. An older queued job finishing
    after a newer publication is recorded as `superseded` and cannot roll back the
-   active pointer. In-flight queries finish against the snapshot they already read.
+   active pointer. Retrieval detects a pointer change during a query and asks the
+   caller to retry instead of returning the stale snapshot.
 
 Embedding a large textbook may take time and incur provider costs. Live ingestion
 does not happen during installation, tests, or upload submission. JSON vector
@@ -250,6 +350,14 @@ separation, source-hash matching, and preservation of translations and
 `is_correct: false`. Real Korean/English Tesseract was also exercised on a scanned
 page from the supplied textbook. AWS/OpenAI live calls and container builds were
 not run; Docker is unavailable in this local environment.
+
+Retriever tests additionally cover cross-page explanation/example grouping, size
+limits, stable chunk IDs, exact lookup, lesson-first ranking, bounded fallback,
+scoped JWTs, corrupted row identities and active-version changes. An offline
+rechunking check on the supplied 425-page OCR draft retained every source span:
+439 detected grammar points, 628 chunks, 279 cross-page chunks, and a maximum of
+1000 characters per chunk. Only 73 lesson numbers were unambiguous in that draft;
+missing or ambiguous OCR metadata requires review before reliable exact lookup.
 
 Reference APIs: [LangChain embeddings](https://reference.langchain.com/python/langchain-core/embeddings/embeddings/Embeddings/embed_documents),
 [LangChain retrievers](https://reference.langchain.com/python/langchain-core/vectorstores/base),

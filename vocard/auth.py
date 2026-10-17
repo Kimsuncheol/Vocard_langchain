@@ -13,6 +13,12 @@ from vocard.config import Settings
 @dataclass(frozen=True)
 class Administrator:
     subject: str
+    book_ids: frozenset[str] | None = None
+
+    def authorize_book(self, book_id: str) -> frozenset[str]:
+        if self.book_ids is not None and book_id not in self.book_ids:
+            raise HTTPException(403, "Book is outside the authorized scope")
+        return frozenset({book_id})
 
 
 def administrator_dependency(settings: Settings):
@@ -42,7 +48,13 @@ def administrator_dependency(settings: Settings):
             raise HTTPException(403, "Administrator role required")
         if not isinstance(claims["sub"], str) or not claims["sub"].strip():
             raise HTTPException(401, "Invalid administrator identity")
-        return Administrator(claims["sub"])
+        books = claims.get("book_ids")
+        if "book_ids" in claims and (
+            not isinstance(books, list)
+            or any(not isinstance(b, str) or not b.strip() for b in books)
+        ):
+            raise HTTPException(401, "Invalid book authorization claims")
+        return Administrator(claims["sub"], frozenset(books) if books is not None else None)
 
     return require_admin
 

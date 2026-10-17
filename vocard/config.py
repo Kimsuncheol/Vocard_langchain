@@ -14,7 +14,7 @@ class Settings:
     embedding_dimensions: int = 1536
     chunk_size: int = 1000
     chunk_overlap: int = 150
-    pipeline_revision: str = "2"
+    pipeline_revision: str = "3"
     lease_seconds: float = 120
     max_attempts: int = 3
     max_upload_bytes: int = 100 * 1024 * 1024
@@ -26,6 +26,9 @@ class Settings:
     ocr_min_confidence: float = 85
     ocr_max_pixels: int = 16000000
     tessdata_dir: str | None = None
+    top_k: int = 4
+    max_fallback: int = 2
+    min_score: float = 0.0
 
     def __post_init__(self):
         if not self.bucket or len(self.jwt_secret.encode()) < 32:
@@ -53,21 +56,36 @@ class Settings:
             raise ValueError("Invalid OCR resource limits")
         if self.ocr_languages != "kor+eng":
             raise ValueError("This extractor requires both Korean and English OCR models (kor+eng)")
+        if (
+            not 1 <= self.top_k <= 100
+            or not 0 <= self.max_fallback <= 100
+            or not -1 <= self.min_score <= 1
+        ):
+            raise ValueError("Invalid retrieval top_k, fallback limit or score threshold")
 
     def pipeline(
-        self, extraction_sha: str | None, allow_uncertain: bool, reviewed_extraction: bool = False
+        self,
+        extraction_sha: str | None,
+        allow_uncertain: bool,
+        reviewed_extraction: bool = False,
+        course_id: str | None = None,
+        unit_id: str | None = None,
+        chunk_size: int | None = None,
     ) -> dict:
         return {
             "revision": self.pipeline_revision,
             "embedding_provider": "openai",
             "embedding_model": self.embedding_model,
             "embedding_dimensions": self.embedding_dimensions,
-            "chunk_size": self.chunk_size,
+            "chunk_size": self.chunk_size if chunk_size is None else chunk_size,
             "chunk_overlap": self.chunk_overlap,
             "extraction_sha256": extraction_sha,
             "allow_uncertain": allow_uncertain,
             "reviewed_extraction": reviewed_extraction,
             "extraction_schema_version": "2.0",
+            "chunking_schema": "grammar_key_point_v1",
+            "course_id": course_id,
+            "unit_id": unit_id,
             "ocr": {
                 "languages": self.ocr_languages,
                 "dpi": self.ocr_dpi,
@@ -92,7 +110,7 @@ class Settings:
             embedding_dimensions=int(os.getenv("VOCARD_EMBEDDING_DIMENSIONS", "1536")),
             chunk_size=int(os.getenv("VOCARD_CHUNK_SIZE", "1000")),
             chunk_overlap=int(os.getenv("VOCARD_CHUNK_OVERLAP", "150")),
-            pipeline_revision=os.getenv("VOCARD_PIPELINE_REVISION", "2"),
+            pipeline_revision=os.getenv("VOCARD_PIPELINE_REVISION", "3"),
             lease_seconds=float(os.getenv("VOCARD_LEASE_SECONDS", "120")),
             max_attempts=int(os.getenv("VOCARD_MAX_ATTEMPTS", "3")),
             max_upload_bytes=int(os.getenv("VOCARD_MAX_UPLOAD_BYTES", "104857600")),
@@ -103,4 +121,7 @@ class Settings:
             ocr_min_confidence=float(os.getenv("VOCARD_OCR_MIN_CONFIDENCE", "85")),
             ocr_max_pixels=int(os.getenv("VOCARD_OCR_MAX_PIXELS", "16000000")),
             tessdata_dir=os.getenv("VOCARD_TESSDATA_DIR") or None,
+            top_k=int(os.getenv("VOCARD_TOP_K", "4")),
+            max_fallback=int(os.getenv("VOCARD_MAX_FALLBACK", "2")),
+            min_score=float(os.getenv("VOCARD_MIN_SCORE", "0")),
         )

@@ -239,7 +239,7 @@ def test_worker_crash_at_retry_limit_becomes_failed(system):
 def test_pipeline_configuration_and_extraction_digest_are_in_idempotency_key(system):
     pdf = make_pdf()
     first = submit(system, pdf)
-    settings = system["replace_settings"](pipeline_revision="3")
+    settings = system["replace_settings"](pipeline_revision="4")
     service = IngestionService(settings, system["repo"], system["storage"])
     second = service.submit("grammar", io.BytesIO(pdf), "admin")
     third = submit(system, pdf, extraction=io.BytesIO(make_sidecar(pdf)), allow_uncertain=True)
@@ -264,6 +264,7 @@ def test_scanned_pdf_requires_ocr_and_reviewed_import(system):
         storage=system["storage"],
         embedding_factory=lambda _: TestEmbeddings(),
         book_id="grammar",
+        authorized_book_ids=frozenset({"grammar"}),
     )
     docs = retriever.invoke("가정법 과거완료")
     text = "".join(d.page_content for d in docs)

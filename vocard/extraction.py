@@ -38,6 +38,10 @@ class GrammarPage(BaseModel):
     lines: list[dict] = Field(default_factory=list)
     uncertainty_flags: list[str] = Field(default_factory=list)
     uncertain: StrictBool = False
+    course_id: str | None = Field(default=None, strict=True, min_length=1)
+    unit_id: str | None = Field(default=None, strict=True, min_length=1)
+    lesson_number: int | None = Field(default=None, strict=True, ge=1)
+    lesson_title: str | None = Field(default=None, strict=True, min_length=1)
 
 
 class ExtractionSource(BaseModel):
@@ -335,6 +339,7 @@ def extraction_documents(result: dict, job: dict) -> list[Document]:
     if result["review"]["required"]:
         raise ReviewRequired(result)
     documents = []
+    pipeline = json.loads(job["pipeline_json"])
     for page in result["pages"]:
         if not page["text"].strip():
             continue
@@ -352,6 +357,14 @@ def extraction_documents(result: dict, job: dict) -> list[Document]:
                     "uncertainty_flags": page["uncertainty_flags"],
                     "source_type": page["extraction_method"],
                     "pipeline_fingerprint": job["pipeline_fingerprint"],
+                    "course_id": page.get("course_id")
+                    or result.get("course_id")
+                    or pipeline.get("course_id"),
+                    "unit_id": page.get("unit_id")
+                    or result.get("unit_id")
+                    or pipeline.get("unit_id"),
+                    "lesson_number": page.get("lesson_number"),
+                    "lesson_title": page.get("lesson_title"),
                     "grammar": {
                         key: page[key]
                         for key in (

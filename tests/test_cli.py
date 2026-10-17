@@ -29,7 +29,7 @@ def test_cli_to_live_http_api_and_durable_worker(system, tmp_path):
             time.sleep(0.02)
         assert server.started
         pdf = tmp_path / "book.pdf"
-        pdf.write_bytes(make_pdf())
+        pdf.write_bytes(make_pdf("Must 7 Gerunds Where am I? English grammar examples."))
         env = {**os.environ, "VOCARD_ADMIN_TOKEN": token(system["settings"])}
         command = [sys.executable, "-m", "vocard.cli", "--api-url", f"http://127.0.0.1:{port}"]
         upload = subprocess.run(
@@ -73,7 +73,17 @@ def test_cli_to_live_http_api_and_durable_worker(system, tmp_path):
         assert json.loads(approved.stdout)["reviewed_by"] == "test-admin"
         assert system["worker"].run_once()
         search = subprocess.run(
-            command + ["search", "cli-book", "Where am I?"],
+            command
+            + [
+                "search",
+                "cli-book",
+                "Where am I?",
+                "--current-lesson",
+                "7",
+                "--no-book-fallback",
+                "--top-k",
+                "1",
+            ],
             env=env,
             capture_output=True,
             text=True,
@@ -81,6 +91,16 @@ def test_cli_to_live_http_api_and_durable_worker(system, tmp_path):
         )
         assert search.returncode == 0, search.stderr
         assert "Where am I?" in search.stdout
+        assert json.loads(search.stdout)["documents"][0]["metadata"]["lesson_number"] == 7
+        lookup = subprocess.run(
+            command + ["lesson", "cli-book", "--lesson-number", "7"],
+            env=env,
+            capture_output=True,
+            text=True,
+            timeout=20,
+        )
+        assert lookup.returncode == 0, lookup.stderr
+        assert json.loads(lookup.stdout)["total_chunks"] == 1
         denied_env = {**env, "VOCARD_ADMIN_TOKEN": token(system["settings"], role="reader")}
         denied = subprocess.run(
             command + ["book", "cli-book"],

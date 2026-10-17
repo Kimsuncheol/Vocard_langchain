@@ -408,8 +408,10 @@ class Repository:
     def active_index(self, book_id):
         with self.connection() as con:
             row = con.execute(
-                "SELECT i.*,j.pipeline_json FROM books b JOIN index_versions i "
+                "SELECT i.*,j.pipeline_json,j.pipeline_fingerprint,v.book_version,"
+                "v.sha256 AS source_sha256 FROM books b JOIN index_versions i "
                 "ON i.index_version=b.active_index_version JOIN jobs j ON j.job_id=i.job_id "
+                "JOIN book_versions v ON v.id=j.book_version_id "
                 "WHERE b.book_id=?",
                 (book_id,),
             ).fetchone()
