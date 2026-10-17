@@ -1,0 +1,25 @@
+services:
+  api:
+    build: .
+    env_file: .env
+    environment:
+      VOCARD_DB_PATH: /app/state/ingestion.sqlite3
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - ingestion-state:/app/state
+    restart: unless-stopped
+    init: true
+  worker:
+    build: .
+    command: ["python", "-m", "vocard.worker"]
+    env_file: .env
+    environment:
+      VOCARD_DB_PATH: /app/state/ingestion.sqlite3
+    volumes:
+      - ingestion-state:/app/state
+    restart: unless-stopped
+    init: true
+
+volumes:
+  ingestion-state:
