@@ -1,5 +1,4 @@
 import hashlib
-import io
 import json
 import math
 
@@ -8,8 +7,8 @@ from langchain_core.embeddings import Embeddings
 from langchain_core.retrievers import BaseRetriever
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from pypdf import PdfReader
 
+from vocard.extraction import extract_pages  # noqa: F401 - compatibility import
 from vocard.ingestion import InputRejected
 
 
@@ -22,104 +21,6 @@ def embeddings_for(pipeline: dict) -> Embeddings:
         max_retries=2,
         request_timeout=60,
     )
-
-
-def extract_pages(pdf: bytes, job: dict, sidecar: bytes | None) -> list[Document]:
-    pipeline = json.loads(job["pipeline_json"])
-    if hashlib.sha256(pdf).hexdigest() != job["sha256"]:
-        raise InputRejected("Source PDF SHA-256 does not match book version")
-    try:
-        reader = PdfReader(io.BytesIO(pdf))
-        if reader.is_encrypted:
-            raise InputRejected("Encrypted PDFs are not supported")
-        count = len(reader.pages)
-    except InputRejected:
-        raise
-    except Exception as exc:
-        raise InputRejected("Source is not a readable PDF") from exc
-    if not 0 < count <= pipeline["max_pages"]:
-        raise InputRejected("PDF page count exceeds the configured limit or is zero")
-    pages = []
-    if sidecar is not None:
-        try:
-            supplied = json.loads(sidecar)
-            if supplied["source"]["sha256"] != job["sha256"]:
-                raise InputRejected("Extraction JSON belongs to a different PDF SHA-256")
-            pages = supplied["pages"]
-            if (
-                not isinstance(pages, list)
-                or len(pages) != count
-                or any(
-                    type(p.get("pdf_page_index")) is not int or p["pdf_page_index"] != i
-                    for i, p in enumerate(pages)
-                )
-            ):
-                raise InputRejected("Extraction must cover every PDF page exactly once, in order")
-            if any(not isinstance(p.get("text"), str) for p in pages):
-                raise InputRejected("Every extraction page must have a text string")
-            for page in pages:
-                lines = page.get("lines", [])
-                flags = page.get("uncertainty_flags", [])
-                if (
-                    not isinstance(lines, list)
-                    or any(not isinstance(line, dict) for line in lines)
-                    or not isinstance(flags, list)
-                    or any(not isinstance(f, str) for f in flags)
-                ):
-                    raise InputRejected("Invalid extraction lines or uncertainty flags")
-            if supplied.get("extraction", {}).get("uncertain"):
-                pages = [{**p, "uncertain": True} for p in pages]
-        except InputRejected:
-            raise
-        except (ValueError, KeyError, TypeError, AttributeError) as exc:
-            raise InputRejected("Malformed structured extraction JSON") from exc
-    else:
-        try:
-            for i, page in enumerate(reader.pages):
-                text = page.extract_text() or ""
-                pages.append(
-                    {
-                        "pdf_page_index": i,
-                        "text": text,
-                        "uncertain": not text.strip(),
-                        "uncertainty_flags": ["no_embedded_text"] if not text.strip() else [],
-                    }
-                )
-        except Exception as exc:
-            raise InputRejected("PDF text extraction failed; supply structured OCR JSON") from exc
-    documents = []
-    for p in pages:
-        uncertain = bool(
-            p.get("uncertain")
-            or p.get("uncertainty_flags")
-            or any(line.get("uncertain") for line in p.get("lines", []))
-        )
-        if uncertain and not pipeline["allow_uncertain"]:
-            raise InputRejected(
-                f"Page index {p['pdf_page_index']} has uncertainty or no embedded text. "
-                "Supply reviewed OCR JSON or explicitly enable allow_uncertain."
-            )
-        if not p["text"].strip():
-            continue
-        documents.append(
-            Document(
-                page_content=p["text"],
-                metadata={
-                    "book_id": job["book_id"],
-                    "book_version": job["book_version"],
-                    "sha256": job["sha256"],
-                    "pdf_page_index": p["pdf_page_index"],
-                    "pdf_page_number": p["pdf_page_index"] + 1,
-                    "uncertain": uncertain,
-                    "uncertainty_flags": p.get("uncertainty_flags", []),
-                    "source_type": "structured_ocr" if sidecar is not None else "pdf_embedded_text",
-                    "pipeline_fingerprint": job["pipeline_fingerprint"],
-                },
-            )
-        )
-    if not documents:
-        raise InputRejected("No indexable text; scanned PDFs require structured OCR JSON")
-    return documents
 
 
 def split_pages(pages: list[Document], job: dict) -> list[Document]:

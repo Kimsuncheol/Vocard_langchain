@@ -1,3 +1,4 @@
+import json
 import os
 import socket
 import subprocess
@@ -41,6 +42,35 @@ def test_cli_to_live_http_api_and_durable_worker(system, tmp_path):
         assert upload.returncode == 0, upload.stderr
         assert '"status": "queued"' in upload.stdout
         assert system["repo"].book("cli-book")["active_index_version"] is None
+        assert system["worker"].run_once()
+        exported = tmp_path / "reviewed.json"
+        export = subprocess.run(
+            command
+            + ["extraction", json.loads(upload.stdout)["job_id"], "--output", str(exported)],
+            env=env,
+            capture_output=True,
+            text=True,
+            timeout=20,
+        )
+        assert export.returncode == 0, export.stderr
+        assert json.loads(exported.read_text())["pages"][0]["pdf_page_index"] == 1
+        approved = subprocess.run(
+            command
+            + [
+                "ingest",
+                "cli-book",
+                str(pdf),
+                "--extraction-json",
+                str(exported),
+                "--reviewed-extraction",
+            ],
+            env=env,
+            capture_output=True,
+            text=True,
+            timeout=20,
+        )
+        assert approved.returncode == 0, approved.stderr
+        assert json.loads(approved.stdout)["reviewed_by"] == "test-admin"
         assert system["worker"].run_once()
         search = subprocess.run(
             command + ["search", "cli-book", "Where am I?"],

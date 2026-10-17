@@ -8,17 +8,19 @@ import threading
 
 from vocard.config import Settings
 from vocard.db import LeaseLost, Repository
+from vocard.extraction import extract_grammar, extraction_documents
 from vocard.ingestion import InputRejected
-from vocard.pipeline import build_index, embeddings_for, extract_pages, split_pages, validate_index
+from vocard.pipeline import build_index, embeddings_for, split_pages, validate_index
 from vocard.storage import PrivateS3
 
 logger = logging.getLogger(__name__)
 
 
 class Worker:
-    def __init__(self, settings, repository, storage, embedding_factory=embeddings_for):
+    def __init__(self, settings, repository, storage, embedding_factory=embeddings_for, ocr=None):
         self.settings, self.repository, self.storage = settings, repository, storage
         self.embedding_factory = embedding_factory
+        self.ocr = ocr
 
     def run_once(self) -> bool:
         job = self.repository.claim(self.settings.lease_seconds)
@@ -49,7 +51,21 @@ class Worker:
                 if job["extraction_key"]
                 else None
             )
-            pages = extract_pages(pdf, job, sidecar)
+            extraction = extract_grammar(pdf, job, sidecar, self.ocr)
+            extracted_bytes = json.dumps(extraction, ensure_ascii=False, allow_nan=False).encode()
+            extracted_sha = hashlib.sha256(extracted_bytes).hexdigest()
+            extracted_key = f"extractions/generated/{job_id}/{token}.json"
+            self.storage.put(
+                extracted_key, io.BytesIO(extracted_bytes), extracted_sha, "application/json"
+            )
+            if self.repository.record_extraction(
+                job_id, token, extracted_key, extracted_sha, extraction["review"]
+            ):
+                logger.info("Job %s awaiting administrator extraction review", job_id)
+                return True
+            pages = extraction_documents(extraction, job)
+            for page in pages:
+                page.metadata["extraction_artifact_key"] = extracted_key
             self.repository.stage(job_id, token, "indexing", "succeeded")
             chunks = split_pages(pages, job)
             if lost.is_set():

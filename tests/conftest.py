@@ -59,7 +59,7 @@ def make_sidecar(
 ):
     return json.dumps(
         {
-            "source": {"sha256": hashlib.sha256(pdf).hexdigest()},
+            "source": {"sha256": hashlib.sha256(pdf).hexdigest(), "page_index_base": 0},
             "pages": [{"pdf_page_index": 0, "text": text, "uncertain": uncertain}],
         },
         ensure_ascii=False,

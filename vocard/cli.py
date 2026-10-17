@@ -16,7 +16,19 @@ def main():
     ingest.add_argument("book_id")
     ingest.add_argument("pdf", type=Path)
     ingest.add_argument("--extraction-json", type=Path)
-    ingest.add_argument("--allow-uncertain", action="store_true")
+    ingest.add_argument(
+        "--allow-uncertain",
+        action="store_true",
+        help="Deprecated: does not bypass administrator review",
+    )
+    ingest.add_argument(
+        "--reviewed-extraction",
+        action="store_true",
+        help="Attest that the supplied extracted JSON has been reviewed",
+    )
+    extraction = commands.add_parser("extraction", help="Export a saved extraction for review")
+    extraction.add_argument("job_id")
+    extraction.add_argument("--output", type=Path, required=True)
     commands.add_parser("job").add_argument("job_id")
     commands.add_parser("book").add_argument("book_id")
     commands.add_parser("retry").add_argument("job_id")
@@ -52,8 +64,13 @@ def main():
                 response = client.post(
                     f"/admin/books/{args.book_id}/ingestions",
                     files=uploads,
-                    data={"allow_uncertain": str(args.allow_uncertain).lower()},
+                    data={
+                        "allow_uncertain": str(args.allow_uncertain).lower(),
+                        "reviewed_extraction": str(args.reviewed_extraction).lower(),
+                    },
                 )
+            elif args.command == "extraction":
+                response = client.get(f"/admin/jobs/{args.job_id}/extraction")
             elif args.command == "job":
                 response = client.get(f"/admin/jobs/{args.job_id}")
             elif args.command == "book":
@@ -65,7 +82,13 @@ def main():
                     f"/admin/books/{args.book_id}/search", json={"query": args.query, "k": args.k}
                 )
             response.raise_for_status()
-            print(json.dumps(response.json(), ensure_ascii=False, indent=2))
+            if args.command == "extraction":
+                # Exclusive creation prevents accidentally replacing a reviewed local artifact.
+                with args.output.open("xb") as output:
+                    output.write(response.content)
+                print(str(args.output))
+            else:
+                print(json.dumps(response.json(), ensure_ascii=False, indent=2))
     except (OSError, httpx.HTTPError) as exc:
         if isinstance(exc, httpx.HTTPStatusError):
             print(f"API returned {exc.response.status_code}: {exc.response.text}", file=sys.stderr)

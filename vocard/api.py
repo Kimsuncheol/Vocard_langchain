@@ -55,6 +55,7 @@ def create_app(settings=None, repository=None, storage=None, embedding_factory=e
         actor: Annotated[Administrator, Depends(admin)],
         extraction: Annotated[UploadFile | None, File()] = None,
         allow_uncertain: Annotated[bool, Form()] = False,
+        reviewed_extraction: Annotated[bool, Form()] = False,
     ):
         result = service.submit(
             book_id,
@@ -62,6 +63,7 @@ def create_app(settings=None, repository=None, storage=None, embedding_factory=e
             actor.subject,
             extraction.file if extraction else None,
             allow_uncertain,
+            reviewed_extraction,
         )
         return {k: v for k, v in result.items() if k != "lease_token"}
 
@@ -91,6 +93,23 @@ def create_app(settings=None, repository=None, storage=None, embedding_factory=e
             raise HTTPException(404, "Job not found") from exc
         except ValueError as exc:
             raise HTTPException(409, str(exc)) from exc
+
+    @app.get("/admin/jobs/{job_id}/extraction")
+    def extraction(job_id: str, actor: Annotated[Administrator, Depends(admin)]):
+        from fastapi.responses import Response
+
+        try:
+            result = repository.job(job_id)
+            if not result["extracted_key"]:
+                raise KeyError(job_id)
+            payload = storage.get(result["extracted_key"], result["extracted_sha256"])
+            return Response(
+                payload,
+                media_type="application/json",
+                headers={"Content-Disposition": 'attachment; filename="extraction.json"'},
+            )
+        except KeyError as exc:
+            raise HTTPException(404, "Extraction is not available") from exc
 
     @app.post("/admin/books/{book_id}/search")
     def search(

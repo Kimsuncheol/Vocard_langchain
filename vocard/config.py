@@ -14,12 +14,18 @@ class Settings:
     embedding_dimensions: int = 1536
     chunk_size: int = 1000
     chunk_overlap: int = 150
-    pipeline_revision: str = "1"
+    pipeline_revision: str = "2"
     lease_seconds: float = 120
     max_attempts: int = 3
     max_upload_bytes: int = 100 * 1024 * 1024
     max_pages: int = 2000
     max_chunks: int = 30000
+    ocr_languages: str = "kor+eng"
+    ocr_dpi: int = 300
+    ocr_timeout: int = 120
+    ocr_min_confidence: float = 85
+    ocr_max_pixels: int = 16000000
+    tessdata_dir: str | None = None
 
     def __post_init__(self):
         if not self.bucket or len(self.jwt_secret.encode()) < 32:
@@ -38,8 +44,19 @@ class Settings:
             or self.lease_seconds < 3
         ):
             raise ValueError("Resource limits must be positive; lease must be >= 3 seconds")
+        if (
+            not 72 <= self.ocr_dpi <= 600
+            or self.ocr_timeout < 1
+            or not 0 <= self.ocr_min_confidence <= 100
+            or self.ocr_max_pixels < 1
+        ):
+            raise ValueError("Invalid OCR resource limits")
+        if self.ocr_languages != "kor+eng":
+            raise ValueError("This extractor requires both Korean and English OCR models (kor+eng)")
 
-    def pipeline(self, extraction_sha: str | None, allow_uncertain: bool) -> dict:
+    def pipeline(
+        self, extraction_sha: str | None, allow_uncertain: bool, reviewed_extraction: bool = False
+    ) -> dict:
         return {
             "revision": self.pipeline_revision,
             "embedding_provider": "openai",
@@ -49,6 +66,16 @@ class Settings:
             "chunk_overlap": self.chunk_overlap,
             "extraction_sha256": extraction_sha,
             "allow_uncertain": allow_uncertain,
+            "reviewed_extraction": reviewed_extraction,
+            "extraction_schema_version": "2.0",
+            "ocr": {
+                "languages": self.ocr_languages,
+                "dpi": self.ocr_dpi,
+                "timeout": self.ocr_timeout,
+                "min_confidence": self.ocr_min_confidence,
+                "max_pixels": self.ocr_max_pixels,
+                "tessdata_dir": self.tessdata_dir,
+            },
             "max_pages": self.max_pages,
             "max_chunks": self.max_chunks,
         }
@@ -65,10 +92,15 @@ class Settings:
             embedding_dimensions=int(os.getenv("VOCARD_EMBEDDING_DIMENSIONS", "1536")),
             chunk_size=int(os.getenv("VOCARD_CHUNK_SIZE", "1000")),
             chunk_overlap=int(os.getenv("VOCARD_CHUNK_OVERLAP", "150")),
-            pipeline_revision=os.getenv("VOCARD_PIPELINE_REVISION", "1"),
+            pipeline_revision=os.getenv("VOCARD_PIPELINE_REVISION", "2"),
             lease_seconds=float(os.getenv("VOCARD_LEASE_SECONDS", "120")),
             max_attempts=int(os.getenv("VOCARD_MAX_ATTEMPTS", "3")),
             max_upload_bytes=int(os.getenv("VOCARD_MAX_UPLOAD_BYTES", "104857600")),
             max_pages=int(os.getenv("VOCARD_MAX_PAGES", "2000")),
             max_chunks=int(os.getenv("VOCARD_MAX_CHUNKS", "30000")),
+            ocr_dpi=int(os.getenv("VOCARD_OCR_DPI", "300")),
+            ocr_timeout=int(os.getenv("VOCARD_OCR_TIMEOUT", "120")),
+            ocr_min_confidence=float(os.getenv("VOCARD_OCR_MIN_CONFIDENCE", "85")),
+            ocr_max_pixels=int(os.getenv("VOCARD_OCR_MAX_PIXELS", "16000000")),
+            tessdata_dir=os.getenv("VOCARD_TESSDATA_DIR") or None,
         )

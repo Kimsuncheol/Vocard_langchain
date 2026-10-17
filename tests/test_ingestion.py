@@ -83,7 +83,7 @@ def test_upload_is_idempotent_and_worker_is_separate(system):
     assert result.status_code == 200
     document = result.json()["documents"][0]
     assert "Where am I?" in document["page_content"]
-    assert document["metadata"]["pdf_page_index"] == 0
+    assert document["metadata"]["pdf_page_index"] == 1
     assert (
         document["metadata"]["index_version"]
         == system["repo"].book("grammar")["active_index_version"]
@@ -239,7 +239,7 @@ def test_worker_crash_at_retry_limit_becomes_failed(system):
 def test_pipeline_configuration_and_extraction_digest_are_in_idempotency_key(system):
     pdf = make_pdf()
     first = submit(system, pdf)
-    settings = system["replace_settings"](pipeline_revision="2")
+    settings = system["replace_settings"](pipeline_revision="3")
     service = IngestionService(settings, system["repo"], system["storage"])
     second = service.submit("grammar", io.BytesIO(pdf), "admin")
     third = submit(system, pdf, extraction=io.BytesIO(make_sidecar(pdf)), allow_uncertain=True)
@@ -247,7 +247,7 @@ def test_pipeline_configuration_and_extraction_digest_are_in_idempotency_key(sys
     assert {j["book_version"] for j in (first, second, third)} == {1}
 
 
-def test_scanned_pdf_requires_ocr_and_explicit_uncertainty_acceptance(system):
+def test_scanned_pdf_requires_ocr_and_reviewed_import(system):
     pdf = make_pdf(text=None)
     native = submit(system, pdf)
     system["worker"].run_once()
@@ -256,7 +256,7 @@ def test_scanned_pdf_requires_ocr_and_explicit_uncertainty_acceptance(system):
     strict = submit(system, pdf, extraction=io.BytesIO(sidecar))
     system["worker"].run_once()
     assert system["repo"].job(strict["job_id"])["status"] == "failed"
-    accepted = submit(system, pdf, extraction=io.BytesIO(sidecar), allow_uncertain=True)
+    accepted = submit(system, pdf, extraction=io.BytesIO(sidecar), reviewed_extraction=True)
     system["worker"].run_once()
     assert system["repo"].job(accepted["job_id"])["status"] == "succeeded"
     retriever = ActiveBookRetriever(
@@ -363,7 +363,9 @@ def test_chunking_preserves_every_original_character_and_page_index(system):
         '  가정법 과거완료: "If I had known, I would have called."\n'
         "○ I enjoyed swimming.  × I enjoyed to swim.\n\n"
     ) * 10 + "  \n"
-    job = submit(system, pdf, extraction=io.BytesIO(make_sidecar(pdf, text)), allow_uncertain=True)
+    job = submit(
+        system, pdf, extraction=io.BytesIO(make_sidecar(pdf, text)), reviewed_extraction=True
+    )
     pages = extract_pages(pdf, job, make_sidecar(pdf, text))
     chunks = split_pages(pages, job)
     assert len(chunks) > 1
@@ -371,7 +373,7 @@ def test_chunking_preserves_every_original_character_and_page_index(system):
     for chunk in chunks:
         start = chunk.metadata["start_index"]
         assert text[start : start + len(chunk.page_content)] == chunk.page_content
-        assert chunk.metadata["pdf_page_index"] == 0
+        assert chunk.metadata["pdf_page_index"] == 1
         intervals.append((start, start + len(chunk.page_content)))
     assert min(a for a, _ in intervals) == 0
     assert max(b for _, b in intervals) == len(text)

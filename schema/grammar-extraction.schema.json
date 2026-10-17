@@ -1,0 +1,229 @@
+{
+  "$defs": {
+    "ExtractionSource": {
+      "additionalProperties": true,
+      "properties": {
+        "sha256": {
+          "pattern": "^[0-9a-f]{64}$",
+          "title": "Sha256",
+          "type": "string"
+        },
+        "pdf_page_count": {
+          "exclusiveMinimum": 0,
+          "title": "Pdf Page Count",
+          "type": "integer"
+        },
+        "page_index_base": {
+          "const": 1,
+          "default": 1,
+          "title": "Page Index Base",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "sha256",
+        "pdf_page_count"
+      ],
+      "title": "ExtractionSource",
+      "type": "object"
+    },
+    "GrammarExample": {
+      "additionalProperties": true,
+      "properties": {
+        "text": {
+          "default": "",
+          "title": "Text",
+          "type": "string"
+        },
+        "is_correct": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Is Correct"
+        },
+        "translations": {
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "additionalProperties": true,
+                "type": "object"
+              }
+            ]
+          },
+          "title": "Translations",
+          "type": "array"
+        },
+        "correct_incorrect_markers": {
+          "items": {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          "title": "Correct Incorrect Markers",
+          "type": "array"
+        }
+      },
+      "title": "GrammarExample",
+      "type": "object"
+    },
+    "GrammarPage": {
+      "additionalProperties": true,
+      "properties": {
+        "pdf_page_index": {
+          "minimum": 1,
+          "title": "Pdf Page Index",
+          "type": "integer"
+        },
+        "pdf_page_number": {
+          "minimum": 1,
+          "title": "Pdf Page Number",
+          "type": "integer"
+        },
+        "printed_page_labels": {
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "additionalProperties": true,
+                "type": "object"
+              }
+            ]
+          },
+          "title": "Printed Page Labels",
+          "type": "array"
+        },
+        "text": {
+          "title": "Text",
+          "type": "string"
+        },
+        "headings": {
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "additionalProperties": true,
+                "type": "object"
+              }
+            ]
+          },
+          "title": "Headings",
+          "type": "array"
+        },
+        "explanations": {
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "additionalProperties": true,
+                "type": "object"
+              }
+            ]
+          },
+          "title": "Explanations",
+          "type": "array"
+        },
+        "examples": {
+          "items": {
+            "$ref": "#/$defs/GrammarExample"
+          },
+          "title": "Examples",
+          "type": "array"
+        },
+        "translations": {
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "additionalProperties": true,
+                "type": "object"
+              }
+            ]
+          },
+          "title": "Translations",
+          "type": "array"
+        },
+        "example_pairs": {
+          "items": {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          "title": "Example Pairs",
+          "type": "array"
+        },
+        "lines": {
+          "items": {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          "title": "Lines",
+          "type": "array"
+        },
+        "uncertainty_flags": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Uncertainty Flags",
+          "type": "array"
+        },
+        "uncertain": {
+          "default": false,
+          "title": "Uncertain",
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "pdf_page_index",
+        "pdf_page_number",
+        "text"
+      ],
+      "title": "GrammarPage",
+      "type": "object"
+    }
+  },
+  "additionalProperties": true,
+  "properties": {
+    "schema_version": {
+      "const": "2.0",
+      "default": "2.0",
+      "title": "Schema Version",
+      "type": "string"
+    },
+    "source": {
+      "$ref": "#/$defs/ExtractionSource"
+    },
+    "pages": {
+      "items": {
+        "$ref": "#/$defs/GrammarPage"
+      },
+      "title": "Pages",
+      "type": "array"
+    },
+    "review": {
+      "additionalProperties": true,
+      "title": "Review",
+      "type": "object"
+    }
+  },
+  "required": [
+    "source",
+    "pages"
+  ],
+  "title": "GrammarExtraction",
+  "type": "object"
+}

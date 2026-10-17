@@ -42,8 +42,11 @@ class IngestionService:
         actor: str,
         extraction: BinaryIO | None = None,
         allow_uncertain: bool = False,
+        reviewed_extraction: bool = False,
     ):
         validate_book_id(book_id)
+        if reviewed_extraction and extraction is None:
+            raise InputRejected("A reviewed extraction requires an extracted JSON upload")
         with SpooledTemporaryFile(max_size=8 * 1024 * 1024) as pdf:
             sha = copy_and_hash(source, pdf, self.settings.max_upload_bytes)
             if pdf.read(5) != b"%PDF-":
@@ -62,7 +65,7 @@ class IngestionService:
             sha,
             source_key,
             extraction_key,
-            self.settings.pipeline(extraction_sha, allow_uncertain),
+            self.settings.pipeline(extraction_sha, allow_uncertain, reviewed_extraction),
             actor,
             self.settings.max_attempts,
         )

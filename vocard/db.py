@@ -76,10 +76,29 @@ class Repository:
         with self.connection() as con:
             con.execute("PRAGMA journal_mode=WAL")
             version = con.execute("PRAGMA user_version").fetchone()[0]
-            if version not in (0, 1):
+            if version not in (0, 1, 2):
                 raise ValueError("Unsupported database schema version")
             con.executescript(SCHEMA)
-            con.execute("PRAGMA user_version=1")
+            # Additive migration: preserve existing books, active indexes and queued jobs.
+            con.execute("BEGIN IMMEDIATE")
+            try:
+                columns = {row[1] for row in con.execute("PRAGMA table_info(jobs)")}
+                additions = {
+                    "extracted_key": "TEXT",
+                    "extracted_sha256": "TEXT",
+                    "review_status": "TEXT NOT NULL DEFAULT 'none'",
+                    "review_report_json": "TEXT",
+                    "reviewed_by": "TEXT",
+                    "reviewed_at": "REAL",
+                }
+                for column, definition in additions.items():
+                    if column not in columns:
+                        con.execute(f"ALTER TABLE jobs ADD COLUMN {column} {definition}")
+                con.execute("PRAGMA user_version=2")
+                con.commit()
+            except BaseException:
+                con.rollback()
+                raise
         path.chmod(0o600)
 
     @contextmanager
@@ -156,6 +175,11 @@ class Repository:
                         now,
                     ),
                 )
+                if pipeline.get("reviewed_extraction"):
+                    con.execute(
+                        "UPDATE jobs SET reviewed_by=?,reviewed_at=? WHERE job_id=?",
+                        (actor, now, job_id),
+                    )
         return {**self.job(job_id), "created": created}
 
     def job(self, job_id):
@@ -168,7 +192,11 @@ class Repository:
             ).fetchone()
         if row is None:
             raise KeyError(job_id)
-        return dict(row)
+        result = dict(row)
+        result["review_report"] = (
+            json.loads(result["review_report_json"]) if result["review_report_json"] else None
+        )
+        return result
 
     def book(self, book_id):
         with self.connection() as con:
@@ -297,12 +325,37 @@ class Repository:
                 raise KeyError(job_id)
             if row["status"] != "failed":
                 raise ValueError("Only failed jobs can be explicitly retried")
+            if row["review_status"] == "required":
+                raise ValueError("Export the extraction and submit reviewed JSON for this PDF hash")
             con.execute(
                 "UPDATE jobs SET status='queued',stage='queued',available_at=?,"
                 "max_attempts=attempts+3,last_retried_by=?,updated_at=? WHERE job_id=?",
                 (time.time(), actor, time.time(), job_id),
             )
         return self.job(job_id)
+
+    def record_extraction(self, job_id, token, key, sha, report):
+        with self.connection(write=True) as con:
+            job = self.owned(con, job_id, token)
+            required = report["required"]
+            status = "required" if required else "approved" if job["reviewed_by"] else "none"
+            con.execute(
+                "UPDATE jobs SET extracted_key=?,extracted_sha256=?,review_status=?,"
+                "review_report_json=?,extraction_status='succeeded',updated_at=? WHERE job_id=?",
+                (key, sha, status, json.dumps(report), time.time(), job_id),
+            )
+            con.execute(
+                "UPDATE book_versions SET extraction_status='succeeded' WHERE id=?",
+                (job["book_version_id"],),
+            )
+            if required:
+                con.execute(
+                    "UPDATE jobs SET status='failed',stage='review_required',"
+                    "last_error='Extraction requires administrator review',"
+                    "lease_token=NULL,lease_until=NULL WHERE job_id=?",
+                    (job_id,),
+                )
+        return required
 
     def publish(self, job_id, token, key, sha, validation):
         """Fenced atomic promotion. Old immutable indexes are never deleted."""

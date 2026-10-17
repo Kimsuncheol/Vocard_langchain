@@ -33,7 +33,7 @@ Required configuration:
   `s3:GetBucketPolicyStatus` on the bucket. The API requires `s3:PutObject` and
   `s3:GetObject` on `sources/*` and `extractions/*`, plus `s3:GetObject` on `indexes/*`
   for search. The worker requires `s3:GetObject` on all three prefixes and
-  `s3:PutObject` on `indexes/*`. No public ACL, public URL, deletion, or list
+  `s3:PutObject` on `indexes/*` and `extractions/generated/*`. No public ACL, public URL, deletion, or list
   permission is needed. The bucket check runs at startup and before each operation;
   missing permissions or unsafe configuration fail closed.
 - `VOCARD_JWT_SECRET`: at least 32 random bytes shared with your trusted JWT issuer.
@@ -95,39 +95,100 @@ source version history, and immutable index history. Failed-job retry is explici
 and audited by administrator subject; re-uploading the same failed input returns
 the same failed job rather than spending more embedding requests automatically.
 
-For the supplied scanned textbook, use the existing structured extraction:
+## Korean/English extraction and review
+
+The worker first extracts embedded PDF text. Empty, short, corrupt, symbol-heavy,
+or suspicious text falls back **per page** to PDFium rendering and local Tesseract
+OCR with both `kor` and `eng`. Image pages with little embedded text also use OCR.
+Docker installs both language models. For macOS install Tesseract and its language
+models (`brew install tesseract tesseract-lang`); for Debian/Ubuntu use
+`apt-get install tesseract-ocr tesseract-ocr-kor tesseract-ocr-eng`. A custom directory
+containing `kor.traineddata` and `eng.traineddata` can be configured with
+`VOCARD_TESSDATA_DIR`. OCR never calls an LLM or external OCR service.
+
+OCR DPI, timeout, pixel limit, and confidence threshold are configured in
+`.env.example`. Missing models, renderer failures, OCR timeouts, low confidence,
+empty pages, unreadable glyphs, and source uncertainty are recorded for review.
+All automatic OCR drafts require review, including high-confidence output;
+confidence alone does not guarantee faithful Korean text, punctuation or markers.
+OCR word positions and confidences remain in the saved JSON. Original spelling,
+incorrect example sentences, and punctuation are not repaired or completed.
+
+Every extraction is saved privately at `extractions/generated/<job>/<attempt>.json`
+before embedding. A blocked job reports `status: "failed"`, `stage: "review_required"`,
+`review_status: "required"`, and a per-page `review_report`. The previous active
+index stays unchanged. These jobs do not auto-retry or call the embedding provider.
+Use the authenticated CLI to export the draft and review it against the PDF:
 
 ```sh
-.venv/bin/vocard ingest grammar-book \
-  '/Users/gimseoncheol/Downloads/840194660-영문법악마의100.pdf' \
-  --extraction-json output/pdf/textbook-extraction/textbook.json \
-  --allow-uncertain
+.venv/bin/vocard extraction JOB_ID --output /absolute/path/reviewed-book.json
 ```
 
-`--allow-uncertain` explicitly permits indexing the earlier OCR draft. Without it,
-uncertain extraction or pages with no embedded text fail validation. The default
-PDF loader does not run OCR; scanned PDFs need a structured extraction. Uncertainty
-and source page indices remain in retrieval metadata. The original PDF and full
-structured extraction remain immutable private objects. Source wording and
-incorrect examples are not rewritten or completed. Text inside source documents
-is never executed as instructions. No LLM is used to extract or correct content.
+The output path must not already exist, preventing accidental replacement of a
+reviewed file. Edit this JSON to match the source, then explicitly attest review
+when importing it with the same PDF:
 
-Structured extraction JSON has this minimum shape; page indices must cover the
-actual PDF exactly once in order, starting at zero:
+```sh
+.venv/bin/vocard ingest grammar-book /absolute/path/book.pdf \
+  --extraction-json /absolute/path/reviewed-book.json --reviewed-extraction
+```
+
+The administrator identity, review time, PDF SHA-256, and imported JSON SHA-256
+are recorded. The import must match the exact PDF hash and cover every PDF page
+exactly once in order. Embedded `reviewed_by` or approval claims are ignored;
+only the authenticated `--reviewed-extraction` submission records approval. The
+old `--allow-uncertain` flag is deprecated and **cannot bypass review**. Reviewed
+uncertainty flags stay in the artifact and retrieval metadata. An empty reviewed
+page must explicitly set `"review_disposition": "blank"`; a completely empty book
+never publishes. A reviewed import still passes all index validation checks.
+
+The existing `output/pdf/textbook-extraction/textbook.json` is an unreviewed OCR
+draft and can be used as an import reference. Review it before passing
+`--reviewed-extraction`; do not treat its existing uncertainty flags as approval.
+The original PDF and raw imported JSON are retained as immutable private objects.
+
+### Grammar JSON and page identity
+
+The canonical schema is `schema/grammar-extraction.schema.json`, generated from
+`vocard.extraction.GrammarExtraction` and based on the existing Vocard grammar JSON.
+It retains headings, explanations, examples, translations, example pairs, source
+lines, unknown source fields, raw correctness markers, and boolean or null
+`is_correct`. `false` is preserved and is never inferred from grammaticality.
+Structured grammar fields also survive chunking in retrieval metadata.
+
+New output uses **1-based** `pdf_page_index` and `pdf_page_number`, independently
+of `printed_page_labels`. For example, PDF page 15 may contain printed label
+`"16"`, or a front-matter page may contain `"iv"`. Printed labels are never used
+to calculate or replace PDF page indexes. Automatic edge-label detection is
+marked uncertain; imported labels are preserved verbatim.
 
 ```json
 {
-  "source": {"sha256": "SHA-256 of the exact uploaded PDF bytes"},
-  "pages": [
-    {"pdf_page_index": 0, "text": "Original Korean and English text", "uncertain": false}
-  ]
+  "source": {"sha256": "SHA-256 of the exact uploaded PDF bytes", "page_index_base": 1},
+  "pages": [{
+    "pdf_page_index": 1,
+    "text": "× I enjoyed to swim.\n난 수영을 즐겼다.",
+    "printed_page_labels": [{"text": "16", "uncertain": false}],
+    "explanations": [{"text": "동명사에 대한 원문의 설명"}],
+    "examples": [{
+      "text": "× I enjoyed to swim.",
+      "is_correct": false,
+      "translations": ["난 수영을 즐겼다."],
+      "correct_incorrect_markers": [{"raw": "×"}]
+    }]
+  }]
 }
 ```
 
-The earlier complete JSON format, including `lines`, `uncertainty_flags`, and
-document-level `extraction.uncertain`, is supported. Empty pages can be skipped
-only with explicit uncertainty acceptance; an entirely empty extraction never
-publishes. Upload, page, and chunk limits are configurable in `.env.example`.
+The legacy zero-based JSON is accepted with `source.page_index_base: 0`; an
+omitted base is accepted only when the complete index sequence unambiguously
+starts at 0 or 1. Mixed, duplicated, missing or inconsistent indexes are rejected.
+Legacy indexes are preserved as `source_pdf_page_index` and
+`source_page_index_base` while the canonical output and new retrieval metadata
+use one-based indexes. Existing published indexes remain immutable and retain
+the metadata format they were originally built with. The additive schema-v2
+SQLite migration preserves source versions, queued jobs and active pointers.
+
 
 ## Durability, idempotency, and publication
 
@@ -138,7 +199,7 @@ publishes. Upload, page, and chunk limits are configurable in `.env.example`.
 2. Under a database write transaction, deduplicate a book version by
    `(book_id, source SHA-256)` and a job by `(book version, pipeline fingerprint)`.
    The fingerprint includes extraction SHA-256, model, dimensions, chunk settings,
-   uncertainty acceptance, limits, and explicit pipeline revision. Increment
+   review attestation, OCR configuration, limits, and explicit pipeline revision. Increment
    `VOCARD_PIPELINE_REVISION` when changing extraction or indexing behavior.
    Concurrent duplicate submissions return the same job and source version.
 3. A separate worker claims a persisted job using an expiring, heartbeated lease.
@@ -183,13 +244,15 @@ encrypted storage, durable queue reopening, crash recovery and fencing, lease
 heartbeats, retries, validation failures, OCR provenance/uncertainty, retrieval,
 and preservation of the previous active index.
 
-Current local verification: 29 passing tests, including the CLI against a live
-local HTTP server. The supplied 425-page scanned PDF and structured OCR also passed
-a complete smoke ingestion into mocked private S3 with test-only embeddings:
-425 indexed pages, 492 chunks, successful validation and retrieval. Source-span
-coverage was checked against the complete original OCR text. AWS/OpenAI live calls
-and the container build were not run; Docker was unavailable in the local environment.
+Local tests cover native and mixed scanned pages, OCR fallback and error handling,
+review-blocked jobs, reviewed imports, legacy schema migration, page-label/index
+separation, source-hash matching, and preservation of translations and
+`is_correct: false`. Real Korean/English Tesseract was also exercised on a scanned
+page from the supplied textbook. AWS/OpenAI live calls and container builds were
+not run; Docker is unavailable in this local environment.
 
 Reference APIs: [LangChain embeddings](https://reference.langchain.com/python/langchain-core/embeddings/embeddings/Embeddings/embed_documents),
 [LangChain retrievers](https://reference.langchain.com/python/langchain-core/vectorstores/base),
 and [S3 conditional object writes](https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutObject.html).
+
+OCR references: [Tesseract CLI](https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html), [PDFium rendering](https://pypdfium2.readthedocs.io/en/stable/python_api.html).
