@@ -106,7 +106,7 @@ def create_chat_app(model_factory=None, grammar_path=None):
     hosts = ["localhost", "127.0.0.1", "testserver"]
     if hostname := os.getenv("RENDER_EXTERNAL_HOSTNAME"):
         hosts.append(hostname)
-    from vocard.privacy import PrivateRequestBoundary, configure_private_logging
+    from vocard.http_privacy import PrivateRequestBoundary, configure_private_logging
 
     configure_private_logging()
     app.add_middleware(TrustedHostMiddleware, allowed_hosts=hosts)
