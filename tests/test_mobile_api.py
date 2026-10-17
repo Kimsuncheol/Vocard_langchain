@@ -181,3 +181,21 @@ def test_public_key_verifier_validates_with_google_online():
         client=httpx.Client(transport=httpx.MockTransport(lookup)),
     )
     assert verifier("token")["uid"] == "student"
+
+
+def test_public_key_verifier_accepts_google_account_without_revocation_boundary():
+    verifier = FirebaseRestTokenVerifier(
+        "project",
+        "public-client-key",
+        verify_token=lambda _: {
+            "sub": "student",
+            "iss": "https://securetoken.google.com/project",
+            "auth_time": 100,
+        },
+        client=httpx.Client(
+            transport=httpx.MockTransport(
+                lambda _: httpx.Response(200, json={"users": [{"localId": "student"}]})
+            )
+        ),
+    )
+    assert verifier("token")["uid"] == "student"

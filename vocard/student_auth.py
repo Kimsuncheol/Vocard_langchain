@@ -115,7 +115,9 @@ class FirebaseRestTokenVerifier:
             if len(users) != 1 or users[0]["localId"] != uid:
                 raise ValueError("Identity mismatch")
             user = users[0]
-            valid_since = int(user["validSince"])
+            # Google omits this optional field when no revocation boundary is set.
+            # A supplied boundary is still strictly checked against auth_time.
+            valid_since = int(user.get("validSince", "0"))
             auth_time = claims["auth_time"]
             if not isinstance(auth_time, (int, float)):
                 raise ValueError("Invalid authentication time")

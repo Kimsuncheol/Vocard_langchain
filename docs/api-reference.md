@@ -486,7 +486,9 @@ Configure `VOCARD_FIREBASE_WEB_API_KEY` with the public Firebase web API key
 already bundled in the client. In this mode, signature, expiry, audience and
 issuer are verified with Google's Firebase certificate endpoint, then Google's
 `accounts:lookup` checks the account identity, disabled state and `validSince`
-against token `auth_time`. A service-account credential is not needed. Fixed authentication errors distinguish
+against token `auth_time`. Google may omit the optional `validSince` field
+when no revocation boundary is set; that case uses a zero boundary. Supplied
+boundaries, disabled accounts and identity mismatches are still rejected. A service-account credential is not needed. Fixed authentication errors distinguish
 signature-verification, account-lookup and account-status availability failures;
 they never include tokens or account values. Without
 this setting the existing Admin SDK verifier, including revocation checks,
