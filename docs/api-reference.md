@@ -513,3 +513,14 @@ This lightweight deployment is distinct from the private indexed ingestion API:
 
 The root Render Blueprint enables this mobile mode. A health-check 200 alone
 still does not establish student route availability or provider readiness.
+
+### Daily Expressions
+
+The lightweight Render service also exposes Firebase-authenticated content
+routes: `GET /expressions/today`, `GET /expression-lessons`, and
+`GET /expression-lessons/{lessonId}`. They use the same non-anonymous Firebase
+identity boundary as the student AI routes, independently of browser Basic auth.
+See [the complete content and progress contract](daily-expressions-api.md).
+The routes read a validated fixed-date catalog, exclude drafts/future lessons,
+and return stable error envelopes. They do not invoke an AI provider or reserve
+AI question quota. Progress belongs to the client's existing Firestore setup.

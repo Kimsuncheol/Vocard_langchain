@@ -68,10 +68,12 @@ class LocalChatModel:
     async def ainvoke(self, messages):
         async with httpx.AsyncClient(timeout=180, trust_env=False) as client:
             response = await client.post(
-                os.getenv("VOCARD_OLLAMA_BASE_URL", "http://127.0.0.1:11434").rstrip("/") + "/api/chat",
+                os.getenv("VOCARD_OLLAMA_BASE_URL", "http://127.0.0.1:11434").rstrip("/")
+                + "/api/chat",
                 headers=(
                     {"Authorization": "Bearer " + os.environ["OLLAMA_API_KEY"]}
-                    if os.getenv("OLLAMA_API_KEY") else {}
+                    if os.getenv("OLLAMA_API_KEY")
+                    else {}
                 ),
                 json={
                     "model": os.getenv("VOCARD_CHAT_MODEL", "qwen2.5:3b"),
@@ -126,12 +128,17 @@ def create_chat_app(model_factory=None, grammar_path=None):
     if provider == "ollama" and hosted:
         base_url = os.getenv("VOCARD_OLLAMA_BASE_URL", "")
         if not base_url.startswith("https://") or not os.getenv("OLLAMA_API_KEY"):
-            raise ValueError("Hosted Ollama requires an HTTPS VOCARD_OLLAMA_BASE_URL and OLLAMA_API_KEY")
+            raise ValueError(
+                "Hosted Ollama requires an HTTPS VOCARD_OLLAMA_BASE_URL and OLLAMA_API_KEY"
+            )
     security = HTTPBasic(auto_error=False)
 
     async def authorize(request: Request):
-        if (request.url.path == "/healthz" or request.url.path.startswith("/ai/")
-                or not (hosted or login or password)):
+        if (
+            request.url.path == "/healthz"
+            or request.url.path.startswith(("/ai/", "/expressions/", "/expression-lessons"))
+            or not (hosted or login or password)
+        ):
             return
         credentials = await security(request)
         if credentials is None or not (
@@ -177,12 +184,15 @@ def create_chat_app(model_factory=None, grammar_path=None):
                 "Answers use Google Gemini. Questions and textbook excerpts are sent to Google; "
                 "free-tier data may be used to improve Google products.",
             )
-        if provider == "gemini" or os.getenv("VOCARD_OLLAMA_BASE_URL", "http://127.0.0.1:11434").startswith("https://"):
+        if provider == "gemini" or os.getenv(
+            "VOCARD_OLLAMA_BASE_URL", "http://127.0.0.1:11434"
+        ).startswith("https://"):
             html = html.replace("GRAMMAR LIBRARY · LOCAL AI", "GRAMMAR LIBRARY · AI CHAT")
         if provider == "ollama" and os.getenv("VOCARD_OLLAMA_BASE_URL", "").startswith("https://"):
             html = html.replace(
                 "Answers run locally through Ollama.",
-                "Answers use a remote Ollama provider. Questions and textbook excerpts are sent to that provider.",
+                "Answers use a remote Ollama provider. "
+                "Questions and textbook excerpts are sent to that provider.",
             )
         return html
 
@@ -280,9 +290,11 @@ def create_chat_app(model_factory=None, grammar_path=None):
             ) from exc
 
     if os.getenv("VOCARD_FIREBASE_PROJECT_ID"):
+        from vocard.expressions import expressions_router
         from vocard.mobile_api import mobile_router
 
         factory = model_factory or (GeminiChatModel if provider == "gemini" else LocalChatModel)
         app.include_router(mobile_router(factory, grammar_path=grammar_path))
+        app.include_router(expressions_router())
 
     return app
