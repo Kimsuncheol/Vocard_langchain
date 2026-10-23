@@ -521,6 +521,15 @@ routes: `GET /expressions/today`, `GET /expression-lessons`, and
 `GET /expression-lessons/{lessonId}`. They use the same non-anonymous Firebase
 identity boundary as the student AI routes, independently of browser Basic auth.
 See [the complete content and progress contract](daily-expressions-api.md).
-The routes read a validated fixed-date catalog, exclude drafts/future lessons,
+The routes read persisted source lessons, exclude future issues,
 and return stable error envelopes. They do not invoke an AI provider or reserve
 AI question quota. Progress belongs to the client's existing Firestore setup.
+
+Daily Expressions source correction (2026-10-23): production now uses the saved
+English-series data from `english-scrapper.onrender.com/api/v1/articles` through
+`vocard.expression_source.ScraperLessonSource`. The earlier JSON starter catalog
+is an explicit test fixture only. Source issue dates, stable IDs and attribution
+are preserved; UTC publication timestamps and scrape insertion order do not
+control the displayed date. Nullable/unmatched OCR fields remain explicitly
+missing/raw. Source failures never select a starter fallback. Student Firebase
+tokens are not forwarded to the upstream service. See `daily-expressions-api.md`.

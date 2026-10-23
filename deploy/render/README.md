@@ -68,14 +68,19 @@ book IDs. This is not the private S3/vector-index ingestion deployment. Its
 content-free SQLite quota counter is ephemeral on Render Free. Full contracts
 and deployment differences are in `docs/api-reference.md`.
 
-### Daily Expressions catalog
+### Daily Expressions source
 
 Daily expression routes are registered alongside the mobile AI routes when
 `VOCARD_FIREBASE_PROJECT_ID` is set. The same Firebase verifier protects them.
-`vocard/daily_expressions.json` ships original starter lessons for October 17–23,
-2026. Add new stable-ID, fixed-date lessons and deploy to publish more; the server
-does not synthesize daily content or reuse yesterday as today. `status: draft`
-and future publication dates stay hidden. Run `pytest tests/test_expressions.py`
-before publication. `VOCARD_EXPRESSIONS_PATH` can select a mounted JSON catalog.
-An invalid/missing catalog returns a sanitized 503. See
-`docs/daily-expressions-api.md` for the response and progress contracts.
+Production reads persisted English-series lessons from
+`https://english-scrapper.onrender.com/api/v1/articles` and its detail route.
+Optionally set `VOCARD_EXPRESSION_SOURCE_URL` to another HTTPS saved-content
+service. Student tokens and scraper trigger secrets are never forwarded.
+
+The former JSON starter catalog is a test fixture only. The gateway does not
+use `VOCARD_EXPRESSIONS_PATH`, generate missing lessons, or relabel yesterday as
+today. Source issue dates and stable IDs control the dated cards; malformed or
+unavailable source responses return sanitized 503 errors. Run
+`pytest tests/test_expressions.py tests/test_expression_source.py` before deploy.
+See `docs/daily-expressions-api.md` for the nullable OCR and progress contracts.
+Deployment does not configure the scraper's daily scheduler or trigger recovery.

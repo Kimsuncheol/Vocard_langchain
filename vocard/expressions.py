@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Annotated, Literal
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
+import httpx
 from fastapi import APIRouter, Depends, HTTPException, Query
 from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
@@ -34,7 +35,10 @@ class Expression(ContentModel):
     expression_id: str = Field(min_length=1)
     english: str = Field(min_length=1)
     korean: str = Field(min_length=1)
-    usage_note_ko: str = Field(min_length=1)
+    usage_note_ko: str | None = None
+    raw_dialogue: str | None = None
+    raw_translation: str | None = None
+    vocabulary_notes: str | None = None
     dialogue: list[DialogueLine]
     audio_url: HttpUrl | None
 
@@ -52,6 +56,10 @@ class PublishedLesson(ContentModel):
     date: date
     title: str = Field(min_length=1)
     status: Literal["draft", "published"]
+    source_url: HttpUrl | None = None
+    source_name: str | None = None
+    source_credit: str | None = None
+    transcription_notice_ko: str | None = None
     featured_expression_id: str = Field(min_length=1)
     expressions: list[Expression] = Field(min_length=1)
 
@@ -102,7 +110,7 @@ class ExpressionRoute(APIRoute):
         return safe_handler
 
 
-def expressions_router(verifier=None, content_path=None, now=None):
+def expressions_router(verifier=None, content_path=None, now=None, source=None):
     project = os.getenv("VOCARD_FIREBASE_PROJECT_ID")
     api_key = os.getenv("VOCARD_FIREBASE_WEB_API_KEY")
     verifier = verifier or (
@@ -111,12 +119,30 @@ def expressions_router(verifier=None, content_path=None, now=None):
     router = APIRouter(
         dependencies=[Depends(student_dependency(verifier))], route_class=ExpressionRoute
     )
-    path = Path(
-        content_path
-        or os.getenv(
-            "VOCARD_EXPRESSIONS_PATH", str(Path(__file__).with_name("daily_expressions.json"))
+    # File catalogs are explicit test fixtures only; production reads the scraper.
+    if content_path is not None:
+
+        class FixtureSource:
+            def index(self):
+                return [item for item in catalog(Path(content_path)) if item.status == "published"]
+
+            def lesson(self, item):
+                return item.model_dump(mode="json")
+
+        source = FixtureSource()
+    elif source is None:
+        from vocard.expression_source import ScraperLessonSource
+
+        source = ScraperLessonSource(
+            os.getenv("VOCARD_EXPRESSION_SOURCE_URL", "https://english-scrapper.onrender.com")
         )
-    )
+
+    def read_lesson(item):
+        try:
+            data = source.lesson(item)
+            return PublishedLesson.model_validate(data) if data is not None else None
+        except (httpx.HTTPError, OSError, ValueError, TypeError, KeyError) as exc:
+            raise HTTPException(503, "Expression source unavailable") from exc
 
     def accessible(timezone):
         try:
@@ -125,11 +151,11 @@ def expressions_router(verifier=None, content_path=None, now=None):
             raise HTTPException(400, "Invalid timezone") from exc
         today = (now() if now else datetime.now().astimezone()).astimezone(zone).date()
         try:
-            lessons = catalog(path)
-        except (OSError, ValueError, TypeError) as exc:
+            lessons = source.index()
+        except (httpx.HTTPError, OSError, ValueError, TypeError, KeyError) as exc:
             raise HTTPException(503, "Content unavailable") from exc
         return today, sorted(
-            (lesson for lesson in lessons if lesson.status == "published" and lesson.date <= today),
+            (lesson for lesson in lessons if lesson.date <= today),
             key=lambda lesson: lesson.date,
         )
 
@@ -149,6 +175,9 @@ def expressions_router(verifier=None, content_path=None, now=None):
         lesson = next((item for item in lessons if item.date == today), None)
         if lesson is None:
             raise HTTPException(404, "No lesson today")
+        lesson = read_lesson(lesson)
+        if lesson is None:
+            raise HTTPException(503, "Today transcription incomplete")
         return {
             "date": lesson.date.isoformat(),
             "timezone": timezone,
@@ -174,7 +203,14 @@ def expressions_router(verifier=None, content_path=None, now=None):
         eligible = [
             lesson for lesson in reversed(lessons) if boundary is None or lesson.date < boundary
         ]
-        page = eligible[:limit]
+        available = []
+        for item in eligible:
+            lesson = read_lesson(item)
+            if lesson is not None:
+                available.append(lesson)
+            if len(available) > limit:
+                break
+        page = available[:limit]
         return {
             "items": [
                 {
@@ -186,7 +222,7 @@ def expressions_router(verifier=None, content_path=None, now=None):
                 }
                 for lesson in page
             ],
-            "next_before": page[-1].date.isoformat() if len(eligible) > limit else None,
+            "next_before": page[-1].date.isoformat() if len(available) > limit else None,
         }
 
     @router.get("/expression-lessons/{lesson_id}")
@@ -195,11 +231,20 @@ def expressions_router(verifier=None, content_path=None, now=None):
         index = next((i for i, item in enumerate(lessons) if item.lesson_id == lesson_id), None)
         if index is None:
             raise HTTPException(404, "No lesson")
-        lesson = lessons[index]
+        lesson = read_lesson(lessons[index])
+        if lesson is None:
+            raise HTTPException(503, "Lesson transcription incomplete")
+        previous = next(
+            (item.lesson_id for item in reversed(lessons[:index]) if read_lesson(item) is not None),
+            None,
+        )
+        following = next(
+            (item.lesson_id for item in lessons[index + 1 :] if read_lesson(item) is not None), None
+        )
         return {
             **lesson.model_dump(mode="json", exclude={"status"}),
-            "previous_lesson_id": lessons[index - 1].lesson_id if index > 0 else None,
-            "next_lesson_id": lessons[index + 1].lesson_id if index + 1 < len(lessons) else None,
+            "previous_lesson_id": previous,
+            "next_lesson_id": following,
         }
 
     return router

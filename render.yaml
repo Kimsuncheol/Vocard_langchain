@@ -7,6 +7,8 @@ services:
     startCommand: uvicorn vocard.chat:create_chat_app --factory --host 0.0.0.0 --port $PORT
     healthCheckPath: /healthz
     envVars:
+      - key: VOCARD_EXPRESSION_SOURCE_URL
+        value: https://english-scrapper.onrender.com
       - key: VOCARD_FIREBASE_PROJECT_ID
         value: vocard-6f1a5
       - key: VOCARD_FIREBASE_WEB_API_KEY

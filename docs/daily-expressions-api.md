@@ -1,6 +1,6 @@
 # Daily Expressions — Mini API Specification
 
-Date: 2026-10-23 · Status: Implemented; deployment verification tracked separately
+Date: 2026-10-23 · Status: Implemented; source-backed content correction on 2026-10-23
 
 ## Feature
 
@@ -130,7 +130,15 @@ Success: `200 OK`
 next IDs refer to the closest earlier/later accessible published lessons and
 are `null` at the boundaries. `audio_url` is an optional HTTPS audio resource,
 represented as `null` when absent; use the app's English TTS as the fallback.
-Other fields shown above are required.
+The source-backed response also includes nullable `source_url`, `source_name`,
+`source_credit`, and `transcription_notice_ko`. On an expression,
+`usage_note_ko` may be null when the source did not extract an explanation.
+`vocabulary_notes` is optional. When English/Korean speaker turns cannot be
+matched safely, `dialogue` is empty and nullable `raw_dialogue` /
+`raw_translation` preserve the source text without invented alignment.
+The required expression ID, English, and Korean meaning must all be present;
+incomplete source cards are excluded from the archive and return 503 on direct
+access. Core content remains identical between Home and detail.
 
 ## Errors
 
@@ -169,13 +177,117 @@ displayed cached lesson and provide an explicit retry action.
 
 All lesson IDs, dates, and content in the examples are illustrative.
 
+## Automatic expression checks and manual recovery
+
+Requirement: the backend checks for new expressions every day at **01:00
+Asia/Seoul (KST)**, independently of whether Vocard is open. This collection
+schedule is fixed to Korea time; it does not follow a student's device timezone.
+Use an external scheduler with durable job records. Configure the scheduler and
+the server's due-time setting to the same time. If using a UTC-only scheduler,
+01:00 KST corresponds to 16:00 UTC on the previous calendar day.
+
+The check discovers new source content, processes it, and publishes complete
+lessons. Repeated checks must deduplicate by stable source identity. Preserve
+existing published lessons if collection fails. A successful check with no new
+content is a valid outcome; it must not manufacture today's lesson or relabel an
+older one.
+
+### Proposed operational endpoints
+
+These are separate from the three student content endpoints. They are proposals
+for an administrator gateway, not currently implemented routes.
+
+| Method | Endpoint | Purpose |
+| --- | --- | --- |
+| GET | `/admin/expression-checks/latest` | Show the latest attempt, last successful check, and next scheduled check |
+| POST | `/admin/expression-checks` | Start a manual check, including recovery after a failed or partial daily attempt |
+| GET | `/admin/expression-checks/{checkId}` | Poll one check until it completes |
+
+Require verified administrator access for all operational routes; a normal
+student Firebase token is insufficient. Keep scraper trigger secrets on the
+backend, never in the Flutter application. The scheduler uses a server-side
+credential to invoke the same underlying check operation.
+
+Manual request:
+
+```http
+POST /admin/expression-checks
+Authorization: Bearer <ADMIN_TOKEN>
+Content-Type: application/json
+
+{}
+```
+
+Accepted response: `202 Accepted`.
+
+```json
+{
+  "check_id": "check-20261023-002",
+  "status": "queued",
+  "trigger": "manual"
+}
+```
+
+If a check is already queued or running, return its ID with `202` instead of
+starting duplicate work. Otherwise a manual check creates a new attempt even if
+today's earlier attempt is terminal. Retry incomplete work without duplicating
+previously published expressions. Manual checks may run at any time, including
+before 01:00, and do not cancel the next scheduled check.
+
+Latest-status response: `200 OK`.
+
+```json
+{
+  "schedule_timezone": "Asia/Seoul",
+  "next_scheduled_at": "2026-10-24T01:00:00+09:00",
+  "last_successful_at": "2026-10-22T01:03:00+09:00",
+  "latest_check": {
+    "check_id": "check-20261023-001",
+    "trigger": "scheduled",
+    "status": "failed",
+    "started_at": "2026-10-23T01:00:00+09:00",
+    "finished_at": "2026-10-23T01:02:00+09:00",
+    "new_expression_count": 0,
+    "error_code": "source_unavailable"
+  }
+}
+```
+
+`latest_check` and `last_successful_at` are `null` before any attempt/success.
+The per-check endpoint returns the `latest_check` object shape above. Status is
+`queued`, `running`, `completed`, `partial`, or `failed`; start/finish times are
+`null` until reached, and `error_code` is `null` when there is no error.
+`new_expression_count` counts expressions durably published by that attempt.
+Only `completed` updates `last_successful_at`, including a check with zero new
+expressions. Unknown check IDs return `404`; operational routes also use `401`,
+`403`, and `503` for authentication, authorization, and service failures.
+
+In the administrator interface, show **Check for new expressions**, the latest
+status, and the last successful check time. After a failed, partial, or missed
+scheduled check, keep the manual action available. Disable duplicate submissions
+while queued/running and poll by check ID; a `202` response alone is not success.
+
+### Existing scraper integration gap
+
+The local `english_scrapper` project already exposes
+`GET /api/v1/jobs/status` and `POST /api/v1/jobs/daily/trigger` (the latter uses a
+server trigger token). However, its checked-in default schedule is 06:00 KST,
+and its trigger does not retry a terminal `failed` or `partial` run on the same
+date. Implementation must align the schedule to 01:00 and add explicit recovery
+semantics before claiming this requirement is supported. This document update
+does not change the scraper, enable scheduling, or configure a hosted service.
+
 ## Implementation (2026-10-23)
 
 The Flutter client and the existing Vocard backend implement this contract.
 The default base URL is `https://vocard-chat.onrender.com`; override it with
 `--dart-define=VOCARD_EXPRESSIONS_BASE_URL=https://your-service.example`.
-The backend must be deployed with the new expression router before using the
-client against that URL.
+The authenticated gateway reads persisted source content from
+`https://english-scrapper.onrender.com/api/v1/articles` and
+`/api/v1/articles/{articleId}`. `VOCARD_EXPRESSION_SOURCE_URL` overrides that
+server-only source base URL. Student Firebase tokens are verified by Vocard and
+are never forwarded to the scraper. Content reads do not trigger scraping or AI
+generation.
 
 - Home: `DailyExpressionsSection` above Recent study, with a featured summary,
   pronunciation, date, completion status, and an archive entry point.
@@ -188,7 +300,9 @@ client against that URL.
 - Playback: HTTPS `audio_url` when provided, otherwise English TTS; failed audio
   playback also falls back to TTS. Home uses TTS because its summary has no audio
   field. Playback respects the app's volume; TTS respects its speech rate.
-- Content caches in SharedPreferences are scoped by Firebase UID and timezone.
+- Content caches in SharedPreferences are scoped by API base URL, Firebase UID,
+  and timezone. Version 2 uses an independent source-backed namespace, so old
+  starter-catalog responses cannot appear after this correction.
   Downloaded content appears immediately during refresh and remains readable
   after network/service failures. A 404 on a detail removes its withdrawn cache.
   Auth failures never expose a cached lesson for another user.
@@ -216,15 +330,31 @@ Home/detail/archive resume and study actions. Existing user-subcollection
 Firestore rules cover this path; no new progress REST routes are needed.
 Marking a lesson studied also records the day in Vocard's existing streak.
 
-### Original starter content and publication
+### Source-backed content and root-cause correction
 
-`Vocard_langchain/vocard/daily_expressions.json` contains seven original lessons
-for October 17–23, 2026 (eight expressions). These are editorial learning content,
-not textbook quotations. They use TTS; no recorded audio is supplied.
+The initial Vocard implementation served seven original starter lessons from a
+JSON catalog. It did not integrate the existing scraper. This made requests
+succeed while showing different expressions than the source API. Those catalog
+records are now test fixtures only: production never reads them or uses them as
+an outage fallback.
 
-To publish more content, add a validated lesson with a new stable ID and fixed
-publication date to the backend catalog, set `status` to `published`, run the
-backend expression tests, and deploy. `draft` and future lessons remain hidden.
-The service does not invent new lessons or rotate old content into today's date.
-An empty/missing day deliberately returns 404. An optional
-`VOCARD_EXPRESSIONS_PATH` selects a different JSON catalog on the backend.
+The gateway indexes saved English-series articles, follows every upstream offset
+page, filters non-English records, and sorts by the issue date in the canonical
+article URL. It does not use insertion order, scrape/save timestamps, or the UTC
+`published_at` date (which can be the previous day). For example, the October 23,
+2026 source issue is `turn over a new leaf`, while its article timestamp is on
+October 22 UTC. Stable source IDs are namespaced as `source-{articleId}`; starter
+completion records are retained but are not assigned to different source lessons.
+
+Detail mapping copies the source lesson fields. Speaker-prefixed wrapped lines
+are joined only within a turn; English/Korean turns are paired only when the
+speaker sequences match. Unaligned text, missing explanations, and OCR uncertainty
+are preserved explicitly. The screen displays source attribution and a link to
+the original article. No extra expressions, explanations, or translations are
+generated. Upstream failures return 503, never starter content. Server metadata
+and bounded detail caches expire after 60 seconds; the client retains its own
+correct-source cache for offline reading.
+
+Publication still depends on persisted source records. A successful content read
+does not mean the proposed administrator scheduling/recovery endpoints above have
+been implemented. No scraper trigger secret is embedded in the mobile app.

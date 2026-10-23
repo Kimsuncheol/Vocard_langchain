@@ -173,6 +173,10 @@ def test_render_router_uses_firebase_instead_of_browser_basic_auth(monkeypatch, 
     monkeypatch.setattr(
         module, "FirebaseRestTokenVerifier", lambda *_: lambda _: {"uid": "student"}
     )
+    original_router = module.expressions_router
+    monkeypatch.setattr(
+        module, "expressions_router", lambda: original_router(content_path=CONTENT, now=lambda: NOW)
+    )
     client = TestClient(create_chat_app())
     assert client.get("/").status_code == 401
     response = client.get("/expression-lessons", headers=AUTH)
