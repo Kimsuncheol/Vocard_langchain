@@ -136,9 +136,9 @@ The source-backed response also includes nullable `source_url`, `source_name`,
 `vocabulary_notes` is optional. When English/Korean speaker turns cannot be
 matched safely, `dialogue` is empty and nullable `raw_dialogue` /
 `raw_translation` preserve the source text without invented alignment.
-The required expression ID, English, and Korean meaning must all be present;
-incomplete source cards are excluded from the archive and return 503 on direct
-access. Core content remains identical between Home and detail.
+Expression IDs and publisher-listed English titles are required. Korean meanings
+may be null until transcribed; incomplete entries remain in the archive and open
+with their title and original source link. Archive titles do not require OCR.
 
 ## Errors
 
@@ -283,8 +283,8 @@ The Flutter client and the existing Vocard backend implement this contract.
 The default base URL is `https://vocard-chat.onrender.com`; override it with
 `--dart-define=VOCARD_EXPRESSIONS_BASE_URL=https://your-service.example`.
 The authenticated gateway reads persisted source content from
-`https://english-scrapper.onrender.com/api/v1/articles` and
-`/api/v1/articles/{articleId}`. `VOCARD_EXPRESSION_SOURCE_URL` overrides that
+`https://english-scrapper.onrender.com/api/v1/expression-catalog` and
+`/api/v1/articles/{articleId}` for available saved detail. `VOCARD_EXPRESSION_SOURCE_URL` overrides that
 server-only source base URL. Student Firebase tokens are verified by Vocard and
 are never forwarded to the scraper. Content reads do not trigger scraping or AI
 generation.
@@ -301,7 +301,7 @@ generation.
   playback also falls back to TTS. Home uses TTS because its summary has no audio
   field. Playback respects the app's volume; TTS respects its speech rate.
 - Content caches in SharedPreferences are scoped by API base URL, Firebase UID,
-  and timezone. Version 2 uses an independent source-backed namespace, so old
+  and timezone. Version 3 uses an independent catalog-backed namespace, so old
   starter-catalog responses cannot appear after this correction.
   Downloaded content appears immediately during refresh and remains readable
   after network/service failures. A 404 on a detail removes its withdrawn cache.
@@ -338,9 +338,9 @@ succeed while showing different expressions than the source API. Those catalog
 records are now test fixtures only: production never reads them or uses them as
 an outage fallback.
 
-The gateway indexes saved English-series articles, follows every upstream offset
-page, filters non-English records, and sorts by the issue date in the canonical
-article URL. It does not use insertion order, scrape/save timestamps, or the UTC
+The gateway indexes the complete published expression catalog, independently of
+saved OCR availability, and sorts by issue date and stable lesson ID. Dates must
+match the canonical article URL. It does not use insertion order, scrape/save timestamps, or the UTC
 `published_at` date (which can be the previous day). For example, the October 23,
 2026 source issue is `turn over a new leaf`, while its article timestamp is on
 October 22 UTC. Stable source IDs are namespaced as `source-{articleId}`; starter
@@ -352,10 +352,10 @@ speaker sequences match. Unaligned text, missing explanations, and OCR uncertain
 are preserved explicitly. The screen displays source attribution and a link to
 the original article. No extra expressions, explanations, or translations are
 generated. Upstream failures return 503, never starter content. Server metadata
-and bounded detail caches expire after 60 seconds; the client retains its own
+and bounded detail caches expire after 300 seconds; the client retains its own
 correct-source cache for offline reading.
 
-Publication still depends on persisted source records. A successful content read
+Archive visibility depends on the published title catalog, not OCR completion. A successful content read
 does not mean the proposed administrator scheduling/recovery endpoints above have
 been implemented. No scraper trigger secret is embedded in the mobile app.
 
