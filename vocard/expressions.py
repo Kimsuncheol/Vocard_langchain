@@ -37,6 +37,7 @@ class Expression(ContentModel):
     english: str = Field(min_length=1)
     korean: str | None = Field(default=None, min_length=1)
     usage_note_ko: str | None = None
+    raw_transcription: str | None = None
     raw_dialogue: str | None = None
     raw_translation: str | None = None
     vocabulary_notes: str | None = None

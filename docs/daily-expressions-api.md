@@ -377,3 +377,8 @@ When a page boundary splits entries sharing a publication day, `next_before`
 is `YYYY-MM-DD~lesson_id`; send that cursor unchanged. Otherwise the existing
 date-only cursor is retained. Same-day entries sort by descending lesson ID.
 This prevents dropping catalog entries that share a date.
+
+For saved partial OCR with no extracted meaning, optional `raw_transcription`
+preserves the existing OCR text verbatim. The app shows it under 원문 인식 텍스트,
+with the original source link and OCR uncertainty notice. It is not a generated
+translation or a substitute for missing structured fields.

@@ -103,6 +103,11 @@ def convert_lesson(index, record):
                 ]
                 if aligned
                 else [],
+                "raw_transcription": (
+                    payload.get("ocr", {}).get("raw_text")
+                    if not korean and isinstance(payload.get("ocr"), dict)
+                    else None
+                ),
                 "raw_dialogue": original_english if not aligned else None,
                 "raw_translation": original_korean if not aligned else None,
                 "vocabulary_notes": field(fields, "vocabulary_notes"),

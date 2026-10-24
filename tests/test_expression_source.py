@@ -175,3 +175,12 @@ def test_same_day_entries_are_not_dropped_at_page_boundary():
     ).json()
     assert first["items"][0]["lesson_id"] != second["items"][0]["lesson_id"]
     assert second["next_before"] is None
+
+
+def test_partial_saved_lesson_retains_raw_ocr_for_reading():
+    def alter(record):
+        record["payload"]["ocr"] = {"raw_text": "Exact saved OCR text"}
+
+    _, client, _ = setup_source(korean=False, alter=alter)
+    detail = client.get("/expression-lessons/source-" + source_id(row()), headers=AUTH).json()
+    assert detail["expressions"][0]["raw_transcription"] == "Exact saved OCR text"
