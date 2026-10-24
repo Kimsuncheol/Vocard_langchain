@@ -533,3 +533,10 @@ are preserved; UTC publication timestamps and scrape insertion order do not
 control the displayed date. Nullable/unmatched OCR fields remain explicitly
 missing/raw. Source failures never select a starter fallback. Student Firebase
 tokens are not forwarded to the upstream service. See `daily-expressions-api.md`.
+
+
+Daily expression archive correction: `/expression-lessons` includes every
+published catalog entry independently of transcription readiness. Preview/detail
+`korean` can be null; full OCR is not required for archive visibility. The list
+adds `total`; detail retains source attribution and original URL for title-only
+entries. Catalog browsing does not initiate scraping or OCR.

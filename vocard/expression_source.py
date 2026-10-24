@@ -7,6 +7,7 @@ from collections import OrderedDict
 from dataclasses import dataclass
 from datetime import date
 from urllib.parse import quote, urlsplit
+from uuid import NAMESPACE_URL, uuid5
 
 import httpx
 
@@ -73,8 +74,8 @@ def convert_lesson(index, record):
         raise ValueError("Invalid source lesson fields")
     fields = lesson["fields"]
     english, korean = field(fields, "expression"), field(fields, "korean_meaning")
-    if not english or not korean:
-        return None  # Incomplete transcription is not a publishable study card.
+    english = english or index.title
+    # Missing transcription must not erase a publisher-listed expression.
     original_english = field(fields, "english_dialogue")
     original_korean = field(fields, "korean_dialogue_translation")
     en, ko = turns(original_english), turns(original_korean)
@@ -112,7 +113,7 @@ def convert_lesson(index, record):
 
 
 class ScraperLessonSource:
-    def __init__(self, base_url="https://english-scrapper.onrender.com", client=None, ttl=60):
+    def __init__(self, base_url="https://english-scrapper.onrender.com", client=None, ttl=300):
         parsed = urlsplit(base_url)
         if (
             parsed.scheme != "https"
@@ -148,47 +149,52 @@ class ScraperLessonSource:
         with self._lock:
             if self._index is not None and time.monotonic() < self._index_until:
                 return self._index
-            rows = []
-            offset = 0
-            for _ in range(50):
-                page = self._json("/api/v1/articles", {"limit": 100, "offset": offset})
-                if not isinstance(page, dict):
-                    raise ValueError("Invalid source page")
-                items, total = page["items"], page["total"]
-                if not isinstance(items, list) or type(total) is not int or total < 0:
-                    raise ValueError("Invalid source page")
-                for item in items:
-                    if not isinstance(item, dict) or not isinstance(item.get("article"), dict):
-                        raise ValueError("Invalid source article summary")
-                    article = item["article"]
-                    title = article.get("title") or ""
-                    url = str(article.get("url") or "")
-                    issue = article_date(url)
-                    source_id = item.get("id", "")
-                    if (
-                        issue is None
-                        or not isinstance(title, str)
-                        or not isinstance(source_id, str)
-                        or not title.startswith("[스피킹이 강해지는 영어]")
-                        or not re.fullmatch(r"[a-zA-Z0-9_-]{1,160}", source_id)
-                    ):
-                        continue
-                    rows.append(LessonIndex("source-" + source_id, issue, title, source_id, url))
-                offset += len(items)
-                if offset >= total:
-                    break
-                if not items:
-                    raise ValueError("Incomplete source pagination")
-            else:
-                raise ValueError("Source index exceeds configured bounds")
-            # Scrape insertion order is not publication order. Dates come from the issue URL,
-            # not UTC article timestamps (which may be on the previous date).
-            by_date = {}
-            for item in sorted(rows, key=lambda row: (row.date, row.lesson_id)):
-                by_date.setdefault(item.date, item)
-            self._index = sorted(by_date.values(), key=lambda item: item.date)
+            catalog = self._json("/api/v1/expression-catalog")
+            if not isinstance(catalog, dict):
+                raise ValueError("Invalid expression catalog")
+            items, total = catalog.get("items"), catalog.get("total")
+            if (
+                not isinstance(items, list)
+                or type(total) is not int
+                or not 0 <= total <= 4000
+                or len(items) != total
+            ):
+                raise ValueError("Incomplete expression catalog")
+            rows, seen = [], set()
+            for item in items:
+                url = item.get("article_url") if isinstance(item, dict) else None
+                issue = article_date(url) if isinstance(url, str) else None
+                title = item.get("expression") if isinstance(item, dict) else None
+                if (
+                    issue is None
+                    or not isinstance(title, str)
+                    or not title.strip()
+                    or item.get("issue_date") != issue.isoformat()
+                ):
+                    raise ValueError("Invalid catalog entry")
+                source_id = str(uuid5(NAMESPACE_URL, url))
+                if source_id in seen:
+                    raise ValueError("Duplicate catalog entry")
+                seen.add(source_id)
+                rows.append(
+                    LessonIndex("source-" + source_id, issue, title.strip(), source_id, url)
+                )
+            self._index = sorted(rows, key=lambda item: (item.date, item.lesson_id))
             self._index_until = time.monotonic() + self.ttl
             return self._index
+
+    def summary(self, item):
+        return {
+            "lesson_id": item.lesson_id,
+            "date": item.date.isoformat(),
+            "title": item.title,
+            "expression_count": 1,
+            "featured_expression": {
+                "expression_id": item.lesson_id + "-expression",
+                "english": item.title,
+                "korean": None,
+            },
+        }
 
     def lesson(self, item):
         with self._lock:
@@ -196,7 +202,16 @@ class ScraperLessonSource:
             if cached and cached[0] > time.monotonic():
                 self._details.move_to_end(item.lesson_id)
                 return cached[1]
-            record = self._json("/api/v1/articles/" + quote(item.source_id, safe=""))
+            try:
+                record = self._json("/api/v1/articles/" + quote(item.source_id, safe=""))
+            except httpx.HTTPStatusError as exc:
+                if exc.response.status_code != 404:
+                    raise
+                # A catalog title exists before its full lesson is transcribed.
+                record = {
+                    "id": item.source_id,
+                    "payload": {"article": {"url": item.source_url}, "lesson": {"fields": {}}},
+                }
             lesson = convert_lesson(item, record)
             self._details[item.lesson_id] = (time.monotonic() + self.ttl, lesson)
             if len(self._details) > 64:

@@ -1,4 +1,5 @@
 from datetime import UTC, datetime
+from uuid import NAMESPACE_URL, uuid5
 
 import httpx
 from fastapi import FastAPI
@@ -8,64 +9,55 @@ from vocard.expression_source import ScraperLessonSource, article_date
 from vocard.expressions import expressions_router
 
 AUTH = {"Authorization": "Bearer student-token-must-not-reach-source"}
-URL = "https://www.chosun.com/national/nie/english/2026/10/23/ISSUE23/"
 
 
-def summary(id="id23", day="23"):
+def row(day="23"):
+    url = f"https://www.chosun.com/national/nie/english/2026/10/{day}/ISSUE{day}/"
     return {
-        "id": id,
-        "article": {
-            "url": URL.replace("/23/", f"/{day}/").replace("ISSUE23", f"ISSUE{day}"),
-            "title": "[스피킹이 강해지는 영어] turn over a new leaf",
-            "published_at": "2026-10-22T13:04:00Z",
-        },
+        "article_url": url,
+        "issue_date": f"2026-10-{day}",
+        "expression": "turn over a new leaf",
+        "title": "[스피킹이 강해지는 영어] turn over a new leaf",
     }
 
 
-def record(row):
-    def field(text):
-        return {"text": text, "region_indices": [], "line_indices": [0]}
-
-    return {
-        "id": row["id"],
-        "payload": {
-            "article": row["article"],
-            "lesson": {
-                "status": "structured",
-                "fields": {
-                    "expression": field("turn over a new leaf"),
-                    "korean_meaning": field("새사람이 되다"),
-                    "korean_explanation": field("새롭게 시작할 때 쓰는 표현이에요."),
-                    "english_dialogue": field("A We can start\nagain.\nB Yes, we can."),
-                    "korean_dialogue_translation": field(
-                        "A 다시 시작할 수 있어.\nB 응, 할 수 있어."
-                    ),
-                    "vocabulary_notes": field("again 다시"),
-                    "source_credit": field("Source credit"),
-                },
-            },
-            "processing": {"status": "partial"},
-        },
-    }
+def source_id(entry):
+    return str(uuid5(NAMESPACE_URL, entry["article_url"]))
 
 
-def setup_source(rows=None, alter=None, page_size=100, error=False):
-    rows = rows if rows is not None else [summary("id22", "22"), summary()]
+def setup_source(rows=None, *, missing=False, korean=True, error=False, alter=None):
+    rows = rows if rows is not None else [row("22"), row()]
     calls = []
 
     def handle(request):
         calls.append(request)
         assert "authorization" not in request.headers
+        assert request.method == "GET"
         if error:
             return httpx.Response(503)
-        if request.url.path == "/api/v1/articles":
-            offset = int(request.url.params["offset"])
-            return httpx.Response(
-                200, json={"items": rows[offset : offset + page_size], "total": len(rows)}
-            )
-        id = request.url.path.rsplit("/", 1)[-1]
-        row = next(row for row in rows if row["id"] == id)
-        result = record(row)
+        if request.url.path == "/api/v1/expression-catalog":
+            return httpx.Response(200, json={"items": rows, "total": len(rows)})
+        if missing:
+            return httpx.Response(404)
+        entry = next(
+            entry for entry in rows if source_id(entry) == request.url.path.rsplit("/", 1)[-1]
+        )
+        result = {
+            "id": source_id(entry),
+            "payload": {
+                "article": {"url": entry["article_url"], "published_at": "2026-10-22T13:04:00Z"},
+                "lesson": {
+                    "fields": {
+                        "expression": {"text": entry["expression"]},
+                        "korean_meaning": {"text": "새사람이 되다"} if korean else None,
+                        "english_dialogue": {"text": "A We can start\nagain.\nB Yes, we can."},
+                        "korean_dialogue_translation": {
+                            "text": "A 다시 시작할 수 있어.\nB 응, 할 수 있어."
+                        },
+                    }
+                },
+            },
+        }
         if alter:
             alter(result)
         return httpx.Response(200, json=result)
@@ -82,110 +74,104 @@ def setup_source(rows=None, alter=None, page_size=100, error=False):
     return source, TestClient(app), calls
 
 
-def test_today_is_the_saved_issue_not_the_starter_or_previous_utc_date():
+def test_catalog_pagination_does_not_fetch_or_transcribe_details():
     _, client, calls = setup_source()
-    today = client.get("/expressions/today", headers=AUTH).json()
-    assert today["english"] == "turn over a new leaf"
-    assert today["date"] == "2026-10-23"
-    assert today["lesson_id"] == "source-id23"
-    detail = client.get("/expression-lessons/source-id23", headers=AUTH).json()
-    expression = detail["expressions"][0]
-    assert expression["expression_id"] == today["expression_id"]
-    assert expression["english"] == today["english"]
-    assert expression["korean"] == today["korean"]
-    assert detail["source_url"] == URL
-    assert detail["source_credit"] == "Source credit"
-    assert detail["transcription_notice_ko"]
-    assert expression["dialogue"][0]["english"] == "We can start again."
-    assert expression["dialogue"][0]["korean"] == "다시 시작할 수 있어."
-    assert expression["vocabulary_notes"] == "again 다시"
-    assert (
-        len(calls) == 3
-    )  # One index, today detail, and previous detail. Reused responses are cached.
-
-
-def test_source_pagination_scans_creation_order_but_returns_issue_order():
-    source, client, calls = setup_source(
-        rows=[summary("id22", "22"), summary("id20", "20"), summary()], page_size=1
-    )
-    assert [item.date.isoformat() for item in source.index()] == [
-        "2026-10-20",
-        "2026-10-22",
-        "2026-10-23",
-    ]
-    page = client.get("/expression-lessons?limit=1", headers=AUTH).json()
-    assert page["items"][0]["date"] == "2026-10-23"
-    assert page["next_before"] == "2026-10-23"
+    first = client.get("/expression-lessons?limit=1", headers=AUTH).json()
+    assert first["total"] == 2
+    assert first["items"][0]["date"] == "2026-10-23"
+    assert first["items"][0]["featured_expression"]["korean"] is None
     second = client.get("/expression-lessons?limit=1&before=2026-10-23", headers=AUTH).json()
     assert second["items"][0]["date"] == "2026-10-22"
-    assert [int(r.url.params["offset"]) for r in calls if r.url.path == "/api/v1/articles"] == [
-        0,
-        1,
-        2,
-    ]
+    assert second["next_before"] is None
+    assert len(calls) == 1
+    assert calls[0].url.path == "/api/v1/expression-catalog"
 
 
-def test_missing_today_and_upstream_failure_never_fall_back_to_starters():
-    _, client, _ = setup_source(rows=[summary("id22", "22")])
-    assert client.get("/expressions/today", headers=AUTH).status_code == 404
-    assert client.get("/expression-lessons/daily-2026-10-23", headers=AUTH).status_code == 404
+def test_saved_detail_preserves_text_issue_date_and_stable_id():
+    _, client, calls = setup_source()
+    today = client.get("/expressions/today", headers=AUTH).json()
+    assert today["lesson_id"] == "source-" + source_id(row())
+    assert today["date"] == "2026-10-23"
+    assert today["korean"] == "새사람이 되다"
+    detail = client.get(f"/expression-lessons/{today['lesson_id']}", headers=AUTH).json()
+    assert detail["source_url"] == row()["article_url"]
+    assert detail["expressions"][0]["dialogue"][0]["english"] == "We can start again."
+    assert len(calls) == 2  # Neighbor navigation never reads every neighboring detail.
+
+
+def test_missing_korean_does_not_hide_an_entry_or_fabricate_translation():
+    _, client, _ = setup_source(korean=False)
+    assert len(client.get("/expression-lessons", headers=AUTH).json()["items"]) == 2
+    assert client.get("/expressions/today", headers=AUTH).json()["korean"] is None
+
+
+def test_unprocessed_catalog_entry_opens_title_and_original_source():
+    _, client, _ = setup_source(missing=True)
+    response = client.get("/expression-lessons/source-" + source_id(row()), headers=AUTH)
+    assert response.status_code == 200
+    detail = response.json()
+    assert detail["expressions"][0]["english"] == row()["expression"]
+    assert detail["expressions"][0]["korean"] is None
+    assert detail["source_url"] == row()["article_url"]
+    assert detail["expressions"][0]["dialogue"] == []
+
+
+def test_upstream_failure_is_not_treated_as_unprocessed_content():
     _, client, _ = setup_source(error=True)
-    response = client.get("/expression-lessons", headers=AUTH)
-    assert response.status_code == 503
-    assert "Let" not in response.text
+    assert client.get("/expression-lessons", headers=AUTH).status_code == 503
 
 
-def test_nullable_fields_do_not_get_generated_and_unaligned_dialogue_is_preserved():
-    def alter(result):
-        fields = result["payload"]["lesson"]["fields"]
-        fields["korean_explanation"] = None
-        fields["korean_dialogue_translation"]["text"] = "원문 번역에 화자 표시가 없어요."
-
-    _, client, _ = setup_source(alter=alter)
-    lesson = client.get("/expression-lessons/source-id23", headers=AUTH).json()
-    expression = lesson["expressions"][0]
-    assert expression["usage_note_ko"] is None
-    assert expression["dialogue"] == []
-    assert expression["raw_dialogue"].startswith("A We can start")
-    assert expression["raw_translation"] == "원문 번역에 화자 표시가 없어요."
+def test_future_entries_are_hidden_and_unknown_detail_is_404():
+    _, client, _ = setup_source([row("24"), row()])
+    assert client.get("/expression-lessons", headers=AUTH).json()["total"] == 1
+    assert client.get("/expression-lessons/source-unknown", headers=AUTH).status_code == 404
+    assert article_date("https://evil.example/national/nie/english/2026/10/23/ID/") is None
 
 
-def test_incomplete_core_fields_are_not_published_as_a_fabricated_card():
-    def alter(result):
-        result["payload"]["lesson"]["fields"]["korean_meaning"] = None
-
-    _, client, _ = setup_source(alter=alter)
-    assert client.get("/expressions/today", headers=AUTH).status_code == 503
-    assert client.get("/expression-lessons", headers=AUTH).json()["items"] == []
-
-
-def test_non_english_records_future_dates_and_foreign_hosts_are_not_exposed():
-    japanese = summary("japanese")
-    japanese["article"]["title"] = "[일본어] text"
-    foreign = summary("foreign")
-    foreign["article"]["url"] = "https://evil.example/national/nie/english/2026/10/23/ID/"
-    future = summary("future", "24")
-    _, client, _ = setup_source(rows=[japanese, foreign, future, summary()])
-    page = client.get("/expression-lessons", headers=AUTH).json()
-    assert len(page["items"]) == 1
-    assert page["items"][0]["lesson_id"] == "source-id23"
-    assert client.get("/expression-lessons/source-future", headers=AUTH).status_code == 404
-    assert article_date("https://www.chosun.com/national/nie/english/2026/02/31/ID/") is None
+def test_malformed_detail_and_identity_mismatch_fail_closed():
+    for alter in [
+        lambda record: record.update(id="other"),
+        lambda record: record["payload"].update(lesson=None),
+    ]:
+        _, client, _ = setup_source(alter=alter)
+        assert client.get("/expressions/today", headers=AUTH).status_code == 503
 
 
-def test_changed_upstream_identity_fails_closed():
-    def alter(result):
-        result["id"] = "other"
+def test_full_catalog_retains_entries_without_saved_articles():
+    entries = []
+    from datetime import date, timedelta
 
-    _, client, _ = setup_source(alter=alter)
-    assert client.get("/expression-lessons/source-id23", headers=AUTH).status_code == 503
+    for offset in range(1427):
+        day = date(2026, 10, 23) - timedelta(days=offset)
+        url = f"https://www.chosun.com/national/nie/english/{day:%Y/%m/%d}/ISSUE/"
+        entries.append(
+            {
+                "article_url": url,
+                "issue_date": day.isoformat(),
+                "expression": f"expression {offset}",
+            }
+        )
+    _, client, calls = setup_source(entries, missing=True)
+    ids, before = set(), None
+    while True:
+        query = "/expression-lessons?limit=20" + (f"&before={before}" if before else "")
+        page = client.get(query, headers=AUTH).json()
+        ids.update(item["lesson_id"] for item in page["items"])
+        before = page["next_before"]
+        if before is None:
+            break
+    assert len(ids) == 1427
+    assert len(calls) == 1
 
 
-def test_malformed_source_payload_is_a_sanitized_503():
-    def alter(result):
-        result["payload"]["lesson"] = None
-
-    _, client, _ = setup_source(alter=alter)
-    response = client.get("/expression-lessons/source-id23", headers=AUTH)
-    assert response.status_code == 503
-    assert response.json()["error"]["code"] == "content_unavailable"
+def test_same_day_entries_are_not_dropped_at_page_boundary():
+    a, b = row(), row()
+    b["article_url"] = b["article_url"].replace("ISSUE23", "OTHER23")
+    _, client, _ = setup_source([a, b], missing=True)
+    first = client.get("/expression-lessons?limit=1", headers=AUTH).json()
+    assert "~" in first["next_before"]
+    second = client.get(
+        "/expression-lessons?limit=1&before=" + first["next_before"], headers=AUTH
+    ).json()
+    assert first["items"][0]["lesson_id"] != second["items"][0]["lesson_id"]
+    assert second["next_before"] is None

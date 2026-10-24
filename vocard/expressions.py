@@ -2,6 +2,7 @@
 
 import json
 import os
+import re
 from datetime import date, datetime
 from pathlib import Path
 from typing import Annotated, Literal
@@ -34,7 +35,7 @@ class DialogueLine(ContentModel):
 class Expression(ContentModel):
     expression_id: str = Field(min_length=1)
     english: str = Field(min_length=1)
-    korean: str = Field(min_length=1)
+    korean: str | None = Field(default=None, min_length=1)
     usage_note_ko: str | None = None
     raw_dialogue: str | None = None
     raw_translation: str | None = None
@@ -156,7 +157,7 @@ def expressions_router(verifier=None, content_path=None, now=None, source=None):
             raise HTTPException(503, "Content unavailable") from exc
         return today, sorted(
             (lesson for lesson in lessons if lesson.date <= today),
-            key=lambda lesson: lesson.date,
+            key=lambda lesson: (lesson.date, lesson.lesson_id),
         )
 
     def preview(expression):
@@ -193,16 +194,42 @@ def expressions_router(verifier=None, content_path=None, now=None, source=None):
     ):
         _, lessons = accessible(timezone)
         boundary = None
+        boundary_id = None
         if before is not None:
             try:
-                boundary = date.fromisoformat(before)
-                if boundary.isoformat() != before:
+                day, separator, identifier = before.partition("~")
+                boundary = date.fromisoformat(day)
+                if boundary.isoformat() != day:
                     raise ValueError("Noncanonical date")
+                if separator:
+                    if not re.fullmatch(r"[a-zA-Z0-9_-]{1,200}", identifier):
+                        raise ValueError("Invalid cursor")
+                    boundary_id = identifier
             except ValueError as exc:
                 raise HTTPException(400, "Invalid date") from exc
         eligible = [
-            lesson for lesson in reversed(lessons) if boundary is None or lesson.date < boundary
+            lesson
+            for lesson in reversed(lessons)
+            if boundary is None
+            or lesson.date < boundary
+            or (
+                boundary_id is not None
+                and lesson.date == boundary
+                and lesson.lesson_id < boundary_id
+            )
         ]
+        if hasattr(source, "summary"):
+            page = eligible[:limit]
+            cursor = None
+            if len(eligible) > limit:
+                cursor = page[-1].date.isoformat()
+                if eligible[limit].date == page[-1].date:
+                    cursor += "~" + page[-1].lesson_id
+            return {
+                "items": [source.summary(item) for item in page],
+                "next_before": cursor,
+                "total": len(lessons),
+            }
         available = []
         for item in eligible:
             lesson = read_lesson(item)
@@ -234,13 +261,8 @@ def expressions_router(verifier=None, content_path=None, now=None, source=None):
         lesson = read_lesson(lessons[index])
         if lesson is None:
             raise HTTPException(503, "Lesson transcription incomplete")
-        previous = next(
-            (item.lesson_id for item in reversed(lessons[:index]) if read_lesson(item) is not None),
-            None,
-        )
-        following = next(
-            (item.lesson_id for item in lessons[index + 1 :] if read_lesson(item) is not None), None
-        )
+        previous = lessons[index - 1].lesson_id if index > 0 else None
+        following = lessons[index + 1].lesson_id if index + 1 < len(lessons) else None
         return {
             **lesson.model_dump(mode="json", exclude={"status"}),
             "previous_lesson_id": previous,

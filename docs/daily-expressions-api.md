@@ -358,3 +358,22 @@ correct-source cache for offline reading.
 Publication still depends on persisted source records. A successful content read
 does not mean the proposed administrator scheduling/recovery endpoints above have
 been implemented. No scraper trigger secret is embedded in the mobile app.
+
+
+### Full archive catalog (October 24 correction)
+Production now reads `GET /api/v1/expression-catalog` from the scraper. This is
+its complete published title catalog, including entries without saved OCR.
+`GET /expression-lessons` pages catalog metadata directly (20 default), includes
+`total`, and never loads/transcribes every lesson to decide archive visibility.
+`featured_expression.korean` and detail `expressions[].korean` may be null.
+Missing meanings are not invented; clients show a preparation message and the
+original source link. A missing saved article (upstream 404) returns a title-only
+lesson using the catalog's verified URL. Other upstream failures remain 503.
+Stable source UUIDs and existing study progress are preserved. Reading the catalog
+or a lesson never starts OCR, scraping or AI processing. Prior/next navigation
+includes all catalog entries. The source-backed cache namespace is now version 3.
+
+When a page boundary splits entries sharing a publication day, `next_before`
+is `YYYY-MM-DD~lesson_id`; send that cursor unchanged. Otherwise the existing
+date-only cursor is retained. Same-day entries sort by descending lesson ID.
+This prevents dropping catalog entries that share a date.
